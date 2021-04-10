@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abomination of Llanowar"/>
+        <card number="1" name="Lathril, Blade of the Elves"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Miara, Thorn of the Glade"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Harald, King of Skemfar"/>
+        <card number="1" name="Harald Unites the Elves"/>
+        <card number="1" name="Imperious Perfect"/>
+        <card number="1" name="Llanowar Tribe"/>
+        <card number="1" name="Marwyn, the Nurturer"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Timberwatch Elf"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Lys Alana Huntmaster"/>
+        <card number="1" name="Nullmage Shepherd"/>
+        <card number="1" name="Wirewood Channeler"/>
+        <card number="1" name="Ruthless Winnower"/>
+        <card number="1" name="Rhys the Exiled"/>
+        <card number="1" name="Lys Alana Scarblade"/>
+        <card number="1" name="Serpent's Soul-Jar"/>
+        <card number="1" name="Return Upon the Tide"/>
+        <card number="1" name="Copperhorn Scout"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Gnarlroot Trapper"/>
+        <card number="1" name="Elvish Warmaster"/>
+        <card number="1" name="Skemfar Avenger"/>
+        <card number="1" name="Canopy Tactician"/>
+        <card number="1" name="Skemfar Shadowsage"/>
+        <card number="1" name="Sylvan Messenger"/>
+        <card number="1" name="Elvish Dreadlord"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Wolverine Riders"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="1" name="Haunting Voyage"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Pact of the Serpent"/>
+        <card number="1" name="Elven Ambush"/>
+        <card number="1" name="Elvish Promenade"/>
+        <card number="1" name="Moldervine Reclamation"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Command Tower"/>
+        <card number="16" name="Forest"/>
+        <card number="11" name="Swamp"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Prowess of the Fair"/>
+        <card number="1" name="Poison-Tip Archer"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Jagged-Scar Archers"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Wrap in Vigor"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Yeva, Nature's Herald"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="1" name="Binding the Old Gods"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Llanowar Visionary"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Poison the Cup"/>
+        <card number="1" name="The Binding of the Titans"/>
+        <card number="1" name="Elderfang Ritualist"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Timberwatch Elf"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Yeva, Nature's Herald"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Leyline of Abundance"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Foul Orchard"/>
+        <card number="1" name="Gaze of Granite"/>
+        <card number="1" name="Binding the Old Gods"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Ezuri, Renegade Leader"/>
+        <card number="1" name="Harvest Season"/>
+        <card number="1" name="Casualties of War"/>
+        <card number="1" name="Crown of Skemfar"/>
+        <card number="1" name="Poison the Cup"/>
+        <card number="1" name="Priest of Forgotten Gods"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="End-Raze Forerunners"/>
+        <card number="1" name="Deathreap Ritual"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Elderfang Venom"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Gilt-Leaf Winnower"/>
+    </zone>
+</cockatrice_deck>

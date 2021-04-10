@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Alela</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Alela, Artful Provocateur"/>
+        <card number="1" name="Medomai's Prophecy"/>
+        <card number="1" name="The Birth of Meletis"/>
+        <card number="1" name="Ascent of the Worthy"/>
+        <card number="1" name="The Raven's Warning"/>
+        <card number="1" name="Elspeth's Nightmare"/>
+        <card number="1" name="Firja's Retribution"/>
+        <card number="1" name="Rite of Belzenlok"/>
+        <card number="1" name="Phyrexian Scriptures"/>
+        <card number="1" name="The Trickster-God's Heist"/>
+        <card number="1" name="Time of Ice"/>
+        <card number="1" name="Elspeth Conquers Death"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="1" name="Fall of the Thran"/>
+        <card number="1" name="Kiora Bests the Sea God"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Tymaret Calls the Dead"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Syr Gwyn</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Syr Gwyn, Hero of Ashvale"/>
+        <card number="1" name="Akiri, Fearless Voyager"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Colossus Hammer"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Chariot of Victory"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Tournament Grounds"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="6" name="Mountain"/>
+        <card number="9" name="Plains"/>
+        <card number="7" name="Swamp"/>
+        <card number="1" name="Sword of Vengeance"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Wear // Tear"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Grappling Hook"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" name="Slayers' Stronghold"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Nomad Outpost"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Hammer of Nazahn"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Painful Lesson"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Maul of the Skyclaves"/>
+        <card number="1" name="Blazing Sunsteel"/>
+        <card number="1" name="Mirror Shield"/>
+        <card number="1" name="Solar Blaze"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Mask of Avacyn"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="General's Enforcer"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Inspiring Statuary"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Explorer's Scope"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="1" name="Response // Resurgence"/>
+        <card number="1" name="Sigarda's Aid"/>
+        <card number="1" name="Sisay's Ring"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Brave the Elements"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Kediss, Emberclaw Familiar"/>
+        <card number="1" name="Reyav, Master Smith"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Sejiri Shelter"/>
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Netherborn Altar"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Slayers' Stronghold"/>
+        <card number="2" name="Scoured Barrens"/>
+        <card number="2" name="Bloodfell Caves"/>
+        <card number="2" name="Wind-Scarred Crag"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="3" name="Mind Stone"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="3" name="Dowsing Dagger"/>
+        <card number="1" name="Embereth Shieldbreaker // Battle Display"/>
+        <card number="1" name="Inspiring Veteran"/>
+        <card number="2" name="Knight of the Ebon Legion"/>
+        <card number="2" name="Mirran Crusader"/>
+        <card number="1" name="Vona, Butcher of Magan"/>
+        <card number="1" name="Valiant Knight"/>
+        <card number="1" name="Silverwing Squadron"/>
+        <card number="1" name="Acclaimed Contender"/>
+        <card number="2" name="History of Benalia"/>
+        <card number="2" name="Path to Exile"/>
+        <card number="4" name="Response // Resurgence"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="2" name="Mythos of Snapdax"/>
+        <card number="1" name="Bond of Discipline"/>
+        <card number="2" name="Sword of Vengeance"/>
+        <card number="1" name="Heartseeker"/>
+        <card number="1" name="Icon of Ancestry"/>
+        <card number="1" name="Stonehewer Giant"/>
+        <card number="1" name="Crush Contraband"/>
+        <card number="1" name="True Conviction"/>
+        <card number="2" name="Knights' Charge"/>
+        <card number="1" name="Etchings of the Chosen"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="The Circle of Loyalty"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Hammer of Nazahn"/>
+        <card number="1" name="Embercleave"/>
+        <card number="1" name="Bloodforged Battle-Axe"/>
+        <card number="1" name="Aryel, Knight of Windgrace"/>
+        <card number="1" name="Balan, Wandering Knight"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Leonin Shikari"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Castle Ardenvale"/>
+        <card number="1" name="Castle Embereth"/>
+        <card number="1" name="Castle Locthwain"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="3" name="Return to Dust"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="2" name="Heirloom Blade"/>
+        <card number="2" name="Maul of the Skyclaves"/>
+        <card number="2" name="Hedron Archive"/>
+        <card number="2" name="Firemind Vessel"/>
+        <card number="3" name="Dauntless Bodyguard"/>
+        <card number="1" name="Kwende, Pride of Femeref"/>
+        <card number="1" name="Skyknight Legionnaire"/>
+        <card number="1" name="Silverblade Paladin"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="2" name="Infiltration Lens"/>
+        <card number="7" name="Ambition's Cost"/>
+        <card number="3" name="Ancient Craving"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Ruinous Ultimatum"/>
+        <card number="2" name="Path of Ancestry"/>
+        <card number="2" name="Chaos Warp"/>
+        <card number="3" name="Prying Blade"/>
+        <card number="1" name="Mana Geode"/>
+        <card number="2" name="Divine Reckoning"/>
+        <card number="2" name="Bolt Bend"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="2" name="Assault Suit"/>
+        <card number="1" name="Day of Judgment"/>
+        <card number="1" name="Nahiri, Storm of Stone"/>
+        <card number="2" name="Funeral Rites"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Disenchant"/>
+        <card number="2" name="Single Combat"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="3" name="Blacklance Paragon"/>
+        <card number="2" name="Dire Tactics"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Languish"/>
+        <card number="2" name="Mask of Avacyn"/>
+        <card number="2" name="Mirror Shield"/>
+        <card number="1" name="Blazing Sunsteel"/>
+        <card number="1" name="Explorer's Scope"/>
+        <card number="2" name="Crystal Slipper"/>
+        <card number="1" name="Inquisitor's Flail"/>
+        <card number="3" name="Brass Squire"/>
+        <card number="2" name="Feed the Swarm"/>
+        <card number="2" name="Haunted Cloak"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Charcoal Diamond"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="2" name="Sram, Senior Edificer"/>
+        <card number="2" name="Price of Fame"/>
+        <card number="1" name="Wild Ricochet"/>
+        <card number="1" name="Wyleth, Soul of Steel"/>
+        <card number="1" name="General's Enforcer"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Storm's Wrath"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Crackling Doom"/>
+        <card number="1" name="Sigarda's Aid"/>
+        <card number="2" name="Gods Willing"/>
+        <card number="2" name="Timely Ward"/>
+        <card number="3" name="Benevolent Blessing"/>
+        <card number="2" name="Kazuul's Toll Collector"/>
+        <card number="2" name="Fervent Champion"/>
+        <card number="2" name="Ardenn, Intrepid Archaeologist"/>
+        <card number="2" name="Zirda, the Dawnwaker"/>
+        <card number="1" name="Sisay's Ring"/>
+        <card number="1" name="Sejiri Shelter"/>
+        <card number="2" name="Brave the Elements"/>
+        <card number="1" name="Danitha Capashen, Paragon"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Murderous Rider // Swift End"/>
+        <card number="1" name="Argentum Armor"/>
+        <card number="1" name="Sigiled Sword of Valeron"/>
+        <card number="1" name="Puresteel Paladin"/>
+    </zone>
+</cockatrice_deck>

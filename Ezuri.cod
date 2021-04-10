@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ezuri</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ezuri, Renegade Leader"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Marwyn, the Nurturer"/>
+        <card number="1" name="Imperious Perfect"/>
+        <card number="1" name="Lys Alana Huntmaster"/>
+        <card number="1" name="Dwynen, Gilt-Leaf Daen"/>
+        <card number="1" name="Joraga Warcaller"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Wellwisher"/>
+        <card number="1" name="Copperhorn Scout"/>
+        <card number="1" name="Immaculate Magistrate"/>
+        <card number="1" name="Llanowar Visionary"/>
+        <card number="1" name="Llanowar Tribe"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Yeva, Nature's Herald"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Wirewood Symbiote"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Timberwatch Elf"/>
+        <card number="1" name="Leyline of Abundance"/>
+        <card number="1" name="Regal Force"/>
+        <card number="1" name="Dwynen's Elite"/>
+        <card number="1" name="Drove of Elves"/>
+        <card number="1" name="Sylvan Messenger"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Primordial Sage"/>
+        <card number="1" name="Elvish Clancaller"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Elvish Vanguard"/>
+        <card number="1" name="Thornweald Archer"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Steel Leaf Champion"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Viridian Zealot"/>
+        <card number="1" name="Viridian Shaman"/>
+    </zone>
+</cockatrice_deck>

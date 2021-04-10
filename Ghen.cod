@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ghen, Arcanum Weaver"/>
+        <card number="1" name="Showdown of the Skalds"/>
+        <card number="1" name="History of Benalia"/>
+        <card number="1" name="Tymaret Calls the Dead"/>
+        <card number="1" name="Elspeth's Nightmare"/>
+        <card number="1" name="The Birth of Meletis"/>
+        <card number="1" name="Firja's Retribution"/>
+        <card number="1" name="Phyrexian Scriptures"/>
+        <card number="1" name="Rite of Belzenlok"/>
+        <card number="1" name="The Akroan War"/>
+        <card number="1" name="Elspeth Conquers Death"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="1" name="Fall of the Thran"/>
+        <card number="1" name="Ascent of the Worthy"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Treacherous Blessing"/>
+        <card number="1" name="Starfield Mystic"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Archon of Sun's Grace"/>
+        <card number="1" name="Demonic Lore"/>
+        <card number="1" name="Captive Audience"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="1" name="Tormenting Voice"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Doom Foretold"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Dreamshaper Shaman"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Inevitable End"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Brought Back"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Ruinous Ultimatum"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Mythos of Snapdax"/>
+        <card number="1" name="Seize the Spoils"/>
+        <card number="1" name="Citywide Bust"/>
+        <card number="1" name="Ransack the Lab"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Seal of Cleansing"/>
+        <card number="1" name="Debtors' Knell"/>
+        <card number="1" name="Fires of Invention"/>
+        <card number="1" name="Underworld Breach"/>
+        <card number="1" name="Banishing Light"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Sinister Concoction"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Nomad Outpost"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="8" name="Plains"/>
+        <card number="8" name="Mountain"/>
+        <card number="7" name="Swamp"/>
+        <card number="1" name="Demonic Embrace"/>
+        <card number="1" name="Sentinel's Eyes"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kunoros, Hound of Athreos"/>
+        <card number="1" name="Slash the Ranks"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Athreos, Shroud-Veiled"/>
+        <card number="2" name="Sunbird's Invocation"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Doomwake Giant"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Oread of Mountain's Blaze"/>
+        <card number="1" name="Mindwrack Harpy"/>
+        <card number="1" name="Kardur's Vicious Return"/>
+        <card number="1" name="Rule of Law"/>
+        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Chainer's Torment"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Karador</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Karador, Ghost Chieftain"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Stinkweed Imp"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Reveillark"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Spore Frog"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Gravebreaker Lamia"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Qasali Pridemage"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Saffi Eriksdotter"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Eerie Ultimatum"/>
+        <card number="1" name="Satyr Wayfinder"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Skull Prophet"/>
+        <card number="1" name="Nethroi, Apex of Death"/>
+        <card number="1" name="Mire Triton"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Grim Haruspex"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Caustic Caterpillar"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Leonin Relic-Warder"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Remorseful Cleric"/>
+        <card number="1" name="Golgari Thug"/>
+        <card number="1" name="Shambling Shell"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Demon's Disciple"/>
+        <card number="1" name="Splendid Reclamation"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Unburial Rites"/>
+        <card number="1" name="Cruel Celebrant"/>
+        <card number="1" name="Deafening Silence"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Necromantic Selection"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Mythos of Nethroi"/>
+        <card number="1" name="Grisly Salvage"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Golgari Signet"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Golgari Grave-Troll"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Rampant Growth"/>
+    </zone>
+</cockatrice_deck>

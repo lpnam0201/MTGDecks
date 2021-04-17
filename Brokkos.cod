@@ -27,7 +27,6 @@
         <card number="1" name="Predator Ooze"/>
         <card number="1" name="Gladecover Scout"/>
         <card number="1" name="Troll Ascetic"/>
-        <card number="1" name="Sacred Wolf"/>
         <card number="1" name="Thrun, the Last Troll"/>
         <card number="1" name="Silhana Ledgewalker"/>
         <card number="1" name="Slippery Bogle"/>
@@ -49,7 +48,6 @@
         <card number="1" name="Ram Through"/>
         <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Harmonize"/>
-        <card number="1" name="Necrotic Hex"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Opulent Palace"/>
         <card number="1" name="Llanowar Wastes"/>
@@ -81,7 +79,9 @@
         <card number="1" name="Darksteel Myr"/>
         <card number="1" name="Vizier of Tumbling Sands"/>
         <card number="1" name="Epic Proportions"/>
-        <card number="1" name="Three Visits"/>
+        <card number="1" name="Kelpie Guide"/>
+        <card number="1" name="Necrotic Hex"/>
+        <card number="1" name="The Eldest Reborn"/>
     </zone>
     <zone name="side">
         <card number="1" name="Glowstone Recluse"/>
@@ -117,5 +117,8 @@
         <card number="1" name="Insatiable Hemophage"/>
         <card number="1" name="Grappling Hook"/>
         <card number="1" name="Migration Path"/>
+        <card number="1" name="Vizier of Tumbling Sands"/>
+        <card number="1" name="Sacred Wolf"/>
+        <card number="1" name="Three Visits"/>
     </zone>
 </cockatrice_deck>

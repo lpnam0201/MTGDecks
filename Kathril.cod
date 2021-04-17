@@ -4,14 +4,12 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Kathril, Aspect Warper"/>
-        <card number="1" name="Arcane Signet"/>
         <card number="1" name="Zetalpa, Primal Dawn"/>
         <card number="1" name="Akroma, Angel of Wrath"/>
         <card number="1" name="Vampire Nighthawk"/>
         <card number="1" name="Nighthawk Scavenger"/>
         <card number="1" name="Odric, Lunarch Marshal"/>
         <card number="1" name="Nyx Weaver"/>
-        <card number="1" name="Aerial Responder"/>
         <card number="1" name="Slippery Bogbonder"/>
         <card number="1" name="Leyline Prowler"/>
         <card number="1" name="Grisly Salvage"/>
@@ -19,54 +17,25 @@
         <card number="1" name="Cultivate"/>
         <card number="1" name="Satyr Wayfinder"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Unburial Rites"/>
         <card number="1" name="Acidic Slime"/>
         <card number="1" name="Selective Adaptation"/>
-        <card number="1" name="Duneblast"/>
         <card number="1" name="Skull Prophet"/>
         <card number="1" name="Kunoros, Hound of Athreos"/>
         <card number="1" name="Nullpriest of Oblivion"/>
-        <card number="1" name="Nethroi, Apex of Death"/>
-        <card number="1" name="Skullwinder"/>
         <card number="1" name="Stinkweed Imp"/>
         <card number="1" name="Mire Triton"/>
-        <card number="1" name="Golgari Grave-Troll"/>
         <card number="1" name="Mythos of Nethroi"/>
-        <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Grapple with the Past"/>
-        <card number="1" name="Mortify"/>
-        <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Ephemerate"/>
         <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Putrefy"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Netherborn Altar"/>
-        <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Farseek"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Living Death"/>
-        <card number="1" name="Unbreakable Bond"/>
-        <card number="1" name="Stitch Together"/>
-        <card number="1" name="Painful Truths"/>
-        <card number="1" name="Mulch"/>
-        <card number="1" name="Cleansing Nova"/>
-        <card number="1" name="Ransack the Lab"/>
-        <card number="1" name="Nesting Grounds"/>
         <card number="1" name="Perpetual Timepiece"/>
-        <card number="1" name="Victimize"/>
         <card number="1" name="Eerie Ultimatum"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Orzhov Signet"/>
-        <card number="1" name="Selesnya Signet"/>
-        <card number="1" name="Golgari Signet"/>
-        <card number="1" name="Talisman of Hierarchy"/>
-        <card number="1" name="Talisman of Resilience"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Sandsteppe Citadel"/>
-        <card number="1" name="Canopy Vista"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Krosan Verge"/>
@@ -78,21 +47,50 @@
         <card number="1" name="Temple of Malady"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Temple of Plenty"/>
-        <card number="7" name="Forest"/>
-        <card number="6" name="Swamp"/>
-        <card number="7" name="Plains"/>
-        <card number="1" name="Vampire of the Dire Moon"/>
-        <card number="1" name="Harmonize"/>
-        <card number="1" name="Tyrite Sanctum"/>
+        <card number="9" name="Forest"/>
+        <card number="7" name="Swamp"/>
+        <card number="6" name="Plains"/>
+        <card number="1" name="Necromantic Selection"/>
+        <card number="1" name="Nylea, Keen-Eyed"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Karametra, God of Harvests"/>
+        <card number="1" name="Erebos, Bleak-Hearted"/>
+        <card number="1" name="Sunblade Angel"/>
+        <card number="1" name="Gemrazer"/>
+        <card number="1" name="Doom Whisperer"/>
+        <card number="1" name="Archon of Valor's Reach"/>
+        <card number="1" name="Avenging Huntbonder"/>
+        <card number="1" name="Austere Command"/>
         <card number="1" name="Sun Titan"/>
+        <card number="1" name="Ransack the Lab"/>
+        <card number="1" name="The Binding of the Titans"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Angel of Condemnation"/>
+        <card number="1" name="Nethroi, Apex of Death"/>
+        <card number="1" name="Mulch"/>
+        <card number="1" name="Grapple with the Past"/>
+        <card number="1" name="Adarkar Valkyrie"/>
+        <card number="1" name="Relentless Pursuit"/>
+        <card number="1" name="Vampire of the Dire Moon"/>
+        <card number="1" name="Plated Crusher"/>
+        <card number="1" name="Gather the Pack"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Goring Ceratops"/>
+        <card number="1" name="Poison-Tip Archer"/>
+        <card number="1" name="Arctic Treeline"/>
+        <card number="1" name="Snowfield Sinkhole"/>
+        <card number="1" name="Woodland Chasm"/>
+        <card number="1" name="Verge Rangers"/>
+        <card number="1" name="Scout the Borders"/>
+        <card number="1" name="Arcane Signet"/>
     </zone>
     <zone name="side">
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Deathsprout"/>
-        <card number="1" name="Greater Good"/>
         <card number="1" name="Despark"/>
-        <card number="1" name="Void Beckoner"/>
-        <card number="1" name="Titanoth Rex"/>
+        <card number="2" name="Void Beckoner"/>
+        <card number="2" name="Titanoth Rex"/>
         <card number="1" name="Soul of Innistrad"/>
         <card number="1" name="Majestic Myriarch"/>
         <card number="1" name="Hornet Queen"/>
@@ -100,18 +98,90 @@
         <card number="1" name="Daring Fiendbonder"/>
         <card number="1" name="Avenging Huntbonder"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Golgari Signet"/>
+        <card number="2" name="Golgari Signet"/>
         <card number="1" name="Read the Bones"/>
         <card number="1" name="The Binding of the Titans"/>
         <card number="1" name="Dread Return"/>
         <card number="1" name="Winding Way"/>
-        <card number="1" name="Karametra, God of Harvests"/>
-        <card number="1" name="Bassara Tower Archer"/>
+        <card number="2" name="Karametra, God of Harvests"/>
+        <card number="2" name="Bassara Tower Archer"/>
         <card number="1" name="Archon of Valor's Reach"/>
         <card number="1" name="Cataclysmic Gearhulk"/>
-        <card number="1" name="Splinterfright"/>
+        <card number="2" name="Splinterfright"/>
         <card number="1" name="Sunblade Angel"/>
         <card number="1" name="Cairn Wanderer"/>
-        <card number="1" name="Nethroi, Apex of Death"/>
+        <card number="2" name="Nethroi, Apex of Death"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="2" name="Grapple with the Past"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Ephemerate"/>
+        <card number="1" name="Unbreakable Bond"/>
+        <card number="2" name="Mulch"/>
+        <card number="1" name="Duneblast"/>
+        <card number="1" name="Golgari Grave-Troll"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Knight of Grace"/>
+        <card number="1" name="Knight of Malice"/>
+        <card number="1" name="Ransack the Lab"/>
+        <card number="1" name="Stitch Together"/>
+        <card number="1" name="Buried Alive"/>
+        <card number="1" name="Final Parting"/>
+        <card number="1" name="Jarad's Orders"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Erebos, Bleak-Hearted"/>
+        <card number="1" name="Skullwinder"/>
+        <card number="1" name="Baneslayer Angel"/>
+        <card number="1" name="Skyhunter Skirmisher"/>
+        <card number="1" name="Wasteland Scorpion"/>
+        <card number="1" name="Splendor Mare"/>
+        <card number="1" name="Archfiend of Ifnir"/>
+        <card number="1" name="Imposing Vantasaur"/>
+        <card number="1" name="Angel of the Ruins"/>
+        <card number="1" name="Nullhide Ferox"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Tyrite Sanctum"/>
+        <card number="1" name="Golgari Thug"/>
+        <card number="1" name="Sawtusk Demolisher"/>
+        <card number="1" name="Winged Shepherd"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Nesting Grounds"/>
+        <card number="1" name="Geier Reach Sanitarium"/>
+        <card number="1" name="Vengeful Reaper"/>
+        <card number="1" name="Eradicator Valkyrie"/>
+        <card number="2" name="Embodiment of Agonies"/>
+        <card number="1" name="Firja, Judge of Valor"/>
+        <card number="1" name="Gifted Aetherborn"/>
+        <card number="2" name="Shaile, Dean of Radiance"/>
+        <card number="1" name="Battlefield Raptor"/>
+        <card number="1" name="Aerial Responder"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Mortify"/>
+        <card number="2" name="Plaguecrafter"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Corpse Churn"/>
+        <card number="1" name="Thornweald Archer"/>
+        <card number="1" name="Scout the Borders"/>
+        <card number="1" name="Gather the Pack"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Liesa, Shroud of Dusk"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Verge Rangers"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Commune with the Gods"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Fencing Ace"/>
     </zone>
 </cockatrice_deck>

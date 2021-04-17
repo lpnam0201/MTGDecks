@@ -31,7 +31,6 @@
         <card number="1" name="Mizzium Mortars"/>
         <card number="1" name="Earthquake"/>
         <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Secrets of the Dead"/>
         <card number="1" name="Swarm Intelligence"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Feed the Swarm"/>
@@ -42,8 +41,8 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Darkwater Catacombs"/>
         <card number="8" name="Island"/>
-        <card number="7" name="Mountain"/>
-        <card number="6" name="Swamp"/>
+        <card number="8" name="Mountain"/>
+        <card number="7" name="Swamp"/>
         <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Necromantic Selection"/>
@@ -64,7 +63,6 @@
         <card number="1" name="Izzet Boilerworks"/>
         <card number="1" name="Sunken Hollow"/>
         <card number="1" name="Shivan Reef"/>
-        <card number="1" name="Smoldering Marsh"/>
         <card number="1" name="Seize the Spoils"/>
         <card number="1" name="Dark Ritual"/>
         <card number="1" name="Cathartic Reunion"/>
@@ -82,9 +80,9 @@
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Izzet Charm"/>
         <card number="1" name="Thought Vessel"/>
-        <card number="1" name="Flame Slash"/>
-        <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Cut // Ribbons"/>
     </zone>
     <zone name="side">
         <card number="1" name="Talisman of Creativity"/>
@@ -191,5 +189,9 @@
         <card number="1" name="Bloodfell Caves"/>
         <card number="1" name="Dismal Backwater"/>
         <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Secrets of the Dead"/>
+        <card number="1" name="Flame Slash"/>
+        <card number="1" name="Smoldering Marsh"/>
     </zone>
 </cockatrice_deck>

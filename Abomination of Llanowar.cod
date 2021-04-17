@@ -75,9 +75,9 @@
         <card number="1" name="Elvish Visionary"/>
         <card number="1" name="Llanowar Visionary"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Poison the Cup"/>
         <card number="1" name="The Binding of the Titans"/>
         <card number="1" name="Elderfang Ritualist"/>
+        <card number="1" name="Price of Fame"/>
     </zone>
     <zone name="side">
         <card number="1" name="Bojuka Bog"/>
@@ -96,7 +96,7 @@
         <card number="1" name="Harvest Season"/>
         <card number="1" name="Casualties of War"/>
         <card number="1" name="Crown of Skemfar"/>
-        <card number="1" name="Poison the Cup"/>
+        <card number="2" name="Poison the Cup"/>
         <card number="1" name="Priest of Forgotten Gods"/>
         <card number="1" name="Lifecrafter's Bestiary"/>
         <card number="1" name="End-Raze Forerunners"/>

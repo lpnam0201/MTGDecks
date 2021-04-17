@@ -8,9 +8,7 @@
         <card number="1" name="Sundering Growth"/>
         <card number="1" name="Rootborn Defenses"/>
         <card number="1" name="Hour of Reckoning"/>
-        <card number="1" name="Selesnya Eulogist"/>
         <card number="1" name="Giant Adephage"/>
-        <card number="1" name="Garruk, Primal Hunter"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Elemental Bond"/>
@@ -22,7 +20,6 @@
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Quartzwood Crasher"/>
         <card number="1" name="Garruk's Packleader"/>
-        <card number="1" name="Armada Wurm"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
@@ -33,74 +30,75 @@
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Advent of the Wurm"/>
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Overwhelming Stampede"/>
-        <card number="1" name="Mouth // Feed"/>
-        <card number="1" name="Colossal Majesty"/>
-        <card number="1" name="Monologue Tax"/>
         <card number="1" name="Greater Good"/>
-        <card number="1" name="Sandwurm Convergence"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="True Conviction"/>
         <card number="1" name="Vigor"/>
         <card number="1" name="Frontline Medic"/>
         <card number="1" name="Selesnya Signet"/>
         <card number="1" name="Gruul Signet"/>
         <card number="1" name="Boros Signet"/>
-        <card number="1" name="Vitu-Ghazi Guildmage"/>
-        <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Jungle Shrine"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Cinder Glade"/>
         <card number="1" name="Krosan Verge"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Selesnya Sanctuary"/>
         <card number="1" name="Boros Garrison"/>
         <card number="1" name="Gruul Turf"/>
         <card number="1" name="Sungrass Prairie"/>
-        <card number="1" name="Canopy Vista"/>
         <card number="1" name="Temple of Plenty"/>
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Temple of Abandon"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="10" name="Forest"/>
-        <card number="5" name="Plains"/>
+        <card number="6" name="Plains"/>
         <card number="5" name="Mountain"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Naya Charm"/>
-        <card number="1" name="Hunter's Insight"/>
         <card number="1" name="Fires of Yavimaya"/>
         <card number="1" name="Ogre Battledriver"/>
-        <card number="1" name="Hammer of Purphoros"/>
         <card number="1" name="Loyal Unicorn"/>
         <card number="1" name="Anara, Wolvid Familiar"/>
-        <card number="1" name="Adorned Pouncer"/>
         <card number="1" name="Angel of Sanctions"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Warstorm Surge"/>
-        <card number="1" name="Hate Mirage"/>
         <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Oblation"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Sarkhan the Masterless"/>
+        <card number="1" name="Growing Ranks"/>
+        <card number="1" name="Song of the Worldsoul"/>
+        <card number="1" name="Ilysian Caryatid"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Herald of the Host"/>
+        <card number="1" name="Caller of the Pack"/>
+        <card number="1" name="Berserkers' Onslaught"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Crashing Drawbridge"/>
     </zone>
     <zone name="side">
         <card number="1" name="Beast Within"/>
         <card number="1" name="Desolation Twin"/>
         <card number="1" name="Dragonmaster Outcast"/>
         <card number="2" name="Angel of Sanctions"/>
-        <card number="1" name="Vitu-Ghazi Guildmage"/>
+        <card number="2" name="Vitu-Ghazi Guildmage"/>
         <card number="1" name="Druid's Deliverance"/>
         <card number="1" name="Emmara Tandris"/>
         <card number="1" name="Thragtusk"/>
         <card number="2" name="Idol of Oblivion"/>
-        <card number="2" name="Hate Mirage"/>
-        <card number="1" name="Full Flowering"/>
+        <card number="3" name="Hate Mirage"/>
+        <card number="2" name="Full Flowering"/>
         <card number="1" name="Castle Garenbrig"/>
-        <card number="1" name="Growing Ranks"/>
         <card number="1" name="Song of the Worldsoul"/>
         <card number="1" name="Circuitous Route"/>
         <card number="1" name="Explosive Vegetation"/>
@@ -115,5 +113,41 @@
         <card number="1" name="Arctic Treeline"/>
         <card number="1" name="Highland Forest"/>
         <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Selesnya Eulogist"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Benevolent Blessing"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Ephemerate"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Humble"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Sandwurm Convergence"/>
+        <card number="1" name="Mouth // Feed"/>
+        <card number="1" name="Armada Wurm"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Advent of the Wurm"/>
+        <card number="1" name="Sarkhan the Masterless"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Doubling Season"/>
+        <card number="1" name="Parallel Lives"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Parhelion II"/>
+        <card number="1" name="Soul of Eternity"/>
+        <card number="1" name="Adorned Pouncer"/>
+        <card number="1" name="Herald of the Host"/>
+        <card number="1" name="Caller of the Pack"/>
+        <card number="1" name="Berserkers' Onslaught"/>
+        <card number="1" name="Rage Reflection"/>
+        <card number="1" name="Naya Charm"/>
+        <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Hammer of Purphoros"/>
+        <card number="1" name="Canopy Vista"/>
     </zone>
 </cockatrice_deck>

@@ -60,7 +60,6 @@
         <card number="1" name="Lightning Strike"/>
         <card number="1" name="Frontier Bivouac"/>
         <card number="1" name="Yavimaya Coast"/>
-        <card number="1" name="Cinder Glade"/>
         <card number="1" name="Survivors' Encampment"/>
         <card number="1" name="Holdout Settlement"/>
         <card number="1" name="Myriad Landscape"/>
@@ -72,7 +71,7 @@
         <card number="1" name="Temple of Epiphany"/>
         <card number="1" name="Temple of Mystery"/>
         <card number="1" name="Temple of Abandon"/>
-        <card number="6" name="Forest"/>
+        <card number="7" name="Forest"/>
         <card number="7" name="Mountain"/>
         <card number="6" name="Island"/>
         <card number="1" name="Dispel"/>
@@ -85,8 +84,8 @@
         <card number="1" name="Comet Storm"/>
         <card number="1" name="Simic Charm"/>
         <card number="1" name="Anticipate"/>
-        <card number="1" name="Three Visits"/>
         <card number="1" name="Propaganda"/>
+        <card number="1" name="Thought Vessel"/>
     </zone>
     <zone name="side">
         <card number="2" name="Mission Briefing"/>
@@ -100,5 +99,7 @@
         <card number="1" name="Unleash Fury"/>
         <card number="1" name="Kessig Wolf Run"/>
         <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Three Visits"/>
     </zone>
 </cockatrice_deck>

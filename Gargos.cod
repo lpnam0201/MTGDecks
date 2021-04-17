@@ -64,7 +64,6 @@
         <card number="1" name="Inscription of Abundance"/>
         <card number="1" name="Soul's Majesty"/>
         <card number="1" name="Snake Umbra"/>
-        <card number="1" name="Three Visits"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Gemrazer"/>
         <card number="1" name="Sawtusk Demolisher"/>
@@ -72,8 +71,9 @@
         <card number="1" name="Karametra's Acolyte"/>
         <card number="1" name="Ohran Viper"/>
         <card number="1" name="Oakhame Adversary"/>
-        <card number="1" name="Drumhunter"/>
         <card number="1" name="Ranger's Guile"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Rhonas's Monument"/>
     </zone>
     <zone name="side">
         <card number="1" name="Prowling Serpopard"/>
@@ -112,7 +112,6 @@
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Invigorate"/>
         <card number="2" name="Ranger's Guile"/>
@@ -167,8 +166,9 @@
         <card number="1" name="Asceticism"/>
         <card number="2" name="Overwhelming Stampede"/>
         <card number="1" name="Bonds of Mortality"/>
-        <card number="1" name="Rhonas's Monument"/>
         <card number="1" name="Explosive Vegetation"/>
         <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Drumhunter"/>
+        <card number="1" name="Three Visits"/>
     </zone>
 </cockatrice_deck>

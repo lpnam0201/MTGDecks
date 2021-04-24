@@ -56,7 +56,6 @@
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Sunhome, Fortress of the Legion"/>
-        <card number="1" name="Sisay's Ring"/>
         <card number="1" name="Hedron Archive"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Jungle Shrine"/>
@@ -67,8 +66,8 @@
         <card number="1" name="Selesnya Sanctuary"/>
         <card number="1" name="Boros Garrison"/>
         <card number="1" name="Battlefield Forge"/>
-        <card number="4" name="Mountain"/>
-        <card number="9" name="Forest"/>
+        <card number="5" name="Mountain"/>
+        <card number="10" name="Forest"/>
         <card number="5" name="Plains"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Highland Forest"/>
@@ -77,7 +76,6 @@
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Burning Sun's Avatar"/>
         <card number="1" name="Berserkers' Onslaught"/>
-        <card number="1" name="Asceticism"/>
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Guildless Commons"/>
@@ -86,8 +84,8 @@
         <card number="1" name="Polyraptor"/>
         <card number="1" name="Elemental Bond"/>
         <card number="1" name="Chain Reaction"/>
-        <card number="1" name="Harmonize"/>
-        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Steadfast Armasaur"/>
+        <card number="1" name="Search for Tomorrow"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lightning Greaves"/>
@@ -103,7 +101,7 @@
         <card number="1" name="Yidaro, Wandering Monster"/>
         <card number="1" name="Deathgorge Scavenger"/>
         <card number="1" name="Kaheera, the Orphanguard"/>
-        <card number="1" name="Harmonize"/>
+        <card number="2" name="Harmonize"/>
         <card number="1" name="Kessig Wolf Run"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Cinder Glade"/>
@@ -113,5 +111,9 @@
         <card number="1" name="Greater Good"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Pyrohemia"/>
+        <card number="1" name="Asceticism"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Needletooth Raptor"/>
+        <card number="1" name="Sisay's Ring"/>
     </zone>
 </cockatrice_deck>

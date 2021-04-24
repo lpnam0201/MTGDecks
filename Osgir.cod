@@ -20,7 +20,6 @@
         <card number="1" name="Monologue Tax"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Scrap Trawler"/>
-        <card number="1" name="Sculpting Steel"/>
         <card number="1" name="Osgir, the Reconstructor"/>
         <card number="1" name="Daretti, Scrap Savant"/>
         <card number="1" name="Solemn Simulacrum"/>
@@ -41,7 +40,6 @@
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Sisay's Ring"/>
         <card number="1" name="Boros Charm"/>
-        <card number="1" name="Rootborn Defenses"/>
         <card number="1" name="Cathartic Reunion"/>
         <card number="1" name="Thrill of Possibility"/>
         <card number="1" name="Tormenting Voice"/>
@@ -70,15 +68,17 @@
         <card number="1" name="Return to Dust"/>
         <card number="1" name="Soul-Guide Lantern"/>
         <card number="1" name="Zirda, the Dawnwaker"/>
-        <card number="1" name="Stuffy Doll"/>
         <card number="1" name="Darksteel Juggernaut"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Slobad, Goblin Tinkerer"/>
-        <card number="1" name="Gadrak, the Crown-Scourge"/>
         <card number="1" name="Jor Kadeen, the Prevailer"/>
         <card number="1" name="Thrilling Discovery"/>
         <card number="1" name="Dispatch"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Mycosynth Wellspring"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Parhelion II"/>
     </zone>
     <zone name="side">
         <card number="1" name="Phyrexia's Core"/>
@@ -95,6 +95,10 @@
         <card number="1" name="Steel Overseer"/>
         <card number="1" name="Laelia, the Blade Reforged"/>
         <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Stuffy Doll"/>
         <card number="1" name="Rip Apart"/>
+        <card number="1" name="Sculpting Steel"/>
+        <card number="1" name="Gadrak, the Crown-Scourge"/>
     </zone>
 </cockatrice_deck>

@@ -33,7 +33,6 @@
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Greater Good"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Vigor"/>
         <card number="1" name="Frontline Medic"/>
@@ -70,26 +69,27 @@
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Crib Swap"/>
         <card number="1" name="Oblation"/>
-        <card number="1" name="Strionic Resonator"/>
-        <card number="1" name="Dragonmaster Outcast"/>
-        <card number="1" name="Sarkhan the Masterless"/>
         <card number="1" name="Growing Ranks"/>
         <card number="1" name="Song of the Worldsoul"/>
         <card number="1" name="Ilysian Caryatid"/>
         <card number="1" name="Mossfire Valley"/>
         <card number="1" name="Herald of the Host"/>
-        <card number="1" name="Caller of the Pack"/>
         <card number="1" name="Berserkers' Onslaught"/>
         <card number="1" name="Paradise Druid"/>
         <card number="1" name="Migration Path"/>
         <card number="1" name="Circuitous Route"/>
-        <card number="1" name="Garruk, Primal Hunter"/>
         <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Caller of the Pack"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Parhelion II"/>
     </zone>
     <zone name="side">
         <card number="1" name="Beast Within"/>
         <card number="1" name="Desolation Twin"/>
-        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="2" name="Dragonmaster Outcast"/>
         <card number="2" name="Angel of Sanctions"/>
         <card number="2" name="Vitu-Ghazi Guildmage"/>
         <card number="1" name="Druid's Deliverance"/>
@@ -107,7 +107,6 @@
         <card number="1" name="Titanic Ultimatum"/>
         <card number="1" name="Odric, Master Tactician"/>
         <card number="1" name="Warstorm Surge"/>
-        <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Phyrexian Rebirth"/>
         <card number="1" name="Alpine Meadow"/>
         <card number="1" name="Arctic Treeline"/>
@@ -117,7 +116,6 @@
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Valorous Stance"/>
         <card number="1" name="Benevolent Blessing"/>
-        <card number="1" name="Timely Ward"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Emerge Unscathed"/>
         <card number="1" name="Ephemerate"/>
@@ -129,17 +127,16 @@
         <card number="1" name="Armada Wurm"/>
         <card number="1" name="Three Visits"/>
         <card number="1" name="Advent of the Wurm"/>
-        <card number="1" name="Sarkhan the Masterless"/>
+        <card number="2" name="Sarkhan the Masterless"/>
         <card number="1" name="Colossal Majesty"/>
         <card number="1" name="Anointed Procession"/>
         <card number="1" name="Doubling Season"/>
         <card number="1" name="Parallel Lives"/>
         <card number="1" name="Overwhelming Stampede"/>
-        <card number="1" name="Parhelion II"/>
         <card number="1" name="Soul of Eternity"/>
         <card number="1" name="Adorned Pouncer"/>
         <card number="1" name="Herald of the Host"/>
-        <card number="1" name="Caller of the Pack"/>
+        <card number="2" name="Caller of the Pack"/>
         <card number="1" name="Berserkers' Onslaught"/>
         <card number="1" name="Rage Reflection"/>
         <card number="1" name="Naya Charm"/>
@@ -149,5 +146,10 @@
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Hammer of Purphoros"/>
         <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Coastline Marauders"/>
+        <card number="1" name="Fin-Clade Fugitives"/>
+        <card number="1" name="Kinsbaile Courier"/>
     </zone>
 </cockatrice_deck>

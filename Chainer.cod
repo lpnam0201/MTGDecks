@@ -14,14 +14,12 @@
         <card number="1" name="Neheb, Dreadhorde Champion"/>
         <card number="1" name="Ravenous Chupacabra"/>
         <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Garna, the Bloodflame"/>
         <card number="1" name="Gray Merchant of Asphodel"/>
         <card number="1" name="Etali, Primal Storm"/>
         <card number="1" name="Combustible Gearhulk"/>
         <card number="1" name="Noxious Gearhulk"/>
         <card number="1" name="Drakuseth, Maw of Flames"/>
         <card number="1" name="Inferno Titan"/>
-        <card number="1" name="Meteor Golem"/>
         <card number="1" name="Ingot Chewer"/>
         <card number="1" name="By Force"/>
         <card number="1" name="Rakdos Charm"/>
@@ -70,7 +68,6 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Shriekmaw"/>
         <card number="1" name="Apprentice Necromancer"/>
-        <card number="1" name="Living Death"/>
         <card number="1" name="Faithless Looting"/>
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Gonti, Lord of Luxury"/>
@@ -81,6 +78,9 @@
         <card number="1" name="Rakdos Guildgate"/>
         <card number="1" name="High Market"/>
         <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Experimental Frenzy"/>
+        <card number="1" name="Demon of Loathing"/>
+        <card number="1" name="Dragon Mage"/>
     </zone>
     <zone name="side">
         <card number="1" name="Muck Drubb"/>
@@ -97,5 +97,9 @@
         <card number="1" name="Greven, Predator Captain"/>
         <card number="1" name="Dark Bargain"/>
         <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="2" name="Meteor Golem"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Garna, the Bloodflame"/>
     </zone>
 </cockatrice_deck>

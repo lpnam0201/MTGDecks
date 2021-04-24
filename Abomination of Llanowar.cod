@@ -41,7 +41,6 @@
         <card number="1" name="Wolverine Riders"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Golgari Charm"/>
-        <card number="1" name="Haunting Voyage"/>
         <card number="1" name="Putrefy"/>
         <card number="1" name="Pact of the Serpent"/>
         <card number="1" name="Elven Ambush"/>
@@ -57,7 +56,6 @@
         <card number="1" name="Golgari Rot Farm"/>
         <card number="1" name="Prowess of the Fair"/>
         <card number="1" name="Poison-Tip Archer"/>
-        <card number="1" name="Realmwalker"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Jagged-Scar Archers"/>
@@ -78,6 +76,8 @@
         <card number="1" name="The Binding of the Titans"/>
         <card number="1" name="Elderfang Ritualist"/>
         <card number="1" name="Price of Fame"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
     </zone>
     <zone name="side">
         <card number="1" name="Bojuka Bog"/>
@@ -105,5 +105,7 @@
         <card number="1" name="Elderfang Venom"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Gilt-Leaf Winnower"/>
+        <card number="1" name="Haunting Voyage"/>
+        <card number="1" name="Realmwalker"/>
     </zone>
 </cockatrice_deck>

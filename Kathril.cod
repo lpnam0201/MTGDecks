@@ -30,7 +30,6 @@
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Living Death"/>
         <card number="1" name="Perpetual Timepiece"/>
         <card number="1" name="Eerie Ultimatum"/>
         <card number="1" name="Sol Ring"/>
@@ -55,10 +54,8 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Karametra, God of Harvests"/>
-        <card number="1" name="Erebos, Bleak-Hearted"/>
         <card number="1" name="Sunblade Angel"/>
         <card number="1" name="Gemrazer"/>
-        <card number="1" name="Doom Whisperer"/>
         <card number="1" name="Archon of Valor's Reach"/>
         <card number="1" name="Avenging Huntbonder"/>
         <card number="1" name="Austere Command"/>
@@ -84,6 +81,9 @@
         <card number="1" name="Verge Rangers"/>
         <card number="1" name="Scout the Borders"/>
         <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Seraph of the Suns"/>
+        <card number="1" name="Demon of Loathing"/>
     </zone>
     <zone name="side">
         <card number="1" name="Return of the Wildspeaker"/>
@@ -135,7 +135,7 @@
         <card number="1" name="Farseek"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Erebos, Bleak-Hearted"/>
+        <card number="2" name="Erebos, Bleak-Hearted"/>
         <card number="1" name="Skullwinder"/>
         <card number="1" name="Baneslayer Angel"/>
         <card number="1" name="Skyhunter Skirmisher"/>
@@ -183,5 +183,7 @@
         <card number="1" name="Commune with the Gods"/>
         <card number="1" name="Victimize"/>
         <card number="1" name="Fencing Ace"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Doom Whisperer"/>
     </zone>
 </cockatrice_deck>

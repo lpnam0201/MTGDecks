@@ -50,7 +50,6 @@
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Rapid Hybridization"/>
-        <card number="1" name="Lightning Bolt"/>
         <card number="1" name="Cruel Ultimatum"/>
         <card number="1" name="Ashiok, Dream Render"/>
         <card number="1" name="Increasing Vengeance"/>
@@ -66,16 +65,12 @@
         <card number="1" name="Seize the Spoils"/>
         <card number="1" name="Dark Ritual"/>
         <card number="1" name="Cathartic Reunion"/>
-        <card number="1" name="Mnemonic Deluge"/>
-        <card number="1" name="Soulfire Eruption"/>
         <card number="1" name="Mana Geyser"/>
         <card number="1" name="Tormenting Voice"/>
-        <card number="1" name="Profane Transfusion"/>
         <card number="1" name="Seething Song"/>
         <card number="1" name="Skyclave Relic"/>
         <card number="1" name="Winged Words"/>
         <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="Deadly Rollick"/>
         <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Izzet Charm"/>
@@ -83,6 +78,11 @@
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Cut // Ribbons"/>
+        <card number="1" name="Crackle with Power"/>
+        <card number="1" name="Expansion // Explosion"/>
+        <card number="1" name="Lightning Strike"/>
+        <card number="1" name="Whelming Wave"/>
+        <card number="1" name="Profane Transfusion"/>
     </zone>
     <zone name="side">
         <card number="1" name="Talisman of Creativity"/>
@@ -189,9 +189,15 @@
         <card number="1" name="Bloodfell Caves"/>
         <card number="1" name="Dismal Backwater"/>
         <card number="1" name="Swiftwater Cliffs"/>
-        <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Secrets of the Dead"/>
         <card number="1" name="Flame Slash"/>
+        <card number="1" name="Crackle with Power"/>
+        <card number="2" name="Soulfire Eruption"/>
+        <card number="2" name="Mnemonic Deluge"/>
+        <card number="1" name="Deadly Rollick"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Smoldering Marsh"/>
     </zone>
 </cockatrice_deck>

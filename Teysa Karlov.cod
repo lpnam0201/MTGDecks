@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Teysa Karlov</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Teysa Karlov"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Blight Mound"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Grim Haruspex"/>
+        <card number="1" name="Ministrant of Obligation"/>
+        <card number="1" name="Doomed Traveler"/>
+        <card number="1" name="Sifter of Skulls"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Cruel Celebrant"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Vindictive Vampire"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Falkenrath Noble"/>
+        <card number="1" name="Orzhov Enforcer"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Archon of Justice"/>
+        <card number="1" name="Hunted Witness"/>
+        <card number="1" name="Carrion Feeder"/>
+        <card number="1" name="Ogre Slumlord"/>
+        <card number="1" name="Garrison Cat"/>
+        <card number="1" name="Nightmare Shepherd"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Dark Prophecy"/>
+        <card number="1" name="Dutiful Attendant"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Doomed Dissenter"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Imperious Oligarch"/>
+        <card number="1" name="Forsaken Sanctuary"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Orzhov Guildgate"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Snowfield Sinkhole"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Silverquill Campus"/>
+        <card number="12" name="Swamp"/>
+        <card number="12" name="Plains"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Cartel Aristocrat"/>
+        <card number="1" name="Whisper, Blood Liturgist"/>
+        <card number="1" name="Corpse Augur"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Dire Tactics"/>
+        <card number="1" name="Rally the Ancestors"/>
+        <card number="1" name="Tragic Slip"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Witch's Cauldron"/>
+        <card number="1" name="Vampiric Rites"/>
+        <card number="1" name="Dreadhorde Invasion"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Demon's Disciple"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Reassembling Skeleton"/>
+        <card number="1" name="Pitiless Pontiff"/>
+        <card number="1" name="Carrier Thrall"/>
+        <card number="1" name="Crush Contraband"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Hunted Witness"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Ashen Rider"/>
+        <card number="2" name="Harvester of Souls"/>
+        <card number="1" name="Boreas Charger"/>
+        <card number="1" name="Hidden Stockpile"/>
+        <card number="1" name="Erebos, Bleak-Hearted"/>
+    </zone>
+</cockatrice_deck>

@@ -19,7 +19,6 @@
         <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Return to Nature"/>
         <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Into the Story"/>
         <card number="1" name="Twinning Staff"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
@@ -42,7 +41,6 @@
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Silundi Vision"/>
         <card number="1" name="Prophetic Bolt"/>
         <card number="1" name="Ral's Outburst"/>
         <card number="1" name="Rapid Hybridization"/>
@@ -80,12 +78,14 @@
         <card number="1" name="Wavebreak Hippocamp"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Gruul Signet"/>
-        <card number="1" name="Lightning Bolt"/>
         <card number="1" name="Comet Storm"/>
         <card number="1" name="Simic Charm"/>
         <card number="1" name="Anticipate"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Soul's Fire"/>
     </zone>
     <zone name="side">
         <card number="2" name="Mission Briefing"/>
@@ -101,5 +101,10 @@
         <card number="1" name="Rashmi, Eternities Crafter"/>
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Three Visits"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Simic Charm"/>
+        <card number="1" name="Into the Story"/>
+        <card number="1" name="Silundi Vision"/>
+        <card number="1" name="Searing Spear"/>
     </zone>
 </cockatrice_deck>

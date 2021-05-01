@@ -59,7 +59,6 @@
         <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Make a Stand"/>
         <card number="1" name="Double Vision"/>
-        <card number="1" name="Swarm Intelligence"/>
         <card number="1" name="Thousand-Year Storm"/>
         <card number="1" name="Frantic Search"/>
         <card number="1" name="Expansion // Explosion"/>
@@ -72,7 +71,6 @@
         <card number="1" name="The Mirari Conjecture"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Propaganda"/>
-        <card number="1" name="Radical Idea"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Shivan Reef"/>
         <card number="1" name="Exotic Orchard"/>
@@ -85,6 +83,8 @@
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Lightning Bolt"/>
         <card number="1" name="Crackle with Power"/>
+        <card number="1" name="Past in Flames"/>
+        <card number="1" name="Ghostly Prison"/>
     </zone>
     <zone name="side">
         <card number="1" name="Time Wipe"/>
@@ -110,7 +110,7 @@
         <card number="2" name="Jace's Sanctum"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Irrigated Farmland"/>
-        <card number="2" name="Radical Idea"/>
+        <card number="3" name="Radical Idea"/>
         <card number="1" name="Deep Analysis"/>
         <card number="2" name="Mystic Retrieval"/>
         <card number="3" name="Irencrag Feat"/>
@@ -134,7 +134,7 @@
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Unsummon"/>
-        <card number="1" name="Swarm Intelligence"/>
+        <card number="2" name="Swarm Intelligence"/>
         <card number="1" name="Darksteel Ingot"/>
         <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Chain Lightning"/>

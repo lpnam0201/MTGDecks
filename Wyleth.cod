@@ -12,7 +12,6 @@
         <card number="1" name="Unquestioned Authority"/>
         <card number="1" name="Eidolon of Countless Battles"/>
         <card number="1" name="Alseid of Life's Bounty"/>
-        <card number="1" name="Dauntless Bodyguard"/>
         <card number="1" name="Selfless Savior"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Generous Gift"/>
@@ -26,8 +25,6 @@
         <card number="1" name="Battle Mastery"/>
         <card number="1" name="Boros Signet"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Marble Diamond"/>
-        <card number="1" name="Fire Diamond"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Boros Garrison"/>
         <card number="1" name="Command Tower"/>
@@ -76,7 +73,6 @@
         <card number="1" name="Felidar Umbra"/>
         <card number="1" name="Cliffside Rescuer"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Armored Skyhunter"/>
         <card number="1" name="Slash the Ranks"/>
         <card number="1" name="Koll, the Forgemaster"/>
@@ -84,10 +80,14 @@
         <card number="1" name="Shiny Impetus"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Tyrite Sanctum"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Austere Command"/>
     </zone>
     <zone name="side">
         <card number="1" name="Blasphemous Act"/>
-        <card number="2" name="Duelist's Heritage"/>
+        <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Fiery Emancipation"/>
         <card number="1" name="Dictate of the Twin Gods"/>
         <card number="1" name="Berserkers' Onslaught"/>
@@ -133,7 +133,7 @@
         <card number="1" name="Ondu Inversion"/>
         <card number="1" name="Divine Reckoning"/>
         <card number="1" name="Inspiring Vantage"/>
-        <card number="1" name="Sejiri Shelter"/>
+        <card number="2" name="Sejiri Shelter"/>
         <card number="1" name="Blood Mist"/>
         <card number="2" name="Storm Herald"/>
         <card number="1" name="Auramancer"/>
@@ -162,5 +162,10 @@
         <card number="1" name="Relentless Assault"/>
         <card number="1" name="Gift of Immortality"/>
         <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Dauntless Bodyguard"/>
+        <card number="1" name="Cleansing Nova"/>
     </zone>
 </cockatrice_deck>

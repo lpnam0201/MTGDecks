@@ -47,7 +47,6 @@
         <card number="1" name="Mistcutter Hydra"/>
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Migration Path"/>
-        <card number="1" name="Genesis Hydra"/>
         <card number="1" name="Vigor"/>
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Swiftfoot Boots"/>
@@ -55,7 +54,6 @@
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Cultivate"/>
-        <card number="1" name="Oran-Rief Hydra"/>
         <card number="1" name="Nessian Wilds Ravager"/>
         <card number="1" name="Zendikar Resurgent"/>
         <card number="1" name="Circuitous Route"/>
@@ -74,6 +72,8 @@
         <card number="1" name="Ranger's Guile"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Rhonas's Monument"/>
+        <card number="1" name="Charge Through"/>
+        <card number="1" name="Oran-Rief Hydra"/>
     </zone>
     <zone name="side">
         <card number="1" name="Prowling Serpopard"/>
@@ -170,5 +170,8 @@
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Drumhunter"/>
         <card number="1" name="Three Visits"/>
+        <card number="1" name="Oran-Rief Hydra"/>
+        <card number="1" name="Genesis Hydra"/>
+        <card number="1" name="Battlemage's Bracers"/>
     </zone>
 </cockatrice_deck>

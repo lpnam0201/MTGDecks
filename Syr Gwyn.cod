@@ -44,7 +44,6 @@
         <card number="1" name="Everflowing Chalice"/>
         <card number="1" name="Nomad Outpost"/>
         <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Hammer of Nazahn"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Talisman of Hierarchy"/>
@@ -54,7 +53,6 @@
         <card number="1" name="Maul of the Skyclaves"/>
         <card number="1" name="Blazing Sunsteel"/>
         <card number="1" name="Mirror Shield"/>
-        <card number="1" name="Solar Blaze"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Mask of Avacyn"/>
         <card number="1" name="Commander's Sphere"/>
@@ -84,6 +82,8 @@
         <card number="1" name="Cliffside Rescuer"/>
         <card number="1" name="Open the Vaults"/>
         <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Cleansing Nova"/>
     </zone>
     <zone name="side">
         <card number="1" name="Slayers' Stronghold"/>
@@ -233,5 +233,7 @@
         <card number="1" name="Argentum Armor"/>
         <card number="1" name="Sigiled Sword of Valeron"/>
         <card number="1" name="Puresteel Paladin"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Solar Blaze"/>
     </zone>
 </cockatrice_deck>

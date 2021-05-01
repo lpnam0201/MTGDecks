@@ -34,7 +34,6 @@
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Springleaf Drum"/>
         <card number="1" name="Double Vision"/>
-        <card number="1" name="Swarm Intelligence"/>
         <card number="1" name="Natural Connection"/>
         <card number="1" name="Chemister's Insight"/>
         <card number="1" name="Farseek"/>
@@ -73,19 +72,20 @@
         <card number="7" name="Mountain"/>
         <card number="6" name="Island"/>
         <card number="1" name="Dispel"/>
-        <card number="1" name="Ral Zarek"/>
         <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Wavebreak Hippocamp"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Gruul Signet"/>
         <card number="1" name="Comet Storm"/>
         <card number="1" name="Simic Charm"/>
-        <card number="1" name="Anticipate"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Guttersnipe"/>
         <card number="1" name="Soul's Fire"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Swarm Intelligence"/>
     </zone>
     <zone name="side">
         <card number="2" name="Mission Briefing"/>
@@ -106,5 +106,8 @@
         <card number="1" name="Into the Story"/>
         <card number="1" name="Silundi Vision"/>
         <card number="1" name="Searing Spear"/>
+        <card number="1" name="Swarm Intelligence"/>
+        <card number="1" name="Anticipate"/>
+        <card number="1" name="Ral Zarek"/>
     </zone>
 </cockatrice_deck>

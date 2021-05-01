@@ -29,7 +29,6 @@
         <card number="1" name="Carrion Feeder"/>
         <card number="1" name="Ogre Slumlord"/>
         <card number="1" name="Garrison Cat"/>
-        <card number="1" name="Nightmare Shepherd"/>
         <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Victimize"/>
         <card number="1" name="Generous Gift"/>
@@ -48,13 +47,10 @@
         <card number="1" name="Scoured Barrens"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Snowfield Sinkhole"/>
-        <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Silverquill Campus"/>
         <card number="12" name="Swamp"/>
         <card number="12" name="Plains"/>
-        <card number="1" name="Village Rites"/>
         <card number="1" name="Cartel Aristocrat"/>
-        <card number="1" name="Whisper, Blood Liturgist"/>
         <card number="1" name="Corpse Augur"/>
         <card number="1" name="Plaguecrafter"/>
         <card number="1" name="Despark"/>
@@ -63,22 +59,28 @@
         <card number="1" name="Tragic Slip"/>
         <card number="1" name="Read the Bones"/>
         <card number="1" name="Dusk // Dawn"/>
-        <card number="1" name="Witch's Cauldron"/>
         <card number="1" name="Vampiric Rites"/>
-        <card number="1" name="Dreadhorde Invasion"/>
         <card number="1" name="Slaughter the Strong"/>
         <card number="1" name="Orzhov Signet"/>
-        <card number="1" name="Mind Stone"/>
-        <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Fleshbag Marauder"/>
         <card number="1" name="Demon's Disciple"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Reassembling Skeleton"/>
         <card number="1" name="Pitiless Pontiff"/>
         <card number="1" name="Carrier Thrall"/>
         <card number="1" name="Crush Contraband"/>
+        <card number="1" name="Phyrexian Reclamation"/>
+        <card number="1" name="Call of the Death-Dweller"/>
+        <card number="1" name="Pawn of Ulamog"/>
+        <card number="1" name="Underworld Connections"/>
+        <card number="1" name="Harvester of Souls"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Reassembling Skeleton"/>
+        <card number="1" name="Archaeomancer's Map"/>
+        <card number="1" name="Cleansing Nova"/>
     </zone>
     <zone name="side">
         <card number="1" name="Hunted Witness"/>
@@ -89,5 +91,14 @@
         <card number="1" name="Boreas Charger"/>
         <card number="1" name="Hidden Stockpile"/>
         <card number="1" name="Erebos, Bleak-Hearted"/>
+        <card number="1" name="Witch's Cauldron"/>
+        <card number="1" name="Dreadhorde Invasion"/>
+        <card number="1" name="Smothering Abomination"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Nightmare Shepherd"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Whisper, Blood Liturgist"/>
     </zone>
 </cockatrice_deck>

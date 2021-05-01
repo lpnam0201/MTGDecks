@@ -5,7 +5,6 @@
     <zone name="main">
         <card number="1" name="Tatyova, Benthic Druid"/>
         <card number="1" name="Rampaging Baloths"/>
-        <card number="1" name="Baloth Woodcrasher"/>
         <card number="1" name="Harrow"/>
         <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
         <card number="1" name="Cultivate"/>
@@ -18,11 +17,7 @@
         <card number="1" name="Multani, Yavimaya's Avatar"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Springbloom Druid"/>
-        <card number="1" name="Scute Mob"/>
-        <card number="1" name="Scute Swarm"/>
-        <card number="1" name="Fertilid"/>
         <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
-        <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Ramunap Excavator"/>
         <card number="1" name="Trench Behemoth"/>
         <card number="1" name="Counterspell"/>
@@ -33,8 +28,6 @@
         <card number="1" name="All Is Dust"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Nissa's Pilgrimage"/>
-        <card number="1" name="Arixmethes, Slumbering Isle"/>
-        <card number="1" name="Regrowth"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Lightning Greaves"/>
@@ -51,45 +44,53 @@
         <card number="1" name="Temple of Mystery"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Yavimaya Coast"/>
-        <card number="17" name="Forest"/>
+        <card number="16" name="Forest"/>
         <card number="10" name="Island"/>
         <card number="1" name="Return to Nature"/>
         <card number="1" name="Hurricane"/>
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Simic Charm"/>
-        <card number="1" name="End-Raze Forerunners"/>
         <card number="1" name="Terastodon"/>
         <card number="1" name="Explosive Vegetation"/>
-        <card number="1" name="Bane of Progress"/>
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Dragon Throne of Tarkir"/>
-        <card number="1" name="Overwhelming Stampede"/>
-        <card number="1" name="Sylvan Awakening"/>
         <card number="1" name="Creeping Renaissance"/>
-        <card number="1" name="Ulvenwald Hydra"/>
         <card number="1" name="Yavimaya Elder"/>
         <card number="1" name="Growth Spiral"/>
         <card number="1" name="Explore"/>
         <card number="1" name="Search for Tomorrow"/>
-        <card number="1" name="Turntimber Basilisk"/>
         <card number="1" name="Meloku the Clouded Mirror"/>
-        <card number="1" name="Warped Landscape"/>
         <card number="1" name="Woodland Stream"/>
         <card number="1" name="Thornwood Falls"/>
-        <card number="1" name="Simic Guildgate"/>
         <card number="1" name="Kogla, the Titan Ape"/>
+        <card number="1" name="Gargos, Vicious Watcher"/>
+        <card number="1" name="Oran-Rief Hydra"/>
+        <card number="1" name="Tromokratis"/>
+        <card number="1" name="Abundance"/>
+        <card number="1" name="Voracious Hydra"/>
+        <card number="1" name="Scourge of Fleets"/>
+        <card number="1" name="Khalni Ambush"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Brinelin, the Moon Kraken"/>
+        <card number="1" name="Wildest Dreams"/>
+        <card number="1" name="Kiora, Behemoth Beckoner"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Elder Deep-Fiend"/>
+        <card number="1" name="Lorthos, the Tidemaker"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Rimewood Falls"/>
     </zone>
     <zone name="side">
         <card number="1" name="Embodiment of Insight"/>
         <card number="1" name="Tatyova, Benthic Druid"/>
         <card number="1" name="Evolution Sage"/>
         <card number="1" name="Guardian of Tazeem"/>
-        <card number="1" name="Turntimber Basilisk"/>
+        <card number="2" name="Turntimber Basilisk"/>
         <card number="1" name="Retreat to Kazandu"/>
         <card number="1" name="Retreat to Coralhelm"/>
         <card number="1" name="Meloku the Clouded Mirror"/>
         <card number="1" name="Growth Spiral"/>
-        <card number="1" name="Llanowar Scout"/>
+        <card number="2" name="Llanowar Scout"/>
         <card number="1" name="Seer's Sundial"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Grixis Panorama"/>
@@ -98,7 +99,6 @@
         <card number="2" name="Bant Panorama"/>
         <card number="1" name="Esper Panorama"/>
         <card number="1" name="Tireless Tracker"/>
-        <card number="1" name="Oran-Rief Hydra"/>
         <card number="1" name="Explore"/>
         <card number="1" name="Khalni Heart Expedition"/>
         <card number="1" name="Kodama of the East Tree"/>
@@ -112,13 +112,11 @@
         <card number="1" name="Creeping Renaissance"/>
         <card number="2" name="Scavenger Grounds"/>
         <card number="1" name="Teferi's Ageless Insight"/>
-        <card number="1" name="Tromokratis"/>
         <card number="1" name="Kenrith's Transformation"/>
-        <card number="1" name="Wildest Dreams"/>
         <card number="1" name="Coral Atoll"/>
         <card number="1" name="Jungle Basin"/>
         <card number="2" name="Woodland Stream"/>
-        <card number="2" name="Simic Guildgate"/>
+        <card number="3" name="Simic Guildgate"/>
         <card number="1" name="Simic Signet"/>
         <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Field of Ruin"/>
@@ -130,5 +128,19 @@
         <card number="1" name="Lumbering Falls"/>
         <card number="1" name="Thornwood Falls"/>
         <card number="1" name="Skullwinder"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="1" name="Ulvenwald Hydra"/>
+        <card number="1" name="Baloth Woodcrasher"/>
+        <card number="1" name="Arixmethes, Slumbering Isle"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Sylvan Awakening"/>
+        <card number="1" name="Brinelin, the Moon Kraken"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Warped Landscape"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Fertilid"/>
+        <card number="1" name="Scute Mob"/>
+        <card number="1" name="End-Raze Forerunners"/>
     </zone>
 </cockatrice_deck>

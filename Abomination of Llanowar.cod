@@ -65,7 +65,6 @@
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Overwhelming Stampede"/>
-        <card number="1" name="Yeva, Nature's Herald"/>
         <card number="1" name="Temple of Malady"/>
         <card number="1" name="In Garruk's Wake"/>
         <card number="1" name="Binding the Old Gods"/>
@@ -78,12 +77,13 @@
         <card number="1" name="Price of Fame"/>
         <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Haunting Voyage"/>
     </zone>
     <zone name="side">
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Timberwatch Elf"/>
         <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Yeva, Nature's Herald"/>
+        <card number="2" name="Yeva, Nature's Herald"/>
         <card number="1" name="Guardian Project"/>
         <card number="1" name="Leyline of Abundance"/>
         <card number="1" name="Golgari Guildgate"/>

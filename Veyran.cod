@@ -5,8 +5,106 @@
     <zone name="main">
         <card number="1" name="Veyran, Voice of Duality"/>
         <card number="1" name="Thousand-Year Storm"/>
-        <card number="1" name="Guttersnipe"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Firemind's Research"/>
+        <card number="1" name="Krark, the Thumbless"/>
+        <card number="1" name="Electrostatic Field"/>
+        <card number="1" name="Young Pyromancer"/>
+        <card number="1" name="Thermo-Alchemist"/>
+        <card number="1" name="Umara Mystic"/>
+        <card number="1" name="Wee Dragonauts"/>
+        <card number="1" name="Niblis of Frost"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Firebrand Archer"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Double Vision"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Ravenform"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Mystic Retrieval"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Saheeli, Sublime Artificer"/>
+        <card number="1" name="Impulse"/>
+        <card number="1" name="Telling Time"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Curate"/>
+        <card number="1" name="Deliberate"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Prismari Campus"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="12" name="Island"/>
+        <card number="12" name="Mountain"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Adeliz, the Cinder Wind"/>
+        <card number="1" name="Warlord's Fury"/>
+        <card number="1" name="The Mirari Conjecture"/>
+        <card number="1" name="Introduction to Annihilation"/>
+        <card number="1" name="Expedite"/>
+        <card number="1" name="Stormchaser Mage"/>
+        <card number="1" name="Bloodwater Entity"/>
+        <card number="1" name="Burning Prophet"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Trail of Evidence"/>
+        <card number="1" name="Winged Words"/>
+        <card number="1" name="Chart a Course"/>
+        <card number="1" name="Wild Ricochet"/>
+        <card number="1" name="Ral, Storm Conduit"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Guttersnipe"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Adarkar Windform"/>
+        <card number="1" name="Reverberate"/>
+        <card number="1" name="Jori En, Ruin Diver"/>
+        <card number="1" name="Expansion // Explosion"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Kiln Fiend"/>
+        <card number="1" name="Pyromancer's Goggles"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Windrider Wizard"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Stormchaser Mage"/>
+        <card number="1" name="Swarm Intelligence"/>
+        <card number="1" name="Jace's Sanctum"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mizzium Mortars"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Winged Words"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Field Research"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
     </zone>
 </cockatrice_deck>

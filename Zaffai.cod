@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Zaffai</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Zaffai, Thunder Conductor"/>
+        <card number="1" name="Aether Gale"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Brass's Bounty"/>
+        <card number="1" name="Creative Technique"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Veyran, Voice of Duality"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Reduce // Rubble"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Insult // Injury"/>
+        <card number="1" name="Rough // Tumble"/>
+        <card number="1" name="Turn // Burn"/>
+        <card number="1" name="Invert // Invent"/>
+        <card number="1" name="Volcanic Vision"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Inspiring Refrain"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Rousing Refrain"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Double Vision"/>
+        <card number="1" name="Swarm Intelligence"/>
+        <card number="1" name="The Mirari Conjecture"/>
+        <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
+        <card number="1" name="Gadrak, the Crown-Scourge"/>
+        <card number="1" name="Comet Storm"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Multiple Choice"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Ral, Storm Conduit"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Mind Spring"/>
+        <card number="1" name="Telling Time"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Practical Research"/>
+        <card number="1" name="Spelltwine"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Mage-Ring Network"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Prismari Campus"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="14" name="Island"/>
+        <card number="11" name="Mountain"/>
+        <card number="1" name="Increasing Vengeance"/>
+        <card number="1" name="Reverberate"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Goblin Electromancer"/>
+        <card number="1" name="Bury in Books"/>
+        <card number="1" name="Boon of the Wish-Giver"/>
+        <card number="1" name="Expansion // Explosion"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Jaya Ballard"/>
+        <card number="1" name="Chaos Warp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Jaya Ballard"/>
+        <card number="1" name="Multiple Choice"/>
+        <card number="1" name="Volcanic Salvo"/>
+        <card number="1" name="Banefire"/>
+        <card number="1" name="Elemental Masterpiece"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Seething Song"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Expansion // Explosion"/>
+        <card number="1" name="Krark, the Thumbless"/>
+        <card number="1" name="Captain Lannery Storm"/>
+        <card number="1" name="Increasing Vengeance"/>
+        <card number="1" name="Refuse // Cooperate"/>
+        <card number="1" name="Uvilda, Dean of Perfection"/>
+        <card number="1" name="Reinterpret"/>
+        <card number="1" name="Pyromancer's Goggles"/>
+        <card number="1" name="Negate"/>
+    </zone>
+</cockatrice_deck>

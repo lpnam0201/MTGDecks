@@ -39,9 +39,6 @@
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Battlefield Forge"/>
-        <card number="1" name="Izzet Boilerworks"/>
-        <card number="1" name="Azorius Chancery"/>
-        <card number="1" name="Boros Garrison"/>
         <card number="8" name="Mountain"/>
         <card number="8" name="Island"/>
         <card number="5" name="Plains"/>
@@ -85,6 +82,9 @@
         <card number="1" name="Crackle with Power"/>
         <card number="1" name="Past in Flames"/>
         <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Bluff"/>
     </zone>
     <zone name="side">
         <card number="1" name="Time Wipe"/>
@@ -185,5 +185,8 @@
         <card number="1" name="Lightning Strike"/>
         <card number="1" name="Lorehold Apprentice"/>
         <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Boros Garrison"/>
     </zone>
 </cockatrice_deck>

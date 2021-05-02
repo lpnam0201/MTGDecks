@@ -58,9 +58,6 @@
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="General's Enforcer"/>
         <card number="1" name="Whispersilk Cloak"/>
-        <card number="1" name="Boros Garrison"/>
-        <card number="1" name="Orzhov Basilica"/>
-        <card number="1" name="Rakdos Carnarium"/>
         <card number="1" name="Inspiring Statuary"/>
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Explorer's Scope"/>
@@ -84,6 +81,9 @@
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Thriving Bluff"/>
     </zone>
     <zone name="side">
         <card number="1" name="Slayers' Stronghold"/>
@@ -184,9 +184,9 @@
         <card number="1" name="Day of Judgment"/>
         <card number="1" name="Nahiri, Storm of Stone"/>
         <card number="2" name="Funeral Rites"/>
-        <card number="1" name="Orzhov Basilica"/>
-        <card number="1" name="Boros Garrison"/>
-        <card number="1" name="Rakdos Carnarium"/>
+        <card number="2" name="Orzhov Basilica"/>
+        <card number="2" name="Boros Garrison"/>
+        <card number="2" name="Rakdos Carnarium"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Disenchant"/>
         <card number="2" name="Single Combat"/>

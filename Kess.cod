@@ -56,9 +56,6 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Impulse"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Rakdos Carnarium"/>
-        <card number="1" name="Dimir Aqueduct"/>
-        <card number="1" name="Izzet Boilerworks"/>
         <card number="1" name="Sunken Hollow"/>
         <card number="1" name="Shivan Reef"/>
         <card number="1" name="Seize the Spoils"/>
@@ -83,6 +80,9 @@
         <card number="1" name="Whelming Wave"/>
         <card number="1" name="Profane Transfusion"/>
         <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Isle"/>
     </zone>
     <zone name="side">
         <card number="1" name="Talisman of Creativity"/>
@@ -200,5 +200,8 @@
         <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Smoldering Marsh"/>
         <card number="1" name="Swarm Intelligence"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Dimir Aqueduct"/>
     </zone>
 </cockatrice_deck>

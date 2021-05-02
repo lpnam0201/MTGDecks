@@ -31,29 +31,23 @@
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Perpetual Timepiece"/>
-        <card number="1" name="Eerie Ultimatum"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Sandsteppe Citadel"/>
-        <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Orzhov Basilica"/>
-        <card number="1" name="Golgari Rot Farm"/>
-        <card number="1" name="Selesnya Sanctuary"/>
         <card number="1" name="Sungrass Prairie"/>
         <card number="1" name="Llanowar Wastes"/>
         <card number="1" name="Temple of Malady"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Temple of Plenty"/>
         <card number="9" name="Forest"/>
-        <card number="7" name="Swamp"/>
+        <card number="6" name="Swamp"/>
         <card number="6" name="Plains"/>
         <card number="1" name="Necromantic Selection"/>
         <card number="1" name="Nylea, Keen-Eyed"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Crashing Drawbridge"/>
-        <card number="1" name="Karametra, God of Harvests"/>
         <card number="1" name="Sunblade Angel"/>
         <card number="1" name="Gemrazer"/>
         <card number="1" name="Archon of Valor's Reach"/>
@@ -69,21 +63,28 @@
         <card number="1" name="Grapple with the Past"/>
         <card number="1" name="Adarkar Valkyrie"/>
         <card number="1" name="Relentless Pursuit"/>
-        <card number="1" name="Vampire of the Dire Moon"/>
         <card number="1" name="Plated Crusher"/>
         <card number="1" name="Gather the Pack"/>
         <card number="1" name="Price of Fame"/>
         <card number="1" name="Goring Ceratops"/>
-        <card number="1" name="Poison-Tip Archer"/>
         <card number="1" name="Arctic Treeline"/>
         <card number="1" name="Snowfield Sinkhole"/>
         <card number="1" name="Woodland Chasm"/>
-        <card number="1" name="Verge Rangers"/>
         <card number="1" name="Scout the Borders"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Victimize"/>
-        <card number="1" name="Seraph of the Suns"/>
-        <card number="1" name="Demon of Loathing"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Bassara Tower Archer"/>
+        <card number="1" name="Aven Sunstriker"/>
+        <card number="1" name="Skyhunter Skirmisher"/>
+        <card number="1" name="Darksteel Myr"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Ghostblade Eidolon"/>
+        <card number="1" name="Kwende, Pride of Femeref"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Eerie Ultimatum"/>
     </zone>
     <zone name="side">
         <card number="1" name="Return of the Wildspeaker"/>
@@ -103,8 +104,7 @@
         <card number="1" name="The Binding of the Titans"/>
         <card number="1" name="Dread Return"/>
         <card number="1" name="Winding Way"/>
-        <card number="2" name="Karametra, God of Harvests"/>
-        <card number="2" name="Bassara Tower Archer"/>
+        <card number="3" name="Karametra, God of Harvests"/>
         <card number="1" name="Archon of Valor's Reach"/>
         <card number="1" name="Cataclysmic Gearhulk"/>
         <card number="2" name="Splinterfright"/>
@@ -151,7 +151,7 @@
         <card number="1" name="Sawtusk Demolisher"/>
         <card number="1" name="Winged Shepherd"/>
         <card number="1" name="Harmonize"/>
-        <card number="1" name="Cleansing Nova"/>
+        <card number="2" name="Cleansing Nova"/>
         <card number="1" name="Nesting Grounds"/>
         <card number="1" name="Geier Reach Sanitarium"/>
         <card number="1" name="Vengeful Reaper"/>
@@ -176,14 +176,28 @@
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Liesa, Shroud of Dusk"/>
         <card number="1" name="Forest"/>
-        <card number="1" name="Plains"/>
+        <card number="2" name="Plains"/>
         <card number="1" name="Swamp"/>
-        <card number="1" name="Verge Rangers"/>
+        <card number="2" name="Verge Rangers"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Commune with the Gods"/>
         <card number="1" name="Victimize"/>
-        <card number="1" name="Fencing Ace"/>
+        <card number="2" name="Fencing Ace"/>
         <card number="1" name="Living Death"/>
         <card number="1" name="Doom Whisperer"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Eerie Ultimatum"/>
+        <card number="1" name="Vampire of the Dire Moon"/>
+        <card number="1" name="Demon of Loathing"/>
+        <card number="1" name="Predator Ooze"/>
+        <card number="1" name="Seraph of the Suns"/>
+        <card number="1" name="Poison-Tip Archer"/>
+        <card number="2" name="Heavenly Blademaster"/>
+        <card number="2" name="Vine Mare"/>
+        <card number="1" name="Primal Huntbeast"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Command the Dreadhorde"/>
     </zone>
 </cockatrice_deck>

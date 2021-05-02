@@ -62,9 +62,6 @@
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Mossfire Valley"/>
         <card number="1" name="Shivan Reef"/>
-        <card number="1" name="Gruul Turf"/>
-        <card number="1" name="Izzet Boilerworks"/>
-        <card number="1" name="Simic Growth Chamber"/>
         <card number="1" name="Temple of Epiphany"/>
         <card number="1" name="Temple of Mystery"/>
         <card number="1" name="Temple of Abandon"/>
@@ -86,6 +83,9 @@
         <card number="1" name="Archmage Emeritus"/>
         <card number="1" name="Aetherize"/>
         <card number="1" name="Swarm Intelligence"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Isle"/>
     </zone>
     <zone name="side">
         <card number="2" name="Mission Briefing"/>
@@ -109,5 +109,8 @@
         <card number="1" name="Swarm Intelligence"/>
         <card number="1" name="Anticipate"/>
         <card number="1" name="Ral Zarek"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Izzet Boilerworks"/>
     </zone>
 </cockatrice_deck>

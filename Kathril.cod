@@ -79,12 +79,12 @@
         <card number="1" name="Bassara Tower Archer"/>
         <card number="1" name="Aven Sunstriker"/>
         <card number="1" name="Skyhunter Skirmisher"/>
-        <card number="1" name="Darksteel Myr"/>
         <card number="1" name="Key to the City"/>
         <card number="1" name="Ghostblade Eidolon"/>
         <card number="1" name="Kwende, Pride of Femeref"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Eerie Ultimatum"/>
+        <card number="1" name="Eternal Witness"/>
     </zone>
     <zone name="side">
         <card number="1" name="Return of the Wildspeaker"/>
@@ -199,5 +199,6 @@
         <card number="1" name="Primal Huntbeast"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Darksteel Myr"/>
     </zone>
 </cockatrice_deck>

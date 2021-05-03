@@ -67,13 +67,11 @@
         <card number="1" name="Ilysian Caryatid"/>
         <card number="1" name="Amareth, the Lustrous"/>
         <card number="1" name="Glorious Protector"/>
-        <card number="1" name="Prophet of Kruphix"/>
         <card number="1" name="Angel of Condemnation"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Ondu Inversion"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Crib Swap"/>
         <card number="1" name="Kiora, Behemoth Beckoner"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Mana Leak"/>
@@ -85,6 +83,8 @@
         <card number="1" name="Clone"/>
         <card number="1" name="Harmonic Sliver"/>
         <card number="1" name="Angel of Finality"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="End-Raze Forerunners"/>
     </zone>
     <zone name="side">
         <card number="1" name="Conjurer's Closet"/>
@@ -95,7 +95,6 @@
         <card number="1" name="Blessed Sanctuary"/>
         <card number="3" name="Forest"/>
         <card number="2" name="Yorion, Sky Nomad"/>
-        <card number="1" name="End-Raze Forerunners"/>
         <card number="1" name="Jhoira's Familiar"/>
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Elvish Visionary"/>
@@ -119,7 +118,6 @@
         <card number="1" name="Yavimaya Dryad"/>
         <card number="1" name="Palace Jailer"/>
         <card number="1" name="Wall of Blossoms"/>
-        <card number="1" name="Chulane, Teller of Tales"/>
         <card number="1" name="Bant Charm"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="2" name="Knight of Autumn"/>
@@ -135,5 +133,9 @@
         <card number="1" name="Incubation Druid"/>
         <card number="1" name="Clever Impersonator"/>
         <card number="1" name="Murkfiend Liege"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Kunoros, Hound of Athreos"/>
+        <card number="1" name="Prophet of Kruphix"/>
+        <card number="1" name="Chulane, Teller of Tales"/>
     </zone>
 </cockatrice_deck>

@@ -10,7 +10,6 @@
         <card number="1" name="Gargos, Vicious Watcher"/>
         <card number="1" name="Steelbane Hydra"/>
         <card number="1" name="Vastwood Hydra"/>
-        <card number="1" name="Unbound Flourishing"/>
         <card number="1" name="Villainous Wealth"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Cultivate"/>
@@ -18,7 +17,6 @@
         <card number="1" name="Profane Command"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Simic Ascendancy"/>
         <card number="1" name="Corpsejack Menace"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Vorel of the Hull Clade"/>
@@ -28,7 +26,6 @@
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Erebos's Intervention"/>
         <card number="1" name="Solidarity of Heroes"/>
-        <card number="1" name="The Ozolith"/>
         <card number="1" name="Nylea's Intervention"/>
         <card number="1" name="Thassa's Intervention"/>
         <card number="1" name="Arcane Signet"/>
@@ -36,7 +33,6 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Altered Ego"/>
-        <card number="1" name="Herald of Secret Streams"/>
         <card number="1" name="Incubation Druid"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Syncopate"/>
@@ -75,19 +71,13 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Pull from Tomorrow"/>
         <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Primordial Hydra"/>
-        <card number="1" name="Hydroid Krasis"/>
         <card number="1" name="Kiora, Master of the Depths"/>
         <card number="1" name="Stroke of Genius"/>
         <card number="1" name="Torment of Hailfire"/>
         <card number="1" name="Finale of Revelation"/>
         <card number="1" name="Vizier of Tumbling Sands"/>
-        <card number="1" name="Wild Growth"/>
         <card number="1" name="Gadwick, the Wizened"/>
-        <card number="1" name="Stonecoil Serpent"/>
-        <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Freed from the Real"/>
         <card number="1" name="Managorger Hydra"/>
         <card number="1" name="Epiphany at the Drownyard"/>
     </zone>
@@ -131,5 +121,15 @@
         <card number="1" name="Overgrowth"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Nissa, Steward of Elements"/>
+        <card number="1" name="The Ozolith"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Hydroid Krasis"/>
+        <card number="1" name="Primordial Hydra"/>
+        <card number="1" name="Herald of Secret Streams"/>
+        <card number="1" name="Stonecoil Serpent"/>
+        <card number="1" name="Freed from the Real"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Simic Ascendancy"/>
+        <card number="1" name="Unbound Flourishing"/>
     </zone>
 </cockatrice_deck>

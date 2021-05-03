@@ -76,9 +76,9 @@
         <card number="1" name="Kiora, Behemoth Beckoner"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Elder Deep-Fiend"/>
-        <card number="1" name="Lorthos, the Tidemaker"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Rimewood Falls"/>
+        <card number="1" name="Courser of Kruphix"/>
     </zone>
     <zone name="side">
         <card number="1" name="Embodiment of Insight"/>
@@ -138,9 +138,9 @@
         <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Regrowth"/>
         <card number="1" name="Warped Landscape"/>
-        <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Fertilid"/>
         <card number="1" name="Scute Mob"/>
         <card number="1" name="End-Raze Forerunners"/>
+        <card number="1" name="Lorthos, the Tidemaker"/>
     </zone>
 </cockatrice_deck>

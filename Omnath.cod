@@ -73,7 +73,7 @@
         <card number="1" name="Outpost Siege"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Yavimaya Elder"/>
-        <card number="1" name="Ranger's Path"/>
+        <card number="1" name="Hunting Wilds"/>
     </zone>
     <zone name="side">
         <card number="1" name="Tempt with Vengeance"/>
@@ -149,7 +149,7 @@
         <card number="1" name="Ghost Quarter"/>
         <card number="1" name="Boundless Realms"/>
         <card number="1" name="Three Visits"/>
-        <card number="1" name="Ranger's Path"/>
+        <card number="2" name="Ranger's Path"/>
         <card number="1" name="Praetor's Counsel"/>
         <card number="1" name="Hammer of Purphoros"/>
         <card number="1" name="Life's Legacy"/>

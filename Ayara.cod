@@ -71,7 +71,6 @@
         <card number="1" name="Sengir Autocrat"/>
         <card number="1" name="Oathsworn Vampire"/>
         <card number="1" name="Force of Despair"/>
-        <card number="1" name="Murder"/>
         <card number="1" name="Plumb the Forbidden"/>
         <card number="1" name="Pharika's Libation"/>
         <card number="1" name="Blacklance Paragon"/>
@@ -98,5 +97,6 @@
         <card number="1" name="Rise of the Dread Marn"/>
         <card number="1" name="Sign in Blood"/>
         <card number="1" name="Tenacious Dead"/>
+        <card number="1" name="Murder"/>
     </zone>
 </cockatrice_deck>

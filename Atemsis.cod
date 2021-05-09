@@ -4,5 +4,94 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Atemsis, All-Seeing"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Ravenform"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Thought Reflection"/>
+        <card number="1" name="Teferi's Ageless Insight"/>
+        <card number="1" name="Arcanis the Omnipotent"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Paradoxical Outcome"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Midnight Clock"/>
+        <card number="1" name="Body of Knowledge"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Sorcerer's Wand"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Viridian Longbow"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Gadwick, the Wizened"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Stormtide Leviathan"/>
+        <card number="1" name="Vizier of Tumbling Sands"/>
+        <card number="1" name="Kelpie Guide"/>
+        <card number="1" name="Kefnet the Mindful"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Behold the Multiverse"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Bag of Holding"/>
+        <card number="1" name="Wolfhunter's Quiver"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="30" name="Island"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Rush of Knowledge"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Guildless Commons"/>
+        <card number="1" name="Coral Atoll"/>
+        <card number="1" name="Folio of Fancies"/>
+        <card number="1" name="Esior, Wardwing Familiar"/>
+        <card number="1" name="Foil"/>
+        <card number="1" name="Aqueous Form"/>
+        <card number="1" name="Dive Down"/>
+        <card number="1" name="Keep Safe"/>
+        <card number="1" name="Siren Stormtamer"/>
+        <card number="1" name="Turn Aside"/>
+        <card number="1" name="Boon of the Wish-Giver"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Serum Visions"/>
+        <card number="1" name="Blighted Cataract"/>
+        <card number="2" name="Spectral Deluge"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Memorial to Genius"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Rush of Knowledge"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Mizzium Skin"/>
+        <card number="1" name="Disciple of the Ring"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Game Plan"/>
     </zone>
 </cockatrice_deck>

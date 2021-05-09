@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Purphoros</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Purphoros, Bronze-Blooded"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Hellkite Tyrant"/>
+        <card number="1" name="Feldon of the Third Path"/>
+        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Dragon Mage"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Ryusei, the Falling Star"/>
+        <card number="1" name="Inferno Titan"/>
+        <card number="1" name="Molten Primordial"/>
+        <card number="1" name="Tyrant's Familiar"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Sundial of the Infinite"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Introduction to Annihilation"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mimic Vat"/>
+        <card number="1" name="Sandstone Oracle"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Terror of Mount Velus"/>
+        <card number="1" name="Neheb, Dreadhorde Champion"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Bogardan Hellkite"/>
+        <card number="1" name="Angrath's Marauders"/>
+        <card number="1" name="Alena, Kessig Trapper"/>
+        <card number="1" name="Clone Shell"/>
+        <card number="1" name="Avatar of Slaughter"/>
+        <card number="1" name="Port Razer"/>
+        <card number="1" name="Fling"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="1" name="By Force"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Cauldron of Souls"/>
+        <card number="1" name="Fires of Invention"/>
+        <card number="1" name="Mirror March"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Endless Sands"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="30" name="Mountain"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Chaos Maw"/>
+        <card number="1" name="Crater Hellion"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Storm's Wrath"/>
+        <card number="1" name="Endless Atlas"/>
+        <card number="1" name="Magma Phoenix"/>
+        <card number="1" name="Dreamshaper Shaman"/>
+        <card number="1" name="Experimental Frenzy"/>
+        <card number="1" name="Vance's Blasting Cannons"/>
+        <card number="1" name="Ruin Grinder"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Altar of the Pantheon"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Bearer of the Heavens"/>
+        <card number="1" name="Hazoret's Monument"/>
+        <card number="1" name="Leyline Tyrant"/>
+        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="1" name="Furious Rise"/>
+        <card number="1" name="Kazuul's Fury"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Lukka, Coppercoat Outcast"/>
+        <card number="1" name="Reverberate"/>
+        <card number="1" name="Valakut Exploration"/>
+        <card number="1" name="Immortal Phoenix"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Tormenting Voice"/>
+        <card number="1" name="Gadrak, the Crown-Scourge"/>
+    </zone>
+</cockatrice_deck>

@@ -15,29 +15,18 @@
         <card number="1" name="Lifeblood Hydra"/>
         <card number="1" name="Steelbane Hydra"/>
         <card number="1" name="Hydra Broodmaster"/>
-        <card number="1" name="Hooded Hydra"/>
-        <card number="1" name="The Ozolith"/>
-        <card number="1" name="Polukranos, World Eater"/>
-        <card number="1" name="Rhythm of the Wild"/>
         <card number="1" name="Clan Defiance"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Managorger Hydra"/>
         <card number="1" name="Savage Twister"/>
-        <card number="1" name="Feral Hydra"/>
         <card number="1" name="Comet Storm"/>
         <card number="1" name="Zendikar Resurgent"/>
-        <card number="1" name="Stonecoil Serpent"/>
-        <card number="1" name="Domesticated Hydra"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Magus of the Candelabra"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Flameblast Dragon"/>
         <card number="1" name="Steel Hellkite"/>
         <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Solidarity of Heroes"/>
         <card number="1" name="Heaven // Earth"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Starstorm"/>
@@ -46,12 +35,70 @@
         <card number="1" name="Hunter's Insight"/>
         <card number="1" name="Wildest Dreams"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Reap the Past"/>
         <card number="1" name="Banefire"/>
         <card number="1" name="Harmonize"/>
-        <card number="1" name="Bonfire of the Damned"/>
+        <card number="1" name="Crackle with Power"/>
+        <card number="1" name="Elementalist's Palette"/>
+        <card number="1" name="Exponential Growth"/>
+        <card number="1" name="Thousand-Year Elixir"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Animist's Awakening"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Magus of the Candelabra"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Khenra Charioteer"/>
+        <card number="1" name="Aggressive Mammoth"/>
+        <card number="1" name="Gilanra, Caller of Wirewood"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Reverberate"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Highland Forest"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="1" name="Jaya's Immolating Inferno"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Vastwood Surge"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Horizon Stone"/>
+        <card number="1" name="Nissa, Who Shakes the World"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Rugged Highlands"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="16" name="Forest"/>
+        <card number="10" name="Mountain"/>
     </zone>
     <zone name="side">
         <card number="1" name="Heartbeat of Spring"/>
+        <card number="1" name="The Ozolith"/>
+        <card number="1" name="Domesticated Hydra"/>
+        <card number="1" name="Feral Hydra"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Magus of the Candelabra"/>
+        <card number="1" name="Stonecoil Serpent"/>
+        <card number="1" name="Solidarity of Heroes"/>
+        <card number="1" name="Bonfire of the Damned"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Polukranos, World Eater"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Pest Infestation"/>
+        <card number="1" name="Purphoros's Intervention"/>
+        <card number="1" name="Nylea's Intervention"/>
+        <card number="1" name="Reap the Past"/>
     </zone>
 </cockatrice_deck>

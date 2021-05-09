@@ -22,7 +22,6 @@
         <card number="1" name="Zareth San, the Trickster"/>
         <card number="1" name="Notorious Throng"/>
         <card number="1" name="Fact or Fiction"/>
-        <card number="1" name="Murder"/>
         <card number="1" name="Sygg, River Cutthroat"/>
         <card number="1" name="Oona's Blackguard"/>
         <card number="1" name="Notion Thief"/>
@@ -83,6 +82,7 @@
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Aetherize"/>
         <card number="1" name="Propaganda"/>
+        <card number="1" name="Poison the Cup"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -176,5 +176,6 @@
         <card number="1" name="Flood of Tears"/>
         <card number="1" name="Spelltwine"/>
         <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Murder"/>
     </zone>
 </cockatrice_deck>

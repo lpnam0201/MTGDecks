@@ -70,7 +70,6 @@
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Brave the Elements"/>
         <card number="1" name="Benevolent Bodyguard"/>
-        <card number="1" name="Emerge Unscathed"/>
         <card number="1" name="Hedron Archive"/>
         <card number="1" name="Kediss, Emberclaw Familiar"/>
         <card number="1" name="Reyav, Master Smith"/>
@@ -84,6 +83,7 @@
         <card number="1" name="Thriving Heath"/>
         <card number="1" name="Thriving Moor"/>
         <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Relentless Assault"/>
     </zone>
     <zone name="side">
         <card number="1" name="Slayers' Stronghold"/>

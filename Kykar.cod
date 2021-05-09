@@ -62,7 +62,6 @@
         <card number="1" name="Expedite"/>
         <card number="1" name="Izzet Charm"/>
         <card number="1" name="Crash Through"/>
-        <card number="1" name="Renegade Tactics"/>
         <card number="1" name="Warlord's Fury"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="The Mirari Conjecture"/>
@@ -156,7 +155,7 @@
         <card number="1" name="Cathartic Reunion"/>
         <card number="1" name="Crash Through"/>
         <card number="2" name="Past in Flames"/>
-        <card number="1" name="Renegade Tactics"/>
+        <card number="2" name="Renegade Tactics"/>
         <card number="1" name="Warlord's Fury"/>
         <card number="1" name="Ephara, God of the Polis"/>
         <card number="1" name="Increasing Vengeance"/>

@@ -49,7 +49,6 @@
         <card number="1" name="Migration Path"/>
         <card number="1" name="Vigor"/>
         <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Kodama's Reach"/>
@@ -74,6 +73,7 @@
         <card number="1" name="Rhonas's Monument"/>
         <card number="1" name="Charge Through"/>
         <card number="1" name="Oran-Rief Hydra"/>
+        <card number="1" name="Monstrous Onslaught"/>
     </zone>
     <zone name="side">
         <card number="1" name="Prowling Serpopard"/>
@@ -153,7 +153,7 @@
         <card number="1" name="Destiny Spinner"/>
         <card number="2" name="Prey Upon"/>
         <card number="1" name="Oakhame Adversary"/>
-        <card number="1" name="Khalni Ambush"/>
+        <card number="2" name="Khalni Ambush"/>
         <card number="1" name="Hunter's Prowess"/>
         <card number="1" name="Season of Growth"/>
         <card number="1" name="Canopy Cover"/>
@@ -173,5 +173,6 @@
         <card number="1" name="Oran-Rief Hydra"/>
         <card number="1" name="Genesis Hydra"/>
         <card number="1" name="Battlemage's Bracers"/>
+        <card number="1" name="Swiftfoot Boots"/>
     </zone>
 </cockatrice_deck>

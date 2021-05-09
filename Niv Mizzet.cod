@@ -50,8 +50,6 @@
         <card number="1" name="Thirst for Knowledge"/>
         <card number="1" name="Faithless Looting"/>
         <card number="1" name="Wandering Fumarole"/>
-        <card number="1" name="Vivid Creek"/>
-        <card number="1" name="Vivid Crag"/>
         <card number="1" name="Pyretic Ritual"/>
         <card number="1" name="Thrill of Possibility"/>
         <card number="1" name="Frantic Search"/>
@@ -64,7 +62,6 @@
         <card number="1" name="Aetherspouts"/>
         <card number="1" name="Essence Scatter"/>
         <card number="1" name="Saw It Coming"/>
-        <card number="1" name="Neutralize"/>
         <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Volatile Fjord"/>
         <card number="1" name="Prismari Campus"/>
@@ -83,6 +80,9 @@
         <card number="1" name="Sulfur Falls"/>
         <card number="1" name="Desperate Ritual"/>
         <card number="1" name="Unsummon"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Bluff"/>
     </zone>
     <zone name="side">
         <card number="1" name="Izzet Cluestone"/>
@@ -226,8 +226,8 @@
         <card number="1" name="Rupture Spire"/>
         <card number="1" name="Base Camp"/>
         <card number="1" name="Transguild Promenade"/>
-        <card number="1" name="Vivid Crag"/>
-        <card number="1" name="Vivid Creek"/>
+        <card number="2" name="Vivid Crag"/>
+        <card number="2" name="Vivid Creek"/>
         <card number="1" name="Collective Defiance"/>
         <card number="1" name="Sleight of Hand"/>
         <card number="1" name="Lightning Greaves"/>
@@ -255,5 +255,6 @@
         <card number="1" name="Seething Song"/>
         <card number="1" name="Compulsive Research"/>
         <card number="1" name="Misdirection"/>
+        <card number="1" name="Neutralize"/>
     </zone>
 </cockatrice_deck>

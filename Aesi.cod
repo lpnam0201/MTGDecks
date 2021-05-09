@@ -51,7 +51,6 @@
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Simic Charm"/>
         <card number="1" name="Terastodon"/>
-        <card number="1" name="Explosive Vegetation"/>
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Dragon Throne of Tarkir"/>
         <card number="1" name="Creeping Renaissance"/>
@@ -59,7 +58,6 @@
         <card number="1" name="Growth Spiral"/>
         <card number="1" name="Explore"/>
         <card number="1" name="Search for Tomorrow"/>
-        <card number="1" name="Meloku the Clouded Mirror"/>
         <card number="1" name="Woodland Stream"/>
         <card number="1" name="Thornwood Falls"/>
         <card number="1" name="Kogla, the Titan Ape"/>
@@ -79,6 +77,8 @@
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Rimewood Falls"/>
         <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Verdant Mastery"/>
+        <card number="1" name="Liege of the Tangle"/>
     </zone>
     <zone name="side">
         <card number="1" name="Embodiment of Insight"/>
@@ -88,7 +88,7 @@
         <card number="2" name="Turntimber Basilisk"/>
         <card number="1" name="Retreat to Kazandu"/>
         <card number="1" name="Retreat to Coralhelm"/>
-        <card number="1" name="Meloku the Clouded Mirror"/>
+        <card number="2" name="Meloku the Clouded Mirror"/>
         <card number="1" name="Growth Spiral"/>
         <card number="2" name="Llanowar Scout"/>
         <card number="1" name="Seer's Sundial"/>
@@ -142,5 +142,6 @@
         <card number="1" name="Scute Mob"/>
         <card number="1" name="End-Raze Forerunners"/>
         <card number="1" name="Lorthos, the Tidemaker"/>
+        <card number="1" name="Explosive Vegetation"/>
     </zone>
 </cockatrice_deck>

@@ -15,9 +15,7 @@
         <card number="1" name="Archaeomancer's Map"/>
         <card number="1" name="Digsite Engineer"/>
         <card number="1" name="Losheel, Clockwork Scholar"/>
-        <card number="1" name="Monologue Tax"/>
         <card number="1" name="Commander's Sphere"/>
-        <card number="1" name="Scrap Trawler"/>
         <card number="1" name="Osgir, the Reconstructor"/>
         <card number="1" name="Daretti, Scrap Savant"/>
         <card number="1" name="Solemn Simulacrum"/>
@@ -81,6 +79,8 @@
         <card number="1" name="Slayers' Stronghold"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Zirda, the Dawnwaker"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Monologue Tax"/>
     </zone>
     <zone name="side">
         <card number="1" name="Phyrexia's Core"/>
@@ -107,5 +107,7 @@
         <card number="1" name="Mycosynth Wellspring"/>
         <card number="1" name="Zirda, the Dawnwaker"/>
         <card number="1" name="Quicksmith Genius"/>
+        <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Scrap Trawler"/>
     </zone>
 </cockatrice_deck>

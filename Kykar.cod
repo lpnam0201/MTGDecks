@@ -40,7 +40,7 @@
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="8" name="Mountain"/>
-        <card number="8" name="Island"/>
+        <card number="9" name="Island"/>
         <card number="5" name="Plains"/>
         <card number="1" name="Elsha of the Infinite"/>
         <card number="1" name="Inspired Ultimatum"/>
@@ -67,7 +67,6 @@
         <card number="1" name="The Mirari Conjecture"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Propaganda"/>
-        <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Shivan Reef"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Swiftwater Cliffs"/>
@@ -84,6 +83,7 @@
         <card number="1" name="Thriving Isle"/>
         <card number="1" name="Thriving Heath"/>
         <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Swarm Intelligence"/>
     </zone>
     <zone name="side">
         <card number="1" name="Time Wipe"/>
@@ -133,7 +133,7 @@
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Unsummon"/>
-        <card number="2" name="Swarm Intelligence"/>
+        <card number="1" name="Swarm Intelligence"/>
         <card number="1" name="Darksteel Ingot"/>
         <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Chain Lightning"/>
@@ -187,5 +187,6 @@
         <card number="1" name="Izzet Boilerworks"/>
         <card number="1" name="Azorius Chancery"/>
         <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Hallowed Fountain"/>
     </zone>
 </cockatrice_deck>

@@ -33,14 +33,9 @@
         <card number="1" name="Duplicant"/>
         <card number="1" name="Bogardan Hellkite"/>
         <card number="1" name="Angrath's Marauders"/>
-        <card number="1" name="Alena, Kessig Trapper"/>
         <card number="1" name="Clone Shell"/>
         <card number="1" name="Avatar of Slaughter"/>
-        <card number="1" name="Port Razer"/>
-        <card number="1" name="Fling"/>
-        <card number="1" name="Abrade"/>
         <card number="1" name="Bolt Bend"/>
-        <card number="1" name="Cathartic Reunion"/>
         <card number="1" name="By Force"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Cauldron of Souls"/>
@@ -67,13 +62,18 @@
         <card number="1" name="Crater Hellion"/>
         <card number="1" name="Hedron Archive"/>
         <card number="1" name="Nevinyrral's Disk"/>
-        <card number="1" name="Storm's Wrath"/>
         <card number="1" name="Endless Atlas"/>
         <card number="1" name="Magma Phoenix"/>
         <card number="1" name="Dreamshaper Shaman"/>
         <card number="1" name="Experimental Frenzy"/>
         <card number="1" name="Vance's Blasting Cannons"/>
         <card number="1" name="Ruin Grinder"/>
+        <card number="1" name="Tectonic Giant"/>
+        <card number="1" name="Unleash Fury"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Gadrak, the Crown-Scourge"/>
+        <card number="1" name="Storm's Wrath"/>
     </zone>
     <zone name="side">
         <card number="1" name="Fire Diamond"/>
@@ -86,13 +86,17 @@
         <card number="1" name="Moraug, Fury of Akoum"/>
         <card number="1" name="Furious Rise"/>
         <card number="1" name="Kazuul's Fury"/>
-        <card number="1" name="Burnished Hart"/>
         <card number="1" name="Lukka, Coppercoat Outcast"/>
         <card number="1" name="Reverberate"/>
         <card number="1" name="Valakut Exploration"/>
         <card number="1" name="Immortal Phoenix"/>
         <card number="1" name="Thrill of Possibility"/>
         <card number="1" name="Tormenting Voice"/>
-        <card number="1" name="Gadrak, the Crown-Scourge"/>
+        <card number="1" name="Port Razer"/>
+        <card number="1" name="Fling"/>
+        <card number="1" name="Alena, Kessig Trapper"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="1" name="Storm's Wrath"/>
+        <card number="1" name="Abrade"/>
     </zone>
 </cockatrice_deck>

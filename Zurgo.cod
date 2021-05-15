@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Zurgo</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Zurgo Helmsmasher"/>
+        <card number="1" name="Ruinous Ultimatum"/>
+    </zone>
+</cockatrice_deck>

@@ -4,32 +4,18 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Liesa, Shroud of Dusk"/>
-        <card number="1" name="Fracture"/>
         <card number="1" name="Utter End"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Revenge of Ravens"/>
-        <card number="1" name="Final Payment"/>
         <card number="1" name="Ghostly Prison"/>
-        <card number="1" name="Invoke the Divine"/>
-        <card number="1" name="Consecrate // Consume"/>
         <card number="1" name="Dire Tactics"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Oblation"/>
         <card number="1" name="Crib Swap"/>
-        <card number="1" name="Crush Contraband"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Fumigate"/>
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Hour of Revelation"/>
-        <card number="1" name="Bolas's Citadel"/>
-        <card number="1" name="Angelic Accord"/>
-        <card number="1" name="Dawn of Hope"/>
         <card number="1" name="Underworld Connections"/>
-        <card number="1" name="Griffin Aerie"/>
-        <card number="1" name="Court of Ambition"/>
-        <card number="1" name="Ashes of the Abhorrent"/>
-        <card number="1" name="Hissing Miasma"/>
-        <card number="1" name="Marchesa's Decree"/>
         <card number="1" name="Sanguine Bond"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
@@ -41,32 +27,15 @@
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Star Compass"/>
         <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Marauding Blight-Priest"/>
-        <card number="1" name="Indulging Patrician"/>
-        <card number="1" name="Drana's Emissary"/>
         <card number="1" name="Well of Lost Dreams"/>
         <card number="1" name="Vizkopa Guildmage"/>
-        <card number="1" name="Angel of Vitality"/>
         <card number="1" name="Firja's Retribution"/>
-        <card number="1" name="Kambal, Consul of Allocation"/>
         <card number="1" name="Read the Bones"/>
-        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
-        <card number="1" name="Marble Diamond"/>
-        <card number="1" name="Charcoal Diamond"/>
-        <card number="1" name="Ajani's Pridemate"/>
-        <card number="1" name="Vampire Nighthawk"/>
-        <card number="1" name="Bloodthirsty Aerialist"/>
-        <card number="1" name="Starnheim Aspirant"/>
-        <card number="1" name="Defiant Bloodlord"/>
-        <card number="1" name="Hushbringer"/>
-        <card number="1" name="Kunoros, Hound of Athreos"/>
-        <card number="1" name="Silversmote Ghoul"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Ambition's Cost"/>
         <card number="1" name="Ancient Craving"/>
         <card number="1" name="Mask of Memory"/>
         <card number="1" name="Greed"/>
-        <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Thriving Heath"/>
         <card number="1" name="Thriving Moor"/>
@@ -82,13 +51,79 @@
         <card number="1" name="Myriad Landscape"/>
         <card number="11" name="Plains"/>
         <card number="11" name="Swamp"/>
-        <card number="1" name="Heliod's Intervention"/>
+        <card number="1" name="Rampage of the Valkyries"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Tragic Arrogance"/>
+        <card number="1" name="Single Combat"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Silverquill Campus"/>
+        <card number="1" name="Breena, the Demagogue"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Poison the Cup"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Inquisitor's Flail"/>
+        <card number="1" name="Battle Mastery"/>
+        <card number="1" name="Silverblade Paladin"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Phyresis"/>
+        <card number="1" name="Glistening Oil"/>
+        <card number="1" name="Tainted Strike"/>
+        <card number="1" name="Light of Promise"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Rebuff the Wicked"/>
+        <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Armillary Sphere"/>
+        <card number="1" name="Angelic Accord"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Fracture"/>
     </zone>
     <zone name="side">
         <card number="1" name="Deafening Silence"/>
         <card number="1" name="Light of Promise"/>
         <card number="1" name="Revitalize"/>
-        <card number="1" name="Ashes of the Abhorrent"/>
+        <card number="2" name="Ashes of the Abhorrent"/>
         <card number="1" name="Boon Reflection"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Marchesa's Decree"/>
+        <card number="1" name="Revenge of Ravens"/>
+        <card number="1" name="Final Payment"/>
+        <card number="1" name="Court of Ambition"/>
+        <card number="1" name="Kambal, Consul of Allocation"/>
+        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="1" name="Marauding Blight-Priest"/>
+        <card number="1" name="Drana's Emissary"/>
+        <card number="1" name="Bloodthirsty Aerialist"/>
+        <card number="1" name="Ajani's Pridemate"/>
+        <card number="1" name="Angel of Vitality"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Hushbringer"/>
+        <card number="1" name="Starnheim Aspirant"/>
+        <card number="1" name="Hissing Miasma"/>
+        <card number="1" name="Consecrate // Consume"/>
+        <card number="2" name="Indulging Patrician"/>
+        <card number="1" name="Griffin Aerie"/>
+        <card number="1" name="Charcoal Diamond"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Vampire Nighthawk"/>
+        <card number="1" name="Defiant Bloodlord"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Silversmote Ghoul"/>
+        <card number="1" name="Heliod's Intervention"/>
+        <card number="1" name="Invoke the Divine"/>
+        <card number="1" name="Dawn of Hope"/>
+        <card number="1" name="Angel of Serenity"/>
+        <card number="1" name="Kunoros, Hound of Athreos"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Sundering Titan"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Crush Contraband"/>
     </zone>
 </cockatrice_deck>

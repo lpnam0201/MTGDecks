@@ -29,7 +29,6 @@
         <card number="1" name="Ravenous Chupacabra"/>
         <card number="1" name="Murderous Rider // Swift End"/>
         <card number="1" name="Nightmare Shepherd"/>
-        <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Bloodsoaked Champion"/>
         <card number="1" name="Lazotep Reaver"/>
         <card number="1" name="Shriekmaw"/>
@@ -74,6 +73,7 @@
         <card number="1" name="Plumb the Forbidden"/>
         <card number="1" name="Pharika's Libation"/>
         <card number="1" name="Blacklance Paragon"/>
+        <card number="1" name="Thought Vessel"/>
     </zone>
     <zone name="side">
         <card number="1" name="Feed the Swarm"/>
@@ -98,5 +98,6 @@
         <card number="1" name="Sign in Blood"/>
         <card number="1" name="Tenacious Dead"/>
         <card number="1" name="Murder"/>
+        <card number="1" name="Solemn Simulacrum"/>
     </zone>
 </cockatrice_deck>

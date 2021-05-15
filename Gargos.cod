@@ -55,7 +55,6 @@
         <card number="1" name="Cultivate"/>
         <card number="1" name="Nessian Wilds Ravager"/>
         <card number="1" name="Zendikar Resurgent"/>
-        <card number="1" name="Circuitous Route"/>
         <card number="1" name="Overgrowth"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Inscription of Abundance"/>
@@ -74,6 +73,7 @@
         <card number="1" name="Charge Through"/>
         <card number="1" name="Oran-Rief Hydra"/>
         <card number="1" name="Monstrous Onslaught"/>
+        <card number="1" name="Greater Good"/>
     </zone>
     <zone name="side">
         <card number="1" name="Prowling Serpopard"/>
@@ -174,5 +174,6 @@
         <card number="1" name="Genesis Hydra"/>
         <card number="1" name="Battlemage's Bracers"/>
         <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Circuitous Route"/>
     </zone>
 </cockatrice_deck>

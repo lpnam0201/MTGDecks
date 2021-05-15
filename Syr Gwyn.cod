@@ -79,11 +79,11 @@
         <card number="1" name="Open the Vaults"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Thriving Heath"/>
         <card number="1" name="Thriving Moor"/>
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Relentless Assault"/>
+        <card number="1" name="Ruinous Ultimatum"/>
     </zone>
     <zone name="side">
         <card number="1" name="Slayers' Stronghold"/>
@@ -233,7 +233,7 @@
         <card number="1" name="Argentum Armor"/>
         <card number="1" name="Sigiled Sword of Valeron"/>
         <card number="1" name="Puresteel Paladin"/>
-        <card number="1" name="Cleansing Nova"/>
+        <card number="2" name="Cleansing Nova"/>
         <card number="1" name="Solar Blaze"/>
     </zone>
 </cockatrice_deck>

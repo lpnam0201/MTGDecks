@@ -69,7 +69,6 @@
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Mana Geyser"/>
         <card number="1" name="Deliberate"/>
-        <card number="1" name="Scour All Possibilities"/>
         <card number="1" name="Serum Visions"/>
         <card number="1" name="Ponder"/>
         <card number="1" name="Whelming Wave"/>
@@ -83,6 +82,7 @@
         <card number="1" name="Misdirection"/>
         <card number="1" name="Thriving Isle"/>
         <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Torbran, Thane of Red Fell"/>
     </zone>
     <zone name="side">
         <card number="1" name="Izzet Cluestone"/>
@@ -237,7 +237,7 @@
         <card number="1" name="Soul Sear"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Radical Idea"/>
-        <card number="1" name="Scour All Possibilities"/>
+        <card number="2" name="Scour All Possibilities"/>
         <card number="1" name="Aetherspouts"/>
         <card number="1" name="Miscast"/>
         <card number="1" name="Unsummon"/>

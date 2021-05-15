@@ -5,22 +5,17 @@
     <zone name="main">
         <card number="1" name="Atemsis, All-Seeing"/>
         <card number="1" name="Misdirection"/>
-        <card number="1" name="Dig Through Time"/>
-        <card number="1" name="Ravenform"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Thought Reflection"/>
         <card number="1" name="Teferi's Ageless Insight"/>
-        <card number="1" name="Arcanis the Omnipotent"/>
         <card number="1" name="Nezahal, Primal Tide"/>
-        <card number="1" name="Paradoxical Outcome"/>
         <card number="1" name="Commit // Memory"/>
         <card number="1" name="Midnight Clock"/>
         <card number="1" name="Body of Knowledge"/>
         <card number="1" name="Flood of Tears"/>
         <card number="1" name="Sorcerer's Wand"/>
         <card number="1" name="Brainstorm"/>
-        <card number="1" name="Viridian Longbow"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Mind Stone"/>
@@ -28,7 +23,6 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Gadwick, the Wizened"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Stormtide Leviathan"/>
         <card number="1" name="Vizier of Tumbling Sands"/>
@@ -42,8 +36,6 @@
         <card number="1" name="Behold the Multiverse"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="All Is Dust"/>
-        <card number="1" name="Bag of Holding"/>
-        <card number="1" name="Wolfhunter's Quiver"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Reliquary Tower"/>
@@ -64,7 +56,6 @@
         <card number="1" name="Rush of Knowledge"/>
         <card number="1" name="Coalition Relic"/>
         <card number="1" name="Guildless Commons"/>
-        <card number="1" name="Coral Atoll"/>
         <card number="1" name="Folio of Fancies"/>
         <card number="1" name="Esior, Wardwing Familiar"/>
         <card number="1" name="Foil"/>
@@ -74,6 +65,15 @@
         <card number="1" name="Siren Stormtamer"/>
         <card number="1" name="Turn Aside"/>
         <card number="1" name="Boon of the Wish-Giver"/>
+        <card number="1" name="Precognitive Perception"/>
+        <card number="1" name="Future Sight"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Tidings"/>
+        <card number="1" name="Mind Spring"/>
+        <card number="1" name="Wolfhunter's Quiver"/>
+        <card number="1" name="Endless Atlas"/>
+        <card number="1" name="Ingenious Mastery"/>
+        <card number="1" name="Buried Ruin"/>
     </zone>
     <zone name="side">
         <card number="2" name="Serum Visions"/>
@@ -93,5 +93,16 @@
         <card number="1" name="Disciple of the Ring"/>
         <card number="1" name="Opt"/>
         <card number="1" name="Game Plan"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Paradoxical Outcome"/>
+        <card number="1" name="Tidings"/>
+        <card number="1" name="Wolfhunter's Quiver"/>
+        <card number="1" name="Gadwick, the Wizened"/>
+        <card number="1" name="Arcanis the Omnipotent"/>
+        <card number="1" name="Viridian Longbow"/>
+        <card number="1" name="Bag of Holding"/>
+        <card number="1" name="Ravenform"/>
+        <card number="1" name="Coral Atoll"/>
+        <card number="1" name="Guildless Commons"/>
     </zone>
 </cockatrice_deck>

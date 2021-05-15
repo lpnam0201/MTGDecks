@@ -23,7 +23,6 @@
         <card number="1" name="Ruthless Winnower"/>
         <card number="1" name="Rhys the Exiled"/>
         <card number="1" name="Lys Alana Scarblade"/>
-        <card number="1" name="Serpent's Soul-Jar"/>
         <card number="1" name="Return Upon the Tide"/>
         <card number="1" name="Copperhorn Scout"/>
         <card number="1" name="Arbor Elf"/>
@@ -78,6 +77,7 @@
         <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Lifecrafter's Bestiary"/>
         <card number="1" name="Haunting Voyage"/>
+        <card number="1" name="Dragon Throne of Tarkir"/>
     </zone>
     <zone name="side">
         <card number="1" name="Bojuka Bog"/>
@@ -107,5 +107,6 @@
         <card number="1" name="Gilt-Leaf Winnower"/>
         <card number="1" name="Haunting Voyage"/>
         <card number="1" name="Realmwalker"/>
+        <card number="1" name="Serpent's Soul-Jar"/>
     </zone>
 </cockatrice_deck>

@@ -29,7 +29,6 @@
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Unburial Rites"/>
-        <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Rhythm of the Wild"/>
@@ -37,7 +36,6 @@
         <card number="1" name="Palace Siege"/>
         <card number="1" name="Kiora, Behemoth Beckoner"/>
         <card number="1" name="Crucible of the Spirit Dragon"/>
-        <card number="1" name="Mana Geode"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Haven of the Spirit Dragon"/>
         <card number="1" name="Evolving Wilds"/>
@@ -70,7 +68,6 @@
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Smoldering Marsh"/>
         <card number="1" name="Aether Hub"/>
-        <card number="1" name="Sphere of the Suns"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Outpost Siege"/>
         <card number="1" name="Eerie Interlude"/>
@@ -144,5 +141,8 @@
         <card number="1" name="Flood Plain"/>
         <card number="1" name="Mountain Valley"/>
         <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Mana Geode"/>
+        <card number="1" name="Sphere of the Suns"/>
     </zone>
 </cockatrice_deck>

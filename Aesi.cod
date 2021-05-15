@@ -32,7 +32,6 @@
         <card number="1" name="Negate"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="River's Rebuke"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Guildless Commons"/>
         <card number="1" name="Field of Ruin"/>
@@ -73,12 +72,13 @@
         <card number="1" name="Wildest Dreams"/>
         <card number="1" name="Kiora, Behemoth Beckoner"/>
         <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Elder Deep-Fiend"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Rimewood Falls"/>
         <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Verdant Mastery"/>
         <card number="1" name="Liege of the Tangle"/>
+        <card number="1" name="Aggressive Mammoth"/>
+        <card number="1" name="Flood of Tears"/>
     </zone>
     <zone name="side">
         <card number="1" name="Embodiment of Insight"/>
@@ -143,5 +143,7 @@
         <card number="1" name="End-Raze Forerunners"/>
         <card number="1" name="Lorthos, the Tidemaker"/>
         <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="River's Rebuke"/>
+        <card number="1" name="Elder Deep-Fiend"/>
     </zone>
 </cockatrice_deck>

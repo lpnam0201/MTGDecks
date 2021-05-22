@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Haktos</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Haktos the Unscarred"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Blade Historian"/>
+        <card number="1" name="Always Watching"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Rage Reflection"/>
+        <card number="1" name="Silverblade Paladin"/>
+        <card number="1" name="Angelic Exaltation"/>
+        <card number="1" name="Sublime Archangel"/>
+        <card number="1" name="Bloodsworn Steward"/>
+        <card number="1" name="Battlegrace Angel"/>
+        <card number="1" name="Brave the Sands"/>
+        <card number="1" name="Berserkers' Onslaught"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Tome of Legends"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Heraldic Banner"/>
+        <card number="1" name="Archetype of Courage"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Akrasan Squire"/>
+        <card number="1" name="Goblin Champion"/>
+        <card number="1" name="Kediss, Emberclaw Familiar"/>
+        <card number="1" name="Knight of Glory"/>
+        <card number="1" name="Loyal Unicorn"/>
+        <card number="1" name="Aven Squire"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Sigiled Paladin"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Guardians of Akrasa"/>
+        <card number="1" name="Response // Resurgence"/>
+        <card number="1" name="Nobilis of War"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Make a Stand"/>
+        <card number="1" name="Wear // Tear"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Brave the Elements"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Single Combat"/>
+        <card number="1" name="Tragic Arrogance"/>
+        <card number="1" name="Slash the Ranks"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Rule of Law"/>
+        <card number="1" name="Archon of Emeria"/>
+        <card number="1" name="Deafening Silence"/>
+        <card number="1" name="Castle Embereth"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Needle Spires"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Armillary Sphere"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Wind-Scarred Crag"/>
+        <card number="1" name="Boros Guildgate"/>
+        <card number="1" name="Furycalm Snarl"/>
+        <card number="1" name="Lorehold Campus"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Stone Quarry"/>
+        <card number="1" name="Alpine Meadow"/>
+        <card number="10" name="Plains"/>
+        <card number="10" name="Mountain"/>
+        <card number="1" name="Path of Ancestry"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Divine Reckoning"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Rebuff the Wicked"/>
+        <card number="1" name="Solar Blaze"/>
+        <card number="1" name="Showdown of the Skalds"/>
+    </zone>
+</cockatrice_deck>

@@ -31,26 +31,17 @@
         <card number="1" name="Simic Growth Chamber"/>
         <card number="1" name="Souvenir Snatcher"/>
         <card number="6" name="Swamp"/>
-        <card number="1" name="Troll Ascetic"/>
         <card number="1" name="Trumpeting Gnarr"/>
         <card number="1" name="Trygon Predator"/>
-        <card number="1" name="Thrun, the Last Troll"/>
-        <card number="1" name="Gladecover Scout"/>
-        <card number="1" name="Slippery Bogle"/>
         <card number="1" name="Sea-Dasher Octopus"/>
-        <card number="1" name="Silhana Ledgewalker"/>
-        <card number="1" name="Ilysian Caryatid"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Silent Arbiter"/>
         <card number="1" name="Titans' Nest"/>
-        <card number="1" name="Incubation Druid"/>
         <card number="1" name="Thornwood Falls"/>
         <card number="1" name="Jungle Hollow"/>
         <card number="1" name="Dismal Backwater"/>
-        <card number="1" name="Fertile Ground"/>
         <card number="1" name="Zendikar Resurgent"/>
         <card number="1" name="Villainous Wealth"/>
-        <card number="1" name="Sacred Wolf"/>
         <card number="1" name="Archipelagore"/>
         <card number="1" name="Jarad's Orders"/>
         <card number="1" name="Emergent Ultimatum"/>
@@ -73,16 +64,25 @@
         <card number="1" name="Putrefy"/>
         <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Price of Fame"/>
-        <card number="1" name="Elusive Tormentor"/>
         <card number="1" name="Leyline Prowler"/>
-        <card number="1" name="Thirst for Knowledge"/>
-        <card number="1" name="Thirst for Meaning"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Golgari Signet"/>
-        <card number="1" name="Simic Signet"/>
         <card number="1" name="Final Parting"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Beast Within"/>
+        <card number="1" name="Mulch"/>
+        <card number="1" name="Satyr Wayfinder"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Armillary Sphere"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Grapple with the Past"/>
+        <card number="1" name="Snakeskin Veil"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Ohran Viper"/>
     </zone>
     <zone name="side">
         <card number="1" name="Essence Symbiote"/>
@@ -105,7 +105,7 @@
         <card number="1" name="Jungle Hollow"/>
         <card number="1" name="Thornwood Falls"/>
         <card number="3" name="Nylea, Keen-Eyed"/>
-        <card number="1" name="Elusive Tormentor"/>
+        <card number="2" name="Elusive Tormentor"/>
         <card number="2" name="Eternal Witness"/>
         <card number="2" name="Heroic Intervention"/>
         <card number="2" name="Negate"/>
@@ -163,7 +163,7 @@
         <card number="2" name="Commander's Sphere"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Mana Leak"/>
-        <card number="1" name="Incubation Druid"/>
+        <card number="2" name="Incubation Druid"/>
         <card number="1" name="Pharika's Libation"/>
         <card number="1" name="Humble Naturalist"/>
         <card number="1" name="Cancel"/>
@@ -189,5 +189,17 @@
         <card number="1" name="Find // Finality"/>
         <card number="1" name="Dimir Signet"/>
         <card number="1" name="Compulsive Research"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Gladecover Scout"/>
+        <card number="1" name="Sacred Wolf"/>
+        <card number="1" name="Silhana Ledgewalker"/>
+        <card number="1" name="Slippery Bogle"/>
+        <card number="1" name="Thrun, the Last Troll"/>
+        <card number="1" name="Troll Ascetic"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Thirst for Knowledge"/>
+        <card number="1" name="Thirst for Meaning"/>
+        <card number="1" name="Ilysian Caryatid"/>
     </zone>
 </cockatrice_deck>

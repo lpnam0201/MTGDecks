@@ -80,6 +80,7 @@
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Managorger Hydra"/>
         <card number="1" name="Epiphany at the Drownyard"/>
+        <card number="1" name="Unbound Flourishing"/>
     </zone>
     <zone name="side">
         <card number="1" name="Elemental Bond"/>

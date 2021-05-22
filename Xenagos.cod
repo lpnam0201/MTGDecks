@@ -6,14 +6,9 @@
         <card number="1" name="Xenagos, God of Revels"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Tuya Bearclaw"/>
-        <card number="1" name="Khalni Ambush"/>
-        <card number="1" name="Atarka, World Render"/>
         <card number="1" name="Quartzwood Crasher"/>
-        <card number="1" name="Giant Adephage"/>
         <card number="1" name="Blood Mist"/>
         <card number="1" name="Temur Battle Rage"/>
-        <card number="1" name="Savage Ventmaw"/>
-        <card number="1" name="Hellkite Charger"/>
         <card number="1" name="Archetype of Aggression"/>
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Rhythm of the Wild"/>
@@ -30,69 +25,104 @@
         <card number="1" name="Ghalta, Primal Hunger"/>
         <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
         <card number="1" name="Ilysian Caryatid"/>
-        <card number="1" name="Hydra Omnivore"/>
-        <card number="1" name="Siege Behemoth"/>
         <card number="1" name="Managorger Hydra"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Ram Through"/>
-        <card number="1" name="Momentous Fall"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Return to Nature"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Soul's Fire"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Furious Rise"/>
         <card number="1" name="Port Razer"/>
-        <card number="1" name="Ruric Thar, the Unbowed"/>
         <card number="1" name="Spellbreaker Behemoth"/>
         <card number="1" name="Radha, Heart of Keld"/>
-        <card number="1" name="Nylea's Forerunner"/>
-        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Kazuul's Fury"/>
         <card number="1" name="Inscription of Abundance"/>
-        <card number="1" name="Fling"/>
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Unleash Fury"/>
         <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Decimate"/>
-        <card number="1" name="Strionic Resonator"/>
-        <card number="1" name="Loxodon Warhammer"/>
         <card number="1" name="Skarrg, the Rage Pits"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Mosswort Bridge"/>
-        <card number="1" name="Silvos, Rogue Elemental"/>
         <card number="1" name="Kessig Wolf Run"/>
         <card number="1" name="Rugged Highlands"/>
         <card number="1" name="Gruul Turf"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple of Abandon"/>
-        <card number="1" name="Cinder Glade"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="14" name="Forest"/>
-        <card number="10" name="Mountain"/>
-        <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Terramorphic Expanse"/>
+        <card number="13" name="Forest"/>
+        <card number="9" name="Mountain"/>
         <card number="1" name="Paradise Druid"/>
         <card number="1" name="Blossoming Defense"/>
-        <card number="1" name="Ranger's Guile"/>
-        <card number="1" name="Mina and Denn, Wildborn"/>
-        <card number="1" name="Moraug, Fury of Akoum"/>
         <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Neyith of the Dire Hunt"/>
+        <card number="1" name="Nylea's Forerunner"/>
+        <card number="1" name="Highland Forest"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="See the Unwritten"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Gruul Guildgate"/>
+        <card number="1" name="Timber Gorge"/>
+        <card number="1" name="Verdurous Gearhulk"/>
+        <card number="1" name="Nessian Boar"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Khenra Charioteer"/>
+        <card number="1" name="Brawn"/>
+        <card number="1" name="Asceticism"/>
+        <card number="1" name="Shifting Ceratops"/>
+        <card number="1" name="Vorapede"/>
+        <card number="1" name="Battle Mammoth"/>
+        <card number="1" name="Challenger Troll"/>
+        <card number="1" name="Tectonic Giant"/>
+        <card number="1" name="Garruk's Harbinger"/>
+        <card number="1" name="Garruk's Gorehorn"/>
+        <card number="1" name="Momentum Rumbler"/>
+        <card number="1" name="Lightning Runner"/>
     </zone>
     <zone name="side">
         <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Fling"/>
+        <card number="2" name="Fling"/>
         <card number="1" name="Inquisitor's Flail"/>
         <card number="1" name="Port Razer"/>
-        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="2" name="Thunderfoot Baloth"/>
         <card number="1" name="Gruul Turf"/>
         <card number="1" name="Talisman of Impulse"/>
         <card number="1" name="Zendikar Resurgent"/>
         <card number="1" name="Neyith of the Dire Hunt"/>
         <card number="1" name="Colossal Majesty"/>
         <card number="1" name="Thrash // Threat"/>
+        <card number="1" name="Nylea's Forerunner"/>
+        <card number="1" name="Mina and Denn, Wildborn"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Decimate"/>
+        <card number="1" name="Furious Rise"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Momentous Fall"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Silvos, Rogue Elemental"/>
+        <card number="1" name="Siege Behemoth"/>
+        <card number="2" name="Savage Ventmaw"/>
+        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Ranger's Guile"/>
+        <card number="1" name="Aggressive Mammoth"/>
+        <card number="1" name="Atarka, World Render"/>
+        <card number="1" name="Giant Adephage"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Hydra Omnivore"/>
+        <card number="1" name="Ruric Thar, the Unbowed"/>
+        <card number="1" name="Ironscale Hydra"/>
+        <card number="1" name="Khalni Ambush"/>
     </zone>
 </cockatrice_deck>

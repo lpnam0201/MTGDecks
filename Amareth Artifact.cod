@@ -4,6 +4,5 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Amareth, the Lustrous"/>
-        <card number="1" name="Yasharn, Implacable Earth"/>
     </zone>
 </cockatrice_deck>

@@ -14,16 +14,11 @@
         <card number="1" name="Soulherder"/>
         <card number="1" name="Coiling Oracle"/>
         <card number="1" name="Risen Reef"/>
-        <card number="1" name="Archaeomancer's Map"/>
         <card number="1" name="Brago, King Eternal"/>
         <card number="1" name="Mulldrifter"/>
         <card number="1" name="Acidic Slime"/>
-        <card number="1" name="Knight of Autumn"/>
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Cloudblazer"/>
-        <card number="1" name="Frilled Mystic"/>
-        <card number="1" name="Mystic Snake"/>
-        <card number="1" name="Charming Prince"/>
         <card number="1" name="Restoration Angel"/>
         <card number="1" name="Chulane, Teller of Tales"/>
         <card number="1" name="Flickerwisp"/>
@@ -36,7 +31,6 @@
         <card number="1" name="Terastodon"/>
         <card number="1" name="Fiend Hunter"/>
         <card number="1" name="Leonin Relic-Warder"/>
-        <card number="1" name="Palace Jailer"/>
         <card number="1" name="Mistmeadow Witch"/>
         <card number="1" name="Elvish Rejuvenator"/>
         <card number="1" name="Deputy of Detention"/>
@@ -61,11 +55,9 @@
         <card number="9" name="Forest"/>
         <card number="7" name="Plains"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Oblation"/>
         <card number="1" name="Eerie Interlude"/>
         <card number="1" name="Meteor Golem"/>
         <card number="1" name="Roon of the Hidden Realm"/>
@@ -78,12 +70,20 @@
         <card number="1" name="Tempest Caller"/>
         <card number="1" name="Wall of Blossoms"/>
         <card number="1" name="Reveillark"/>
-        <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Kiora, Behemoth Beckoner"/>
-        <card number="1" name="Arcane Signet"/>
         <card number="1" name="Thragtusk"/>
-        <card number="1" name="Clever Impersonator"/>
+        <card number="1" name="Yorion, Sky Nomad"/>
+        <card number="1" name="Clone"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Harmonic Sliver"/>
+        <card number="1" name="Tidal Barracuda"/>
+        <card number="1" name="Angel of Finality"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="End-Raze Forerunners"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Ephemerate"/>
     </zone>
     <zone name="side">
         <card number="1" name="Conjurer's Closet"/>
@@ -92,9 +92,8 @@
         <card number="1" name="Semester's End"/>
         <card number="1" name="Displace"/>
         <card number="1" name="Blessed Sanctuary"/>
-        <card number="1" name="Forest"/>
+        <card number="2" name="Forest"/>
         <card number="1" name="Yorion, Sky Nomad"/>
-        <card number="1" name="End-Raze Forerunners"/>
         <card number="1" name="Jhoira's Familiar"/>
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Elvish Visionary"/>
@@ -103,11 +102,19 @@
         <card number="1" name="Fyndhorn Elves"/>
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Karametra, God of Harvests"/>
-        <card number="1" name="Flood of Tears"/>
         <card number="1" name="Peregrine Drake"/>
-        <card number="1" name="Angel of Finality"/>
-        <card number="1" name="Beast Whisperer"/>
         <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Yasharn, Implacable Earth"/>
+        <card number="1" name="Kiora, Behemoth Beckoner"/>
+        <card number="1" name="Charming Prince"/>
+        <card number="1" name="Archaeomancer's Map"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Mystic Snake"/>
+        <card number="1" name="Frilled Mystic"/>
+        <card number="1" name="Oblation"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Bala Ged Recovery"/>
     </zone>
 </cockatrice_deck>

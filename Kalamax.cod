@@ -29,22 +29,16 @@
         <card number="1" name="Ral, Storm Conduit"/>
         <card number="1" name="Wilderness Reclamation"/>
         <card number="1" name="Expansion // Explosion"/>
-        <card number="1" name="Reverberate"/>
-        <card number="1" name="Increasing Vengeance"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Springleaf Drum"/>
         <card number="1" name="Double Vision"/>
         <card number="1" name="Natural Connection"/>
         <card number="1" name="Chemister's Insight"/>
-        <card number="1" name="Farseek"/>
-        <card number="1" name="Rampant Growth"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Prophetic Bolt"/>
         <card number="1" name="Ral's Outburst"/>
-        <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Slice in Twain"/>
-        <card number="1" name="Pongify"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Behold the Multiverse"/>
@@ -54,7 +48,6 @@
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Cultivator's Caravan"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Lightning Strike"/>
         <card number="1" name="Frontier Bivouac"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Survivors' Encampment"/>
@@ -86,6 +79,13 @@
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Thriving Grove"/>
         <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Unleash Fury"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="Run Amok"/>
+        <card number="1" name="Fully Grown"/>
+        <card number="1" name="Fists of Flame"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Reverberate"/>
     </zone>
     <zone name="side">
         <card number="2" name="Mission Briefing"/>
@@ -112,5 +112,12 @@
         <card number="1" name="Gruul Turf"/>
         <card number="1" name="Simic Growth Chamber"/>
         <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Lightning Strike"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Increasing Vengeance"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Invigorate"/>
     </zone>
 </cockatrice_deck>

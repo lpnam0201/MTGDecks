@@ -9,12 +9,9 @@
         <card number="1" name="Temple Altisaur"/>
         <card number="1" name="Wakening Sun's Avatar"/>
         <card number="1" name="Zetalpa, Primal Dawn"/>
-        <card number="1" name="Kinjalli's Sunwing"/>
-        <card number="1" name="Ranging Raptors"/>
         <card number="1" name="Goring Ceratops"/>
         <card number="1" name="Ripjaw Raptor"/>
         <card number="1" name="Thrashing Brontodon"/>
-        <card number="1" name="Marauding Raptor"/>
         <card number="1" name="Verdant Sun's Avatar"/>
         <card number="1" name="Silverclad Ferocidons"/>
         <card number="1" name="Quartzwood Crasher"/>
@@ -23,20 +20,14 @@
         <card number="1" name="Raging Swordtooth"/>
         <card number="1" name="Apex Altisaur"/>
         <card number="1" name="Trapjaw Tyrant"/>
-        <card number="1" name="Rhythm of the Wild"/>
-        <card number="1" name="Bellowing Aegisaur"/>
         <card number="1" name="Raging Regisaur"/>
-        <card number="1" name="Shifting Ceratops"/>
         <card number="1" name="Titanoth Rex"/>
         <card number="1" name="Majestic Heliopterus"/>
         <card number="1" name="Charging Tuskodon"/>
         <card number="1" name="Charging Monstrosaur"/>
-        <card number="1" name="Territorial Hammerskull"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Make a Stand"/>
-        <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Blasphemous Act"/>
@@ -56,38 +47,46 @@
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Sunhome, Fortress of the Legion"/>
-        <card number="1" name="Sisay's Ring"/>
-        <card number="1" name="Hedron Archive"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Jungle Shrine"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Gruul Turf"/>
-        <card number="1" name="Selesnya Sanctuary"/>
-        <card number="1" name="Boros Garrison"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="4" name="Mountain"/>
-        <card number="9" name="Forest"/>
+        <card number="10" name="Forest"/>
         <card number="5" name="Plains"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Highland Forest"/>
         <card number="1" name="Arctic Treeline"/>
         <card number="1" name="Alpine Meadow"/>
         <card number="1" name="Duelist's Heritage"/>
-        <card number="1" name="Burning Sun's Avatar"/>
         <card number="1" name="Berserkers' Onslaught"/>
         <card number="1" name="Asceticism"/>
-        <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Blighted Woodland"/>
-        <card number="1" name="Guildless Commons"/>
         <card number="1" name="Vastwood Surge"/>
-        <card number="1" name="Carnage Tyrant"/>
-        <card number="1" name="Polyraptor"/>
-        <card number="1" name="Elemental Bond"/>
-        <card number="1" name="Chain Reaction"/>
-        <card number="1" name="Harmonize"/>
-        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Verdant Mastery"/>
+        <card number="1" name="Grow from the Ashes"/>
+        <card number="1" name="Yidaro, Wandering Monster"/>
+        <card number="1" name="Deathgorge Scavenger"/>
+        <card number="1" name="Rampaging Brontodon"/>
+        <card number="1" name="Fires of Invention"/>
+        <card number="1" name="Windbrisk Heights"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Kinjalli's Sunwing"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Kessig Wolf Run"/>
+        <card number="1" name="Rage Reflection"/>
+        <card number="1" name="Burning Sun's Avatar"/>
+        <card number="1" name="Marauding Raptor"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Thunderherd Migration"/>
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Bala Ged Recovery"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lightning Greaves"/>
@@ -98,20 +97,53 @@
         <card number="1" name="Thunderherd Migration"/>
         <card number="2" name="True Conviction"/>
         <card number="1" name="Colossal Majesty"/>
-        <card number="1" name="Annoyed Altisaur"/>
-        <card number="1" name="Elemental Bond"/>
+        <card number="2" name="Annoyed Altisaur"/>
+        <card number="2" name="Elemental Bond"/>
         <card number="1" name="Yidaro, Wandering Monster"/>
-        <card number="1" name="Deathgorge Scavenger"/>
+        <card number="2" name="Deathgorge Scavenger"/>
         <card number="1" name="Kaheera, the Orphanguard"/>
-        <card number="1" name="Harmonize"/>
+        <card number="2" name="Harmonize"/>
         <card number="1" name="Kessig Wolf Run"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Highland Forest"/>
-        <card number="1" name="Burning Sun's Avatar"/>
+        <card number="2" name="Burning Sun's Avatar"/>
         <card number="1" name="Siegehorn Ceratops"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Pyrohemia"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Sisay's Ring"/>
+        <card number="1" name="Polyraptor"/>
+        <card number="1" name="Carnage Tyrant"/>
+        <card number="1" name="Kinjalli's Sunwing"/>
+        <card number="2" name="Chain Reaction"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Archaeomancer's Map"/>
+        <card number="1" name="Territorial Hammerskull"/>
+        <card number="1" name="Needletooth Raptor"/>
+        <card number="1" name="Rampaging Brontodon"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Plains"/>
+        <card number="2" name="Boros Garrison"/>
+        <card number="2" name="Selesnya Sanctuary"/>
+        <card number="2" name="Gruul Turf"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Armillary Sphere"/>
+        <card number="1" name="Roiling Regrowth"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Guildless Commons"/>
+        <card number="1" name="Shifting Ceratops"/>
+        <card number="1" name="Bellowing Aegisaur"/>
+        <card number="1" name="Ranging Raptors"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Forest"/>
     </zone>
 </cockatrice_deck>

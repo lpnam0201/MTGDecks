@@ -42,10 +42,8 @@
         <card number="1" name="Lifecrafter's Bestiary"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Kenrith's Transformation"/>
         <card number="1" name="Asceticism"/>
         <card number="1" name="Zendikar Resurgent"/>
-        <card number="1" name="Vivien, Champion of the Wilds"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Castle Garenbrig"/>
         <card number="1" name="Scavenger Grounds"/>
@@ -54,15 +52,12 @@
         <card number="30" name="Forest"/>
         <card number="1" name="Gargos, Vicious Watcher"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Colossal Majesty"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Cultivate"/>
-        <card number="1" name="Road of Return"/>
         <card number="1" name="Siege Behemoth"/>
         <card number="1" name="Dawnglade Regent"/>
-        <card number="1" name="Anara, Wolvid Familiar"/>
         <card number="1" name="Inscription of Abundance"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Hunter's Insight"/>
@@ -74,6 +69,11 @@
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Leafkin Druid"/>
         <card number="1" name="Battle Mammoth"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Giant Adephage"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Engulfing Slagwurm"/>
     </zone>
     <zone name="side">
         <card number="1" name="Eternal Witness"/>
@@ -84,12 +84,12 @@
         <card number="1" name="Pounce"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Colossal Majesty"/>
+        <card number="2" name="Colossal Majesty"/>
         <card number="1" name="Hunter's Insight"/>
         <card number="1" name="Titanic Brawl"/>
         <card number="1" name="Ancient Animus"/>
         <card number="2" name="Nature's Way"/>
-        <card number="1" name="Road of Return"/>
+        <card number="2" name="Road of Return"/>
         <card number="2" name="Roar of Challenge"/>
         <card number="1" name="Fertile Ground"/>
         <card number="1" name="Skullwinder"/>
@@ -125,5 +125,9 @@
         <card number="1" name="Wild Growth"/>
         <card number="1" name="Paradise Druid"/>
         <card number="1" name="Silvos, Rogue Elemental"/>
+        <card number="1" name="Vivien, Champion of the Wilds"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Anara, Wolvid Familiar"/>
     </zone>
 </cockatrice_deck>

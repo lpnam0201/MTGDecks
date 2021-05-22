@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Maelstrom Wanderer</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Maelstrom Wanderer"/>
+        <card number="1" name="Imoti, Celebrant of Bounty"/>
+        <card number="1" name="Averna, the Chaos Bloom"/>
+    </zone>
+</cockatrice_deck>

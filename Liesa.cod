@@ -7,7 +7,6 @@
         <card number="1" name="Utter End"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Ghostly Prison"/>
-        <card number="1" name="Dire Tactics"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Oblation"/>
         <card number="1" name="Crib Swap"/>
@@ -52,7 +51,6 @@
         <card number="11" name="Plains"/>
         <card number="11" name="Swamp"/>
         <card number="1" name="Rampage of the Valkyries"/>
-        <card number="1" name="Darksteel Mutation"/>
         <card number="1" name="Tragic Arrogance"/>
         <card number="1" name="Single Combat"/>
         <card number="1" name="Mother of Runes"/>
@@ -83,6 +81,8 @@
         <card number="1" name="Angelic Accord"/>
         <card number="1" name="Return to Dust"/>
         <card number="1" name="Fracture"/>
+        <card number="1" name="Hero's Blade"/>
+        <card number="1" name="Maul of the Skyclaves"/>
     </zone>
     <zone name="side">
         <card number="1" name="Deafening Silence"/>
@@ -125,5 +125,7 @@
         <card number="1" name="Plains"/>
         <card number="1" name="Swamp"/>
         <card number="1" name="Crush Contraband"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Dire Tactics"/>
     </zone>
 </cockatrice_deck>

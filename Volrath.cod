@@ -6,19 +6,14 @@
         <card number="1" name="Volrath, the Shapestealer"/>
         <card number="1" name="Cold-Eyed Selkie"/>
         <card number="1" name="Wickerbough Elder"/>
-        <card number="1" name="Invisible Stalker"/>
         <card number="1" name="Generous Patron"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Cauldron of Souls"/>
         <card number="1" name="Willbreaker"/>
-        <card number="1" name="Young Wolf"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
         <card number="1" name="Renata, Called to the Hunt"/>
         <card number="1" name="Master Biomancer"/>
-        <card number="1" name="Tezzeret's Gambit"/>
-        <card number="1" name="Thrummingbird"/>
-        <card number="1" name="Evolution Sage"/>
         <card number="1" name="Viridian Joiner"/>
         <card number="1" name="Warkite Marauder"/>
         <card number="1" name="Mass Diminish"/>
@@ -35,7 +30,6 @@
         <card number="1" name="Cultivate"/>
         <card number="1" name="Golgari Charm"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Scavenging Ooze"/>
         <card number="1" name="Jodah's Avenger"/>
         <card number="1" name="Dreamstealer"/>
         <card number="1" name="Thief of Sanity"/>
@@ -47,12 +41,9 @@
         <card number="1" name="Sultai Charm"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Find // Finality"/>
-        <card number="1" name="Painful Truths"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Plaxcaster Frogling"/>
-        <card number="1" name="Fathom Mage"/>
-        <card number="1" name="Loyal Guardian"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Talisman of Curiosity"/>
         <card number="1" name="Talisman of Resilience"/>
@@ -74,12 +65,9 @@
         <card number="1" name="Thriving Grove"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Merfolk Skydiver"/>
-        <card number="1" name="Pollenbright Druid"/>
         <card number="1" name="Novijen, Heart of Progress"/>
         <card number="1" name="Llanowar Reborn"/>
         <card number="1" name="Oran-Rief, the Vastwood"/>
-        <card number="1" name="Guildpact Informant"/>
         <card number="1" name="Predator Ooze"/>
         <card number="1" name="Spawnwrithe"/>
         <card number="1" name="Necromantic Selection"/>
@@ -88,7 +76,17 @@
         <card number="1" name="Leyline Prowler"/>
         <card number="1" name="Paradise Druid"/>
         <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Soul Diviner"/>
+        <card number="1" name="Garruk's Harbinger"/>
+        <card number="1" name="Ohran Viper"/>
+        <card number="1" name="Shadowmage Infiltrator"/>
+        <card number="1" name="Kheru Mind-Eater"/>
+        <card number="1" name="Guul Draz Specter"/>
+        <card number="1" name="Blizzard Specter"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Demon of Wailing Agonies"/>
+        <card number="1" name="Dazzling Sphinx"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Zendikar Resurgent"/>
     </zone>
     <zone name="side">
         <card number="1" name="Blighted Agent"/>
@@ -114,5 +112,30 @@
         <card number="1" name="Vraska the Unseen"/>
         <card number="1" name="Mythos of Brokkos"/>
         <card number="1" name="Grasping Dunes"/>
+        <card number="1" name="Loyal Guardian"/>
+        <card number="1" name="Nightveil Specter"/>
+        <card number="1" name="Dimir Cutpurse"/>
+        <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Fathom Mage"/>
+        <card number="1" name="Guildpact Informant"/>
+        <card number="1" name="Jhessian Thief"/>
+        <card number="1" name="Liliana's Reaver"/>
+        <card number="1" name="Lone Revenant"/>
+        <card number="1" name="Raving Dead"/>
+        <card number="1" name="Scroll Thief"/>
+        <card number="1" name="Sea-Dasher Octopus"/>
+        <card number="1" name="Soul Diviner"/>
+        <card number="1" name="Stealer of Secrets"/>
+        <card number="1" name="Thrummingbird"/>
+        <card number="1" name="Tomebound Lich"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Tezzeret's Gambit"/>
+        <card number="1" name="Fiend of the Shadows"/>
+        <card number="1" name="Merfolk Skydiver"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Fallen Shinobi"/>
+        <card number="1" name="Pollenbright Druid"/>
+        <card number="1" name="Young Wolf"/>
+        <card number="1" name="Invisible Stalker"/>
     </zone>
 </cockatrice_deck>

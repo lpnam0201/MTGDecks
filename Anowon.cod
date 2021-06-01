@@ -21,7 +21,6 @@
         <card number="1" name="Ghostly Pilferer"/>
         <card number="1" name="Zareth San, the Trickster"/>
         <card number="1" name="Notorious Throng"/>
-        <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Sygg, River Cutthroat"/>
         <card number="1" name="Oona's Blackguard"/>
         <card number="1" name="Notion Thief"/>
@@ -63,7 +62,6 @@
         <card number="1" name="Far // Away"/>
         <card number="1" name="Expedition Skulker"/>
         <card number="1" name="Mana Leak"/>
-        <card number="1" name="Diabolic Edict"/>
         <card number="1" name="Thieves' Guild Enforcer"/>
         <card number="1" name="Wrexial, the Risen Deep"/>
         <card number="1" name="Orzhov Enforcer"/>
@@ -83,6 +81,8 @@
         <card number="1" name="Aetherize"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Poison the Cup"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Pharika's Libation"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -177,5 +177,7 @@
         <card number="1" name="Spelltwine"/>
         <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Murder"/>
+        <card number="2" name="Fact or Fiction"/>
+        <card number="1" name="Diabolic Edict"/>
     </zone>
 </cockatrice_deck>

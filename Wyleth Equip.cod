@@ -1,89 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Wyleth</deckname>
+    <deckname>Wyleth Equip</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Danitha Capashen, Paragon"/>
-        <card number="1" name="Sram, Senior Edificer"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Gift of Immortality"/>
-        <card number="1" name="Unquestioned Authority"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Alseid of Life's Bounty"/>
-        <card number="1" name="Dauntless Bodyguard"/>
         <card number="1" name="Selfless Savior"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Wear // Tear"/>
         <card number="1" name="Response // Resurgence"/>
-        <card number="1" name="Single Combat"/>
-        <card number="1" name="Divine Reckoning"/>
-        <card number="1" name="Angelic Gift"/>
-        <card number="1" name="Shielded by Faith"/>
-        <card number="1" name="Spirit Mantle"/>
-        <card number="1" name="On Serra's Wings"/>
         <card number="1" name="Duelist's Heritage"/>
-        <card number="1" name="Indestructibility"/>
-        <card number="1" name="Battle Mastery"/>
         <card number="1" name="Boros Signet"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Marble Diamond"/>
-        <card number="1" name="Fire Diamond"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Boros Garrison"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Boros Guildgate"/>
         <card number="1" name="Wind-Scarred Crag"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Stone Quarry"/>
-        <card number="1" name="Inspiring Vantage"/>
-        <card number="1" name="Rugged Prairie"/>
-        <card number="14" name="Plains"/>
-        <card number="7" name="Mountain"/>
+        <card number="13" name="Plains"/>
+        <card number="9" name="Mountain"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Pentarch Ward"/>
-        <card number="1" name="Faith Unbroken"/>
-        <card number="1" name="Spectra Ward"/>
         <card number="1" name="Disenchant"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Sigarda's Aid"/>
-        <card number="1" name="Angelic Destiny"/>
         <card number="1" name="Sunhome, Fortress of the Legion"/>
         <card number="1" name="Slayers' Stronghold"/>
         <card number="1" name="Mirror Shield"/>
         <card number="1" name="Sejiri Shelter"/>
-        <card number="1" name="Ondu Inversion"/>
         <card number="1" name="Fireshrieker"/>
         <card number="1" name="Wyleth, Soul of Steel"/>
-        <card number="1" name="Kediss, Emberclaw Familiar"/>
-        <card number="1" name="Koll, the Forgemaster"/>
-        <card number="1" name="Axgard Armory"/>
-        <card number="1" name="Timely Ward"/>
         <card number="1" name="Zirda, the Dawnwaker"/>
         <card number="1" name="Akiri, Fearless Voyager"/>
         <card number="1" name="Reyav, Master Smith"/>
         <card number="1" name="Ardenn, Intrepid Archaeologist"/>
         <card number="1" name="Puresteel Paladin"/>
         <card number="1" name="Armored Skyhunter"/>
-        <card number="1" name="Benevolent Blessing"/>
         <card number="1" name="Blackblade Reforged"/>
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Hammer of Nazahn"/>
         <card number="1" name="Loxodon Warhammer"/>
-        <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Gods Willing"/>
-        <card number="1" name="Abrade"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Blazing Sunsteel"/>
         <card number="1" name="Sword of Vengeance"/>
         <card number="1" name="Maul of the Skyclaves"/>
         <card number="1" name="Mask of Avacyn"/>
-        <card number="1" name="Sentinel's Eyes"/>
         <card number="1" name="Command Beacon"/>
-        <card number="1" name="Mind Stone"/>
-        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Bruenor Battlehammer"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Kor Blademaster"/>
+        <card number="1" name="Relic Axe"/>
+        <card number="1" name="Forging the Tyrite Sword"/>
+        <card number="1" name="Sunforger"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Relentless Assault"/>
+        <card number="1" name="Hero's Blade"/>
+        <card number="1" name="Blood Mist"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Benevolent Blessing"/>
+        <card number="1" name="Halvar, God of Battle"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Colossus Hammer"/>
+        <card number="1" name="Furycalm Snarl"/>
+        <card number="1" name="Lorehold Campus"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Bonesplitter"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Alpine Meadow"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Inspiring Statuary"/>
+        <card number="1" name="Resolute Watchdog"/>
+        <card number="1" name="Archaeomancer's Map"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Path of Ancestry"/>
     </zone>
     <zone name="side">
         <card number="1" name="Blasphemous Act"/>
@@ -104,21 +103,21 @@
         <card number="1" name="Faith's Fetters"/>
         <card number="1" name="Soul Tithe"/>
         <card number="1" name="Sphere of Safety"/>
-        <card number="1" name="Pentarch Ward"/>
+        <card number="2" name="Pentarch Ward"/>
         <card number="1" name="Crush Contraband"/>
         <card number="1" name="Justice Strike"/>
         <card number="2" name="Karametra's Blessing"/>
         <card number="1" name="Cavalier of Dawn"/>
         <card number="1" name="Verge Rangers"/>
-        <card number="1" name="Thought Vessel"/>
+        <card number="2" name="Thought Vessel"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Spiteful Motives"/>
         <card number="1" name="Face of Divinity"/>
         <card number="1" name="Winds of Abandon"/>
         <card number="1" name="Hyena Umbra"/>
         <card number="1" name="Mirror Shield"/>
-        <card number="2" name="Plains"/>
-        <card number="1" name="Mountain"/>
+        <card number="5" name="Plains"/>
+        <card number="2" name="Mountain"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Rage Reflection"/>
         <card number="2" name="Mask of Avacyn"/>
@@ -150,5 +149,45 @@
         <card number="1" name="Blood Mist"/>
         <card number="1" name="Hammer of Bogardan"/>
         <card number="1" name="Forging the Tyrite Sword"/>
+        <card number="1" name="Zirda, the Dawnwaker"/>
+        <card number="1" name="Dauntless Bodyguard"/>
+        <card number="1" name="Angelic Destiny"/>
+        <card number="1" name="Gift of Immortality"/>
+        <card number="1" name="Indestructibility"/>
+        <card number="1" name="Spectra Ward"/>
+        <card number="1" name="Angelic Gift"/>
+        <card number="1" name="Faith Unbroken"/>
+        <card number="1" name="On Serra's Wings"/>
+        <card number="1" name="Sentinel's Eyes"/>
+        <card number="1" name="Shielded by Faith"/>
+        <card number="2" name="Spirit Mantle"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Benevolent Blessing"/>
+        <card number="1" name="Battle Mastery"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Ondu Inversion"/>
+        <card number="1" name="Single Combat"/>
+        <card number="1" name="Divine Reckoning"/>
+        <card number="1" name="Axgard Armory"/>
+        <card number="1" name="Gods Willing"/>
+        <card number="1" name="Brash Taunter"/>
+        <card number="1" name="Danitha Capashen, Paragon"/>
+        <card number="1" name="Godo, Bandit Warlord"/>
+        <card number="1" name="Inspiring Vantage"/>
+        <card number="1" name="Showdown of the Skalds"/>
+        <card number="1" name="Brass Squire"/>
+        <card number="1" name="Cliffhaven Kitesail"/>
+        <card number="1" name="Koll, the Forgemaster"/>
+        <card number="1" name="Port Razer"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Kediss, Emberclaw Familiar"/>
+        <card number="1" name="Solar Blaze"/>
+        <card number="1" name="Boros Garrison"/>
     </zone>
 </cockatrice_deck>

@@ -9,8 +9,6 @@
         <card number="1" name="Bident of Thassa"/>
         <card number="1" name="Reconnaissance Mission"/>
         <card number="1" name="Etchings of the Chosen"/>
-        <card number="1" name="Empyrean Eagle"/>
-        <card number="1" name="Skullclamp"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Confounding Conundrum"/>
@@ -25,16 +23,11 @@
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="All That Glitters"/>
-        <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Thunderclap Wyvern"/>
-        <card number="1" name="Burnished Hart"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Hushbringer"/>
-        <card number="1" name="Aven Mindcensor"/>
         <card number="1" name="Kinjalli's Sunwing"/>
-        <card number="1" name="Mortify"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Citywide Bust"/>
         <card number="1" name="Arcane Denial"/>
@@ -43,7 +36,6 @@
         <card number="1" name="Darksteel Mutation"/>
         <card number="1" name="Frogify"/>
         <card number="1" name="Banishing Light"/>
-        <card number="1" name="Lawmage's Binding"/>
         <card number="1" name="Staggering Insight"/>
         <card number="1" name="Curiosity"/>
         <card number="1" name="Rogue's Gloves"/>
@@ -52,12 +44,9 @@
         <card number="1" name="Heraldic Banner"/>
         <card number="1" name="Rally the Ranks"/>
         <card number="1" name="Timely Ward"/>
-        <card number="1" name="Benevolent Blessing"/>
         <card number="1" name="Unquestioned Authority"/>
         <card number="1" name="Confiscate"/>
-        <card number="1" name="Kangee, Sky Warden"/>
         <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Mana Leak"/>
         <card number="1" name="Military Intelligence"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Thriving Isle"/>
@@ -81,15 +70,25 @@
         <card number="1" name="Obelisk of Urd"/>
         <card number="1" name="Glorious Anthem"/>
         <card number="1" name="Force of Virtue"/>
-        <card number="1" name="Sephara, Sky's Blade"/>
         <card number="1" name="Ethereal Absolution"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Seal of Cleansing"/>
-        <card number="1" name="Generous Gift"/>
         <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Conclave Tribunal"/>
+        <card number="1" name="Stasis Snare"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Radiant Destiny"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Citadel Siege"/>
+        <card number="1" name="Inspiring Statuary"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Inniaz, the Gale Force"/>
+        <card number="1" name="Quarantine Field"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Sephara, Sky's Blade"/>
+        <card number="2" name="Sephara, Sky's Blade"/>
         <card number="2" name="Solemn Simulacrum"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Intangible Virtue"/>
@@ -105,12 +104,32 @@
         <card number="1" name="Counterspell"/>
         <card number="1" name="Court of Ambition"/>
         <card number="1" name="Arcanist's Owl"/>
-        <card number="1" name="Mentor of the Meek"/>
+        <card number="2" name="Mentor of the Meek"/>
         <card number="1" name="Windreader Sphinx"/>
         <card number="1" name="Conclave Tribunal"/>
         <card number="1" name="Faerie Formation"/>
         <card number="1" name="Court of Grace"/>
-        <card number="1" name="Generous Gift"/>
+        <card number="2" name="Generous Gift"/>
         <card number="1" name="Ondu Inversion"/>
+        <card number="1" name="Baffling End"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Lawmage's Binding"/>
+        <card number="1" name="Ixalan's Binding"/>
+        <card number="1" name="Prison Realm"/>
+        <card number="1" name="Empyrean Eagle"/>
+        <card number="1" name="Thunderclap Wyvern"/>
+        <card number="1" name="Detention Sphere"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Quarantine Field"/>
+        <card number="1" name="Unwind"/>
+        <card number="1" name="Benevolent Blessing"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Kangee, Sky Warden"/>
+        <card number="1" name="Dictate of Heliod"/>
     </zone>
 </cockatrice_deck>

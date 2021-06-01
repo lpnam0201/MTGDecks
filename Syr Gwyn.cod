@@ -65,7 +65,6 @@
         <card number="1" name="Alseid of Life's Bounty"/>
         <card number="1" name="Selfless Savior"/>
         <card number="1" name="Response // Resurgence"/>
-        <card number="1" name="Sigarda's Aid"/>
         <card number="1" name="Sisay's Ring"/>
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Brave the Elements"/>
@@ -84,6 +83,7 @@
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Relentless Assault"/>
         <card number="1" name="Ruinous Ultimatum"/>
+        <card number="1" name="Hellkite Charger"/>
     </zone>
     <zone name="side">
         <card number="1" name="Slayers' Stronghold"/>
@@ -216,7 +216,7 @@
         <card number="1" name="Storm's Wrath"/>
         <card number="1" name="Abrade"/>
         <card number="1" name="Crackling Doom"/>
-        <card number="1" name="Sigarda's Aid"/>
+        <card number="2" name="Sigarda's Aid"/>
         <card number="2" name="Gods Willing"/>
         <card number="2" name="Timely Ward"/>
         <card number="3" name="Benevolent Blessing"/>
@@ -235,5 +235,6 @@
         <card number="1" name="Puresteel Paladin"/>
         <card number="2" name="Cleansing Nova"/>
         <card number="1" name="Solar Blaze"/>
+        <card number="1" name="Port Razer"/>
     </zone>
 </cockatrice_deck>

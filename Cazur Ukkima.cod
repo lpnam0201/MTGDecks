@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Cazur Ukkima</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Blighted Agent"/>
+        <card number="1" name="Cazur, Ruthless Stalker"/>
+        <card number="1" name="Ukkima, Stalking Shadow"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Bred for the Hunt"/>
+        <card number="1" name="Curiosity"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Winding Constrictor"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Corpsejack Menace"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Prying Blade"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Sultai Charm"/>
+        <card number="1" name="Simic Charm"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Inquisitor's Flail"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Poison the Cup"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Colossification"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="6" name="Forest"/>
+        <card number="6" name="Island"/>
+        <card number="6" name="Swamp"/>
+        <card number="1" name="Anara, Wolvid Familiar"/>
+        <card number="1" name="Falthis, Shadowcat Familiar"/>
+        <card number="1" name="Esior, Wardwing Familiar"/>
+        <card number="1" name="Plaxcaster Frogling"/>
+        <card number="1" name="Phyresis"/>
+        <card number="1" name="Hydra's Growth"/>
+        <card number="1" name="Sea-Dasher Octopus"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Gemrazer"/>
+        <card number="1" name="Sawtusk Demolisher"/>
+        <card number="1" name="Necromantic Selection"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Mindleecher"/>
+        <card number="1" name="Pouncing Shoreshark"/>
+        <card number="1" name="Archipelagore"/>
+        <card number="1" name="Chittering Harvester"/>
+        <card number="1" name="Cavern Whisperer"/>
+        <card number="1" name="Brokkos, Apex of Forever"/>
+        <card number="1" name="Glowstone Recluse"/>
+        <card number="1" name="Tome of Legends"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Zareth San, the Trickster"/>
+        <card number="1" name="Explorer's Scope"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Military Intelligence"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Invisible Stalker"/>
+        <card number="1" name="Looter il-Kor"/>
+        <card number="1" name="Mist-Cloaked Herald"/>
+        <card number="1" name="Slither Blade"/>
+        <card number="1" name="Tormented Soul"/>
+        <card number="1" name="Triton Shorestalker"/>
+        <card number="1" name="Vela the Night-Clad"/>
+        <card number="1" name="Volrath, the Shapestealer"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="1" name="Glistening Oil"/>
+        <card number="1" name="Sawtusk Demolisher"/>
+        <card number="1" name="Gemrazer"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="2" name="Nightveil Specter"/>
+        <card number="1" name="Goldvein Pick"/>
+        <card number="1" name="Far // Away"/>
+        <card number="1" name="Shadowmage Infiltrator"/>
+        <card number="1" name="Thief of Sanity"/>
+        <card number="2" name="Mindleecher"/>
+        <card number="1" name="Pouncing Shoreshark"/>
+        <card number="1" name="Siren Stormtamer"/>
+        <card number="1" name="Thrummingbird"/>
+        <card number="1" name="Boneyard Lurker"/>
+        <card number="1" name="Souvenir Snatcher"/>
+        <card number="1" name="Trygon Predator"/>
+        <card number="1" name="Cold-Eyed Selkie"/>
+    </zone>
+</cockatrice_deck>

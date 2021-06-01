@@ -19,18 +19,15 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Ajani's Presence"/>
         <card number="1" name="Akroan Crusader"/>
-        <card number="1" name="Mirrorwing Dragon"/>
         <card number="1" name="Vanguard of Brimaz"/>
         <card number="1" name="Young Pyromancer"/>
         <card number="1" name="Zada, Hedron Grinder"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Boros Garrison"/>
-        <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Inspiring Vantage"/>
-        <card number="7" name="Mountain"/>
+        <card number="8" name="Mountain"/>
         <card number="11" name="Plains"/>
         <card number="1" name="Unleash Fury"/>
         <card number="1" name="Swords to Plowshares"/>
@@ -42,12 +39,10 @@
         <card number="1" name="Otherworldly Journey"/>
         <card number="1" name="Oblation"/>
         <card number="1" name="Faith's Shield"/>
-        <card number="1" name="Fell the Mighty"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Needle Spires"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Boros Signet"/>
-        <card number="1" name="Rugged Prairie"/>
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Wind-Scarred Crag"/>
         <card number="1" name="Guided Strike"/>
@@ -57,36 +52,40 @@
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Stone Quarry"/>
         <card number="1" name="Thought Vessel"/>
-        <card number="1" name="Ash Barrens"/>
         <card number="1" name="Apostle's Blessing"/>
         <card number="1" name="Spellbook"/>
         <card number="1" name="Fists of Flame"/>
         <card number="1" name="Bandage"/>
-        <card number="1" name="Mirran Crusader"/>
-        <card number="1" name="Spellgorger Weird"/>
         <card number="1" name="Tragic Arrogance"/>
-        <card number="1" name="Tenth District Legionnaire"/>
         <card number="1" name="Valor Made Real"/>
         <card number="1" name="Renegade Tactics"/>
-        <card number="1" name="Electrostatic Field"/>
         <card number="1" name="Built to Smash"/>
-        <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Invigorated Rampage"/>
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Thriving Heath"/>
-        <card number="1" name="Mana Geode"/>
-        <card number="1" name="Darksteel Ingot"/>
         <card number="1" name="Ephemerate"/>
         <card number="1" name="Guttersnipe"/>
-        <card number="1" name="Phalanx Leader"/>
         <card number="1" name="Intimidation Bolt"/>
         <card number="1" name="Akroan Conscriptor"/>
         <card number="1" name="Krenko, Tin Street Kingpin"/>
-        <card number="1" name="Coldsteel Heart"/>
-        <card number="1" name="Chandra's Ignition"/>
         <card number="1" name="Bag of Holding"/>
         <card number="1" name="Runaway Steam-Kin"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Sudden Breakthrough"/>
+        <card number="1" name="Solar Blaze"/>
+        <card number="1" name="Urza's Ruinous Blast"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="Cloudshift"/>
+        <card number="1" name="Iron Myr"/>
+        <card number="1" name="Gold Myr"/>
+        <card number="1" name="Lorehold Campus"/>
+        <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Alpine Meadow"/>
+        <card number="1" name="Knight of the White Orchid"/>
     </zone>
     <zone name="side">
         <card number="1" name="Burnished Hart"/>
@@ -162,7 +161,7 @@
         <card number="1" name="Divine Reckoning"/>
         <card number="1" name="Thermo-Alchemist"/>
         <card number="1" name="Aurelia's Fury"/>
-        <card number="1" name="Coldsteel Heart"/>
+        <card number="2" name="Coldsteel Heart"/>
         <card number="1" name="Rile"/>
         <card number="1" name="Brute Force"/>
         <card number="1" name="Exotic Orchard"/>
@@ -177,8 +176,25 @@
         <card number="2" name="Aetherflux Reservoir"/>
         <card number="1" name="Pyroblast"/>
         <card number="1" name="Dragonmaster Outcast"/>
-        <card number="1" name="Chandra's Ignition"/>
+        <card number="2" name="Chandra's Ignition"/>
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Mana Geode"/>
+        <card number="1" name="Electrostatic Field"/>
+        <card number="1" name="Mirrorwing Dragon"/>
+        <card number="1" name="Phalanx Leader"/>
+        <card number="1" name="Spellgorger Weird"/>
+        <card number="1" name="Tenth District Legionnaire"/>
+        <card number="1" name="Fell the Mighty"/>
+        <card number="1" name="Mirran Crusader"/>
+        <card number="1" name="Ephemerate"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Inspiring Vantage"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Wayfarer's Bauble"/>
     </zone>
 </cockatrice_deck>

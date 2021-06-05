@@ -64,7 +64,6 @@
         <card number="1" name="Dispel"/>
         <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Wavebreak Hippocamp"/>
-        <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Gruul Signet"/>
         <card number="1" name="Comet Storm"/>
         <card number="1" name="Simic Charm"/>
@@ -86,6 +85,7 @@
         <card number="1" name="Fists of Flame"/>
         <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Reverberate"/>
+        <card number="1" name="Road // Ruin"/>
     </zone>
     <zone name="side">
         <card number="2" name="Mission Briefing"/>
@@ -119,5 +119,7 @@
         <card number="1" name="Farseek"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Invigorate"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Corpse Churn"/>
     </zone>
 </cockatrice_deck>

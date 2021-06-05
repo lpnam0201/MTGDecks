@@ -22,7 +22,7 @@
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Stone Quarry"/>
-        <card number="13" name="Plains"/>
+        <card number="12" name="Plains"/>
         <card number="9" name="Mountain"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Disenchant"/>
@@ -83,6 +83,7 @@
         <card number="1" name="Archaeomancer's Map"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Needle Spires"/>
     </zone>
     <zone name="side">
         <card number="1" name="Blasphemous Act"/>

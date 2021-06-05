@@ -47,7 +47,6 @@
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Enigma Thief"/>
         <card number="1" name="Faerie Vandal"/>
-        <card number="1" name="Nightshade Stinger"/>
         <card number="1" name="Slither Blade"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Pongify"/>
@@ -83,6 +82,7 @@
         <card number="1" name="Poison the Cup"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Pharika's Libation"/>
+        <card number="1" name="Vedalken Infiltrator"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -179,5 +179,6 @@
         <card number="1" name="Murder"/>
         <card number="2" name="Fact or Fiction"/>
         <card number="1" name="Diabolic Edict"/>
+        <card number="1" name="Nightshade Stinger"/>
     </zone>
 </cockatrice_deck>

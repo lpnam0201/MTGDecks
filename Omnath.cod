@@ -21,7 +21,6 @@
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Seer's Sundial"/>
-        <card number="1" name="Explore"/>
         <card number="1" name="Grow from the Ashes"/>
         <card number="1" name="Circuitous Route"/>
         <card number="1" name="Nissa's Renewal"/>
@@ -74,6 +73,7 @@
         <card number="1" name="Greater Good"/>
         <card number="1" name="Yavimaya Elder"/>
         <card number="1" name="Hunting Wilds"/>
+        <card number="1" name="Road // Ruin"/>
     </zone>
     <zone name="side">
         <card number="1" name="Tempt with Vengeance"/>
@@ -166,5 +166,6 @@
         <card number="1" name="Far Wanderings"/>
         <card number="1" name="Autumn's Veil"/>
         <card number="1" name="Warped Landscape"/>
+        <card number="1" name="Explore"/>
     </zone>
 </cockatrice_deck>

@@ -5,7 +5,6 @@
     <zone name="main">
         <card number="1" name="Teysa Karlov"/>
         <card number="1" name="Bastion of Remembrance"/>
-        <card number="1" name="Blight Mound"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Grim Haruspex"/>
         <card number="1" name="Ministrant of Obligation"/>
@@ -69,7 +68,6 @@
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Pitiless Pontiff"/>
         <card number="1" name="Carrier Thrall"/>
-        <card number="1" name="Crush Contraband"/>
         <card number="1" name="Phyrexian Reclamation"/>
         <card number="1" name="Call of the Death-Dweller"/>
         <card number="1" name="Pawn of Ulamog"/>
@@ -81,6 +79,7 @@
         <card number="1" name="Reassembling Skeleton"/>
         <card number="1" name="Archaeomancer's Map"/>
         <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Return to Dust"/>
     </zone>
     <zone name="side">
         <card number="1" name="Hunted Witness"/>
@@ -100,5 +99,7 @@
         <card number="1" name="Nightmare Shepherd"/>
         <card number="1" name="Village Rites"/>
         <card number="1" name="Whisper, Blood Liturgist"/>
+        <card number="1" name="Crush Contraband"/>
+        <card number="1" name="Blight Mound"/>
     </zone>
 </cockatrice_deck>

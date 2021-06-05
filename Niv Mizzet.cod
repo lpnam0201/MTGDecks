@@ -20,7 +20,7 @@
         <card number="1" name="Temple of Epiphany"/>
         <card number="1" name="Highland Lake"/>
         <card number="1" name="Shivan Reef"/>
-        <card number="12" name="Island"/>
+        <card number="11" name="Island"/>
         <card number="10" name="Mountain"/>
         <card number="1" name="Into the Roil"/>
         <card number="1" name="Sol Ring"/>
@@ -83,6 +83,7 @@
         <card number="1" name="Thriving Isle"/>
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Torbran, Thane of Red Fell"/>
+        <card number="1" name="Silverbluff Bridge"/>
     </zone>
     <zone name="side">
         <card number="1" name="Izzet Cluestone"/>
@@ -256,5 +257,6 @@
         <card number="1" name="Compulsive Research"/>
         <card number="1" name="Misdirection"/>
         <card number="1" name="Neutralize"/>
+        <card number="1" name="Island"/>
     </zone>
 </cockatrice_deck>

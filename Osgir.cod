@@ -50,7 +50,7 @@
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Blasphemous Act"/>
-        <card number="12" name="Mountain"/>
+        <card number="11" name="Mountain"/>
         <card number="12" name="Plains"/>
         <card number="1" name="Boros Garrison"/>
         <card number="1" name="Battlefield Forge"/>
@@ -81,6 +81,7 @@
         <card number="1" name="Zirda, the Dawnwaker"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Silverbluff Bridge"/>
     </zone>
     <zone name="side">
         <card number="1" name="Phyrexia's Core"/>
@@ -109,5 +110,6 @@
         <card number="1" name="Quicksmith Genius"/>
         <card number="1" name="Monologue Tax"/>
         <card number="1" name="Scrap Trawler"/>
+        <card number="1" name="Mountain"/>
     </zone>
 </cockatrice_deck>

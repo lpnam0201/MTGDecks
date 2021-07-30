@@ -29,7 +29,6 @@
         <card number="1" name="Supreme Will"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Mizzium Mortars"/>
-        <card number="1" name="Earthquake"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Feed the Swarm"/>
@@ -83,6 +82,7 @@
         <card number="1" name="Thriving Moor"/>
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Magmaquake"/>
     </zone>
     <zone name="side">
         <card number="1" name="Talisman of Creativity"/>
@@ -203,5 +203,6 @@
         <card number="1" name="Rakdos Carnarium"/>
         <card number="1" name="Izzet Boilerworks"/>
         <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Earthquake"/>
     </zone>
 </cockatrice_deck>

@@ -75,7 +75,6 @@
         <card number="1" name="Clone"/>
         <card number="1" name="Flood of Tears"/>
         <card number="1" name="Harmonic Sliver"/>
-        <card number="1" name="Tidal Barracuda"/>
         <card number="1" name="Angel of Finality"/>
         <card number="1" name="Beast Whisperer"/>
         <card number="1" name="End-Raze Forerunners"/>
@@ -84,6 +83,7 @@
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Ephemerate"/>
+        <card number="1" name="Teleportation Circle"/>
     </zone>
     <zone name="side">
         <card number="1" name="Conjurer's Closet"/>
@@ -116,5 +116,6 @@
         <card number="1" name="Oblation"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Tidal Barracuda"/>
     </zone>
 </cockatrice_deck>

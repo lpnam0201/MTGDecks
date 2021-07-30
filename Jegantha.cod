@@ -2,4 +2,108 @@
 <cockatrice_deck version="1">
     <deckname>Jegantha</deckname>
     <comments></comments>
+    <zone name="main">
+        <card number="1" name="Jegantha, the Wellspring"/>
+        <card number="1" name="Immersturm Predator"/>
+        <card number="1" name="Kolaghan, the Storm's Fury"/>
+        <card number="1" name="Dromoka, the Eternal"/>
+        <card number="1" name="Spellbound Dragon"/>
+        <card number="1" name="Dragonlord Ojutai"/>
+        <card number="1" name="Scalelord Reckoner"/>
+        <card number="1" name="Sunscorch Regent"/>
+        <card number="1" name="Niv-Mizzet Reborn"/>
+        <card number="1" name="O-Kagachi, Vengeful Kami"/>
+        <card number="1" name="Vorosh, the Hunter"/>
+        <card number="1" name="Vaevictis Asmadi, the Dire"/>
+        <card number="1" name="Broodmate Dragon"/>
+        <card number="1" name="Intet, the Dreamer"/>
+        <card number="1" name="Amareth, the Lustrous"/>
+        <card number="1" name="Palladia-Mors, the Ruiner"/>
+        <card number="1" name="Oros, the Avenger"/>
+        <card number="1" name="Crosis, the Purger"/>
+        <card number="1" name="Numot, the Devastator"/>
+        <card number="1" name="Teneb, the Harvester"/>
+        <card number="1" name="Savage Ventmaw"/>
+        <card number="1" name="Lathliss, Dragon Queen"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Flameblast Dragon"/>
+        <card number="1" name="Silumgar, the Drifting Death"/>
+        <card number="1" name="Keiga, the Tide Star"/>
+        <card number="1" name="Tiamat"/>
+        <card number="1" name="Bladewing the Risen"/>
+        <card number="1" name="Karrthus, Tyrant of Jund"/>
+        <card number="1" name="Darigaaz Reincarnated"/>
+        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Chromium, the Mutable"/>
+        <card number="1" name="Atarka, World Render"/>
+        <card number="1" name="Ojutai, Soul of Winter"/>
+        <card number="1" name="Vivid Crag"/>
+        <card number="1" name="Vivid Meadow"/>
+        <card number="1" name="Vivid Grove"/>
+        <card number="1" name="Vivid Creek"/>
+        <card number="1" name="Vivid Marsh"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Haunting Voyage"/>
+        <card number="1" name="Crux of Fate"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="2" name="Plains"/>
+        <card number="3" name="Mountain"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Swamp"/>
+        <card number="10" name="Forest"/>
+        <card number="1" name="Wrap in Vigor"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Icon of Ancestry"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Asceticism"/>
+        <card number="1" name="Crucible of the Spirit Dragon"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Verdant Mastery"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Blasphemous Act"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Scourge of the Throne"/>
+        <card number="1" name="Boneyard Scourge"/>
+        <card number="1" name="Destructor Dragon"/>
+        <card number="1" name="Hunted Dragon"/>
+        <card number="1" name="Rapacious Dragon"/>
+        <card number="1" name="Territorial Hellkite"/>
+        <card number="1" name="Timeless Dragon"/>
+        <card number="1" name="Swamp Mosquito (b)"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Pillar of Origins"/>
+        <card number="1" name="Primevals' Glorious Rebirth"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Austere Command"/>
+    </zone>
 </cockatrice_deck>

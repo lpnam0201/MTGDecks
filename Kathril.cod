@@ -24,7 +24,6 @@
         <card number="1" name="Kunoros, Hound of Athreos"/>
         <card number="1" name="Nullpriest of Oblivion"/>
         <card number="1" name="Stinkweed Imp"/>
-        <card number="1" name="Mire Triton"/>
         <card number="1" name="Mythos of Nethroi"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Nature's Claim"/>
@@ -41,7 +40,7 @@
         <card number="1" name="Temple of Malady"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Temple of Plenty"/>
-        <card number="9" name="Forest"/>
+        <card number="8" name="Forest"/>
         <card number="6" name="Swamp"/>
         <card number="6" name="Plains"/>
         <card number="1" name="Necromantic Selection"/>
@@ -54,23 +53,18 @@
         <card number="1" name="Avenging Huntbonder"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Ransack the Lab"/>
         <card number="1" name="The Binding of the Titans"/>
         <card number="1" name="Oakhame Adversary"/>
         <card number="1" name="Angel of Condemnation"/>
         <card number="1" name="Nethroi, Apex of Death"/>
-        <card number="1" name="Mulch"/>
         <card number="1" name="Grapple with the Past"/>
         <card number="1" name="Adarkar Valkyrie"/>
-        <card number="1" name="Relentless Pursuit"/>
         <card number="1" name="Plated Crusher"/>
-        <card number="1" name="Gather the Pack"/>
         <card number="1" name="Price of Fame"/>
         <card number="1" name="Goring Ceratops"/>
         <card number="1" name="Arctic Treeline"/>
         <card number="1" name="Snowfield Sinkhole"/>
         <card number="1" name="Woodland Chasm"/>
-        <card number="1" name="Scout the Borders"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Victimize"/>
         <card number="1" name="Thriving Grove"/>
@@ -79,12 +73,19 @@
         <card number="1" name="Bassara Tower Archer"/>
         <card number="1" name="Aven Sunstriker"/>
         <card number="1" name="Skyhunter Skirmisher"/>
-        <card number="1" name="Key to the City"/>
         <card number="1" name="Ghostblade Eidolon"/>
         <card number="1" name="Kwende, Pride of Femeref"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Eerie Ultimatum"/>
         <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Oriq Loremage"/>
+        <card number="1" name="Vile Entomber"/>
+        <card number="1" name="Jarad's Orders"/>
+        <card number="1" name="Final Parting"/>
+        <card number="1" name="Gravebreaker Lamia"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Selesnya Signet"/>
     </zone>
     <zone name="side">
         <card number="1" name="Return of the Wildspeaker"/>
@@ -116,13 +117,13 @@
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Ephemerate"/>
         <card number="1" name="Unbreakable Bond"/>
-        <card number="2" name="Mulch"/>
+        <card number="3" name="Mulch"/>
         <card number="1" name="Duneblast"/>
         <card number="1" name="Golgari Grave-Troll"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Knight of Grace"/>
         <card number="1" name="Knight of Malice"/>
-        <card number="1" name="Ransack the Lab"/>
+        <card number="2" name="Ransack the Lab"/>
         <card number="1" name="Stitch Together"/>
         <card number="1" name="Buried Alive"/>
         <card number="1" name="Final Parting"/>
@@ -171,11 +172,11 @@
         <card number="1" name="Explosive Vegetation"/>
         <card number="1" name="Corpse Churn"/>
         <card number="1" name="Thornweald Archer"/>
-        <card number="1" name="Scout the Borders"/>
-        <card number="1" name="Gather the Pack"/>
+        <card number="2" name="Scout the Borders"/>
+        <card number="2" name="Gather the Pack"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Liesa, Shroud of Dusk"/>
-        <card number="1" name="Forest"/>
+        <card number="2" name="Forest"/>
         <card number="2" name="Plains"/>
         <card number="1" name="Swamp"/>
         <card number="2" name="Verge Rangers"/>
@@ -200,5 +201,8 @@
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Darksteel Myr"/>
+        <card number="1" name="Relentless Pursuit"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Mire Triton"/>
     </zone>
 </cockatrice_deck>

@@ -38,7 +38,6 @@
         <card number="1" name="Fireshrieker"/>
         <card number="1" name="Grappling Hook"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Sunhome, Fortress of the Legion"/>
         <card number="1" name="Slayers' Stronghold"/>
         <card number="1" name="Everflowing Chalice"/>
@@ -51,7 +50,6 @@
         <card number="1" name="Painful Lesson"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Maul of the Skyclaves"/>
-        <card number="1" name="Blazing Sunsteel"/>
         <card number="1" name="Mirror Shield"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Mask of Avacyn"/>
@@ -70,7 +68,6 @@
         <card number="1" name="Brave the Elements"/>
         <card number="1" name="Benevolent Bodyguard"/>
         <card number="1" name="Hedron Archive"/>
-        <card number="1" name="Kediss, Emberclaw Familiar"/>
         <card number="1" name="Reyav, Master Smith"/>
         <card number="1" name="Bolt Bend"/>
         <card number="1" name="Sejiri Shelter"/>
@@ -84,6 +81,9 @@
         <card number="1" name="Relentless Assault"/>
         <card number="1" name="Ruinous Ultimatum"/>
         <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Fleetfeather Sandals"/>
+        <card number="1" name="Talisman of Indulgence"/>
     </zone>
     <zone name="side">
         <card number="1" name="Slayers' Stronghold"/>
@@ -148,7 +148,6 @@
         <card number="1" name="Boros Charm"/>
         <card number="3" name="Return to Dust"/>
         <card number="1" name="Alseid of Life's Bounty"/>
-        <card number="1" name="Utter End"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Merciless Eviction"/>
         <card number="1" name="Read the Bones"/>
@@ -197,7 +196,7 @@
         <card number="1" name="Languish"/>
         <card number="2" name="Mask of Avacyn"/>
         <card number="2" name="Mirror Shield"/>
-        <card number="1" name="Blazing Sunsteel"/>
+        <card number="2" name="Blazing Sunsteel"/>
         <card number="1" name="Explorer's Scope"/>
         <card number="2" name="Crystal Slipper"/>
         <card number="1" name="Inquisitor's Flail"/>
@@ -236,5 +235,8 @@
         <card number="2" name="Cleansing Nova"/>
         <card number="1" name="Solar Blaze"/>
         <card number="1" name="Port Razer"/>
+        <card number="1" name="Kediss, Emberclaw Familiar"/>
+        <card number="1" name="Magmaquake"/>
+        <card number="1" name="Prismatic Lens"/>
     </zone>
 </cockatrice_deck>

@@ -7,18 +7,24 @@
         <card number="1" name="Marath, Will of the Wild"/>
         <card number="1" name="Silverclad Ferocidons"/>
         <card number="1" name="Bellowing Aegisaur"/>
-        <card number="1" name="Sun-Crowned Hunters"/>
-        <card number="1" name="Imperial Ceratops"/>
-        <card number="1" name="Snapping Sailback"/>
         <card number="1" name="Trapjaw Tyrant"/>
-        <card number="1" name="Overgrown Armasaur"/>
         <card number="1" name="Needletooth Raptor"/>
         <card number="1" name="Cacophodon"/>
         <card number="1" name="Ripjaw Raptor"/>
-        <card number="1" name="Frilled Deathspitter"/>
         <card number="1" name="Ranging Raptors"/>
-        <card number="1" name="Ravenous Daggertooth"/>
         <card number="1" name="Hornet Nest"/>
         <card number="1" name="Siegehorn Ceratops"/>
+        <card number="1" name="Urban Daggertooth"/>
+        <card number="1" name="Torbran, Thane of Red Fell"/>
+        <card number="1" name="Conclave Mentor"/>
+        <card number="1" name="Ivy Lane Denizen"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Frilled Deathspitter"/>
+        <card number="1" name="Imperial Ceratops"/>
+        <card number="1" name="Ravenous Daggertooth"/>
+        <card number="1" name="Sun-Crowned Hunters"/>
+        <card number="1" name="Overgrown Armasaur"/>
+        <card number="1" name="Snapping Sailback"/>
     </zone>
 </cockatrice_deck>

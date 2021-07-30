@@ -36,7 +36,6 @@
         <card number="1" name="Bolt Bend"/>
         <card number="1" name="Skyclave Relic"/>
         <card number="1" name="Star Compass"/>
-        <card number="1" name="Earthquake"/>
         <card number="1" name="Lightning Strike"/>
         <card number="1" name="Sky Diamond"/>
         <card number="1" name="Fire Diamond"/>
@@ -84,6 +83,7 @@
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Torbran, Thane of Red Fell"/>
         <card number="1" name="Silverbluff Bridge"/>
+        <card number="1" name="Magmaquake"/>
     </zone>
     <zone name="side">
         <card number="1" name="Izzet Cluestone"/>
@@ -101,7 +101,7 @@
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="2" name="Earthquake"/>
+        <card number="3" name="Earthquake"/>
         <card number="1" name="Chain Reaction"/>
         <card number="2" name="Windfall"/>
         <card number="3" name="Chemister's Insight"/>
@@ -258,5 +258,6 @@
         <card number="1" name="Misdirection"/>
         <card number="1" name="Neutralize"/>
         <card number="1" name="Island"/>
+        <card number="1" name="Lazotep Chancellor"/>
     </zone>
 </cockatrice_deck>

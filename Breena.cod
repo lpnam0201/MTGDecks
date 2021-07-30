@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Breena, the Demagogue"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Silverquill Campus"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Knight of the Ebon Legion"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="Selfless Glyphweaver"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Grateful Apparition"/>
+        <card number="1" name="Kinjalli's Sunwing"/>
+        <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Archon of Emeria"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Tormented Soul"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Fracture"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Oona's Blackguard"/>
+        <card number="1" name="Strict Proctor"/>
+        <card number="1" name="Together Forever"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Kunoros, Hound of Athreos"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Oblation"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Silverblade Paladin"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Bloodtracker"/>
+        <card number="1" name="Deafening Silence"/>
+        <card number="1" name="Healer's Hawk"/>
+        <card number="1" name="Battlefield Raptor"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Doom Blade"/>
+        <card number="1" name="Containment Priest"/>
+        <card number="1" name="Cruel Sadist"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Soul Snare"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Retribution of the Ancients"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Sejiri Shelter"/>
+        <card number="1" name="Vindicate"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Felisa, Fang of Silverquill"/>
+        <card number="1" name="Tragic Arrogance"/>
+        <card number="1" name="Windborn Muse"/>
+        <card number="1" name="Abzan Battle Priest"/>
+        <card number="1" name="Abzan Falconer"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Vampire Cutthroat"/>
+        <card number="1" name="Felisa, Fang of Silverquill"/>
+        <card number="1" name="Barrowin of Clan Undurr"/>
+        <card number="1" name="Firja, Judge of Valor"/>
+        <card number="1" name="Vindicate"/>
+        <card number="1" name="Reduce to Memory"/>
+        <card number="1" name="Containment Priest"/>
+        <card number="1" name="Hushwing Gryff"/>
+        <card number="1" name="Tocatli Honor Guard"/>
+    </zone>
+</cockatrice_deck>

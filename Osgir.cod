@@ -81,7 +81,7 @@
         <card number="1" name="Zirda, the Dawnwaker"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Monologue Tax"/>
-        <card number="1" name="Silverbluff Bridge"/>
+        <card number="1" name="Rustvale Bridge"/>
     </zone>
     <zone name="side">
         <card number="1" name="Phyrexia's Core"/>
@@ -111,5 +111,6 @@
         <card number="1" name="Monologue Tax"/>
         <card number="1" name="Scrap Trawler"/>
         <card number="1" name="Mountain"/>
+        <card number="1" name="Silverbluff Bridge"/>
     </zone>
 </cockatrice_deck>

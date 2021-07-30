@@ -45,7 +45,6 @@
         <card number="1" name="Hammer of Nazahn"/>
         <card number="1" name="Loxodon Warhammer"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Blazing Sunsteel"/>
         <card number="1" name="Sword of Vengeance"/>
         <card number="1" name="Maul of the Skyclaves"/>
         <card number="1" name="Mask of Avacyn"/>
@@ -77,13 +76,14 @@
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Alpine Meadow"/>
         <card number="1" name="Open the Vaults"/>
-        <card number="1" name="Mana Geyser"/>
         <card number="1" name="Inspiring Statuary"/>
-        <card number="1" name="Resolute Watchdog"/>
-        <card number="1" name="Archaeomancer's Map"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Needle Spires"/>
+        <card number="1" name="Fighter Class"/>
+        <card number="1" name="Robe of Stars"/>
+        <card number="1" name="Plate Armor"/>
+        <card number="1" name="Gods Willing"/>
     </zone>
     <zone name="side">
         <card number="1" name="Blasphemous Act"/>
@@ -190,5 +190,9 @@
         <card number="1" name="Kediss, Emberclaw Familiar"/>
         <card number="1" name="Solar Blaze"/>
         <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Archaeomancer's Map"/>
+        <card number="1" name="Resolute Watchdog"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Blazing Sunsteel"/>
     </zone>
 </cockatrice_deck>

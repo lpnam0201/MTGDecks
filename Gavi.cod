@@ -9,7 +9,6 @@
         <card number="1" name="Astral Drift"/>
         <card number="1" name="Tectonic Reformation"/>
         <card number="1" name="Akroma's Vengeance"/>
-        <card number="1" name="Curator of Mysteries"/>
         <card number="1" name="New Perspectives"/>
         <card number="1" name="Cast Out"/>
         <card number="1" name="Drake Haven"/>
@@ -19,17 +18,12 @@
         <card number="1" name="Fluctuator"/>
         <card number="1" name="Raugrin Crystal"/>
         <card number="1" name="Dismantling Wave"/>
-        <card number="1" name="Valiant Rescuer"/>
-        <card number="1" name="Abandoned Sarcophagus"/>
         <card number="1" name="Reconnaissance Mission"/>
         <card number="1" name="Ominous Seas"/>
         <card number="1" name="Surly Badgersaur"/>
         <card number="1" name="Crystalline Resonance"/>
         <card number="1" name="Drannith Stinger"/>
-        <card number="1" name="Rooting Moloch"/>
         <card number="1" name="Psychosis Crawler"/>
-        <card number="1" name="Flourishing Fox"/>
-        <card number="1" name="Zirda, the Dawnwaker"/>
         <card number="1" name="Forsake the Worldly"/>
         <card number="1" name="Countervailing Winds"/>
         <card number="1" name="Starstorm"/>
@@ -37,10 +31,7 @@
         <card number="1" name="Angelsong"/>
         <card number="1" name="Deem Worthy"/>
         <card number="1" name="Sacred Excavation"/>
-        <card number="1" name="Bag of Holding"/>
         <card number="1" name="Escape Protocol"/>
-        <card number="1" name="Spirit Cairn"/>
-        <card number="1" name="Improbable Alliance"/>
         <card number="1" name="Lay Claim"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Azorius Signet"/>
@@ -48,7 +39,6 @@
         <card number="1" name="Boros Signet"/>
         <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Talisman of Conviction"/>
-        <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Irrigated Farmland"/>
         <card number="1" name="Mystic Monastery"/>
@@ -69,15 +59,12 @@
         <card number="1" name="Desert of the True"/>
         <card number="1" name="Desert of the Fervent"/>
         <card number="1" name="Blasted Landscape"/>
-        <card number="6" name="Island"/>
-        <card number="6" name="Mountain"/>
-        <card number="6" name="Plains"/>
+        <card number="7" name="Island"/>
+        <card number="7" name="Mountain"/>
+        <card number="7" name="Plains"/>
         <card number="1" name="Unpredictable Cyclone"/>
-        <card number="1" name="Negate"/>
         <card number="1" name="Slaughter the Strong"/>
-        <card number="1" name="Descend upon the Sinful"/>
         <card number="1" name="Astral Slide"/>
-        <card number="1" name="Corrupted Grafstone"/>
         <card number="1" name="Boon of the Wish-Giver"/>
         <card number="1" name="Rebuild"/>
         <card number="1" name="Nimble Obstructionist"/>
@@ -85,13 +72,22 @@
         <card number="1" name="Glint-Horn Buccaneer"/>
         <card number="1" name="Slice and Dice"/>
         <card number="1" name="Vizier of Tumbling Sands"/>
-        <card number="1" name="Mad Ratter"/>
-        <card number="1" name="Zenith Flare"/>
         <card number="1" name="Sweltering Suns"/>
+        <card number="1" name="Rielle, the Everwise"/>
+        <card number="1" name="Thought Reflection"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Abandoned Sarcophagus"/>
+        <card number="1" name="Censor"/>
+        <card number="1" name="Violent Impact"/>
+        <card number="1" name="Limits of Solidarity"/>
+        <card number="1" name="Cloud of Faeries"/>
+        <card number="1" name="Radiant's Judgment"/>
+        <card number="1" name="Curator of Mysteries"/>
+        <card number="1" name="Rooting Moloch"/>
+        <card number="1" name="Valiant Rescuer"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Brallin, Skyshark Rider"/>
-        <card number="1" name="Niv-Mizzet, the Firemind"/>
+        <card number="2" name="Niv-Mizzet, the Firemind"/>
         <card number="1" name="Spellpyre Phoenix"/>
         <card number="1" name="King of the Pride"/>
         <card number="1" name="Savai Thundermane"/>
@@ -99,8 +95,6 @@
         <card number="1" name="Ephara, God of the Polis"/>
         <card number="1" name="Rebuild"/>
         <card number="1" name="Boon of the Wish-Giver"/>
-        <card number="1" name="Vizier of Tumbling Sands"/>
-        <card number="1" name="Censor"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Decree of Justice"/>
         <card number="2" name="Slice and Dice"/>
@@ -112,13 +106,28 @@
         <card number="1" name="The Locust God"/>
         <card number="1" name="Irencrag Pyromancer"/>
         <card number="1" name="Glint-Horn Buccaneer"/>
-        <card number="1" name="Mad Ratter"/>
+        <card number="2" name="Mad Ratter"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Banishing Light"/>
         <card number="1" name="Rielle, the Everwise"/>
         <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Time Wipe"/>
-        <card number="1" name="Approach of the Second Sun"/>
         <card number="1" name="Frogify"/>
+        <card number="2" name="Bag of Holding"/>
+        <card number="1" name="Corrupted Grafstone"/>
+        <card number="1" name="Flourishing Fox"/>
+        <card number="1" name="Zirda, the Dawnwaker"/>
+        <card number="1" name="Zenith Flare"/>
+        <card number="1" name="Descend upon the Sinful"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Vizier of Tumbling Sands"/>
+        <card number="1" name="Improbable Alliance"/>
+        <card number="1" name="Ruin Grinder"/>
+        <card number="1" name="Angel of the Ruins"/>
+        <card number="1" name="Shabraz, the Skyshark"/>
+        <card number="1" name="Spirit Cairn"/>
+        <card number="1" name="Brallin, Skyshark Rider"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Approach of the Second Sun"/>
     </zone>
 </cockatrice_deck>

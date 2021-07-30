@@ -25,7 +25,6 @@
         <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Beast Whisperer"/>
-        <card number="1" name="Archetype of Endurance"/>
         <card number="1" name="Challenger Troll"/>
         <card number="1" name="Garruk's Harbinger"/>
         <card number="1" name="Ulvenwald Tracker"/>
@@ -37,12 +36,10 @@
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Return to Nature"/>
         <card number="1" name="Wrap in Vigor"/>
-        <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Once and Future"/>
         <card number="1" name="Lifecrafter's Bestiary"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Asceticism"/>
         <card number="1" name="Zendikar Resurgent"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Castle Garenbrig"/>
@@ -52,12 +49,10 @@
         <card number="30" name="Forest"/>
         <card number="1" name="Gargos, Vicious Watcher"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Greater Good"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Siege Behemoth"/>
-        <card number="1" name="Dawnglade Regent"/>
         <card number="1" name="Inscription of Abundance"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Hunter's Insight"/>
@@ -69,11 +64,16 @@
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Leafkin Druid"/>
         <card number="1" name="Battle Mammoth"/>
-        <card number="1" name="Garruk, Primal Hunter"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Giant Adephage"/>
         <card number="1" name="Colossal Majesty"/>
         <card number="1" name="Engulfing Slagwurm"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Regal Force"/>
+        <card number="1" name="Hydra Omnivore"/>
+        <card number="1" name="Sawtusk Demolisher"/>
+        <card number="1" name="Dawnglade Regent"/>
+        <card number="1" name="Beast Within"/>
     </zone>
     <zone name="side">
         <card number="1" name="Eternal Witness"/>
@@ -88,7 +88,7 @@
         <card number="1" name="Hunter's Insight"/>
         <card number="1" name="Titanic Brawl"/>
         <card number="1" name="Ancient Animus"/>
-        <card number="2" name="Nature's Way"/>
+        <card number="3" name="Nature's Way"/>
         <card number="2" name="Road of Return"/>
         <card number="2" name="Roar of Challenge"/>
         <card number="1" name="Fertile Ground"/>
@@ -104,7 +104,7 @@
         <card number="1" name="Primordial Sage"/>
         <card number="1" name="Prowling Serpopard"/>
         <card number="1" name="Soul of the Harvest"/>
-        <card number="1" name="Ulvenwald Observer"/>
+        <card number="2" name="Ulvenwald Observer"/>
         <card number="1" name="Thunderfoot Baloth"/>
         <card number="1" name="Verdurous Gearhulk"/>
         <card number="1" name="Wolfwillow Haven"/>
@@ -124,10 +124,17 @@
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Wild Growth"/>
         <card number="1" name="Paradise Druid"/>
-        <card number="1" name="Silvos, Rogue Elemental"/>
         <card number="1" name="Vivien, Champion of the Wilds"/>
         <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Kenrith's Transformation"/>
         <card number="1" name="Anara, Wolvid Familiar"/>
+        <card number="1" name="Klothys's Design"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Dawnglade Regent"/>
+        <card number="1" name="Asceticism"/>
+        <card number="1" name="Archetype of Endurance"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Silvos, Rogue Elemental"/>
     </zone>
 </cockatrice_deck>

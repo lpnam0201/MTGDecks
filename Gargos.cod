@@ -21,7 +21,6 @@
         <card number="1" name="Hunter's Insight"/>
         <card number="1" name="Withstand Death"/>
         <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
-        <card number="1" name="Paradise Druid"/>
         <card number="1" name="Llanowar Tribe"/>
         <card number="1" name="Once and Future"/>
         <card number="1" name="Managorger Hydra"/>
@@ -34,7 +33,6 @@
         <card number="1" name="Castle Garenbrig"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Rancor"/>
-        <card number="1" name="Colossal Majesty"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Steelbane Hydra"/>
         <card number="1" name="Llanowar Elves"/>
@@ -53,13 +51,11 @@
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Cultivate"/>
-        <card number="1" name="Nessian Wilds Ravager"/>
         <card number="1" name="Zendikar Resurgent"/>
         <card number="1" name="Overgrowth"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Inscription of Abundance"/>
         <card number="1" name="Soul's Majesty"/>
-        <card number="1" name="Snake Umbra"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Gemrazer"/>
         <card number="1" name="Sawtusk Demolisher"/>
@@ -67,13 +63,17 @@
         <card number="1" name="Karametra's Acolyte"/>
         <card number="1" name="Ohran Viper"/>
         <card number="1" name="Oakhame Adversary"/>
-        <card number="1" name="Ranger's Guile"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Rhonas's Monument"/>
         <card number="1" name="Charge Through"/>
         <card number="1" name="Oran-Rief Hydra"/>
         <card number="1" name="Monstrous Onslaught"/>
-        <card number="1" name="Greater Good"/>
+        <card number="1" name="Wren's Run Hydra"/>
+        <card number="1" name="Rune of Might"/>
+        <card number="1" name="Indomitable Might"/>
+        <card number="1" name="Neverwinter Hydra"/>
+        <card number="1" name="Talons of Wildwood"/>
+        <card number="1" name="Whisperer of the Wilds"/>
     </zone>
     <zone name="side">
         <card number="1" name="Prowling Serpopard"/>
@@ -88,7 +88,7 @@
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Foe-Razer Regent"/>
         <card number="2" name="Migration Path"/>
-        <card number="2" name="Nessian Wilds Ravager"/>
+        <card number="3" name="Nessian Wilds Ravager"/>
         <card number="1" name="Thriving Heath"/>
         <card number="1" name="Thriving Bluff"/>
         <card number="4" name="Nissa, Who Shakes the World"/>
@@ -114,7 +114,7 @@
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Invigorate"/>
-        <card number="2" name="Ranger's Guile"/>
+        <card number="3" name="Ranger's Guile"/>
         <card number="4" name="Mortal's Resolve"/>
         <card number="2" name="Snake Umbra"/>
         <card number="1" name="Slippery Karst"/>
@@ -124,7 +124,7 @@
         <card number="1" name="Barrier Breach"/>
         <card number="1" name="Autumn's Veil"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
-        <card number="2" name="Greater Good"/>
+        <card number="3" name="Greater Good"/>
         <card number="2" name="Soul's Majesty"/>
         <card number="1" name="Zendikar Resurgent"/>
         <card number="1" name="Whiptongue Hydra"/>
@@ -175,5 +175,10 @@
         <card number="1" name="Battlemage's Bracers"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Rune of Might"/>
+        <card number="1" name="Wren's Run Hydra"/>
+        <card number="1" name="Talons of Wildwood"/>
+        <card number="1" name="Paradise Druid"/>
     </zone>
 </cockatrice_deck>

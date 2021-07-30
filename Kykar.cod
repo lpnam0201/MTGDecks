@@ -19,7 +19,6 @@
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Impulse"/>
         <card number="1" name="Comet Storm"/>
-        <card number="1" name="Earthquake"/>
         <card number="1" name="Dispel"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Winged Words"/>
@@ -66,7 +65,6 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="The Mirari Conjecture"/>
         <card number="1" name="Mana Leak"/>
-        <card number="1" name="Propaganda"/>
         <card number="1" name="Shivan Reef"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Swiftwater Cliffs"/>
@@ -76,14 +74,16 @@
         <card number="1" name="Reverberate"/>
         <card number="1" name="Ral, Storm Conduit"/>
         <card number="1" name="Mentor of the Meek"/>
-        <card number="1" name="Lightning Bolt"/>
         <card number="1" name="Crackle with Power"/>
         <card number="1" name="Past in Flames"/>
-        <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Thriving Isle"/>
         <card number="1" name="Thriving Heath"/>
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Swarm Intelligence"/>
+        <card number="1" name="Magmaquake"/>
+        <card number="1" name="Harmonic Prodigy"/>
+        <card number="1" name="Sorcerer Class"/>
+        <card number="1" name="Into the Roil"/>
     </zone>
     <zone name="side">
         <card number="1" name="Time Wipe"/>
@@ -121,7 +121,7 @@
         <card number="2" name="Thousand-Year Storm"/>
         <card number="1" name="Electrodominance"/>
         <card number="1" name="Frantic Search"/>
-        <card number="1" name="Propaganda"/>
+        <card number="2" name="Propaganda"/>
         <card number="1" name="Underworld Breach"/>
         <card number="1" name="Mizzium Mortars"/>
         <card number="1" name="Magmatic Insight"/>
@@ -177,7 +177,6 @@
         <card number="1" name="Sulfur Falls"/>
         <card number="1" name="Sleight of Hand"/>
         <card number="1" name="Cleansing Nova"/>
-        <card number="1" name="Into the Roil"/>
         <card number="1" name="Epic Experiment"/>
         <card number="1" name="Horizon Stone"/>
         <card number="1" name="Rootborn Defenses"/>
@@ -188,5 +187,8 @@
         <card number="1" name="Azorius Chancery"/>
         <card number="1" name="Boros Garrison"/>
         <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Earthquake"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Lightning Bolt"/>
     </zone>
 </cockatrice_deck>

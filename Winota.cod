@@ -8,10 +8,6 @@
         <card number="1" name="Alpine Meadow"/>
         <card number="1" name="Lena, Selfless Champion"/>
         <card number="1" name="Geist-Honored Monk"/>
-        <card number="1" name="Archon of Emeria"/>
-        <card number="1" name="Aven Mindcensor"/>
-        <card number="1" name="Eidolon of Rhetoric"/>
-        <card number="1" name="Vryn Wingmare"/>
         <card number="1" name="Kinjalli's Sunwing"/>
         <card number="1" name="Blade Splicer"/>
         <card number="1" name="Captain of the Watch"/>
@@ -37,7 +33,6 @@
         <card number="1" name="Alseid of Life's Bounty"/>
         <card number="1" name="Benevolent Bodyguard"/>
         <card number="1" name="Mother of Runes"/>
-        <card number="1" name="Spirit of the Labyrinth"/>
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Chaos Warp"/>
@@ -61,8 +56,8 @@
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Lorehold Campus"/>
         <card number="1" name="Needle Spires"/>
-        <card number="11" name="Plains"/>
-        <card number="8" name="Mountain"/>
+        <card number="10" name="Plains"/>
+        <card number="9" name="Mountain"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Goblin Instigator"/>
@@ -86,6 +81,11 @@
         <card number="1" name="Goblin Assault"/>
         <card number="1" name="Wily Goblin"/>
         <card number="1" name="Boreas Charger"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Phoenix of Ash"/>
+        <card number="1" name="Kangee's Lieutenant"/>
+        <card number="1" name="Flamewake Phoenix"/>
+        <card number="1" name="Lightning Phoenix"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lightning Greaves"/>
@@ -126,5 +126,10 @@
         <card number="1" name="Pia and Kiran Nalaar"/>
         <card number="1" name="Grinning Ignus"/>
         <card number="1" name="Cavalry Pegasus"/>
+        <card number="1" name="Spirit of the Labyrinth"/>
+        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Archon of Emeria"/>
+        <card number="1" name="Vryn Wingmare"/>
     </zone>
 </cockatrice_deck>

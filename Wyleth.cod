@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Sage's Reverie"/>
-        <card number="1" name="Sram, Senior Edificer"/>
         <card number="1" name="All That Glitters"/>
         <card number="1" name="Winds of Rath"/>
         <card number="1" name="Talisman of Conviction"/>
@@ -26,14 +25,13 @@
         <card number="1" name="Boros Signet"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Boros Garrison"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Boros Guildgate"/>
         <card number="1" name="Wind-Scarred Crag"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Stone Quarry"/>
-        <card number="14" name="Plains"/>
+        <card number="15" name="Plains"/>
         <card number="7" name="Mountain"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Ethereal Armor"/>
@@ -47,7 +45,6 @@
         <card number="1" name="Holy Mantle"/>
         <card number="1" name="Sunhome, Fortress of the Legion"/>
         <card number="1" name="Slayers' Stronghold"/>
-        <card number="1" name="Mirror Shield"/>
         <card number="1" name="Karametra's Blessing"/>
         <card number="1" name="Wyleth, Soul of Steel"/>
         <card number="1" name="Timely Ward"/>
@@ -58,32 +55,34 @@
         <card number="1" name="Emerge Unscathed"/>
         <card number="1" name="Brave the Elements"/>
         <card number="1" name="Gods Willing"/>
-        <card number="1" name="Solar Blaze"/>
         <card number="1" name="Hyena Umbra"/>
-        <card number="1" name="Kediss, Emberclaw Familiar"/>
         <card number="1" name="Benevolent Bodyguard"/>
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Abrade"/>
         <card number="1" name="Relentless Assault"/>
         <card number="1" name="Blackblade Reforged"/>
         <card number="1" name="Thought Vessel"/>
-        <card number="1" name="Return to Dust"/>
         <card number="1" name="Reyav, Master Smith"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Felidar Umbra"/>
         <card number="1" name="Cliffside Rescuer"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Armored Skyhunter"/>
-        <card number="1" name="Slash the Ranks"/>
-        <card number="1" name="Koll, the Forgemaster"/>
-        <card number="1" name="Brought Back"/>
         <card number="1" name="Shiny Impetus"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Tyrite Sanctum"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Duelist's Heritage"/>
-        <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Austere Command"/>
+        <card number="1" name="Sentinel's Eyes"/>
+        <card number="1" name="Mantle of the Ancients"/>
+        <card number="1" name="Escape Velocity"/>
+        <card number="1" name="Resolute Watchdog"/>
+        <card number="1" name="Needle Spires"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Eland Umbra"/>
+        <card number="1" name="Gryff's Boon"/>
+        <card number="1" name="Flickerform"/>
     </zone>
     <zone name="side">
         <card number="1" name="Blasphemous Act"/>
@@ -116,7 +115,7 @@
         <card number="1" name="Face of Divinity"/>
         <card number="1" name="Winds of Abandon"/>
         <card number="1" name="Hyena Umbra"/>
-        <card number="1" name="Mirror Shield"/>
+        <card number="2" name="Mirror Shield"/>
         <card number="3" name="Plains"/>
         <card number="2" name="Mountain"/>
         <card number="1" name="Scavenger Grounds"/>
@@ -125,7 +124,6 @@
         <card number="2" name="Brave the Elements"/>
         <card number="1" name="Outpost Siege"/>
         <card number="1" name="Shiny Impetus"/>
-        <card number="1" name="Flickerform"/>
         <card number="1" name="Sigil of the Empty Throne"/>
         <card number="2" name="Tiana, Ship's Caretaker"/>
         <card number="1" name="Valduk, Keeper of the Flame"/>
@@ -167,5 +165,14 @@
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Dauntless Bodyguard"/>
         <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Koll, the Forgemaster"/>
+        <card number="1" name="Kediss, Emberclaw Familiar"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Slash the Ranks"/>
+        <card number="1" name="Solar Blaze"/>
+        <card number="1" name="Brought Back"/>
     </zone>
 </cockatrice_deck>

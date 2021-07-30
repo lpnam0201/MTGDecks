@@ -9,7 +9,6 @@
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Dimir Guildgate"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Dimir Aqueduct"/>
         <card number="1" name="Dismal Backwater"/>
         <card number="1" name="Temple of Deceit"/>
         <card number="1" name="Submerged Boneyard"/>
@@ -83,6 +82,7 @@
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Pharika's Libation"/>
         <card number="1" name="Vedalken Infiltrator"/>
+        <card number="1" name="Ice Tunnel"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -180,5 +180,6 @@
         <card number="2" name="Fact or Fiction"/>
         <card number="1" name="Diabolic Edict"/>
         <card number="1" name="Nightshade Stinger"/>
+        <card number="1" name="Dimir Aqueduct"/>
     </zone>
 </cockatrice_deck>

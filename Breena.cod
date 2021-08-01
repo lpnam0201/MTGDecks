@@ -6,58 +6,79 @@
         <card number="1" name="Breena, the Demagogue"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Silverquill Campus"/>
-        <card number="1" name="Shineshadow Snarl"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Knight of the Ebon Legion"/>
         <card number="1" name="Alseid of Life's Bounty"/>
         <card number="1" name="Selfless Savior"/>
         <card number="1" name="Cliffside Rescuer"/>
-        <card number="1" name="Selfless Glyphweaver"/>
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Benevolent Bodyguard"/>
-        <card number="1" name="Aven Mindcensor"/>
-        <card number="1" name="Grateful Apparition"/>
         <card number="1" name="Kinjalli's Sunwing"/>
-        <card number="1" name="Loyal Warhound"/>
-        <card number="1" name="Archon of Emeria"/>
-        <card number="1" name="Changeling Outcast"/>
-        <card number="1" name="Tormented Soul"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Fracture"/>
-        <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Oona's Blackguard"/>
-        <card number="1" name="Strict Proctor"/>
         <card number="1" name="Together Forever"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Kunoros, Hound of Athreos"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Oblation"/>
         <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Silverblade Paladin"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Bloodtracker"/>
-        <card number="1" name="Deafening Silence"/>
         <card number="1" name="Healer's Hawk"/>
-        <card number="1" name="Battlefield Raptor"/>
         <card number="1" name="Price of Fame"/>
-        <card number="1" name="Doom Blade"/>
-        <card number="1" name="Containment Priest"/>
-        <card number="1" name="Cruel Sadist"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Inkshield"/>
         <card number="1" name="Soul Snare"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Retribution of the Ancients"/>
-        <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Sejiri Shelter"/>
-        <card number="1" name="Vindicate"/>
-        <card number="1" name="Baleful Mastery"/>
         <card number="1" name="Felisa, Fang of Silverquill"/>
         <card number="1" name="Tragic Arrogance"/>
         <card number="1" name="Windborn Muse"/>
+        <card number="1" name="Beloved Princess"/>
+        <card number="1" name="High Priest of Penance"/>
+        <card number="1" name="Adanto Vanguard"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Loyal Sentry"/>
+        <card number="1" name="Snowfield Sinkhole"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Forsaken Sanctuary"/>
+        <card number="1" name="Orzhov Guildgate"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Goldmire Bridge"/>
+        <card number="12" name="Plains"/>
+        <card number="12" name="Swamp"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Selfless Squire"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Brave the Elements"/>
+        <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Wing Shards"/>
+        <card number="1" name="Angel of the Dire Hour"/>
+        <card number="1" name="Mandate of Peace"/>
+        <card number="1" name="Archon of Coronation"/>
+        <card number="1" name="Dauntless Bodyguard"/>
+        <card number="1" name="Promise of Loyalty"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Gods Willing"/>
+        <card number="1" name="Dreamstealer"/>
+        <card number="1" name="Adorned Pouncer"/>
+        <card number="1" name="Fencing Ace"/>
+        <card number="1" name="Citadel Siege"/>
+        <card number="1" name="Kor Blademaster"/>
+        <card number="1" name="Silverblade Paladin"/>
+        <card number="1" name="Orzhov Advokist"/>
+        <card number="1" name="Bounty Agent"/>
+        <card number="1" name="Harmonious Archon"/>
+        <card number="1" name="Deathbringer Liege"/>
+        <card number="1" name="Necropolis Regent"/>
+        <card number="1" name="Bloodthirsty Blade"/>
+        <card number="1" name="Retribution of the Ancients"/>
         <card number="1" name="Abzan Battle Priest"/>
         <card number="1" name="Abzan Falconer"/>
     </zone>
@@ -66,10 +87,40 @@
         <card number="1" name="Felisa, Fang of Silverquill"/>
         <card number="1" name="Barrowin of Clan Undurr"/>
         <card number="1" name="Firja, Judge of Valor"/>
-        <card number="1" name="Vindicate"/>
+        <card number="2" name="Vindicate"/>
         <card number="1" name="Reduce to Memory"/>
-        <card number="1" name="Containment Priest"/>
+        <card number="2" name="Containment Priest"/>
         <card number="1" name="Hushwing Gryff"/>
         <card number="1" name="Tocatli Honor Guard"/>
+        <card number="1" name="Battlefield Raptor"/>
+        <card number="2" name="Deafening Silence"/>
+        <card number="1" name="Doom Blade"/>
+        <card number="1" name="Kunoros, Hound of Athreos"/>
+        <card number="1" name="Custodi Lich"/>
+        <card number="1" name="Speaker of the Heavens"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Necropolis Regent"/>
+        <card number="1" name="Shambling Vent"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Tormented Soul"/>
+        <card number="1" name="Make a Stand"/>
+        <card number="2" name="Abzan Battle Priest"/>
+        <card number="2" name="Abzan Falconer"/>
+        <card number="1" name="Elite Scaleguard"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Cartographer's Hawk"/>
+        <card number="1" name="Windborn Muse"/>
+        <card number="1" name="Elspeth Conquers Death"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="2" name="Zetalpa, Primal Dawn"/>
+        <card number="1" name="Frontline Medic"/>
+        <card number="1" name="Teysa, Envoy of Ghosts"/>
+        <card number="1" name="Divine Reckoning"/>
+        <card number="1" name="Fey Steed"/>
+        <card number="1" name="Guardian Archon"/>
+        <card number="1" name="Stalking Leonin"/>
     </zone>
 </cockatrice_deck>

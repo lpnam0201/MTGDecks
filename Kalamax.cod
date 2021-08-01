@@ -70,7 +70,6 @@
         <card number="1" name="Propaganda"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Storm-Kiln Artist"/>
-        <card number="1" name="Guttersnipe"/>
         <card number="1" name="Soul's Fire"/>
         <card number="1" name="Archmage Emeritus"/>
         <card number="1" name="Aetherize"/>
@@ -80,12 +79,13 @@
         <card number="1" name="Thriving Isle"/>
         <card number="1" name="Unleash Fury"/>
         <card number="1" name="Temur Battle Rage"/>
-        <card number="1" name="Run Amok"/>
         <card number="1" name="Fully Grown"/>
         <card number="1" name="Fists of Flame"/>
         <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Reverberate"/>
         <card number="1" name="Road // Ruin"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Unexpected Windfall"/>
     </zone>
     <zone name="side">
         <card number="2" name="Mission Briefing"/>
@@ -120,6 +120,5 @@
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Invigorate"/>
         <card number="1" name="Commander's Sphere"/>
-        <card number="1" name="Corpse Churn"/>
     </zone>
 </cockatrice_deck>

@@ -15,34 +15,24 @@
         <card number="1" name="Skycat Sovereign"/>
         <card number="1" name="Reconnaissance Mission"/>
         <card number="1" name="Jubilant Skybonder"/>
-        <card number="1" name="Spirit Bonds"/>
         <card number="1" name="Watcher of the Spheres"/>
         <card number="1" name="Bident of Thassa"/>
         <card number="1" name="Hanged Executioner"/>
-        <card number="1" name="Loyal Drake"/>
         <card number="1" name="Windreader Sphinx"/>
         <card number="1" name="Dream Trawler"/>
         <card number="1" name="Tide Skimmer"/>
-        <card number="1" name="Isperia, Supreme Judge"/>
         <card number="1" name="Bygone Bishop"/>
         <card number="1" name="Midnight Haunting"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Make a Stand"/>
         <card number="1" name="Battle Screech"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Nine Lives"/>
         <card number="1" name="Banishing Light"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Windbrisk Heights"/>
-        <card number="1" name="Moorland Haunt"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Scavenger Grounds"/>
-        <card number="1" name="Mana Geode"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Temple of Enlightenment"/>
-        <card number="1" name="Azorius Chancery"/>
         <card number="1" name="Port Town"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Sejiri Refuge"/>
@@ -52,36 +42,49 @@
         <card number="10" name="Plains"/>
         <card number="1" name="Meandering River"/>
         <card number="1" name="Wingmate Roc"/>
-        <card number="1" name="Conclave Tribunal"/>
-        <card number="1" name="Frogify"/>
-        <card number="1" name="Dusk // Dawn"/>
         <card number="1" name="Spectral Procession"/>
-        <card number="1" name="Harmonious Archon"/>
-        <card number="1" name="Curator's Ward"/>
-        <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Spectral Sailor"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Rootborn Defenses"/>
         <card number="1" name="Mana Leak"/>
-        <card number="1" name="Supreme Will"/>
-        <card number="1" name="Marble Diamond"/>
-        <card number="1" name="Sky Diamond"/>
-        <card number="1" name="Commander's Sphere"/>
-        <card number="1" name="Irrigated Farmland"/>
-        <card number="1" name="Time Wipe"/>
         <card number="1" name="Faerie Formation"/>
-        <card number="1" name="Cloudkin Seer"/>
-        <card number="1" name="Dragonlord Ojutai"/>
-        <card number="1" name="Hypnotic Siren"/>
-        <card number="1" name="Sphinx of Foresight"/>
-        <card number="1" name="Coveted Peacock"/>
-        <card number="1" name="Citywide Bust"/>
-        <card number="1" name="Angelic Ascension"/>
         <card number="1" name="Aetherize"/>
-        <card number="1" name="Kasmina's Transmutation"/>
-        <card number="1" name="Dismantling Blow"/>
-        <card number="1" name="Stasis Snare"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Sephara, Sky's Blade"/>
+        <card number="1" name="Emeria Angel"/>
+        <card number="1" name="Kangee, Sky Warden"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Migratory Route"/>
+        <card number="1" name="Cartographer's Hawk"/>
+        <card number="1" name="Court of Grace"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Glacial Floodplain"/>
+        <card number="1" name="Razortide Bridge"/>
+        <card number="1" name="Thunderclap Wyvern"/>
+        <card number="1" name="Kangee's Lieutenant"/>
+        <card number="1" name="Kinjalli's Sunwing"/>
+        <card number="1" name="Siani, Eye of the Storm"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Windborn Muse"/>
+        <card number="1" name="Archon of Absolution"/>
+        <card number="1" name="Esior, Wardwing Familiar"/>
+        <card number="1" name="Angel of Finality"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Depose // Deploy"/>
+        <card number="1" name="Stolen by the Fae"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Imprisoned in the Moon"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Irrigated Farmland"/>
+        <card number="1" name="Nimbus Maze"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Remorseful Cleric"/>
+        <card number="1" name="Angel of Sanctions"/>
+        <card number="1" name="Angel of Serenity"/>
+        <card number="1" name="Angel of Condemnation"/>
+        <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
+        <card number="1" name="Brago, King Eternal"/>
     </zone>
     <zone name="side">
         <card number="1" name="Staggering Insight"/>
@@ -97,7 +100,6 @@
         <card number="2" name="Emeria Angel"/>
         <card number="1" name="Grasp of Fate"/>
         <card number="2" name="Migratory Route"/>
-        <card number="1" name="Remorseful Cleric"/>
         <card number="1" name="Strionic Resonator"/>
         <card number="1" name="Hushbringer"/>
         <card number="1" name="Hushwing Gryff"/>
@@ -137,9 +139,7 @@
         <card number="1" name="Mulldrifter"/>
         <card number="1" name="Windstorm Drake"/>
         <card number="1" name="True Conviction"/>
-        <card number="1" name="Hypnotic Sprite // Mesmeric Glare"/>
         <card number="1" name="Fog Bank"/>
-        <card number="1" name="Angel of Sanctions"/>
         <card number="1" name="Spear of Heliod"/>
         <card number="1" name="Thunderclap Wyvern"/>
         <card number="1" name="Sprite Noble"/>
@@ -148,5 +148,6 @@
         <card number="1" name="Frogify"/>
         <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Stratus Dancer"/>
+        <card number="1" name="Hanged Executioner"/>
     </zone>
 </cockatrice_deck>

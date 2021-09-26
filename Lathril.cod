@@ -17,12 +17,9 @@
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Timberwatch Elf"/>
         <card number="1" name="Beast Whisperer"/>
-        <card number="1" name="Lys Alana Huntmaster"/>
         <card number="1" name="Nullmage Shepherd"/>
         <card number="1" name="Wirewood Channeler"/>
         <card number="1" name="Ruthless Winnower"/>
-        <card number="1" name="Rhys the Exiled"/>
-        <card number="1" name="Lys Alana Scarblade"/>
         <card number="1" name="Copperhorn Scout"/>
         <card number="1" name="Arbor Elf"/>
         <card number="1" name="Elves of Deep Shadow"/>
@@ -46,13 +43,11 @@
         <card number="1" name="Moldervine Reclamation"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Command Tower"/>
-        <card number="16" name="Forest"/>
-        <card number="11" name="Swamp"/>
+        <card number="13" name="Forest"/>
+        <card number="10" name="Swamp"/>
         <card number="1" name="Llanowar Wastes"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Jungle Hollow"/>
-        <card number="1" name="Golgari Rot Farm"/>
-        <card number="1" name="Prowess of the Fair"/>
         <card number="1" name="Poison-Tip Archer"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Farhaven Elf"/>
@@ -60,29 +55,37 @@
         <card number="1" name="Paradise Druid"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Wrap in Vigor"/>
-        <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Temple of Malady"/>
         <card number="1" name="In Garruk's Wake"/>
-        <card number="1" name="Binding the Old Gods"/>
         <card number="1" name="Incubation Druid"/>
-        <card number="1" name="Elvish Visionary"/>
         <card number="1" name="Llanowar Visionary"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Price of Fame"/>
-        <card number="1" name="Command the Dreadhorde"/>
-        <card number="1" name="Lifecrafter's Bestiary"/>
         <card number="1" name="Haunting Voyage"/>
         <card number="1" name="Mortality Spear"/>
         <card number="1" name="Fallen Ideal"/>
         <card number="1" name="Demonic Embrace"/>
         <card number="1" name="Oakhame Adversary"/>
         <card number="1" name="Elderfang Venom"/>
+        <card number="1" name="Great Oak Guardian"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Woodland Chasm"/>
+        <card number="1" name="Witherbloom Campus"/>
+        <card number="1" name="Foul Orchard"/>
+        <card number="1" name="Binding the Old Gods"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Canopy Cover"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Bow of Nylea"/>
+        <card number="1" name="Status // Statue"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Command Beacon"/>
     </zone>
     <zone name="side">
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Timberwatch Elf"/>
-        <card number="1" name="Nature's Claim"/>
         <card number="2" name="Yeva, Nature's Herald"/>
         <card number="1" name="Guardian Project"/>
         <card number="1" name="Leyline of Abundance"/>

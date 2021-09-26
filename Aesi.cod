@@ -43,17 +43,12 @@
         <card number="1" name="Temple of Mystery"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Yavimaya Coast"/>
-        <card number="16" name="Forest"/>
+        <card number="15" name="Forest"/>
         <card number="10" name="Island"/>
         <card number="1" name="Return to Nature"/>
-        <card number="1" name="Hurricane"/>
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Simic Charm"/>
         <card number="1" name="Terastodon"/>
-        <card number="1" name="Krosan Grip"/>
-        <card number="1" name="Dragon Throne of Tarkir"/>
-        <card number="1" name="Creeping Renaissance"/>
-        <card number="1" name="Yavimaya Elder"/>
         <card number="1" name="Growth Spiral"/>
         <card number="1" name="Explore"/>
         <card number="1" name="Search for Tomorrow"/>
@@ -61,24 +56,30 @@
         <card number="1" name="Thornwood Falls"/>
         <card number="1" name="Kogla, the Titan Ape"/>
         <card number="1" name="Gargos, Vicious Watcher"/>
-        <card number="1" name="Oran-Rief Hydra"/>
         <card number="1" name="Tromokratis"/>
-        <card number="1" name="Abundance"/>
         <card number="1" name="Voracious Hydra"/>
         <card number="1" name="Scourge of Fleets"/>
         <card number="1" name="Khalni Ambush"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Brinelin, the Moon Kraken"/>
         <card number="1" name="Wildest Dreams"/>
-        <card number="1" name="Kiora, Behemoth Beckoner"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Rimewood Falls"/>
         <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Verdant Mastery"/>
         <card number="1" name="Liege of the Tangle"/>
-        <card number="1" name="Aggressive Mammoth"/>
         <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Druid Class"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Murkfiend Liege"/>
+        <card number="1" name="Emergent Sequence"/>
+        <card number="1" name="Yavimaya Elder"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sylvan Awakening"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Command Beacon"/>
     </zone>
     <zone name="side">
         <card number="1" name="Embodiment of Insight"/>

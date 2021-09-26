@@ -5,50 +5,28 @@
     <zone name="main">
         <card number="1" name="Galea, Kindler of Hope"/>
         <card number="1" name="Mantle of the Ancients"/>
-        <card number="1" name="Sythis, Harvest's Hand"/>
-        <card number="1" name="Sanctum Weaver"/>
         <card number="1" name="Imprisoned in the Moon"/>
-        <card number="1" name="Sram, Senior Edificer"/>
         <card number="1" name="Kenrith's Transformation"/>
         <card number="1" name="Wild Growth"/>
-        <card number="1" name="All That Glitters"/>
-        <card number="1" name="Rancor"/>
-        <card number="1" name="Brainstorm"/>
-        <card number="1" name="Aqueous Form"/>
-        <card number="1" name="Sigarda's Aid"/>
         <card number="1" name="Darksteel Mutation"/>
-        <card number="1" name="Ethereal Armor"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Fertile Ground"/>
         <card number="1" name="Overgrowth"/>
         <card number="1" name="Winds of Rath"/>
-        <card number="1" name="Armored Skyhunter"/>
-        <card number="1" name="Kor Spiritdancer"/>
-        <card number="1" name="Eidolon of Blossoms"/>
-        <card number="1" name="Mesa Enchantress"/>
-        <card number="1" name="Setessan Champion"/>
-        <card number="1" name="Destiny Spinner"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Bruna, Light of Alabaster"/>
-        <card number="1" name="Satyr Enchanter"/>
-        <card number="1" name="Eidolon of Countless Battles"/>
         <card number="1" name="Open the Vaults"/>
         <card number="1" name="Timely Ward"/>
         <card number="1" name="Ancestral Mask"/>
-        <card number="1" name="Staggering Insight"/>
         <card number="1" name="Shielding Plax"/>
         <card number="1" name="Spirit Mantle"/>
-        <card number="1" name="Enchantress's Presence"/>
         <card number="1" name="Shielded by Faith"/>
         <card number="1" name="Indestructibility"/>
         <card number="1" name="Unquestioned Authority"/>
         <card number="1" name="Sage's Reverie"/>
-        <card number="1" name="Unflinching Courage"/>
         <card number="1" name="Alpha Authority"/>
         <card number="1" name="Wolfwillow Haven"/>
         <card number="1" name="Snake Umbra"/>
-        <card number="1" name="Colossification"/>
-        <card number="1" name="Sigil of the Empty Throne"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Frogify"/>
         <card number="1" name="Austere Command"/>
@@ -72,25 +50,43 @@
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Indomitable Might"/>
         <card number="1" name="Minimus Containment"/>
         <card number="1" name="Kasmina's Transmutation"/>
         <card number="1" name="Mystic Subdual"/>
         <card number="1" name="Benevolent Blessing"/>
         <card number="1" name="Reprobation"/>
-        <card number="1" name="Preordain"/>
-        <card number="1" name="Serum Visions"/>
         <card number="1" name="Lawmage's Binding"/>
-        <card number="1" name="Ice Cage"/>
         <card number="1" name="Curator's Ward"/>
         <card number="1" name="Weirding Wood"/>
         <card number="1" name="Tamiyo, Collector of Tales"/>
-        <card number="1" name="Sheltered Aerie"/>
-        <card number="1" name="New Horizons"/>
-        <card number="1" name="Glittering Frost"/>
-        <card number="1" name="Gift of Paradise"/>
-        <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Pentarch Ward"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Winged Boots"/>
+        <card number="1" name="Eel Umbra"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Slash the Ranks"/>
+        <card number="1" name="Boar Umbra"/>
+        <card number="1" name="Felidar Umbra"/>
+        <card number="1" name="Hyena Umbra"/>
+        <card number="1" name="Mask of Avacyn"/>
+        <card number="1" name="Mirror Shield"/>
+        <card number="1" name="Giant's Amulet"/>
+        <card number="1" name="Indrik Umbra"/>
+        <card number="1" name="Mammoth Umbra"/>
+        <card number="1" name="Octopus Umbra"/>
+        <card number="1" name="Treefolk Umbra"/>
+        <card number="1" name="Eland Umbra"/>
+        <card number="1" name="Spider Umbra"/>
+        <card number="1" name="Hammer of Nazahn"/>
     </zone>
     <zone name="side">
         <card number="1" name="Leonin Skyhunter"/>

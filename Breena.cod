@@ -13,9 +13,7 @@
         <card number="1" name="Cliffside Rescuer"/>
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Benevolent Bodyguard"/>
-        <card number="1" name="Kinjalli's Sunwing"/>
         <card number="1" name="Despark"/>
-        <card number="1" name="Fracture"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Together Forever"/>
@@ -25,7 +23,6 @@
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Healer's Hawk"/>
-        <card number="1" name="Price of Fame"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Inkshield"/>
         <card number="1" name="Soul Snare"/>
@@ -51,12 +48,10 @@
         <card number="11" name="Swamp"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Emerge Unscathed"/>
-        <card number="1" name="Shineshadow Snarl"/>
         <card number="1" name="Selfless Squire"/>
         <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Brave the Elements"/>
         <card number="1" name="Valorous Stance"/>
-        <card number="1" name="Wing Shards"/>
         <card number="1" name="Angel of the Dire Hour"/>
         <card number="1" name="Mandate of Peace"/>
         <card number="1" name="Archon of Coronation"/>
@@ -73,16 +68,20 @@
         <card number="1" name="Silverblade Paladin"/>
         <card number="1" name="Orzhov Advokist"/>
         <card number="1" name="Bounty Agent"/>
-        <card number="1" name="Deathbringer Liege"/>
         <card number="1" name="Necropolis Regent"/>
-        <card number="1" name="Bloodthirsty Blade"/>
         <card number="1" name="Retribution of the Ancients"/>
         <card number="1" name="Abzan Battle Priest"/>
         <card number="1" name="Abzan Falconer"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Shadrix Silverquill"/>
         <card number="1" name="Selfless Glyphweaver"/>
-        <card number="1" name="Rout"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Basri's Lieutenant"/>
+        <card number="1" name="Shadrix Silverquill"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Giant Killer // Chop Down"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Forsworn Paladin"/>
+        <card number="1" name="Command Beacon"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Cutthroat"/>
@@ -124,5 +123,6 @@
         <card number="1" name="Fey Steed"/>
         <card number="1" name="Guardian Archon"/>
         <card number="1" name="Stalking Leonin"/>
+        <card number="1" name="Command Beacon"/>
     </zone>
 </cockatrice_deck>

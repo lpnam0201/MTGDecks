@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Amareth, the Lustrous"/>
-        <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Sakura-Tribe Elder"/>
@@ -36,7 +35,6 @@
         <card number="1" name="Deputy of Detention"/>
         <card number="1" name="Hornet Queen"/>
         <card number="1" name="Yavimaya Dryad"/>
-        <card number="1" name="Time Wipe"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Seaside Citadel"/>
         <card number="1" name="Hallowed Fountain"/>
@@ -84,6 +82,8 @@
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Ephemerate"/>
         <card number="1" name="Teleportation Circle"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Thorn Mammoth"/>
     </zone>
     <zone name="side">
         <card number="1" name="Conjurer's Closet"/>

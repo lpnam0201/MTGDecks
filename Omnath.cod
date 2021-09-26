@@ -20,7 +20,6 @@
         <card number="1" name="Elemental Bond"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Seer's Sundial"/>
         <card number="1" name="Grow from the Ashes"/>
         <card number="1" name="Circuitous Route"/>
         <card number="1" name="Nissa's Renewal"/>
@@ -38,20 +37,18 @@
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Evolving Wilds"/>
-        <card number="20" name="Forest"/>
+        <card number="17" name="Forest"/>
         <card number="1" name="Gruul Turf"/>
-        <card number="11" name="Mountain"/>
+        <card number="10" name="Mountain"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Crop Rotation"/>
-        <card number="1" name="Creeping Renaissance"/>
         <card number="1" name="Guildless Commons"/>
         <card number="1" name="Ramunap Excavator"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Momentous Fall"/>
         <card number="1" name="Multani, Yavimaya's Avatar"/>
-        <card number="1" name="Krosan Grip"/>
         <card number="1" name="Warstorm Surge"/>
         <card number="1" name="Where Ancients Tread"/>
         <card number="1" name="Phylath, World Sculptor"/>
@@ -63,7 +60,6 @@
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Khalni Ambush"/>
         <card number="1" name="Verdant Mastery"/>
-        <card number="1" name="Hurricane"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Highland Forest"/>
@@ -74,6 +70,14 @@
         <card number="1" name="Yavimaya Elder"/>
         <card number="1" name="Hunting Wilds"/>
         <card number="1" name="Road // Ruin"/>
+        <card number="1" name="Tangled Florahedron"/>
+        <card number="1" name="Kazuul's Fury"/>
+        <card number="1" name="Song-Mad Treachery"/>
+        <card number="1" name="Emergent Sequence"/>
+        <card number="1" name="Druid Class"/>
+        <card number="1" name="Sylvan Awakening"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="1" name="Command Beacon"/>
     </zone>
     <zone name="side">
         <card number="1" name="Tempt with Vengeance"/>

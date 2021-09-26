@@ -18,13 +18,11 @@
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Rakdos Charm"/>
-        <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Terminate"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Dispel"/>
-        <card number="1" name="Price of Fame"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Supreme Will"/>
         <card number="1" name="Arcane Denial"/>
@@ -63,26 +61,28 @@
         <card number="1" name="Mana Geyser"/>
         <card number="1" name="Tormenting Voice"/>
         <card number="1" name="Seething Song"/>
-        <card number="1" name="Skyclave Relic"/>
         <card number="1" name="Winged Words"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Izzet Charm"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Cut // Ribbons"/>
         <card number="1" name="Crackle with Power"/>
         <card number="1" name="Expansion // Explosion"/>
-        <card number="1" name="Lightning Strike"/>
         <card number="1" name="Whelming Wave"/>
         <card number="1" name="Profane Transfusion"/>
-        <card number="1" name="Archmage Emeritus"/>
         <card number="1" name="Thriving Moor"/>
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Thriving Isle"/>
         <card number="1" name="Magmaquake"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preordain"/>
     </zone>
     <zone name="side">
         <card number="1" name="Talisman of Creativity"/>

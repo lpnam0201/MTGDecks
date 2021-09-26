@@ -18,7 +18,6 @@
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Mirror Entity"/>
-        <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Wolverine Riders"/>
         <card number="1" name="Increasing Devotion"/>
         <card number="1" name="Finale of Glory"/>
@@ -32,11 +31,9 @@
         <card number="1" name="Austere Command"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Skyshroud Claim"/>
-        <card number="1" name="Deploy to the Front"/>
         <card number="1" name="Citywide Bust"/>
         <card number="1" name="Migration Path"/>
         <card number="1" name="Circuitous Route"/>
-        <card number="1" name="Court of Grace"/>
         <card number="1" name="Battle for Bretagard"/>
         <card number="1" name="Glare of Subdual"/>
         <card number="1" name="Song of Freyalise"/>
@@ -67,7 +64,6 @@
         <card number="1" name="Verdant Mastery"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Overwhelming Stampede"/>
-        <card number="1" name="Sundering Growth"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Nissa's Pilgrimage"/>
@@ -77,16 +73,21 @@
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Thraben Doomsayer"/>
         <card number="1" name="Ezuri's Predation"/>
-        <card number="1" name="Captain of the Watch"/>
         <card number="1" name="Harmonious Archon"/>
         <card number="1" name="Herald of the Host"/>
         <card number="1" name="Dusk // Dawn"/>
         <card number="1" name="Return to Dust"/>
-        <card number="1" name="Wing Shards"/>
         <card number="1" name="Martial Coup"/>
+        <card number="1" name="Battle Screech"/>
+        <card number="1" name="Release the Dogs"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Scale Up"/>
+        <card number="1" name="Krosan Grip"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oviya Pashiri, Sage Lifecrafter"/>
         <card number="1" name="Verdant Force"/>
+        <card number="1" name="Oakhame Ranger // Bring Back"/>
     </zone>
 </cockatrice_deck>

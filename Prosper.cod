@@ -14,7 +14,6 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Outpost Siege"/>
-        <card number="1" name="Laelia, the Blade Reforged"/>
         <card number="1" name="Theater of Horrors"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Foreboding Ruins"/>
@@ -53,7 +52,6 @@
         <card number="1" name="Crackle with Power"/>
         <card number="1" name="Dream Devourer"/>
         <card number="1" name="Syr Carah, the Bold"/>
-        <card number="1" name="Chaos Wand"/>
         <card number="1" name="Vance's Blasting Cannons"/>
         <card number="1" name="Abrade"/>
         <card number="1" name="Soulfire Eruption"/>
@@ -66,7 +64,6 @@
         <card number="1" name="Disciple of the Vault"/>
         <card number="1" name="Xorn"/>
         <card number="1" name="Mayhem Devil"/>
-        <card number="1" name="Revel in Riches"/>
         <card number="1" name="Magmatic Channeler"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Inspiring Statuary"/>
@@ -81,6 +78,9 @@
         <card number="1" name="Chaos Channeler"/>
         <card number="1" name="Juri, Master of the Revue"/>
         <card number="1" name="Galvanic Relay"/>
+        <card number="1" name="Kalain, Reclusive Painter"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="1" name="Tibalt's Trickery"/>
     </zone>
     <zone name="side">
         <card number="1" name="Tainted Peak"/>

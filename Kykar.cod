@@ -30,7 +30,6 @@
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Izzet Signet"/>
         <card number="1" name="Boros Signet"/>
-        <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Mystic Monastery"/>
         <card number="1" name="Temple of Epiphany"/>
@@ -41,17 +40,14 @@
         <card number="8" name="Mountain"/>
         <card number="9" name="Island"/>
         <card number="5" name="Plains"/>
-        <card number="1" name="Elsha of the Infinite"/>
         <card number="1" name="Inspired Ultimatum"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Chart a Course"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Reality Shift"/>
-        <card number="1" name="Time Wipe"/>
         <card number="1" name="Preordain"/>
         <card number="1" name="Disenchant"/>
         <card number="1" name="Boros Charm"/>
-        <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Make a Stand"/>
         <card number="1" name="Double Vision"/>
@@ -59,7 +55,6 @@
         <card number="1" name="Frantic Search"/>
         <card number="1" name="Expansion // Explosion"/>
         <card number="1" name="Expedite"/>
-        <card number="1" name="Izzet Charm"/>
         <card number="1" name="Crash Through"/>
         <card number="1" name="Warlord's Fury"/>
         <card number="1" name="Reliquary Tower"/>
@@ -69,11 +64,9 @@
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Swiftwater Cliffs"/>
         <card number="1" name="Mizzix's Mastery"/>
-        <card number="1" name="Slaughter the Strong"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Reverberate"/>
         <card number="1" name="Ral, Storm Conduit"/>
-        <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Crackle with Power"/>
         <card number="1" name="Past in Flames"/>
         <card number="1" name="Thriving Isle"/>
@@ -81,12 +74,18 @@
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Swarm Intelligence"/>
         <card number="1" name="Magmaquake"/>
-        <card number="1" name="Harmonic Prodigy"/>
         <card number="1" name="Sorcerer Class"/>
         <card number="1" name="Into the Roil"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Citywide Bust"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Ponder"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Time Wipe"/>
         <card number="2" name="Silundi Vision"/>
         <card number="3" name="Expedite"/>
         <card number="3" name="Ral, Storm Conduit"/>

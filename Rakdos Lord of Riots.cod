@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Rakdos Lord of Riots</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Rakdos, Lord of Riots"/>
+        <card number="1" name="Josu Vess, Lich Knight"/>
+    </zone>
+</cockatrice_deck>

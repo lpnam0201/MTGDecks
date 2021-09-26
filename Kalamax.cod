@@ -11,7 +11,6 @@
         <card number="1" name="Impulse"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Thrill of Possibility"/>
-        <card number="1" name="Bolt Bend"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Frantic Search"/>
         <card number="1" name="Harrow"/>
@@ -59,33 +58,35 @@
         <card number="1" name="Temple of Mystery"/>
         <card number="1" name="Temple of Abandon"/>
         <card number="7" name="Forest"/>
-        <card number="7" name="Mountain"/>
+        <card number="6" name="Mountain"/>
         <card number="6" name="Island"/>
         <card number="1" name="Dispel"/>
         <card number="1" name="Mizzix's Mastery"/>
-        <card number="1" name="Wavebreak Hippocamp"/>
         <card number="1" name="Gruul Signet"/>
         <card number="1" name="Comet Storm"/>
         <card number="1" name="Simic Charm"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Storm-Kiln Artist"/>
-        <card number="1" name="Soul's Fire"/>
-        <card number="1" name="Archmage Emeritus"/>
         <card number="1" name="Aetherize"/>
         <card number="1" name="Swarm Intelligence"/>
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Thriving Grove"/>
         <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Unleash Fury"/>
-        <card number="1" name="Temur Battle Rage"/>
-        <card number="1" name="Fully Grown"/>
-        <card number="1" name="Fists of Flame"/>
-        <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Reverberate"/>
         <card number="1" name="Road // Ruin"/>
-        <card number="1" name="Mystic Confluence"/>
         <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Silundi Vision"/>
+        <card number="1" name="Leadership Vacuum"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Radical Idea"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Increasing Vengeance"/>
+        <card number="1" name="Eureka Moment"/>
+        <card number="1" name="Volcanic Geyser"/>
+        <card number="1" name="Ravaging Blaze"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Rapid Hybridization"/>
     </zone>
     <zone name="side">
         <card number="2" name="Mission Briefing"/>
@@ -104,7 +105,6 @@
         <card number="1" name="Lightning Bolt"/>
         <card number="1" name="Simic Charm"/>
         <card number="1" name="Into the Story"/>
-        <card number="1" name="Silundi Vision"/>
         <card number="1" name="Searing Spear"/>
         <card number="1" name="Swarm Intelligence"/>
         <card number="1" name="Anticipate"/>

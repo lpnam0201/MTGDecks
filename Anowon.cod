@@ -14,7 +14,7 @@
         <card number="1" name="Submerged Boneyard"/>
         <card number="1" name="Jwar Isle Refuge"/>
         <card number="11" name="Island"/>
-        <card number="11" name="Swamp"/>
+        <card number="10" name="Swamp"/>
         <card number="1" name="Soaring Thought-Thief"/>
         <card number="1" name="Merfolk Windrobber"/>
         <card number="1" name="Ghostly Pilferer"/>
@@ -39,11 +39,9 @@
         <card number="1" name="Looter il-Kor"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Memory Plunder"/>
-        <card number="1" name="Price of Fame"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Anowon, the Ruin Thief"/>
-        <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Enigma Thief"/>
         <card number="1" name="Faerie Vandal"/>
         <card number="1" name="Slither Blade"/>
@@ -53,18 +51,15 @@
         <card number="1" name="Aetherspouts"/>
         <card number="1" name="Blighted Agent"/>
         <card number="1" name="Memory Lapse"/>
-        <card number="1" name="Necromantic Summons"/>
         <card number="1" name="Sunken Hollow"/>
         <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Nighthawk Scavenger"/>
-        <card number="1" name="Far // Away"/>
         <card number="1" name="Expedition Skulker"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Thieves' Guild Enforcer"/>
         <card number="1" name="Wrexial, the Risen Deep"/>
         <card number="1" name="Orzhov Enforcer"/>
         <card number="1" name="Windfall"/>
-        <card number="1" name="Obelisk of Urd"/>
         <card number="1" name="Mask of Memory"/>
         <card number="1" name="Whispering Madness"/>
         <card number="1" name="Rapid Hybridization"/>
@@ -72,17 +67,23 @@
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Sepulchral Primordial"/>
         <card number="1" name="Necromantic Selection"/>
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Aetherize"/>
         <card number="1" name="Propaganda"/>
-        <card number="1" name="Poison the Cup"/>
         <card number="1" name="Netherborn Altar"/>
-        <card number="1" name="Pharika's Libation"/>
         <card number="1" name="Vedalken Infiltrator"/>
         <card number="1" name="Mistvault Bridge"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Poison the Cup"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="1" name="Lightfoot Rogue"/>
+        <card number="1" name="Boneyard Parley"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Bojuka Bog"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -181,5 +182,6 @@
         <card number="1" name="Diabolic Edict"/>
         <card number="1" name="Nightshade Stinger"/>
         <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Krydle of Baldur's Gate"/>
     </zone>
 </cockatrice_deck>

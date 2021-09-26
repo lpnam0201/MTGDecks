@@ -23,7 +23,6 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Stormtide Leviathan"/>
         <card number="1" name="Vizier of Tumbling Sands"/>
         <card number="1" name="Kelpie Guide"/>
@@ -74,6 +73,7 @@
         <card number="1" name="Endless Atlas"/>
         <card number="1" name="Ingenious Mastery"/>
         <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Wizard Class"/>
     </zone>
     <zone name="side">
         <card number="2" name="Serum Visions"/>

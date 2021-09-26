@@ -6,9 +6,7 @@
         <card number="1" name="Xenagos, God of Revels"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Quartzwood Crasher"/>
-        <card number="1" name="Archetype of Aggression"/>
         <card number="1" name="Garruk's Uprising"/>
-        <card number="1" name="Hunter's Insight"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Cultivate"/>
@@ -30,7 +28,6 @@
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Port Razer"/>
         <card number="1" name="Radha, Heart of Keld"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Inscription of Abundance"/>
@@ -40,23 +37,18 @@
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Kessig Wolf Run"/>
         <card number="1" name="Rugged Highlands"/>
-        <card number="1" name="Gruul Turf"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple of Abandon"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="13" name="Forest"/>
         <card number="9" name="Mountain"/>
         <card number="1" name="Paradise Druid"/>
-        <card number="1" name="Bolt Bend"/>
         <card number="1" name="Neyith of the Dire Hunt"/>
-        <card number="1" name="Nylea's Forerunner"/>
         <card number="1" name="Highland Forest"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Gruul Guildgate"/>
         <card number="1" name="Timber Gorge"/>
-        <card number="1" name="Verdurous Gearhulk"/>
-        <card number="1" name="Khenra Charioteer"/>
         <card number="1" name="Vorapede"/>
         <card number="1" name="Battle Mammoth"/>
         <card number="1" name="Tectonic Giant"/>
@@ -65,10 +57,8 @@
         <card number="1" name="Hydra Omnivore"/>
         <card number="1" name="Aggressive Mammoth"/>
         <card number="1" name="Neheb, Dreadhorde Champion"/>
-        <card number="1" name="Outpost Siege"/>
         <card number="1" name="Nessian Boar"/>
         <card number="1" name="Thrun, the Last Troll"/>
-        <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Atarka, World Render"/>
         <card number="1" name="Siege Behemoth"/>
@@ -76,13 +66,23 @@
         <card number="1" name="Wild Growth"/>
         <card number="1" name="Fertile Ground"/>
         <card number="1" name="Overgrowth"/>
-        <card number="1" name="Blood Mist"/>
         <card number="1" name="Ruric Thar, the Unbowed"/>
         <card number="1" name="Harmonize"/>
-        <card number="1" name="Etali, Primal Storm"/>
-        <card number="1" name="Momentous Fall"/>
         <card number="1" name="Dragonborn Champion"/>
         <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Voracious Hydra"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Ohran Viper"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Rapacious One"/>
+        <card number="1" name="Chaos Channeler"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Tuskeri Firewalker"/>
+        <card number="1" name="Laelia, the Blade Reforged"/>
     </zone>
     <zone name="side">
         <card number="1" name="Eternal Witness"/>
@@ -108,7 +108,6 @@
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Momentous Fall"/>
-        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
         <card number="1" name="Silvos, Rogue Elemental"/>
         <card number="1" name="Siege Behemoth"/>
         <card number="2" name="Savage Ventmaw"/>

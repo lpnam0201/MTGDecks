@@ -10,7 +10,6 @@
         <card number="1" name="Mortify"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Read the Bones"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
@@ -20,70 +19,73 @@
         <card number="1" name="Chariot of Victory"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Tournament Grounds"/>
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Temple of Malice"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="6" name="Mountain"/>
-        <card number="9" name="Plains"/>
-        <card number="7" name="Swamp"/>
+        <card number="8" name="Plains"/>
+        <card number="5" name="Swamp"/>
         <card number="1" name="Sword of Vengeance"/>
         <card number="1" name="Blackblade Reforged"/>
-        <card number="1" name="Outpost Siege"/>
         <card number="1" name="Loxodon Warhammer"/>
         <card number="1" name="Wear // Tear"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Painful Truths"/>
         <card number="1" name="Fireshrieker"/>
-        <card number="1" name="Grappling Hook"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Sunhome, Fortress of the Legion"/>
-        <card number="1" name="Slayers' Stronghold"/>
         <card number="1" name="Everflowing Chalice"/>
         <card number="1" name="Nomad Outpost"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Hammer of Nazahn"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Talisman of Hierarchy"/>
-        <card number="1" name="Fumigate"/>
-        <card number="1" name="Painful Lesson"/>
-        <card number="1" name="Mind Stone"/>
         <card number="1" name="Maul of the Skyclaves"/>
         <card number="1" name="Mirror Shield"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Mask of Avacyn"/>
-        <card number="1" name="Commander's Sphere"/>
         <card number="1" name="General's Enforcer"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Inspiring Statuary"/>
-        <card number="1" name="Feed the Swarm"/>
-        <card number="1" name="Explorer's Scope"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Alseid of Life's Bounty"/>
         <card number="1" name="Selfless Savior"/>
         <card number="1" name="Response // Resurgence"/>
-        <card number="1" name="Sisay's Ring"/>
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Brave the Elements"/>
         <card number="1" name="Benevolent Bodyguard"/>
         <card number="1" name="Hedron Archive"/>
-        <card number="1" name="Reyav, Master Smith"/>
         <card number="1" name="Bolt Bend"/>
         <card number="1" name="Sejiri Shelter"/>
         <card number="1" name="Cliffside Rescuer"/>
-        <card number="1" name="Open the Vaults"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Thriving Heath"/>
         <card number="1" name="Thriving Moor"/>
         <card number="1" name="Thriving Bluff"/>
-        <card number="1" name="Relentless Assault"/>
-        <card number="1" name="Ruinous Ultimatum"/>
-        <card number="1" name="Hellkite Charger"/>
         <card number="1" name="Utter End"/>
         <card number="1" name="Fleetfeather Sandals"/>
         <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Fires of Invention"/>
+        <card number="1" name="Single Combat"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Ring of Valkas"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Ruinous Ultimatum"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Sunforger"/>
+        <card number="1" name="Forging the Tyrite Sword"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Wake the Past"/>
+        <card number="1" name="Vorpal Sword"/>
+        <card number="1" name="Ring of Xathrid"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Grappling Hook"/>
     </zone>
     <zone name="side">
         <card number="1" name="Slayers' Stronghold"/>

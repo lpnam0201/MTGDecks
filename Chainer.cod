@@ -12,75 +12,74 @@
         <card number="1" name="Ravenous Chupacabra"/>
         <card number="1" name="Gray Merchant of Asphodel"/>
         <card number="1" name="Etali, Primal Storm"/>
-        <card number="1" name="Combustible Gearhulk"/>
         <card number="1" name="Noxious Gearhulk"/>
         <card number="1" name="Drakuseth, Maw of Flames"/>
         <card number="1" name="Inferno Titan"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Price of Fame"/>
-        <card number="1" name="Outpost Siege"/>
-        <card number="1" name="Beacon of Unrest"/>
         <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Rakdos Signet"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Prismatic Lens"/>
-        <card number="1" name="Mind Stone"/>
-        <card number="1" name="Big Game Hunter"/>
-        <card number="1" name="Fleshbag Marauder"/>
-        <card number="1" name="Demon's Disciple"/>
         <card number="1" name="Dread Return"/>
         <card number="1" name="Victimize"/>
         <card number="1" name="Thrill of Possibility"/>
         <card number="1" name="Tormenting Voice"/>
-        <card number="1" name="Cathartic Reunion"/>
-        <card number="1" name="Zombify"/>
-        <card number="1" name="Bond of Revival"/>
         <card number="12" name="Mountain"/>
-        <card number="12" name="Swamp"/>
+        <card number="13" name="Swamp"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Temple of Malice"/>
         <card number="1" name="Bloodfell Caves"/>
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Shriekmaw"/>
         <card number="1" name="Apprentice Necromancer"/>
-        <card number="1" name="Faithless Looting"/>
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Akoum Refuge"/>
         <card number="1" name="Shadowblood Ridge"/>
         <card number="1" name="Cinder Barrens"/>
         <card number="1" name="Rakdos Guildgate"/>
-        <card number="1" name="Experimental Frenzy"/>
-        <card number="1" name="Demon of Loathing"/>
         <card number="1" name="Dragon Mage"/>
-        <card number="1" name="Gravebreaker Lamia"/>
-        <card number="1" name="Seize the Spoils"/>
         <card number="1" name="The Eldest Reborn"/>
-        <card number="1" name="Vilis, Broker of Blood"/>
         <card number="1" name="Ever After"/>
         <card number="1" name="Final Parting"/>
         <card number="1" name="Vile Entomber"/>
-        <card number="1" name="Greed"/>
         <card number="1" name="Incarnation Technique"/>
         <card number="1" name="Necromantic Selection"/>
         <card number="1" name="Oriq Loremage"/>
-        <card number="1" name="Meteor Golem"/>
-        <card number="1" name="Kardur's Vicious Return"/>
         <card number="1" name="Sulfurous Mire"/>
         <card number="1" name="Lavaclaw Reaches"/>
-        <card number="1" name="Read the Bones"/>
         <card number="1" name="Demon of Dark Schemes"/>
         <card number="1" name="Fires of Invention"/>
         <card number="1" name="Anje Falkenrath"/>
         <card number="1" name="Kardur, Doomscourge"/>
         <card number="1" name="Terminate"/>
-        <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Burnished Hart"/>
-        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Drossforge Bridge"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Wily Goblin"/>
+        <card number="1" name="Seize the Spoils"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Vilis, Broker of Blood"/>
+        <card number="1" name="Drana, the Last Bloodchief"/>
+        <card number="1" name="Kalain, Reclusive Painter"/>
+        <card number="1" name="Whisper, Blood Liturgist"/>
+        <card number="1" name="Bedevil"/>
         <card number="1" name="Talisman of Indulgence"/>
-        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Torrent of Souls"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="1" name="Boneyard Parley"/>
+        <card number="1" name="Bloodgift Demon"/>
+        <card number="1" name="Harvester of Souls"/>
+        <card number="1" name="Kothophed, Soul Hoarder"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Skullport Merchant"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Charcoal Diamond"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Impulsive Pilferer"/>
     </zone>
     <zone name="side">
         <card number="1" name="Muck Drubb"/>
@@ -93,10 +92,8 @@
         <card number="1" name="Ancient Craving"/>
         <card number="1" name="Ambition's Cost"/>
         <card number="1" name="Hour of Devastation"/>
-        <card number="1" name="Backdraft Hellkite"/>
         <card number="1" name="Greven, Predator Captain"/>
         <card number="1" name="Dark Bargain"/>
-        <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Meteor Golem"/>
         <card number="2" name="Steel Hellkite"/>
         <card number="1" name="Living Death"/>

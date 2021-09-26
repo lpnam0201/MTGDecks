@@ -34,7 +34,6 @@
         <card number="1" name="Rancor"/>
         <card number="1" name="Colossal Majesty"/>
         <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Steelbane Hydra"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Overgrowth"/>
         <card number="1" name="Return to Nature"/>
@@ -57,7 +56,6 @@
         <card number="1" name="Invigorate"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Fyndhorn Elves"/>
-        <card number="1" name="Spearbreaker Behemoth"/>
         <card number="1" name="Talons of Wildwood"/>
         <card number="1" name="Loxodon Warhammer"/>
         <card number="1" name="Wildest Dreams"/>
@@ -74,6 +72,7 @@
         <card number="1" name="Nature's Way"/>
         <card number="1" name="Anara, Wolvid Familiar"/>
         <card number="1" name="Detection Tower"/>
+        <card number="1" name="Charge Through"/>
     </zone>
     <zone name="side">
         <card number="1" name="Prowling Serpopard"/>

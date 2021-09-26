@@ -8,9 +8,7 @@
         <card number="1" name="Akroma, Angel of Wrath"/>
         <card number="1" name="Vampire Nighthawk"/>
         <card number="1" name="Nighthawk Scavenger"/>
-        <card number="1" name="Odric, Lunarch Marshal"/>
         <card number="1" name="Nyx Weaver"/>
-        <card number="1" name="Slippery Bogbonder"/>
         <card number="1" name="Leyline Prowler"/>
         <card number="1" name="Grisly Salvage"/>
         <card number="1" name="Deadbridge Chant"/>
@@ -26,7 +24,6 @@
         <card number="1" name="Stinkweed Imp"/>
         <card number="1" name="Mythos of Nethroi"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Nature's Claim"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Perpetual Timepiece"/>
@@ -40,11 +37,10 @@
         <card number="1" name="Temple of Malady"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Temple of Plenty"/>
-        <card number="8" name="Forest"/>
+        <card number="6" name="Forest"/>
         <card number="6" name="Swamp"/>
-        <card number="6" name="Plains"/>
+        <card number="5" name="Plains"/>
         <card number="1" name="Necromantic Selection"/>
-        <card number="1" name="Nylea, Keen-Eyed"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Sunblade Angel"/>
@@ -60,8 +56,6 @@
         <card number="1" name="Grapple with the Past"/>
         <card number="1" name="Adarkar Valkyrie"/>
         <card number="1" name="Plated Crusher"/>
-        <card number="1" name="Price of Fame"/>
-        <card number="1" name="Goring Ceratops"/>
         <card number="1" name="Arctic Treeline"/>
         <card number="1" name="Snowfield Sinkhole"/>
         <card number="1" name="Woodland Chasm"/>
@@ -73,8 +67,6 @@
         <card number="1" name="Bassara Tower Archer"/>
         <card number="1" name="Aven Sunstriker"/>
         <card number="1" name="Skyhunter Skirmisher"/>
-        <card number="1" name="Ghostblade Eidolon"/>
-        <card number="1" name="Kwende, Pride of Femeref"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Eerie Ultimatum"/>
         <card number="1" name="Eternal Witness"/>
@@ -83,9 +75,20 @@
         <card number="1" name="Jarad's Orders"/>
         <card number="1" name="Final Parting"/>
         <card number="1" name="Gravebreaker Lamia"/>
-        <card number="1" name="Orzhov Signet"/>
-        <card number="1" name="Golgari Signet"/>
-        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Winding Way"/>
+        <card number="1" name="Mulch"/>
+        <card number="1" name="Ransack the Lab"/>
+        <card number="1" name="Skullwinder"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Cataclysmic Gearhulk"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Mortality Spear"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Canopy Vista"/>
     </zone>
     <zone name="side">
         <card number="1" name="Return of the Wildspeaker"/>
@@ -107,7 +110,6 @@
         <card number="1" name="Winding Way"/>
         <card number="3" name="Karametra, God of Harvests"/>
         <card number="1" name="Archon of Valor's Reach"/>
-        <card number="1" name="Cataclysmic Gearhulk"/>
         <card number="2" name="Splinterfright"/>
         <card number="1" name="Sunblade Angel"/>
         <card number="1" name="Cairn Wanderer"/>
@@ -204,5 +206,6 @@
         <card number="1" name="Relentless Pursuit"/>
         <card number="1" name="Key to the City"/>
         <card number="1" name="Mire Triton"/>
+        <card number="1" name="Ghostblade Eidolon"/>
     </zone>
 </cockatrice_deck>

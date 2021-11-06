@@ -60,20 +60,20 @@
         <card number="1" name="Foil"/>
         <card number="1" name="Aqueous Form"/>
         <card number="1" name="Dive Down"/>
-        <card number="1" name="Keep Safe"/>
         <card number="1" name="Siren Stormtamer"/>
         <card number="1" name="Turn Aside"/>
         <card number="1" name="Boon of the Wish-Giver"/>
         <card number="1" name="Precognitive Perception"/>
-        <card number="1" name="Future Sight"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Tidings"/>
         <card number="1" name="Mind Spring"/>
-        <card number="1" name="Wolfhunter's Quiver"/>
         <card number="1" name="Endless Atlas"/>
         <card number="1" name="Ingenious Mastery"/>
         <card number="1" name="Buried Ruin"/>
         <card number="1" name="Wizard Class"/>
+        <card number="1" name="Drown in Dreams"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Viridian Longbow"/>
     </zone>
     <zone name="side">
         <card number="2" name="Serum Visions"/>

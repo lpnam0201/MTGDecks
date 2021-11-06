@@ -8,7 +8,6 @@
         <card number="1" name="Alpine Meadow"/>
         <card number="1" name="Lena, Selfless Champion"/>
         <card number="1" name="Geist-Honored Monk"/>
-        <card number="1" name="Kinjalli's Sunwing"/>
         <card number="1" name="Blade Splicer"/>
         <card number="1" name="Captain of the Watch"/>
         <card number="1" name="Evangel of Heliod"/>
@@ -25,7 +24,6 @@
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Krenko, Tin Street Kingpin"/>
-        <card number="1" name="Dragon Fodder"/>
         <card number="1" name="Impulsive Pilferer"/>
         <card number="1" name="Gold Myr"/>
         <card number="1" name="Iron Myr"/>
@@ -55,12 +53,11 @@
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Lorehold Campus"/>
         <card number="1" name="Needle Spires"/>
-        <card number="10" name="Plains"/>
+        <card number="9" name="Plains"/>
         <card number="9" name="Mountain"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Goblin Instigator"/>
-        <card number="1" name="Remorseful Cleric"/>
         <card number="1" name="Verge Rangers"/>
         <card number="1" name="Ephemerate"/>
         <card number="1" name="Cloudshift"/>
@@ -86,6 +83,10 @@
         <card number="1" name="Flamewake Phoenix"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Loyal Apprentice"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Oreskos Explorer"/>
+        <card number="1" name="Kinjalli's Sunwing"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lightning Greaves"/>

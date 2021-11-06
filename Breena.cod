@@ -44,7 +44,7 @@
         <card number="1" name="Orzhov Guildgate"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Goldmire Bridge"/>
-        <card number="12" name="Plains"/>
+        <card number="11" name="Plains"/>
         <card number="11" name="Swamp"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Emerge Unscathed"/>
@@ -55,7 +55,6 @@
         <card number="1" name="Angel of the Dire Hour"/>
         <card number="1" name="Mandate of Peace"/>
         <card number="1" name="Archon of Coronation"/>
-        <card number="1" name="Dauntless Bodyguard"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Commander's Plate"/>
@@ -82,6 +81,8 @@
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Forsworn Paladin"/>
         <card number="1" name="Command Beacon"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Twinblade Geist"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Cutthroat"/>

@@ -5,7 +5,6 @@
     <zone name="main">
         <card number="1" name="Inniaz, the Gale Force"/>
         <card number="1" name="Judge's Familiar"/>
-        <card number="1" name="Nimble Obstructionist"/>
         <card number="1" name="Siren Stormtamer"/>
         <card number="1" name="Linvala, Shield of Sea Gate"/>
         <card number="1" name="Arcane Signet"/>
@@ -19,72 +18,71 @@
         <card number="1" name="Bident of Thassa"/>
         <card number="1" name="Hanged Executioner"/>
         <card number="1" name="Windreader Sphinx"/>
-        <card number="1" name="Dream Trawler"/>
         <card number="1" name="Tide Skimmer"/>
-        <card number="1" name="Bygone Bishop"/>
         <card number="1" name="Midnight Haunting"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Battle Screech"/>
         <card number="1" name="Banishing Light"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Temple of Enlightenment"/>
-        <card number="1" name="Port Town"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Sejiri Refuge"/>
         <card number="1" name="Tranquil Cove"/>
         <card number="1" name="Azorius Guildgate"/>
-        <card number="10" name="Island"/>
-        <card number="10" name="Plains"/>
+        <card number="11" name="Island"/>
+        <card number="11" name="Plains"/>
         <card number="1" name="Meandering River"/>
-        <card number="1" name="Wingmate Roc"/>
-        <card number="1" name="Spectral Procession"/>
-        <card number="1" name="Spectral Sailor"/>
-        <card number="1" name="Mana Leak"/>
         <card number="1" name="Faerie Formation"/>
-        <card number="1" name="Aetherize"/>
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Sephara, Sky's Blade"/>
         <card number="1" name="Emeria Angel"/>
-        <card number="1" name="Kangee, Sky Warden"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Migratory Route"/>
-        <card number="1" name="Cartographer's Hawk"/>
         <card number="1" name="Court of Grace"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Glacial Floodplain"/>
         <card number="1" name="Razortide Bridge"/>
         <card number="1" name="Thunderclap Wyvern"/>
         <card number="1" name="Kangee's Lieutenant"/>
-        <card number="1" name="Kinjalli's Sunwing"/>
-        <card number="1" name="Siani, Eye of the Storm"/>
         <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Windborn Muse"/>
-        <card number="1" name="Archon of Absolution"/>
         <card number="1" name="Esior, Wardwing Familiar"/>
-        <card number="1" name="Angel of Finality"/>
         <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Depose // Deploy"/>
-        <card number="1" name="Stolen by the Fae"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Imprisoned in the Moon"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Irrigated Farmland"/>
-        <card number="1" name="Nimbus Maze"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Saw It Coming"/>
-        <card number="1" name="Remorseful Cleric"/>
-        <card number="1" name="Angel of Sanctions"/>
-        <card number="1" name="Angel of Serenity"/>
-        <card number="1" name="Angel of Condemnation"/>
         <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
-        <card number="1" name="Brago, King Eternal"/>
+        <card number="1" name="Whirler Rogue"/>
+        <card number="1" name="Minimus Containment"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Sharding Sphinx"/>
+        <card number="1" name="Curiosity Crafter"/>
+        <card number="1" name="The Raven's Warning"/>
+        <card number="1" name="Thopter Spy Network"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Experimental Aviator"/>
+        <card number="1" name="Depose // Deploy"/>
+        <card number="1" name="Inspired Sphinx"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Thopter Assembly"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Coastal Piracy"/>
+        <card number="1" name="Spectral Sailor"/>
+        <card number="1" name="Cartographer's Hawk"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Azorius Chancery"/>
     </zone>
     <zone name="side">
         <card number="1" name="Staggering Insight"/>
@@ -110,7 +108,7 @@
         <card number="1" name="Propaganda"/>
         <card number="1" name="Detention Sphere"/>
         <card number="1" name="Return to Dust"/>
-        <card number="1" name="Spectral Sailor"/>
+        <card number="2" name="Spectral Sailor"/>
         <card number="1" name="Triplicate Spirits"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Dovin, Grand Arbiter"/>
@@ -149,5 +147,6 @@
         <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Stratus Dancer"/>
         <card number="1" name="Hanged Executioner"/>
+        <card number="1" name="Kangee, Sky Warden"/>
     </zone>
 </cockatrice_deck>

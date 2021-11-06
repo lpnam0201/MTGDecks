@@ -40,7 +40,6 @@
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="The Eldest Reborn"/>
         <card number="1" name="Debtors' Knell"/>
-        <card number="1" name="Elspeth Conquers Death"/>
         <card number="1" name="Halimar Depths"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Rogue's Passage"/>
@@ -81,15 +80,16 @@
         <card number="1" name="Diluvian Primordial"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Approach of the Second Sun"/>
-        <card number="1" name="Price of Fame"/>
         <card number="1" name="Poison the Cup"/>
         <card number="1" name="Sphinx of Uthuun"/>
         <card number="1" name="Prognostic Sphinx"/>
         <card number="1" name="Necromantic Selection"/>
-        <card number="1" name="Discovery // Dispersal"/>
-        <card number="1" name="Connive // Concoct"/>
         <card number="1" name="Cavalier of Gales"/>
         <card number="1" name="Riverwise Augur"/>
         <card number="1" name="Command Beacon"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Angelic Arbiter"/>
+        <card number="1" name="Boneyard Parley"/>
+        <card number="1" name="Discovery // Dispersal"/>
     </zone>
 </cockatrice_deck>

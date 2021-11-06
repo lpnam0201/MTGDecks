@@ -36,7 +36,6 @@
         <card number="1" name="Bolt Bend"/>
         <card number="1" name="Skyclave Relic"/>
         <card number="1" name="Star Compass"/>
-        <card number="1" name="Lightning Strike"/>
         <card number="1" name="Sky Diamond"/>
         <card number="1" name="Fire Diamond"/>
         <card number="1" name="All Is Dust"/>
@@ -54,7 +53,6 @@
         <card number="1" name="Frantic Search"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Fateful Showdown"/>
-        <card number="1" name="Collective Defiance"/>
         <card number="1" name="Commit // Memory"/>
         <card number="1" name="Past in Flames"/>
         <card number="1" name="Izzet Charm"/>
@@ -84,6 +82,8 @@
         <card number="1" name="Torbran, Thane of Red Fell"/>
         <card number="1" name="Silverbluff Bridge"/>
         <card number="1" name="Magmaquake"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Crackle with Power"/>
     </zone>
     <zone name="side">
         <card number="1" name="Izzet Cluestone"/>

@@ -65,7 +65,6 @@
         <card number="1" name="Thriving Heath"/>
         <card number="1" name="Thriving Moor"/>
         <card number="1" name="Bassara Tower Archer"/>
-        <card number="1" name="Aven Sunstriker"/>
         <card number="1" name="Skyhunter Skirmisher"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Eerie Ultimatum"/>
@@ -86,9 +85,10 @@
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Utter End"/>
         <card number="1" name="Mortality Spear"/>
-        <card number="1" name="Living Death"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Shadrix Silverquill"/>
+        <card number="1" name="See the Unwritten"/>
     </zone>
     <zone name="side">
         <card number="1" name="Return of the Wildspeaker"/>

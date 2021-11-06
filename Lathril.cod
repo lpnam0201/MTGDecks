@@ -9,10 +9,8 @@
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Miara, Thorn of the Glade"/>
         <card number="1" name="Elvish Archdruid"/>
-        <card number="1" name="Harald, King of Skemfar"/>
         <card number="1" name="Harald Unites the Elves"/>
         <card number="1" name="Imperious Perfect"/>
-        <card number="1" name="Llanowar Tribe"/>
         <card number="1" name="Marwyn, the Nurturer"/>
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Timberwatch Elf"/>
@@ -21,7 +19,6 @@
         <card number="1" name="Wirewood Channeler"/>
         <card number="1" name="Ruthless Winnower"/>
         <card number="1" name="Copperhorn Scout"/>
-        <card number="1" name="Arbor Elf"/>
         <card number="1" name="Elves of Deep Shadow"/>
         <card number="1" name="Fyndhorn Elves"/>
         <card number="1" name="Gnarlroot Trapper"/>
@@ -29,7 +26,6 @@
         <card number="1" name="Skemfar Avenger"/>
         <card number="1" name="Canopy Tactician"/>
         <card number="1" name="Skemfar Shadowsage"/>
-        <card number="1" name="Sylvan Messenger"/>
         <card number="1" name="Elvish Dreadlord"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Skullclamp"/>
@@ -43,7 +39,7 @@
         <card number="1" name="Moldervine Reclamation"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Command Tower"/>
-        <card number="13" name="Forest"/>
+        <card number="10" name="Forest"/>
         <card number="10" name="Swamp"/>
         <card number="1" name="Llanowar Wastes"/>
         <card number="1" name="Myriad Landscape"/>
@@ -51,13 +47,10 @@
         <card number="1" name="Poison-Tip Archer"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Farhaven Elf"/>
-        <card number="1" name="Jagged-Scar Archers"/>
         <card number="1" name="Paradise Druid"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Wrap in Vigor"/>
-        <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Temple of Malady"/>
-        <card number="1" name="In Garruk's Wake"/>
         <card number="1" name="Incubation Druid"/>
         <card number="1" name="Llanowar Visionary"/>
         <card number="1" name="Rogue's Passage"/>
@@ -72,16 +65,26 @@
         <card number="1" name="Woodland Chasm"/>
         <card number="1" name="Witherbloom Campus"/>
         <card number="1" name="Foul Orchard"/>
-        <card number="1" name="Binding the Old Gods"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Canopy Cover"/>
         <card number="1" name="Whispersilk Cloak"/>
-        <card number="1" name="Bow of Nylea"/>
         <card number="1" name="Status // Statue"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Command Beacon"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Darkmoss Bridge"/>
+        <card number="1" name="Serpent's Soul-Jar"/>
+        <card number="1" name="Jagged-Scar Archers"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Llanowar Tribe"/>
+        <card number="1" name="Dwynen, Gilt-Leaf Daen"/>
+        <card number="1" name="Immaculate Magistrate"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Cultivator of Blades"/>
     </zone>
     <zone name="side">
         <card number="1" name="Bojuka Bog"/>

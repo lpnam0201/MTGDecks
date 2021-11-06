@@ -14,15 +14,11 @@
         <card number="1" name="Faithless Looting"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Wear // Tear"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Impulse"/>
-        <card number="1" name="Comet Storm"/>
         <card number="1" name="Dispel"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Winged Words"/>
-        <card number="1" name="Jaya's Immolating Inferno"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Sol Ring"/>
@@ -38,52 +34,58 @@
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="8" name="Mountain"/>
-        <card number="9" name="Island"/>
-        <card number="5" name="Plains"/>
-        <card number="1" name="Inspired Ultimatum"/>
+        <card number="8" name="Island"/>
+        <card number="4" name="Plains"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Chart a Course"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Reality Shift"/>
         <card number="1" name="Preordain"/>
-        <card number="1" name="Disenchant"/>
-        <card number="1" name="Boros Charm"/>
         <card number="1" name="Treasure Cruise"/>
-        <card number="1" name="Make a Stand"/>
-        <card number="1" name="Double Vision"/>
         <card number="1" name="Thousand-Year Storm"/>
         <card number="1" name="Frantic Search"/>
-        <card number="1" name="Expansion // Explosion"/>
         <card number="1" name="Expedite"/>
         <card number="1" name="Crash Through"/>
         <card number="1" name="Warlord's Fury"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="The Mirari Conjecture"/>
-        <card number="1" name="Mana Leak"/>
         <card number="1" name="Shivan Reef"/>
         <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="Swiftwater Cliffs"/>
         <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Skullclamp"/>
-        <card number="1" name="Reverberate"/>
-        <card number="1" name="Ral, Storm Conduit"/>
-        <card number="1" name="Crackle with Power"/>
         <card number="1" name="Past in Flames"/>
         <card number="1" name="Thriving Isle"/>
         <card number="1" name="Thriving Heath"/>
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Swarm Intelligence"/>
-        <card number="1" name="Magmaquake"/>
         <card number="1" name="Sorcerer Class"/>
-        <card number="1" name="Into the Roil"/>
         <card number="1" name="Expressive Iteration"/>
         <card number="1" name="Archmage Emeritus"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Citywide Bust"/>
-        <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Propaganda"/>
-        <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Ponder"/>
+        <card number="1" name="Renegade Tactics"/>
+        <card number="1" name="Empty the Warrens"/>
+        <card number="1" name="Mind's Desire"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Apex of Power"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="1" name="Magmatic Insight"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Rile"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Izzet Charm"/>
+        <card number="1" name="Spark of Creativity"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Epic Experiment"/>
+        <card number="1" name="Impulse"/>
+        <card number="1" name="Aria of Flame"/>
+        <card number="1" name="Volcanic Torrent"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Creative Technique"/>
+        <card number="1" name="Spreading Insurrection"/>
     </zone>
     <zone name="side">
         <card number="2" name="Silundi Vision"/>

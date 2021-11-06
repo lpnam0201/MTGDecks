@@ -13,7 +13,7 @@
         <card number="1" name="Temple of Deceit"/>
         <card number="1" name="Submerged Boneyard"/>
         <card number="1" name="Jwar Isle Refuge"/>
-        <card number="11" name="Island"/>
+        <card number="10" name="Island"/>
         <card number="10" name="Swamp"/>
         <card number="1" name="Soaring Thought-Thief"/>
         <card number="1" name="Merfolk Windrobber"/>
@@ -65,25 +65,26 @@
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Prying Blade"/>
         <card number="1" name="Path of Ancestry"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Sepulchral Primordial"/>
         <card number="1" name="Necromantic Selection"/>
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Aetherize"/>
         <card number="1" name="Propaganda"/>
-        <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Vedalken Infiltrator"/>
         <card number="1" name="Mistvault Bridge"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Disdainful Stroke"/>
         <card number="1" name="Poison the Cup"/>
         <card number="1" name="Gonti, Lord of Luxury"/>
-        <card number="1" name="Lightfoot Rogue"/>
         <card number="1" name="Boneyard Parley"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Coastal Piracy"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Consuming Aberration"/>
+        <card number="1" name="Netherborn Altar"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>

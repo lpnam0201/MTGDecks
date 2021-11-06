@@ -69,7 +69,6 @@
         <card number="1" name="Diluvian Primordial"/>
         <card number="1" name="Access Tunnel"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Archon of Coronation"/>
         <card number="1" name="Archaeomancer"/>
         <card number="1" name="Rapid Hybridization"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Ephemerate"/>
         <card number="1" name="Cloudshift"/>
         <card number="1" name="Disenchant"/>
+        <card number="1" name="Mistmeadow Witch"/>
     </zone>
     <zone name="side">
         <card number="1" name="Diluvian Primordial"/>

@@ -54,9 +54,6 @@
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Woodland Stream"/>
         <card number="1" name="Thornwood Falls"/>
-        <card number="1" name="Kogla, the Titan Ape"/>
-        <card number="1" name="Gargos, Vicious Watcher"/>
-        <card number="1" name="Tromokratis"/>
         <card number="1" name="Voracious Hydra"/>
         <card number="1" name="Scourge of Fleets"/>
         <card number="1" name="Khalni Ambush"/>
@@ -72,14 +69,17 @@
         <card number="1" name="Flood of Tears"/>
         <card number="1" name="Druid Class"/>
         <card number="1" name="Dispel"/>
-        <card number="1" name="Murkfiend Liege"/>
         <card number="1" name="Emergent Sequence"/>
-        <card number="1" name="Yavimaya Elder"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sylvan Awakening"/>
-        <card number="1" name="Tireless Provisioner"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Command Beacon"/>
+        <card number="1" name="Atemsis, All-Seeing"/>
+        <card number="1" name="Stormtide Leviathan"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Rites of Flourishing"/>
+        <card number="1" name="Serpent of Yawning Depths"/>
+        <card number="1" name="Ram Through"/>
     </zone>
     <zone name="side">
         <card number="1" name="Embodiment of Insight"/>

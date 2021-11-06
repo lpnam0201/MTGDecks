@@ -7,86 +7,84 @@
         <card number="1" name="Selesnya Sanctuary"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Graypelt Refuge"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Scattered Groves"/>
         <card number="1" name="Fortified Village"/>
         <card number="1" name="Temple of Plenty"/>
         <card number="1" name="Sungrass Prairie"/>
-        <card number="1" name="Wooded Bastion"/>
         <card number="10" name="Plains"/>
-        <card number="8" name="Forest"/>
+        <card number="10" name="Forest"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Feline Sovereign"/>
         <card number="1" name="Fleecemane Lion"/>
         <card number="1" name="King of the Pride"/>
-        <card number="1" name="Regal Caracal"/>
         <card number="1" name="Leonin Warleader"/>
         <card number="1" name="Adorned Pouncer"/>
         <card number="1" name="Bronzehide Lion"/>
         <card number="1" name="Qasali Pridemage"/>
-        <card number="1" name="Jazal Goldmane"/>
         <card number="1" name="Kaheera, the Orphanguard"/>
-        <card number="1" name="Lifecrafter's Bestiary"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Skyhunter Skirmisher"/>
         <card number="1" name="Felidar Cub"/>
-        <card number="1" name="Life's Legacy"/>
         <card number="1" name="Harmonize"/>
-        <card number="1" name="Path to Exile"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="True Conviction"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Blossoming Sands"/>
-        <card number="1" name="Selesnya Signet"/>
-        <card number="1" name="Ajani, Caller of the Pride"/>
         <card number="1" name="Arahbo, Roar of the World"/>
         <card number="1" name="Lost Leonin"/>
-        <card number="1" name="Initiate's Companion"/>
         <card number="1" name="Leonin Skyhunter"/>
         <card number="1" name="Oreskos Explorer"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Tragic Arrogance"/>
         <card number="1" name="Selesnya Guildgate"/>
-        <card number="1" name="Talisman of Unity"/>
-        <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Pride Sovereign"/>
         <card number="1" name="Cubwarden"/>
-        <card number="1" name="Make a Stand"/>
-        <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Rancor"/>
-        <card number="1" name="Silverblade Paladin"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Sacred Cat"/>
         <card number="1" name="Charmed Stray"/>
         <card number="1" name="Ulvenwald Tracker"/>
         <card number="1" name="Trained Caracal"/>
-        <card number="1" name="Wrath of God"/>
-        <card number="1" name="Day of Judgment"/>
         <card number="1" name="Hunter's Prowess"/>
-        <card number="1" name="Regrowth"/>
         <card number="1" name="Soul's Majesty"/>
-        <card number="1" name="Hashep Oasis"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Qasali Slingers"/>
         <card number="1" name="Hunter's Insight"/>
-        <card number="1" name="Garruk, Primal Hunter"/>
         <card number="1" name="Momentous Fall"/>
         <card number="1" name="Loam Lion"/>
-        <card number="1" name="Leonin Vanguard"/>
-        <card number="1" name="Bow of Nylea"/>
-        <card number="1" name="Mirri, Weatherlight Duelist"/>
-        <card number="1" name="Inquisitor's Flail"/>
-        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Arcbound Mouser"/>
+        <card number="1" name="Ajani's Sunstriker"/>
+        <card number="1" name="Pridemalkin"/>
+        <card number="1" name="Drizzt Do'Urden"/>
+        <card number="1" name="Thornglint Bridge"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Citywide Bust"/>
+        <card number="1" name="Wily Bandar"/>
+        <card number="1" name="Rule of Law"/>
+        <card number="1" name="Deafening Silence"/>
+        <card number="1" name="Archon of Emeria"/>
+        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="1" name="Vryn Wingmare"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="Seht's Tiger"/>
+        <card number="1" name="Manglehorn"/>
+        <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Secret Rendezvous"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
     </zone>
     <zone name="side">
         <card number="1" name="Temple Garden"/>

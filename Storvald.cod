@@ -66,11 +66,8 @@
         <card number="7" name="Forest"/>
         <card number="4" name="Plains"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Tanazir Quandrix"/>
         <card number="1" name="Forgotten Ancient"/>
-        <card number="1" name="Avenging Huntbonder"/>
         <card number="1" name="Overwhelming Stampede"/>
-        <card number="1" name="Daxos of Meletis"/>
         <card number="1" name="Keeper of Fables"/>
         <card number="1" name="Springbloom Druid"/>
         <card number="1" name="Wood Elves"/>
@@ -79,7 +76,6 @@
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Realm-Cloaked Giant // Cast Off"/>
         <card number="1" name="Dream Fracture"/>
-        <card number="1" name="Dragonlord Ojutai"/>
         <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Canopy Vista"/>
@@ -89,5 +85,9 @@
         <card number="1" name="Yavimaya Dryad"/>
         <card number="1" name="Chulane, Teller of Tales"/>
         <card number="1" name="Command Beacon"/>
+        <card number="1" name="Elvish Rejuvenator"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Somberwald Sage"/>
+        <card number="1" name="Daxos of Meletis"/>
     </zone>
 </cockatrice_deck>

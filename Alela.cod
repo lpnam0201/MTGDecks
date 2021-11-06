@@ -4,16 +4,11 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Alela, Artful Provocateur"/>
-        <card number="1" name="Favorable Winds"/>
-        <card number="1" name="Intangible Virtue"/>
         <card number="1" name="Bident of Thassa"/>
         <card number="1" name="Reconnaissance Mission"/>
-        <card number="1" name="Etchings of the Chosen"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Confounding Conundrum"/>
-        <card number="1" name="Monologue Tax"/>
-        <card number="1" name="Archaeomancer's Map"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Dimir Signet"/>
@@ -26,23 +21,16 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Hushbringer"/>
-        <card number="1" name="Kinjalli's Sunwing"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Citywide Bust"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Spear of Heliod"/>
         <card number="1" name="Darksteel Mutation"/>
-        <card number="1" name="Frogify"/>
         <card number="1" name="Banishing Light"/>
-        <card number="1" name="Staggering Insight"/>
-        <card number="1" name="Curiosity"/>
         <card number="1" name="Rogue's Gloves"/>
         <card number="1" name="Mask of Memory"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Heraldic Banner"/>
-        <card number="1" name="Rally the Ranks"/>
         <card number="1" name="Timely Ward"/>
         <card number="1" name="Unquestioned Authority"/>
         <card number="1" name="Confiscate"/>
@@ -64,28 +52,41 @@
         <card number="1" name="Darkwater Catacombs"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="7" name="Plains"/>
-        <card number="7" name="Island"/>
+        <card number="6" name="Island"/>
         <card number="6" name="Swamp"/>
         <card number="1" name="Cast Out"/>
-        <card number="1" name="Obelisk of Urd"/>
-        <card number="1" name="Glorious Anthem"/>
-        <card number="1" name="Force of Virtue"/>
-        <card number="1" name="Ethereal Absolution"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Seal of Cleansing"/>
-        <card number="1" name="Hour of Reckoning"/>
         <card number="1" name="Conclave Tribunal"/>
         <card number="1" name="Stasis Snare"/>
         <card number="1" name="Oblivion Ring"/>
-        <card number="1" name="Radiant Destiny"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Countersquall"/>
         <card number="1" name="Rootborn Defenses"/>
-        <card number="1" name="Citadel Siege"/>
         <card number="1" name="Inspiring Statuary"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Inniaz, the Gale Force"/>
         <card number="1" name="Quarantine Field"/>
+        <card number="1" name="Dance of the Manse"/>
+        <card number="1" name="Thopter Assembly"/>
+        <card number="1" name="Thopter Spy Network"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Imprisoned in the Moon"/>
+        <card number="1" name="Minimus Containment"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Make a Stand"/>
+        <card number="1" name="Coastal Piracy"/>
+        <card number="1" name="Curiosity"/>
+        <card number="1" name="Curious Obsession"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Soul Snare"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Debtors' Knell"/>
+        <card number="1" name="Etchings of the Chosen"/>
+        <card number="1" name="Frogify"/>
+        <card number="1" name="Lawmage's Binding"/>
+        <card number="1" name="Staggering Insight"/>
     </zone>
     <zone name="side">
         <card number="2" name="Sephara, Sky's Blade"/>
@@ -98,7 +99,6 @@
         <card number="1" name="Archon of Emeria"/>
         <card number="1" name="Return to Dust"/>
         <card number="1" name="Disenchant"/>
-        <card number="1" name="Windfall"/>
         <card number="1" name="Utter End"/>
         <card number="1" name="Ashiok's Erasure"/>
         <card number="1" name="Counterspell"/>
@@ -110,7 +110,6 @@
         <card number="1" name="Faerie Formation"/>
         <card number="1" name="Court of Grace"/>
         <card number="2" name="Generous Gift"/>
-        <card number="1" name="Ondu Inversion"/>
         <card number="1" name="Baffling End"/>
         <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Mana Leak"/>
@@ -131,5 +130,7 @@
         <card number="1" name="Aven Mindcensor"/>
         <card number="1" name="Kangee, Sky Warden"/>
         <card number="1" name="Dictate of Heliod"/>
+        <card number="1" name="Inniaz, the Gale Force"/>
+        <card number="1" name="Staggering Insight"/>
     </zone>
 </cockatrice_deck>

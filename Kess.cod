@@ -27,7 +27,6 @@
         <card number="1" name="Supreme Will"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Mizzium Mortars"/>
-        <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Crumbling Necropolis"/>
@@ -50,7 +49,6 @@
         <card number="1" name="Ashiok, Dream Render"/>
         <card number="1" name="Increasing Vengeance"/>
         <card number="1" name="Windfall"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Impulse"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Sunken Hollow"/>
@@ -78,11 +76,13 @@
         <card number="1" name="Thriving Isle"/>
         <card number="1" name="Magmaquake"/>
         <card number="1" name="Expressive Iteration"/>
-        <card number="1" name="Talisman of Indulgence"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Liquimetal Torque"/>
         <card number="1" name="Ponder"/>
         <card number="1" name="Preordain"/>
+        <card number="1" name="Volcanic Torrent"/>
+        <card number="1" name="Anticipate"/>
+        <card number="1" name="Ignite the Future"/>
     </zone>
     <zone name="side">
         <card number="1" name="Talisman of Creativity"/>

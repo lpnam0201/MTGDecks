@@ -7,10 +7,8 @@
         <card number="1" name="Radha, Heart of Keld"/>
         <card number="1" name="Khalni Heart Expedition"/>
         <card number="1" name="Migration Path"/>
-        <card number="1" name="Living Twister"/>
         <card number="1" name="Springbloom Druid"/>
         <card number="1" name="Nissa's Pilgrimage"/>
-        <card number="1" name="Fertilid"/>
         <card number="1" name="Harrow"/>
         <card number="1" name="Roiling Regrowth"/>
         <card number="1" name="Rampant Growth"/>
@@ -56,19 +54,14 @@
         <card number="1" name="Field of Ruin"/>
         <card number="1" name="Castle Garenbrig"/>
         <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
-        <card number="1" name="Wildest Dreams"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Khalni Ambush"/>
         <card number="1" name="Verdant Mastery"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Highland Forest"/>
-        <card number="1" name="Snake Umbra"/>
         <card number="1" name="Fires of Invention"/>
-        <card number="1" name="Outpost Siege"/>
         <card number="1" name="Greater Good"/>
-        <card number="1" name="Yavimaya Elder"/>
-        <card number="1" name="Hunting Wilds"/>
         <card number="1" name="Road // Ruin"/>
         <card number="1" name="Tangled Florahedron"/>
         <card number="1" name="Kazuul's Fury"/>
@@ -76,8 +69,15 @@
         <card number="1" name="Emergent Sequence"/>
         <card number="1" name="Druid Class"/>
         <card number="1" name="Sylvan Awakening"/>
-        <card number="1" name="Tireless Provisioner"/>
         <card number="1" name="Command Beacon"/>
+        <card number="1" name="Harvest Season"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Rites of Flourishing"/>
+        <card number="1" name="Nahiri's Lithoforming"/>
+        <card number="1" name="Liege of the Tangle"/>
+        <card number="1" name="The Mending of Dominaria"/>
+        <card number="1" name="Living Twister"/>
     </zone>
     <zone name="side">
         <card number="1" name="Tempt with Vengeance"/>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Galea</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Galea, Kindler of Hope"/>
+        <card number="1" name="Imprisoned in the Moon"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="7" name="Forest"/>
+        <card number="6" name="Plains"/>
+        <card number="4" name="Island"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Minimus Containment"/>
+        <card number="1" name="Kasmina's Transmutation"/>
+        <card number="1" name="Mystic Subdual"/>
+        <card number="1" name="Benevolent Blessing"/>
+        <card number="1" name="Reprobation"/>
+        <card number="1" name="Tamiyo, Collector of Tales"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Mirror Shield"/>
+        <card number="1" name="Halimar Depths"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Colossus Hammer"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Hammer of Nazahn"/>
+        <card number="1" name="Hero's Blade"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Giant's Amulet"/>
+        <card number="1" name="Mask of Avacyn"/>
+        <card number="1" name="Maul of the Skyclaves"/>
+        <card number="1" name="Sword of Vengeance"/>
+        <card number="1" name="Holy Avenger"/>
+        <card number="1" name="Winged Boots"/>
+        <card number="1" name="Explorer's Scope"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Road of Return"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="1" name="Belt of Giant Strength"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Cloudsteel Kirin"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Brass Knuckles"/>
+        <card number="1" name="Witness Protection"/>
+        <card number="1" name="Blacksmith's Skill"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Aqueous Form"/>
+        <card number="1" name="Seraphic Greatsword"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Wolfwillow Haven"/>
+        <card number="1" name="Sheltering Light"/>
+        <card number="1" name="Gods Willing"/>
+        <card number="1" name="Brave the Elements"/>
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="Finest Hour"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Verge Rangers"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="The Reality Chip"/>
+        <card number="1" name="Single Combat"/>
+        <card number="1" name="Austere Command"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Starnheim Courser"/>
+        <card number="1" name="Sterling Grove"/>
+        <card number="3" name="Invisible Stalker"/>
+        <card number="1" name="Beast Within"/>
+        <card number="3" name="Abundant Growth"/>
+        <card number="1" name="Transcendent Envoy"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Dispel"/>
+        <card number="2" name="Counterspell"/>
+        <card number="2" name="Arcane Denial"/>
+        <card number="1" name="Heliod's Punishment"/>
+        <card number="1" name="Danitha Capashen, Paragon"/>
+        <card number="1" name="Herald of the Pantheon"/>
+        <card number="4" name="Slippery Bogle"/>
+        <card number="1" name="Starfield Mystic"/>
+        <card number="1" name="Find the Path"/>
+        <card number="1" name="Finest Hour"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="2" name="Sovereigns of Lost Alara"/>
+        <card number="1" name="Utopia Sprawl"/>
+        <card number="1" name="Ichthyomorphosis"/>
+        <card number="1" name="Dawn's Reflection"/>
+        <card number="1" name="Angelic Gift"/>
+        <card number="1" name="Starlit Mantle"/>
+        <card number="2" name="Armored Skyhunter"/>
+        <card number="3" name="Sun Titan"/>
+        <card number="1" name="Winged Boots"/>
+        <card number="2" name="Fleecemane Lion"/>
+        <card number="2" name="Gladecover Scout"/>
+        <card number="2" name="Slippery Bogbonder"/>
+        <card number="2" name="Silhana Ledgewalker"/>
+        <card number="2" name="Serum Visions"/>
+        <card number="2" name="Ponder"/>
+        <card number="2" name="Brainstorm"/>
+        <card number="2" name="Weirding Wood"/>
+        <card number="3" name="Overgrowth"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Wolfwillow Haven"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Indrik Umbra"/>
+        <card number="1" name="Slash the Ranks"/>
+        <card number="1" name="In Search of Greatness"/>
+        <card number="1" name="Treefolk Umbra"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="2" name="Selesnya Signet"/>
+        <card number="2" name="Simic Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="2" name="Talisman of Curiosity"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="2" name="Talisman of Unity"/>
+        <card number="2" name="Azorius Signet"/>
+        <card number="1" name="Behold the Multiverse"/>
+        <card number="1" name="Chemister's Insight"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Giant's Amulet"/>
+        <card number="1" name="Assault Suit"/>
+        <card number="1" name="Riverwise Augur"/>
+        <card number="1" name="Hammer of Nazahn"/>
+        <card number="1" name="Mask of Avacyn"/>
+        <card number="1" name="Shield of the Oversoul"/>
+        <card number="1" name="Steel of the Godhead"/>
+        <card number="1" name="Quirion Explorer"/>
+        <card number="1" name="Sylvok Explorer"/>
+        <card number="1" name="Control Magic"/>
+        <card number="1" name="Bruna, Light of Alabaster"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Alpha Authority"/>
+        <card number="1" name="Ancestral Mask"/>
+        <card number="1" name="Boar Umbra"/>
+        <card number="1" name="Curator's Ward"/>
+        <card number="1" name="Eel Umbra"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="1" name="Felidar Umbra"/>
+        <card number="1" name="Holy Mantle"/>
+        <card number="1" name="Hyena Umbra"/>
+        <card number="1" name="Indestructibility"/>
+        <card number="1" name="Mammoth Umbra"/>
+        <card number="1" name="Octopus Umbra"/>
+        <card number="1" name="Sage's Reverie"/>
+        <card number="1" name="Shielded by Faith"/>
+        <card number="1" name="Shielding Plax"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Spider Umbra"/>
+        <card number="1" name="Spirit Mantle"/>
+        <card number="1" name="Winds of Rath"/>
+        <card number="1" name="Aqueous Form"/>
+        <card number="1" name="Indomitable Might"/>
+        <card number="1" name="Pentarch Ward"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="2" name="Prognostic Sphinx"/>
+        <card number="1" name="Benevolent Blessing"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Belt of Giant Strength"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Brass Squire"/>
+        <card number="1" name="Confiscate"/>
+        <card number="1" name="Mantle of the Ancients"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Lay Claim"/>
+        <card number="1" name="Sigarda's Aid"/>
+        <card number="1" name="Reclusive Taxidermist"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Lawmage's Binding"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Chariot of Victory"/>
+        <card number="1" name="Frogify"/>
+        <card number="1" name="Ardenn, Intrepid Archaeologist"/>
+        <card number="1" name="Omen of the Sea"/>
+        <card number="1" name="Omen of the Hunt"/>
+        <card number="1" name="Nissa, Steward of Elements"/>
+        <card number="1" name="Puresteel Paladin"/>
+        <card number="1" name="Argentum Armor"/>
+        <card number="1" name="Hedgewitch's Mask"/>
+        <card number="1" name="Rune of Flight"/>
+        <card number="1" name="Rune of Might"/>
+        <card number="1" name="Rune of Sustenance"/>
+        <card number="1" name="Inspiring Statuary"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Ilysian Caryatid"/>
+        <card number="1" name="Drover of the Mighty"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="2" name="Unbridled Growth"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Gods Willing"/>
+        <card number="1" name="Brave the Elements"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Selfless Samurai"/>
+        <card number="1" name="In Too Deep"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Gift of Paradise"/>
+        <card number="1" name="Grafted Growth"/>
+        <card number="1" name="New Horizons"/>
+        <card number="1" name="Nylea's Presence"/>
+        <card number="1" name="Urban Utopia"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Future Sight"/>
+    </zone>
+</cockatrice_deck>

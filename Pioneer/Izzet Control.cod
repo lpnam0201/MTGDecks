@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Izzet Control</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Ral, Izzet Viceroy"/>
+        <card number="3" name="Narset, Parter of Veils"/>
+        <card number="4" name="Temple of Epiphany"/>
+        <card number="4" name="Shivan Reef"/>
+        <card number="4" name="Frostboil Snarl"/>
+        <card number="2" name="Sulfur Falls"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Opt"/>
+        <card number="4" name="Fiery Impulse"/>
+        <card number="4" name="Sweltering Suns"/>
+        <card number="4" name="Saw It Coming"/>
+        <card number="2" name="Izzet Charm"/>
+        <card number="4" name="Ionize"/>
+        <card number="2" name="Lightning Axe"/>
+        <card number="4" name="Negate"/>
+        <card number="4" name="Lightning Strike"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Flame-Blessed Bolt"/>
+        <card number="2" name="Dig Through Time"/>
+        <card number="4" name="Censor"/>
+    </zone>
+</cockatrice_deck>

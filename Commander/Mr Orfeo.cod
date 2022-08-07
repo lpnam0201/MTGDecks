@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mr Orfeo</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Mr. Orfeo, the Boulder"/>
+        <card number="1" name="Syr Faren, the Hengehammer"/>
+        <card number="1" name="Tuya Bearclaw"/>
+        <card number="1" name="Ghalta, Primal Hunger"/>
+        <card number="1" name="Quartzwood Crasher"/>
+        <card number="1" name="Soul's Majesty"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Hydra Omnivore"/>
+        <card number="1" name="Cultivator of Blades"/>
+        <card number="1" name="Sigardian Zealot"/>
+        <card number="1" name="Blood Mist"/>
+        <card number="1" name="Rage Reflection"/>
+        <card number="1" name="Berserkers' Onslaught"/>
+        <card number="1" name="Radha, Heart of Keld"/>
+        <card number="1" name="Freelance Muscle"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Garruk's Harbinger"/>
+        <card number="1" name="Westgate Regent"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Ilysian Caryatid"/>
+        <card number="1" name="Ohran Viper"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Wulfgar of Icewind Dale"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Ziatora's Envoy"/>
+        <card number="1" name="Dragonborn Champion"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Kazuul's Fury"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Choose Your Weapon"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="6" name="Forest"/>
+        <card number="5" name="Mountain"/>
+        <card number="6" name="Swamp"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Nessian Boar"/>
+        <card number="1" name="Spiritmonger"/>
+        <card number="1" name="Challenger Troll"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Hunter's Prowess"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Asceticism"/>
+        <card number="1" name="Kessig Wolf Run"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Momentum Rumbler"/>
+        <card number="1" name="Dragon-Style Twins"/>
+        <card number="1" name="Florian, Voldaren Scion"/>
+        <card number="1" name="Verdurous Gearhulk"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Angrath's Marauders"/>
+        <card number="1" name="Etali, Primal Storm"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Tana, the Bloodsower"/>
+        <card number="1" name="Chameleon Colossus"/>
+        <card number="1" name="Dreamstealer"/>
+        <card number="1" name="Greater Tanuki"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Lightning Skelemental"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Garruk's Packleader"/>
+        <card number="1" name="Atarka, World Render"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Grunn, the Lonely King"/>
+        <card number="1" name="Gruul Beastmaster"/>
+        <card number="1" name="Clackbridge Troll"/>
+        <card number="1" name="Daemogoth Titan"/>
+        <card number="1" name="Nullhide Ferox"/>
+        <card number="1" name="Siegebreaker Giant"/>
+        <card number="1" name="Zalto, Fire Giant Duke"/>
+        <card number="1" name="Rubblebelt Recluse"/>
+        <card number="1" name="Alena, Kessig Trapper"/>
+        <card number="1" name="Spring-Leaf Avenger"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Whisperer of the Wilds"/>
+        <card number="1" name="Territorial Hellkite"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="See the Unwritten"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Wild Beastmaster"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Disciple of Bolas"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Inscription of Abundance"/>
+        <card number="1" name="Neyith of the Dire Hunt"/>
+        <card number="1" name="Battle Mammoth"/>
+        <card number="1" name="Shakedown Heavy"/>
+    </zone>
+</cockatrice_deck>

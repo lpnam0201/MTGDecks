@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Azorius Control Max Power</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Opt"/>
+        <card number="4" name="Azorius Charm"/>
+        <card number="6" name="Plains"/>
+        <card number="6" name="Island"/>
+        <card number="4" name="Absorb"/>
+        <card number="4" name="Dovin's Veto"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="3" name="Teferi, Who Slows the Sunset"/>
+        <card number="2" name="Shatter the Sky"/>
+        <card number="3" name="Warrant // Warden"/>
+        <card number="4" name="Neutralize"/>
+        <card number="3" name="Dream Trawler"/>
+        <card number="2" name="Doomskar"/>
+        <card number="4" name="Temple of Enlightenment"/>
+        <card number="4" name="Prairie Stream"/>
+        <card number="4" name="Port Town"/>
+        <card number="2" name="Dig Through Time"/>
+    </zone>
+    <zone name="side">
+        <card number="5" name="Elspeth, Sun's Nemesis"/>
+        <card number="2" name="Supreme Verdict"/>
+        <card number="5" name="Saw It Coming"/>
+        <card number="2" name="Dig Through Time"/>
+        <card number="3" name="Narset, Parter of Veils"/>
+        <card number="5" name="Censor"/>
+        <card number="3" name="Jace, Unraveler of Secrets"/>
+        <card number="2" name="Spell Pierce"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Plains"/>
+        <card number="4" name="Quench"/>
+        <card number="2" name="Hall of Storm Giants"/>
+        <card number="2" name="Castle Ardenvale"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="2" name="Pacifism"/>
+        <card number="2" name="Blessed Alliance"/>
+        <card number="2" name="Gideon of the Trials"/>
+        <card number="2" name="Sunset Revelry"/>
+        <card number="4" name="Shatter the Sky"/>
+        <card number="5" name="Warrant // Warden"/>
+        <card number="4" name="Dream Trawler"/>
+        <card number="4" name="Seal Away"/>
+        <card number="2" name="Castle Vantress"/>
+        <card number="4" name="Negate"/>
+        <card number="2" name="Neutralize"/>
+        <card number="4" name="Temple of Enlightenment"/>
+        <card number="4" name="Port Town"/>
+        <card number="4" name="Prairie Stream"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="Detention Sphere"/>
+    </zone>
+</cockatrice_deck>

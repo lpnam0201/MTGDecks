@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Atarka, World Render"/>
+        <card number="1" name="Dragon Tempest"/>
+        <card number="1" name="Bladewing the Risen"/>
+        <card number="1" name="Silumgar, the Drifting Death"/>
+        <card number="1" name="Kolaghan, the Storm's Fury"/>
+        <card number="1" name="Dromoka, the Eternal"/>
+        <card number="1" name="Ojutai, Soul of Winter"/>
+        <card number="1" name="Crux of Fate"/>
+        <card number="1" name="Lathliss, Dragon Queen"/>
+        <card number="1" name="Teneb, the Harvester"/>
+        <card number="1" name="Scourge of Valkas"/>
+        <card number="1" name="Savage Ventmaw"/>
+        <card number="1" name="Dragon's Hoard"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Utvara Hellkite"/>
+        <card number="1" name="Temur Ascendancy"/>
+        <card number="1" name="Scalelord Reckoner"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Broodmate Dragon"/>
+        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Crucible of the Spirit Dragon"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Haven of the Spirit Dragon"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="4" name="Mountain"/>
+        <card number="6" name="Forest"/>
+        <card number="3" name="Swamp"/>
+        <card number="3" name="Island"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Crosis, the Purger"/>
+        <card number="1" name="Dragonlord Ojutai"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Ryusei, the Falling Star"/>
+        <card number="1" name="Keiga, the Tide Star"/>
+        <card number="1" name="Boneyard Scourge"/>
+        <card number="1" name="The Ur-Dragon"/>
+        <card number="1" name="Sunscorch Regent"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Vivid Grove"/>
+        <card number="1" name="Vivid Crag"/>
+        <card number="1" name="Vivid Marsh"/>
+        <card number="1" name="Vivid Creek"/>
+        <card number="1" name="Vivid Meadow"/>
+        <card number="1" name="Migration Path"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Fires of Yavimaya"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Hellkite Courser"/>
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Sarkhan's Unsealing"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Haunting Voyage"/>
+        <card number="1" name="Tiamat"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bone Dragon"/>
+        <card number="1" name="Icefall Regent"/>
+        <card number="1" name="Thunderbreak Regent"/>
+        <card number="1" name="Necromaster Dragon"/>
+        <card number="1" name="Palladia-Mors, the Ruiner"/>
+        <card number="1" name="Flameblast Dragon"/>
+        <card number="1" name="Grow from the Ashes"/>
+        <card number="1" name="Wasitora, Nekoru Queen"/>
+        <card number="1" name="Spellbound Dragon"/>
+        <card number="1" name="Intet, the Dreamer"/>
+        <card number="1" name="Destructor Dragon"/>
+        <card number="1" name="Demanding Dragon"/>
+        <card number="1" name="Scourge of the Throne"/>
+        <card number="1" name="Nesting Dragon"/>
+        <card number="1" name="Thundermaw Hellkite"/>
+        <card number="1" name="Deathbringer Regent"/>
+        <card number="1" name="Expedition Map"/>
+        <card number="1" name="Moltensteel Dragon"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Savage Lands"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Nomad Outpost"/>
+        <card number="1" name="Mystic Monastery"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Sarkhan's Unsealing"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Grand Coliseum"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Archwing Dragon"/>
+        <card number="1" name="Territorial Hellkite"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Bad River"/>
+        <card number="1" name="Grasslands"/>
+        <card number="1" name="Rocky Tar Pit"/>
+        <card number="1" name="Flood Plain"/>
+        <card number="1" name="Mountain Valley"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Mana Geode"/>
+        <card number="1" name="Sphere of the Suns"/>
+        <card number="1" name="Citadel Siege"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Palace Siege"/>
+        <card number="1" name="Aether Hub"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Mirrodin's Core"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Sarkhan's Triumph"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Hoard-Smelter Dragon"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Unburial Rites"/>
+    </zone>
+</cockatrice_deck>

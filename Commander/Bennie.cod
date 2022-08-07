@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Bennie</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bennie Bracks, Zoologist"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Court of Grace"/>
+    </zone>
+</cockatrice_deck>

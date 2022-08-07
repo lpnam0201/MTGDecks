@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Katilda</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Katilda, Dawnhart Prime"/>
+        <card number="1" name="Kyler, Sigardian Emissary"/>
+        <card number="1" name="Heronblade Elite"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Mikaeus, the Lunarch"/>
+        <card number="1" name="Increasing Devotion"/>
+        <card number="1" name="Cathar Commando"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Odric, Master Tactician"/>
+        <card number="1" name="Devout Chaplain"/>
+        <card number="1" name="Abzan Falconer"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Thraben Doomsayer"/>
+        <card number="1" name="Heron's Grace Champion"/>
+        <card number="1" name="Giant Killer // Chop Down"/>
+        <card number="1" name="Somberwald Sage"/>
+        <card number="1" name="Riders of Gavony"/>
+        <card number="1" name="Bounty Agent"/>
+        <card number="1" name="Make a Stand"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Lavabrink Venturer"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Sigardian Zealot"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="12" name="Plains"/>
+        <card number="12" name="Forest"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Stalwart Pathlighter"/>
+        <card number="1" name="Wild Beastmaster"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Verge Rangers"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Abzan Battle Priest"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Selfless Squire"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Elite Scaleguard"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Avenging Huntbonder"/>
+        <card number="1" name="Camaraderie"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Scale Up"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Hopeful Initiate"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Basri's Lieutenant"/>
+        <card number="1" name="Frontline Medic"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sigarda, Heron's Grace"/>
+        <card number="2" name="Torens, Fist of the Angels"/>
+        <card number="2" name="Champion of the Parish"/>
+        <card number="1" name="Mikaeus, the Lunarch"/>
+        <card number="3" name="Call the Coppercoats"/>
+        <card number="1" name="Devout Chaplain"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Bala Ged Sanctuary"/>
+        <card number="1" name="Heirloom Blade"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Sigarda, Champion of Light"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Kamahl, Heart of Krosa"/>
+        <card number="1" name="Adeline, Resplendent Cathar"/>
+        <card number="1" name="Augur of Autumn"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Thalia, Heretic Cathar"/>
+        <card number="1" name="Thalia's Lieutenant"/>
+        <card number="1" name="Tireless Tracker"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Great Oak Guardian"/>
+        <card number="1" name="Laid to Rest"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="2" name="Angel of Glory's Rise"/>
+        <card number="2" name="Krosan Grip"/>
+        <card number="1" name="Mirran Crusader"/>
+        <card number="1" name="Join Shields"/>
+        <card number="1" name="Camaraderie"/>
+        <card number="1" name="Maja, Bretagard Protector"/>
+        <card number="1" name="Soul's Majesty"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Razorverge Thicket"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Bastion"/>
+        <card number="2" name="Sol Ring"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Danitha Capashen, Paragon"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Hunter's Prowess"/>
+        <card number="1" name="Odric, Lunarch Marshal"/>
+        <card number="2" name="Drumbellower"/>
+        <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Selesnya Guildgate"/>
+        <card number="1" name="Tranquil Expanse"/>
+        <card number="1" name="Thornglint Bridge"/>
+        <card number="1" name="Graypelt Refuge"/>
+        <card number="1" name="Blossoming Sands"/>
+        <card number="1" name="Masked Vandal"/>
+        <card number="1" name="Basri's Lieutenant"/>
+        <card number="1" name="Village Bell-Ringer"/>
+        <card number="1" name="Slippery Bogbonder"/>
+        <card number="1" name="Arctic Treeline"/>
+        <card number="1" name="Botanical Plaza"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Scavenger Grounds"/>
+    </zone>
+</cockatrice_deck>

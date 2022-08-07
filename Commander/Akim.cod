@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Akim</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Akim, the Soaring Wind"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Divine Visitation"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Wear // Tear"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="The Locust God"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Winged Words"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Mystic Monastery"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="7" name="Mountain"/>
+        <card number="8" name="Island"/>
+        <card number="7" name="Plains"/>
+        <card number="1" name="Brudiclad, Telchor Engineer"/>
+        <card number="1" name="Zirda, the Dawnwaker"/>
+        <card number="1" name="Coastal Piracy"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Kykar, Wind's Fury"/>
+        <card number="1" name="Monastery Mentor"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Whispering Wizard"/>
+        <card number="1" name="Young Pyromancer"/>
+        <card number="1" name="Jeskai Ascendancy"/>
+        <card number="1" name="Metallurgic Summonings"/>
+        <card number="1" name="Shark Typhoon"/>
+        <card number="1" name="Whirlwind of Thought"/>
+        <card number="1" name="Behold the Multiverse"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Consider"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Saheeli, Sublime Artificer"/>
+        <card number="1" name="Crash Through"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Warlord's Fury"/>
+        <card number="1" name="Expedite"/>
+        <card number="1" name="Thirst for Discovery"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Prava of the Steel Legion"/>
+        <card number="2" name="Skycat Sovereign"/>
+        <card number="1" name="Magma Opus"/>
+        <card number="1" name="Reckless Endeavor"/>
+        <card number="1" name="Rite of the Raging Storm"/>
+        <card number="1" name="Brudiclad, Telchor Engineer"/>
+        <card number="1" name="Curiosity Crafter"/>
+        <card number="1" name="Valkyrie Harbinger"/>
+        <card number="1" name="Monastery Mentor"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Song of the Worldsoul"/>
+        <card number="1" name="Deekah, Fractal Theorist"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Chemister's Insight"/>
+        <card number="1" name="Contact Other Plane"/>
+        <card number="1" name="Rain of Revelation"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Amphin Mutineer"/>
+        <card number="1" name="Custodi Soulbinders"/>
+        <card number="1" name="Faerie Formation"/>
+        <card number="1" name="Hanged Executioner"/>
+        <card number="1" name="Inspired Sphinx"/>
+        <card number="1" name="Oketra the True"/>
+        <card number="1" name="Thraben Doomsayer"/>
+        <card number="1" name="Twilight Drover"/>
+        <card number="1" name="Training Grounds"/>
+        <card number="1" name="Renegade Tactics"/>
+    </zone>
+</cockatrice_deck>

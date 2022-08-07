@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Vilis</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Vilis, Broker of Blood"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Skirge Familiar"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Final Parting"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Sisay's Ring"/>
+        <card number="1" name="Ur-Golem's Eye"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Marshland Bloodcaster"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Hero's Downfall"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Profane Transfusion"/>
+        <card number="1" name="Necromantic Selection"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Charcoal Diamond"/>
+        <card number="30" name="Swamp"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Skyclave Relic"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Awaken the Erstwhile"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Palladium Myr"/>
+        <card number="1" name="Necrotic Hex"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Guildless Commons"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Profane Command"/>
+        <card number="1" name="Overeager Apprentice"/>
+        <card number="1" name="Pharika's Libation"/>
+        <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Poison the Cup"/>
+        <card number="1" name="Memorial to Folly"/>
+        <card number="1" name="Mortuary Mire"/>
+        <card number="1" name="Witch's Cottage"/>
+        <card number="1" name="Peer into the Abyss"/>
+        <card number="1" name="K'rrik, Son of Yawgmoth"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Drag to the Underworld"/>
+        <card number="1" name="Nirkana Revenant"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Noxious Gearhulk"/>
+        <card number="1" name="Szat's Will"/>
+        <card number="1" name="Overseer of the Damned"/>
+        <card number="1" name="Demon of Dark Schemes"/>
+        <card number="1" name="Demonlord Belzenlok"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Crypt Ghast"/>
+        <card number="1" name="Cabal Coffers"/>
+        <card number="1" name="Cabal Stronghold"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Faith of the Devoted"/>
+        <card number="1" name="Demonlord Belzenlok"/>
+        <card number="1" name="Szat's Will"/>
+        <card number="1" name="Harvester of Souls"/>
+        <card number="1" name="Moonlight Bargain"/>
+        <card number="1" name="Burning-Rune Demon"/>
+        <card number="3" name="Night's Whisper"/>
+        <card number="1" name="Boneyard Parley"/>
+        <card number="1" name="Beacon of Unrest"/>
+        <card number="3" name="K'rrik, Son of Yawgmoth"/>
+        <card number="2" name="Sign in Blood"/>
+        <card number="2" name="Read the Bones"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="4" name="Languish"/>
+        <card number="2" name="Blood Pact"/>
+        <card number="1" name="Armillary Sphere"/>
+        <card number="1" name="Bag of Holding"/>
+        <card number="1" name="Ebony Fly"/>
+        <card number="1" name="Firemind Vessel"/>
+        <card number="1" name="Horizon Stone"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Drag to the Underworld"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="2" name="Command the Dreadhorde"/>
+        <card number="1" name="Lay Bare the Heart"/>
+        <card number="1" name="Distress"/>
+        <card number="1" name="Tourach's Canticle"/>
+        <card number="1" name="Dreamstone Hedron"/>
+        <card number="1" name="Guardian Idol"/>
+        <card number="1" name="Fractured Powerstone"/>
+        <card number="1" name="Undying Evil"/>
+        <card number="1" name="Increasing Ambition"/>
+        <card number="2" name="Duress"/>
+        <card number="2" name="Magus of the Coffers"/>
+        <card number="2" name="Nirkana Revenant"/>
+        <card number="2" name="Repay in Kind"/>
+        <card number="1" name="Undying Malice"/>
+        <card number="2" name="Professor's Warning"/>
+        <card number="1" name="Supernatural Stamina"/>
+        <card number="1" name="Feign Death"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="2" name="Damnable Pact"/>
+        <card number="1" name="Mire in Misery"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="1" name="Dark Impostor"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Force of Despair"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Geth, Lord of the Vault"/>
+        <card number="1" name="Foreboding Fruit"/>
+        <card number="1" name="Introduction to Annihilation"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Army of the Damned"/>
+        <card number="1" name="Pontiff of Blight"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Murder"/>
+        <card number="2" name="Painful Lesson"/>
+        <card number="1" name="Backdraft Hellkite"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Memory Leak"/>
+        <card number="2" name="Funeral Rites"/>
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Pointed Discussion"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Forsworn Paladin"/>
+        <card number="1" name="Tergrid's Shadow"/>
+        <card number="1" name="Razaketh's Rite"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Coveted Prize"/>
+        <card number="1" name="Succumb to Temptation"/>
+    </zone>
+</cockatrice_deck>

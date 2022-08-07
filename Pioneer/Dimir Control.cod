@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Dimir Control</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Extinction Event"/>
+        <card number="4" name="Opt"/>
+        <card number="4" name="Neutralize"/>
+        <card number="3" name="Hero's Downfall"/>
+        <card number="4" name="Power Word Kill"/>
+        <card number="2" name="Negate"/>
+        <card number="4" name="Sunken Hollow"/>
+        <card number="4" name="Choked Estuary"/>
+        <card number="6" name="Island"/>
+        <card number="6" name="Swamp"/>
+        <card number="2" name="Dig Through Time"/>
+        <card number="2" name="Shadows' Verdict"/>
+        <card number="3" name="Saw It Coming"/>
+        <card number="4" name="Temple of Deceit"/>
+        <card number="4" name="Bloodchief's Thirst"/>
+        <card number="3" name="Ashiok, Nightmare Muse"/>
+        <card number="3" name="Narset, Parter of Veils"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Bloodchief's Thirst"/>
+        <card number="2" name="Ritual of Soot"/>
+        <card number="1" name="Ashiok, Nightmare Muse"/>
+        <card number="3" name="Narset, Parter of Veils"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="2" name="Dissolve"/>
+        <card number="1" name="Hero's Downfall"/>
+        <card number="1" name="Cling to Dust"/>
+        <card number="2" name="Duress"/>
+        <card number="1" name="Island"/>
+        <card number="2" name="Lochmere Serpent"/>
+        <card number="1" name="Power Word Kill"/>
+        <card number="4" name="Temple of Deceit"/>
+        <card number="4" name="Shipwreck Marsh"/>
+        <card number="2" name="Hall of Storm Giants"/>
+    </zone>
+</cockatrice_deck>

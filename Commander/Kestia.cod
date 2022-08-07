@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Kestia</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Nylea's Colossus"/>
+        <card number="1" name="Enigmatic Incarnation"/>
+        <card number="1" name="Kestia, the Cultivator"/>
+        <card number="1" name="Colossal Skyturtle"/>
+        <card number="1" name="Archetype of Imagination"/>
+        <card number="1" name="Greater Tanuki"/>
+        <card number="1" name="Sunblade Samurai"/>
+        <card number="1" name="Nylea's Forerunner"/>
+        <card number="1" name="Whitewater Naiads"/>
+        <card number="1" name="Karametra, God of Harvests"/>
+        <card number="1" name="Nylea, Keen-Eyed"/>
+        <card number="1" name="Arasta of the Endless Web"/>
+        <card number="1" name="Renata, Called to the Hunt"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="1" name="Nyx Herald"/>
+        <card number="1" name="Eidolon of Inspiration"/>
+        <card number="1" name="Eidolon of Countless Battles"/>
+        <card number="1" name="Archetype of Courage"/>
+        <card number="1" name="Callaphe, Beloved of the Sea"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Sythis, Harvest's Hand"/>
+        <card number="1" name="Jukai Naturalist"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Transcendent Envoy"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Dance of the Manse"/>
+    </zone>
+</cockatrice_deck>

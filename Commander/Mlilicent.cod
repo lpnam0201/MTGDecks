@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mlilicent</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Millicent, Restless Revenant"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="12" name="Plains"/>
+        <card number="12" name="Island"/>
+        <card number="1" name="Drogskol Captain"/>
+        <card number="1" name="Drogskol Reinforcements"/>
+        <card number="1" name="Patrician Geist"/>
+        <card number="1" name="Spectral Arcanist"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Supreme Phantom"/>
+        <card number="1" name="Rattlechains"/>
+        <card number="1" name="Remorseful Cleric"/>
+        <card number="1" name="Shacklegeist"/>
+        <card number="1" name="Nebelgast Herald"/>
+        <card number="1" name="Ghostly Pilferer"/>
+        <card number="1" name="Hanged Executioner"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Military Intelligence"/>
+        <card number="1" name="Windborn Muse"/>
+        <card number="1" name="Empyrean Eagle"/>
+        <card number="1" name="Spectral Sailor"/>
+        <card number="1" name="Breath of the Sleepless"/>
+        <card number="1" name="Bygone Bishop"/>
+        <card number="1" name="Ethereal Investigator"/>
+        <card number="1" name="Dreamshackle Geist"/>
+        <card number="1" name="Ethereal Valkyrie"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Brago, King Eternal"/>
+        <card number="1" name="Mirrorhall Mimic"/>
+        <card number="1" name="Topplegeist"/>
+        <card number="1" name="Dungeon Geists"/>
+        <card number="1" name="Makindi Stampede"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Spell Queller"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Cemetery Illuminator"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Skyclave Apparition"/>
+        <card number="1" name="Guardian of Faith"/>
+        <card number="1" name="Distant Melody"/>
+        <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Confounding Conundrum"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Spectral Adversary"/>
+        <card number="1" name="Mirrorweave"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="1" name="Ao, the Dawn Sky"/>
+        <card number="1" name="Forbidding Spirit"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Beckoning Will-o'-Wisp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Negate"/>
+        <card number="2" name="Storm of Souls"/>
+        <card number="1" name="Haunted Library"/>
+        <card number="2" name="Field of Souls"/>
+        <card number="1" name="Haunting Imitation"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Winds of Abandon"/>
+        <card number="3" name="Aetherize"/>
+        <card number="1" name="Katilda, Dawnhart Martyr"/>
+        <card number="1" name="Mirrorhall Mimic"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Cemetery Illuminator"/>
+        <card number="1" name="Mausoleum Wanderer"/>
+        <card number="2" name="Selfless Spirit"/>
+        <card number="1" name="Skyclave Apparition"/>
+        <card number="1" name="Spectral Adversary"/>
+        <card number="1" name="Spell Queller"/>
+        <card number="1" name="Coastal Piracy"/>
+        <card number="2" name="True Conviction"/>
+        <card number="1" name="Court of Grace"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Kira, Great Glass-Spinner"/>
+        <card number="1" name="Guardian of Faith"/>
+        <card number="1" name="Sire of the Storm"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="1" name="Disorder in the Court"/>
+        <card number="2" name="Pilgrim of the Ages"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Deserted Beach"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Mystic Gate"/>
+        <card number="1" name="Nimbus Maze"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Port Town"/>
+        <card number="2" name="Sea of Clouds"/>
+        <card number="1" name="Seachrome Coast"/>
+        <card number="1" name="Dissolve"/>
+        <card number="2" name="Sol Ring"/>
+        <card number="1" name="Niblis of the Mist"/>
+        <card number="1" name="Twinblade Geist"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Verity Circle"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Make a Stand"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Ao, the Dawn Sky"/>
+        <card number="1" name="Angel of Flight Alabaster"/>
+        <card number="1" name="Azorius Guildgate"/>
+        <card number="1" name="Release to Memory"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Ghostblade Eidolon"/>
+        <card number="1" name="Distracting Geist"/>
+        <card number="1" name="Occult Epiphany"/>
+        <card number="1" name="Meandering River"/>
+        <card number="1" name="Razortide Bridge"/>
+        <card number="1" name="Glacial Floodplain"/>
+        <card number="1" name="Distant Melody"/>
+        <card number="2" name="Twilight Drover"/>
+        <card number="1" name="Spectral Shepherd"/>
+        <card number="1" name="Westgate Regent"/>
+        <card number="1" name="Niblis of the Breath"/>
+        <card number="1" name="Niblis of the Urn"/>
+        <card number="2" name="Fellwar Stone"/>
+        <card number="1" name="Forbidding Spirit"/>
+        <card number="2" name="Soulherder"/>
+        <card number="1" name="Benevolent Offering"/>
+        <card number="1" name="Reflections of Littjara"/>
+        <card number="1" name="Moorland Haunt"/>
+        <card number="1" name="Sejiri Refuge"/>
+        <card number="1" name="Tranquil Cove"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Skybridge Towers"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Island"/>
+    </zone>
+</cockatrice_deck>

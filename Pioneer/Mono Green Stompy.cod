@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname> Mono Green Stompy</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Vivien, Arkbow Ranger"/>
+        <card number="4" name="Burning-Tree Emissary"/>
+        <card number="4" name="Elvish Mystic"/>
+        <card number="4" name="Llanowar Elves"/>
+        <card number="4" name="Old-Growth Troll"/>
+        <card number="4" name="Oath of Nissa"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="20" name="Forest"/>
+        <card number="1" name="Lair of the Hydra"/>
+        <card number="4" name="Garruk's Harbinger"/>
+        <card number="2" name="Yorvo, Lord of Garenbrig"/>
+        <card number="4" name="Barkhide Troll"/>
+        <card number="4" name="Steel Leaf Champion"/>
+    </zone>
+</cockatrice_deck>

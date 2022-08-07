@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ognis, the Dragon's Lash"/>
+        <card number="1" name="Marionette Master"/>
+        <card number="1" name="Loyal Apprentice"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Gingerbrute"/>
+        <card number="1" name="Froghemoth"/>
+        <card number="1" name="Chaos Dragon"/>
+        <card number="1" name="Legion Warboss"/>
+        <card number="1" name="Regisaur Alpha"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Zagras, Thief of Heartbeats"/>
+        <card number="1" name="Thopter Engineer"/>
+        <card number="1" name="Shifting Ceratops"/>
+        <card number="1" name="Glorybringer"/>
+        <card number="1" name="Falkenrath Aristocrat"/>
+        <card number="1" name="Vengeful Reaper"/>
+        <card number="1" name="Flamewake Phoenix"/>
+        <card number="1" name="Phoenix of Ash"/>
+        <card number="1" name="Lightning Phoenix"/>
+        <card number="1" name="Gurmag Swiftwing"/>
+        <card number="1" name="Skyship Stalker"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Crackle with Power"/>
+        <card number="1" name="Cut // Ribbons"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Goblin Assault"/>
+        <card number="6" name="Mountain"/>
+        <card number="6" name="Forest"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Mortality Spear"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="1" name="Kamahl, Heart of Krosa"/>
+        <card number="1" name="Charging Monstrosaur"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Urabrask the Hidden"/>
+        <card number="1" name="Dreadhorde Butcher"/>
+        <card number="1" name="Daring Fiendbonder"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="1" name="Territorial Hellkite"/>
+        <card number="1" name="Elemental Mastery"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Kalain, Reclusive Painter"/>
+        <card number="1" name="Dockside Chef"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Laelia, the Blade Reforged"/>
+        <card number="1" name="Jaya's Immolating Inferno"/>
+        <card number="1" name="Skull Storm"/>
+        <card number="1" name="Grim Hireling"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Flamewake Phoenix"/>
+        <card number="1" name="Goro-Goro, Disciple of Ryusei"/>
+        <card number="1" name="Darigaaz Reincarnated"/>
+        <card number="1" name="Rabbit Battery"/>
+        <card number="1" name="Wulfgar of Icewind Dale"/>
+        <card number="1" name="Ziatora's Envoy"/>
+        <card number="1" name="Halana and Alena, Partners"/>
+        <card number="1" name="Kamahl's Will"/>
+        <card number="1" name="Moonlight Bargain"/>
+        <card number="1" name="Urabrask the Hidden"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Grand Warlord Radha"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Woodland Chasm"/>
+        <card number="1" name="Highland Forest"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Ulvenwald Oddity"/>
+        <card number="1" name="Syrix, Carrier of the Flame"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Ambition's Cost"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Clackbridge Troll"/>
+        <card number="1" name="Windgrace's Judgment"/>
+        <card number="1" name="Blood Pact"/>
+        <card number="1" name="Damnable Pact"/>
+        <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Marionette Master"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Subira, Tulzidi Caravanner"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Sign in Blood"/>
+    </zone>
+</cockatrice_deck>

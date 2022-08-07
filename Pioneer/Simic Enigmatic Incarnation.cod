@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Simic Enigmatic Incarnation</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Enigmatic Incarnation"/>
+        <card number="4" name="Wolfwillow Haven"/>
+        <card number="4" name="Omen of the Sea"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Yavimaya Coast"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Oath of Jace"/>
+        <card number="4" name="Moon-Blessed Cleric"/>
+        <card number="4" name="Prairie Stream"/>
+        <card number="4" name="Nylea's Presence"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="1" name="Deputy of Detention"/>
+        <card number="1" name="Knight of Autumn"/>
+        <card number="1" name="Elite Guardmage"/>
+        <card number="1" name="Tolsimir, Friend to Wolves"/>
+        <card number="1" name="Renegade Rallier"/>
+        <card number="1" name="Archon of Emeria"/>
+        <card number="1" name="Reflector Mage"/>
+        <card number="4" name="Evolving Wilds"/>
+        <card number="4" name="Seal Away"/>
+        <card number="1" name="Archon of Sun's Grace"/>
+        <card number="1" name="Arasta of the Endless Web"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Omen of the Hunt"/>
+    </zone>
+</cockatrice_deck>

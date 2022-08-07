@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Azorius Control</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Azorius Charm"/>
+        <card number="4" name="Temple of Enlightenment"/>
+        <card number="4" name="Prairie Stream"/>
+        <card number="4" name="Port Town"/>
+        <card number="6" name="Plains"/>
+        <card number="6" name="Island"/>
+        <card number="2" name="Shatter the Sky"/>
+        <card number="4" name="Absorb"/>
+        <card number="2" name="Neutralize"/>
+        <card number="2" name="Dig Through Time"/>
+        <card number="2" name="Doomskar"/>
+        <card number="4" name="Narset, Parter of Veils"/>
+        <card number="2" name="Banishing Light"/>
+        <card number="2" name="Seal Away"/>
+        <card number="2" name="Immolating Glare"/>
+        <card number="3" name="Negate"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="2" name="Gideon Jura"/>
+        <card number="4" name="Teferi's Tutelage"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Elspeth, Sun's Nemesis"/>
+        <card number="2" name="Supreme Verdict"/>
+        <card number="5" name="Saw It Coming"/>
+        <card number="3" name="Dig Through Time"/>
+        <card number="4" name="Narset, Parter of Veils"/>
+        <card number="4" name="Censor"/>
+        <card number="3" name="Jace, Unraveler of Secrets"/>
+        <card number="2" name="Spell Pierce"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Plains"/>
+        <card number="4" name="Quench"/>
+        <card number="3" name="Hall of Storm Giants"/>
+        <card number="2" name="Castle Ardenvale"/>
+        <card number="2" name="Settle the Wreckage"/>
+        <card number="2" name="Pacifism"/>
+        <card number="2" name="Blessed Alliance"/>
+        <card number="2" name="Gideon of the Trials"/>
+        <card number="2" name="Sunset Revelry"/>
+        <card number="2" name="Negate"/>
+        <card number="2" name="Shatter the Sky"/>
+        <card number="6" name="Warrant // Warden"/>
+        <card number="3" name="Dream Trawler"/>
+        <card number="4" name="Memory Deluge"/>
+        <card number="2" name="Fact or Fiction"/>
+        <card number="2" name="Thryx, the Sudden Storm"/>
+        <card number="2" name="Chemister's Insight"/>
+        <card number="6" name="Seal Away"/>
+        <card number="1" name="Jace, the Living Guildpact"/>
+        <card number="2" name="Swift Response"/>
+        <card number="1" name="Immolating Glare"/>
+        <card number="1" name="Gideon Jura"/>
+    </zone>
+</cockatrice_deck>

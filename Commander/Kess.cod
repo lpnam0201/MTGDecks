@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Kess, Dissident Mage"/>
+        <card number="1" name="See the Truth"/>
+        <card number="1" name="Double Vision"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Mizzium Mortars"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="7" name="Island"/>
+        <card number="6" name="Mountain"/>
+        <card number="6" name="Swamp"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Necromantic Selection"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Increasing Vengeance"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Impulse"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Seize the Spoils"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Tormenting Voice"/>
+        <card number="1" name="Seething Song"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Cut // Ribbons"/>
+        <card number="1" name="Crackle with Power"/>
+        <card number="1" name="Expansion // Explosion"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Volcanic Torrent"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Behold the Multiverse"/>
+        <card number="1" name="Thirst for Discovery"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Profane Transfusion"/>
+        <card number="1" name="Fevered Suspicion"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spelltwine"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Maestros Charm"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Disrupt Decorum"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Swarm Intelligence"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Reckless Endeavor"/>
+        <card number="1" name="Make an Example"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="2" name="Corrupted Grafstone"/>
+        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="2" name="Jace's Sanctum"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Tomebound Lich"/>
+        <card number="1" name="God-Eternal Kefnet"/>
+        <card number="1" name="Vodalian Arcanist"/>
+        <card number="1" name="Young Pyromancer"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Curious Homunculus"/>
+        <card number="1" name="Gravebreaker Lamia"/>
+        <card number="1" name="Nivix Guildmage"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Displace"/>
+        <card number="2" name="Cut // Ribbons"/>
+        <card number="1" name="The Mirari Conjecture"/>
+        <card number="1" name="Blink of an Eye"/>
+        <card number="1" name="Doom Blade"/>
+        <card number="2" name="Drown in the Loch"/>
+        <card number="1" name="Ghostly Flicker"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Unwind"/>
+        <card number="1" name="Wizard's Retort"/>
+        <card number="1" name="Duress"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Bond of Insight"/>
+        <card number="1" name="Aether Gale"/>
+        <card number="1" name="Impulse"/>
+        <card number="1" name="Crosis's Charm"/>
+        <card number="1" name="Dimir Charm"/>
+        <card number="1" name="Notion Rain"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Jori En, Ruin Diver"/>
+        <card number="1" name="Nightscape Familiar"/>
+        <card number="2" name="Ral, Storm Conduit"/>
+        <card number="1" name="Izzet Charm"/>
+        <card number="1" name="Dissolve"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Anticipate"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Spelltwine"/>
+        <card number="2" name="Thousand-Year Storm"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Windfall"/>
+        <card number="2" name="Temple of Epiphany"/>
+        <card number="1" name="Akoum Refuge"/>
+        <card number="2" name="By Force"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="2" name="Ashiok, Dream Render"/>
+        <card number="2" name="Cruel Ultimatum"/>
+        <card number="1" name="Arcane Melee"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="2" name="Mana Geode"/>
+        <card number="1" name="Dualcaster Mage"/>
+        <card number="1" name="Goblin Electromancer"/>
+        <card number="1" name="Repeated Reverberation"/>
+        <card number="1" name="Reverberate"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Thought Scour"/>
+        <card number="1" name="Bonus Round"/>
+        <card number="1" name="Discovery // Dispersal"/>
+        <card number="1" name="Doublecast"/>
+        <card number="1" name="Exsanguinate"/>
+        <card number="2" name="Ignite the Future"/>
+        <card number="2" name="In Garruk's Wake"/>
+        <card number="2" name="Comet Storm"/>
+        <card number="1" name="Expansion // Explosion"/>
+        <card number="1" name="Ransack the Lab"/>
+        <card number="1" name="Forbidden Alchemy"/>
+        <card number="1" name="Increasing Vengeance"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Rise from the Tides"/>
+        <card number="1" name="River's Rebuke"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="2" name="Thriving Moor"/>
+        <card number="2" name="Thriving Isle"/>
+        <card number="2" name="Thriving Bluff"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Command Tower"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Drawn from Dreams"/>
+        <card number="1" name="Desperate Ritual"/>
+        <card number="1" name="Polymorphist's Jest"/>
+        <card number="1" name="Devastation Tide"/>
+        <card number="1" name="Myriad Construct"/>
+        <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Bloodfell Caves"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Secrets of the Dead"/>
+        <card number="1" name="Flame Slash"/>
+        <card number="1" name="Crackle with Power"/>
+        <card number="2" name="Soulfire Eruption"/>
+        <card number="2" name="Mnemonic Deluge"/>
+        <card number="1" name="Deadly Rollick"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Swarm Intelligence"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Earthquake"/>
+        <card number="1" name="Razaketh's Rite"/>
+        <card number="2" name="Diabolic Tutor"/>
+        <card number="2" name="Demonic Bargain"/>
+        <card number="1" name="Coveted Prize"/>
+        <card number="2" name="Final Parting"/>
+        <card number="1" name="Whispering Madness"/>
+        <card number="1" name="Winged Words"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Magmaquake"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Chemister's Insight"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="2" name="Peer into the Abyss"/>
+        <card number="1" name="Flame Sweep"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Yahenni's Expertise"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Stormcarved Coast"/>
+        <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Necrotic Hex"/>
+        <card number="1" name="Torment of Hailfire"/>
+    </zone>
+</cockatrice_deck>

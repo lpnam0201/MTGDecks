@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Izzet Phoenix</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Smoldering Egg"/>
+        <card number="4" name="Arclight Phoenix"/>
+        <card number="2" name="Galvanic Iteration"/>
+        <card number="4" name="Lightning Axe"/>
+        <card number="4" name="Opt"/>
+        <card number="4" name="Treasure Cruise"/>
+        <card number="2" name="Dig Through Time"/>
+        <card number="4" name="Thought Scour"/>
+        <card number="4" name="Fiery Impulse"/>
+        <card number="4" name="Chart a Course"/>
+        <card number="4" name="Pieces of the Puzzle"/>
+        <card number="4" name="Shivan Reef"/>
+        <card number="4" name="Frostboil Snarl"/>
+        <card number="6" name="Island"/>
+        <card number="6" name="Mountain"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Niv Mizzet Reborn</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Niv-Mizzet Reborn"/>
+        <card number="1" name="Command Tower"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Swamp"/>
+        <card number="5" name="Forest"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Reclusive Taxidermist"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Drover of the Mighty"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Roiling Regrowth"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Road // Ruin"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Yorion, Sky Nomad"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Coiling Oracle"/>
+        <card number="1" name="Deathsprout"/>
+        <card number="1" name="Casualties of War"/>
+        <card number="1" name="Soulherder"/>
+        <card number="1" name="Risen Reef"/>
+        <card number="1" name="Izzet Charm"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="Hostage Taker"/>
+        <card number="1" name="Brago, King Eternal"/>
+        <card number="1" name="Jegantha, the Wellspring"/>
+        <card number="1" name="Knight of Autumn"/>
+        <card number="1" name="Atarka, World Render"/>
+        <card number="1" name="Counterflux"/>
+        <card number="1" name="Kardur, Doomscourge"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Phylath, World Sculptor"/>
+        <card number="1" name="Yasharn, Implacable Earth"/>
+        <card number="1" name="Leyline Prowler"/>
+        <card number="1" name="Mortality Spear"/>
+        <card number="1" name="Reflector Mage"/>
+        <card number="1" name="Gyruda, Doom of Depths"/>
+        <card number="1" name="Bring to Light"/>
+        <card number="1" name="Sylvan Reclamation"/>
+        <card number="1" name="Fevered Suspicion"/>
+        <card number="1" name="Wrexial, the Risen Deep"/>
+        <card number="1" name="Ethereal Valkyrie"/>
+        <card number="1" name="Cut // Ribbons"/>
+        <card number="1" name="Radha, Heart of Keld"/>
+        <card number="1" name="Eureka Moment"/>
+        <card number="1" name="Kaya's Wrath"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Savage Ventmaw"/>
+        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="1" name="Time Wipe"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Zara, Renegade Recruiter"/>
+        <card number="1" name="Ionize"/>
+        <card number="1" name="Absorb"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Black Market Tycoon"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Solar Blaze"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Fracture"/>
+        <card number="1" name="Velomachus Lorehold"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Whispering Madness"/>
+        <card number="2" name="Teysa, Envoy of Ghosts"/>
+        <card number="1" name="Adventurous Impulse"/>
+        <card number="1" name="General Ferrous Rokiric"/>
+        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Oversimplify"/>
+        <card number="1" name="Humble Naturalist"/>
+        <card number="1" name="Zara, Renegade Recruiter"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Vivid Meadow"/>
+        <card number="1" name="Vivid Marsh"/>
+        <card number="1" name="Vivid Grove"/>
+        <card number="1" name="Vivid Creek"/>
+        <card number="1" name="Vivid Crag"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Gates of Istfell"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Ilysian Caryatid"/>
+        <card number="1" name="Urban Evolution"/>
+        <card number="1" name="Kaya's Wrath"/>
+    </zone>
+</cockatrice_deck>

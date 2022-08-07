@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Yurlok Dragon</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Yurlok of Scorch Thrash"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="7" name="Forest"/>
+        <card number="5" name="Swamp"/>
+        <card number="6" name="Mountain"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Wrathful Red Dragon"/>
+        <card number="1" name="Woodland Chasm"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Savage Ventmaw"/>
+        <card number="1" name="Atarka, World Render"/>
+        <card number="1" name="Lathliss, Dragon Queen"/>
+        <card number="1" name="Sarkhan the Masterless"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Scourge of Valkas"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Bladewing the Risen"/>
+        <card number="1" name="Haunting Voyage"/>
+        <card number="1" name="Skyline Despot"/>
+        <card number="1" name="Dragonborn Champion"/>
+        <card number="1" name="Kolaghan, the Storm's Fury"/>
+        <card number="1" name="Vaevictis Asmadi, the Dire"/>
+        <card number="1" name="Hoard-Smelter Dragon"/>
+        <card number="1" name="Harbinger of the Hunt"/>
+        <card number="1" name="Thrakkus the Butcher"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Skanos Dragonheart"/>
+        <card number="1" name="Topaz Dragon // Entropic Cloud"/>
+        <card number="1" name="Deathbringer Regent"/>
+        <card number="1" name="Status // Statue"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Mortality Spear"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Windgrace's Judgment"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Terror of Mount Velus"/>
+        <card number="1" name="Dragon's Hoard"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Flameblast Dragon"/>
+        <card number="1" name="Basilisk Collar"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Dragon Mage"/>
+        <card number="1" name="Emerald Dragon // Dissonant Wave"/>
+        <card number="1" name="Blood Pact"/>
+        <card number="1" name="Ancient Bronze Dragon"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Dragon's Hoard"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Verdant Mastery"/>
+        <card number="1" name="Ryusei, the Falling Star"/>
+        <card number="1" name="Earthquake Dragon"/>
+        <card number="1" name="Brainstealer Dragon"/>
+        <card number="1" name="Green Dragon"/>
+    </zone>
+</cockatrice_deck>

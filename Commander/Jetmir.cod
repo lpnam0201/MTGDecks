@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Jetmir, Nexus of Revels"/>
+        <card number="1" name="Rabble Rousing"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Wolverine Riders"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Elvish Rejuvenator"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Thraben Doomsayer"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Cabaretti Ascendancy"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Verge Rangers"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Knight of Autumn"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="4" name="Mountain"/>
+        <card number="5" name="Forest"/>
+        <card number="5" name="Plains"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Ohran Viper"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Llanowar Visionary"/>
+        <card number="1" name="Vizier of the Menagerie"/>
+        <card number="1" name="Master of Ceremonies"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Thrashing Brontodon"/>
+        <card number="1" name="Cathar Commando"/>
+        <card number="1" name="Bounty Agent"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Lena, Selfless Champion"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Legion Warboss"/>
+        <card number="1" name="Awakening Zone"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Kinjalli's Sunwing"/>
+        <card number="1" name="Rumor Gatherer"/>
+        <card number="1" name="Hammers of Moradin"/>
+        <card number="1" name="Genasi Enforcers"/>
+        <card number="1" name="Elturel Survivors"/>
+        <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Odric, Master Tactician"/>
+        <card number="1" name="Frontline Medic"/>
+        <card number="1" name="Adeline, Resplendent Cathar"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Yasharn, Implacable Earth"/>
+        <card number="1" name="Radha, Heart of Keld"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Aerial Extortionist"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Rude Awakening"/>
+        <card number="1" name="Crash the Party"/>
+        <card number="1" name="March of the Multitudes"/>
+        <card number="1" name="Aura Mutation"/>
+        <card number="1" name="Artifact Mutation"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="2" name="Gluntch, the Bestower"/>
+        <card number="1" name="Cut a Deal"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Geist-Honored Monk"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Ilysian Caryatid"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="2" name="Scavenging Ooze"/>
+        <card number="1" name="Lena, Selfless Champion"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Battle for Bretagard"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Make a Stand"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Kamahl's Will"/>
+        <card number="1" name="Sylvan Awakening"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Manor Gate"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Cliffgate"/>
+        <card number="1" name="Citadel Gate"/>
+        <card number="1" name="Sunbaked Canyon"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Increasing Devotion"/>
+        <card number="1" name="Guardian Augmenter"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="Vizier of the Menagerie"/>
+        <card number="1" name="Runic Armasaur"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Rumor Gatherer"/>
+        <card number="1" name="Tabaxi Toucaneers"/>
+        <card number="1" name="Warchief Giant"/>
+        <card number="1" name="Tiamat's Fanatics"/>
+        <card number="1" name="Herald of the Host"/>
+        <card number="1" name="Gerrard, Weatherlight Hero"/>
+    </zone>
+</cockatrice_deck>

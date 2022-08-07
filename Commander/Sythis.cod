@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Sythis</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sythis, Harvest's Hand"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Spider Umbra"/>
+        <card number="1" name="Hyena Umbra"/>
+        <card number="1" name="Boar Umbra"/>
+        <card number="1" name="Treefolk Umbra"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="1" name="Spirit Mantle"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Sage's Reverie"/>
+        <card number="1" name="Alpha Authority"/>
+        <card number="1" name="Canopy Cover"/>
+        <card number="1" name="Benevolent Blessing"/>
+        <card number="1" name="On Serra's Wings"/>
+        <card number="1" name="Reprobation"/>
+        <card number="1" name="Sentinel's Eyes"/>
+        <card number="1" name="Minimus Containment"/>
+        <card number="1" name="Holy Mantle"/>
+        <card number="1" name="Pentarch Ward"/>
+        <card number="1" name="Faith Unbroken"/>
+        <card number="1" name="Indomitable Might"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Seal of Cleansing"/>
+        <card number="1" name="Seal of Primordium"/>
+        <card number="1" name="Light-Paws, Emperor's Voice"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Karametra's Blessing"/>
+        <card number="1" name="Blacksmith's Skill"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Banishing Light"/>
+        <card number="1" name="Soul Snare"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="12" name="Forest"/>
+        <card number="12" name="Plains"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Brave the Elements"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Road of Return"/>
+        <card number="1" name="Raised by Giants"/>
+        <card number="1" name="Shield of the Oversoul"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Armadillo Cloak"/>
+        <card number="1" name="Unflinching Courage"/>
+        <card number="1" name="Eidolon of Countless Battles"/>
+        <card number="1" name="Sanctum Weaver"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Shigeki, Jukai Visionary"/>
+        <card number="1" name="Jukai Naturalist"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Mantle of the Ancients"/>
+        <card number="1" name="Ancestral Mask"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Winds of Rath"/>
+        <card number="1" name="Bear Umbra"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Epic Proportions"/>
+        <card number="1" name="Solitary Confinement"/>
+        <card number="1" name="Shielded by Faith"/>
+        <card number="1" name="Brilliant Restoration"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Siona, Captain of the Pyleas"/>
+        <card number="1" name="Wolfwillow Haven"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="3" name="Nylea's Colossus"/>
+        <card number="1" name="Colossification"/>
+        <card number="2" name="Gods Willing"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Selesnya Guildgate"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Hydra's Growth"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Heliod's Pilgrim"/>
+        <card number="1" name="Moon-Blessed Cleric"/>
+        <card number="1" name="Slash the Ranks"/>
+        <card number="1" name="Tranquil Expanse"/>
+        <card number="1" name="Thornglint Bridge"/>
+        <card number="1" name="Triumphant Reckoning"/>
+        <card number="1" name="Indrik Umbra"/>
+        <card number="1" name="Mammoth Umbra"/>
+        <card number="1" name="Indestructibility"/>
+        <card number="1" name="Sigarda's Aid"/>
+        <card number="1" name="Divine Reckoning"/>
+        <card number="1" name="Single Combat"/>
+        <card number="2" name="Courser of Kruphix"/>
+        <card number="1" name="Asceticism"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Enchantress's Presence"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="2" name="Flaming Fist"/>
+        <card number="1" name="Botanical Plaza"/>
+        <card number="1" name="Light of Promise"/>
+        <card number="1" name="Battle Mastery"/>
+        <card number="1" name="Ancestral Mask"/>
+        <card number="1" name="Mantle of the Ancients"/>
+        <card number="1" name="Shigeki, Jukai Visionary"/>
+        <card number="1" name="Weaver of Harmony"/>
+        <card number="1" name="Archon of Sun's Grace"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Nessian Wanderer"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Tovolar New Wolf</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Tovolar, Dire Overlord"/>
+        <card number="1" name="Kessig Naturalist"/>
+        <card number="1" name="Outland Liberator"/>
+        <card number="1" name="Tovolar's Huntmaster"/>
+        <card number="1" name="Howlpack Piper"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Hound Tamer"/>
+        <card number="1" name="Nightpack Ambusher"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Village Watch"/>
+        <card number="1" name="Reckless Stormseeker"/>
+        <card number="1" name="Ill-Tempered Loner"/>
+        <card number="1" name="Child of the Pack"/>
+        <card number="1" name="Weaver of Blossoms"/>
+        <card number="1" name="Hollowhenge Overlord"/>
+        <card number="1" name="Wolfkin Outcast"/>
+        <card number="1" name="Burly Breaker"/>
+        <card number="1" name="Fangblade Brigand"/>
+        <card number="1" name="Anara, Wolvid Familiar"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Khalni Ambush"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Rage Reflection"/>
+        <card number="1" name="Berserkers' Onslaught"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="12" name="Mountain"/>
+        <card number="12" name="Forest"/>
+        <card number="1" name="Tireless Hauler"/>
+        <card number="1" name="Fearful Villager"/>
+        <card number="1" name="Harvesttide Infiltrator"/>
+        <card number="1" name="Packsong Pup"/>
+        <card number="1" name="Blood Mist"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="The Celestus"/>
+        <card number="1" name="Wrap in Vigor"/>
+        <card number="1" name="Road of Return"/>
+        <card number="1" name="Unnatural Moonrise"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Into the Night"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Withstand Death"/>
+        <card number="1" name="Vivien, Champion of the Wilds"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Primal Adversary"/>
+        <card number="1" name="Cemetery Prowler"/>
+        <card number="1" name="Werewolf Pack Leader"/>
+        <card number="1" name="Howling Moon"/>
+        <card number="1" name="Avabruck Caretaker"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Dire-Strain Rampage"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="3" name="Daybreak Ranger"/>
+        <card number="1" name="Wildblood Pack"/>
+        <card number="1" name="Ulrich, Uncontested Alpha"/>
+        <card number="3" name="Avabruck Caretaker"/>
+        <card number="3" name="Breakneck Rider"/>
+        <card number="1" name="Cemetery Prowler"/>
+        <card number="1" name="Duskwatch Recruiter"/>
+        <card number="1" name="Geier Reach Bandit"/>
+        <card number="3" name="Hermit of the Natterknolls"/>
+        <card number="1" name="Immerwolf"/>
+        <card number="3" name="Instigator Gang"/>
+        <card number="1" name="Kruin Outlaw"/>
+        <card number="1" name="Mayor of Avabruck"/>
+        <card number="1" name="Huntmaster of the Fells"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="3" name="Sage of Ancient Lore"/>
+        <card number="2" name="Scorned Villager"/>
+        <card number="1" name="Silverfur Partisan"/>
+        <card number="1" name="Ulrich of the Krallenhorde"/>
+        <card number="2" name="Volatile Arsonist"/>
+        <card number="1" name="Werewolf Pack Leader"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Ranger Class"/>
+        <card number="1" name="Howlpack Resurgence"/>
+        <card number="1" name="Full Moon's Rise"/>
+        <card number="3" name="Gruul Signet"/>
+        <card number="2" name="Rampant Growth"/>
+        <card number="2" name="Farseek"/>
+        <card number="1" name="Afflicted Deserter"/>
+        <card number="2" name="Into the Night"/>
+        <card number="1" name="Unnatural Moonrise"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Lambholt Elder"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Snarling Wolf"/>
+        <card number="1" name="Blossoming Defense"/>
+        <card number="1" name="The Celestus"/>
+        <card number="1" name="Howling Moon"/>
+        <card number="1" name="Weary Prisoner"/>
+        <card number="2" name="Tavern Ruffian"/>
+        <card number="1" name="Lambholt Raconteur"/>
+        <card number="1" name="Vivien, Champion of the Wilds"/>
+        <card number="2" name="Bird Admirer"/>
+        <card number="1" name="Wrap in Vigor"/>
+        <card number="2" name="Kessig Wolf Run"/>
+        <card number="2" name="Mind Stone"/>
+        <card number="2" name="Prismatic Lens"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Copperline Gorge"/>
+        <card number="2" name="Fire-Lit Thicket"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="2" name="Rockfall Vale"/>
+        <card number="2" name="Rootbound Crag"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="2" name="Stomping Ground"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="2" name="Thriving Grove"/>
+        <card number="2" name="Thriving Bluff"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="2" name="Infestation Expert"/>
+        <card number="2" name="Hookhand Mariner"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Village Watch"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Pestilent Wolf"/>
+        <card number="1" name="Gruul Guildgate"/>
+        <card number="1" name="Timber Gorge"/>
+        <card number="1" name="Kazandu Refuge"/>
+        <card number="1" name="Rugged Highlands"/>
+        <card number="2" name="Racers' Ring"/>
+        <card number="2" name="Highland Forest"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Soul's Majesty"/>
+        <card number="1" name="Fang of the Pack"/>
+        <card number="1" name="Family's Favor"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Hunter's Prowess"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Inscription of Abundance"/>
+        <card number="1" name="Ascendant Packleader"/>
+        <card number="1" name="Oakshade Stalker"/>
+        <card number="1" name="Ballista Watcher"/>
+        <card number="1" name="Nullhide Ferox"/>
+        <card number="1" name="Siege Behemoth"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Spirit of the Hunt"/>
+    </zone>
+</cockatrice_deck>

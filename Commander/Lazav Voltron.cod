@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Lazav Voltron</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Agent of the Shadow Thieves"/>
+        <card number="1" name="Lazav, Dimir Mastermind"/>
+        <card number="1" name="Sword Coast Sailor"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Szat's Will"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Trepanation Blade"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Charcoal Diamond"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Nighthowler"/>
+        <card number="1" name="Sea-Dasher Octopus"/>
+        <card number="1" name="Mindleecher"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Whispering Madness"/>
+        <card number="1" name="Hammer of Nazahn"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Hero's Blade"/>
+        <card number="1" name="Confounding Conundrum"/>
+        <card number="1" name="Imperious Mindbreaker"/>
+        <card number="1" name="Slip Out the Back"/>
+        <card number="1" name="Vorpal Sword"/>
+        <card number="1" name="Falthis, Shadowcat Familiar"/>
+        <card number="1" name="Professor's Warning"/>
+        <card number="1" name="Consuming Aberration"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Discovery // Dispersal"/>
+        <card number="1" name="The Long Reach of Night"/>
+        <card number="1" name="Court of Ambition"/>
+        <card number="1" name="Court of Cunning"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Wizard Class"/>
+        <card number="1" name="Phyrexian Scriptures"/>
+        <card number="1" name="Eel Umbra"/>
+        <card number="1" name="Octopus Umbra"/>
+        <card number="1" name="Demonic Embrace"/>
+        <card number="1" name="Ruin Crab"/>
+        <card number="1" name="Fractured Sanity"/>
+        <card number="1" name="Bond of Insight"/>
+        <card number="1" name="Consuming Tide"/>
+        <card number="1" name="Memory Deluge"/>
+        <card number="1" name="Drawn from Dreams"/>
+        <card number="1" name="Rags // Riches"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="River's Rebuke"/>
+        <card number="1" name="Necromantic Selection"/>
+        <card number="1" name="Make an Example"/>
+        <card number="1" name="Elminster's Simulacrum"/>
+        <card number="1" name="Quietus Spike"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Dirge Bat"/>
+        <card number="1" name="Cavern Whisperer"/>
+        <card number="1" name="Flitterstep Eidolon"/>
+        <card number="1" name="Herald of Torment"/>
+        <card number="1" name="Disinformation Campaign"/>
+        <card number="1" name="Intellect Devourer"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Quietus Spike"/>
+    </zone>
+</cockatrice_deck>

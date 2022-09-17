@@ -28,32 +28,22 @@
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Windfall"/>
-        <card number="1" name="Rite of Replication"/>
         <card number="1" name="Serum Visions"/>
         <card number="1" name="Winged Words"/>
         <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Scavenger Grounds"/>
-        <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Frostboil Snarl"/>
         <card number="1" name="Temple of Epiphany"/>
         <card number="1" name="Sulfur Falls"/>
         <card number="1" name="Shivan Reef"/>
-        <card number="12" name="Island"/>
-        <card number="12" name="Mountain"/>
+        <card number="11" name="Island"/>
+        <card number="11" name="Mountain"/>
         <card number="1" name="Vizier of Tumbling Sands"/>
-        <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Melek, Izzet Paragon"/>
-        <card number="1" name="Stolen Identity"/>
         <card number="1" name="Behold the Multiverse"/>
         <card number="1" name="Sea Gate Oracle"/>
         <card number="1" name="Augur of Bolas"/>
-        <card number="1" name="Vodalian Arcanist"/>
-        <card number="1" name="Thirst for Discovery"/>
-        <card number="1" name="Scholar of the Ages"/>
         <card number="1" name="Izzet Boilerworks"/>
-        <card number="1" name="Prismari Campus"/>
-        <card number="1" name="Highland Lake"/>
         <card number="1" name="Mystic Retrieval"/>
         <card number="1" name="Mizzium Mortars"/>
         <card number="1" name="Riverwise Augur"/>
@@ -62,29 +52,41 @@
         <card number="1" name="Mass Manipulation"/>
         <card number="1" name="Lotus Field"/>
         <card number="1" name="Dig Through Time"/>
-        <card number="1" name="Replication Technique"/>
         <card number="1" name="Fatestitcher"/>
-        <card number="1" name="Arcane Artisan"/>
         <card number="1" name="Mystic Confluence"/>
         <card number="1" name="Drawn from Dreams"/>
         <card number="1" name="Silundi Vision"/>
         <card number="1" name="Prophetic Bolt"/>
-        <card number="1" name="Ral's Outburst"/>
-        <card number="1" name="Creative Outburst"/>
-        <card number="1" name="Supreme Will"/>
-        <card number="1" name="Shipwreck Dowser"/>
-        <card number="1" name="Pondering Mage"/>
         <card number="1" name="Nivix Guildmage"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Step Through"/>
-        <card number="1" name="Sublime Epiphany"/>
-        <card number="1" name="Retreat to Coralhelm"/>
         <card number="1" name="Memory Deluge"/>
         <card number="1" name="Nimbleclaw Adept"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Najal, the Storm Runner"/>
+        <card number="1" name="Naru Meha, Master Wizard"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Invert // Invent"/>
+        <card number="1" name="Reiterate"/>
+        <card number="1" name="Reverberate"/>
+        <card number="1" name="Increasing Vengeance"/>
+        <card number="1" name="Past in Flames"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Commander's Insight"/>
+        <card number="1" name="Expansion // Explosion"/>
+        <card number="1" name="Wizards of Thay"/>
+        <card number="1" name="Apex of Power"/>
+        <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Reliquary Tower"/>
     </zone>
     <zone name="side">
         <card number="1" name="Ponder"/>
-        <card number="1" name="Prismari Campus"/>
+        <card number="2" name="Prismari Campus"/>
         <card number="1" name="Izzet Boilerworks"/>
         <card number="1" name="Ardent Elementalist"/>
         <card number="1" name="Goblin Electromancer"/>
@@ -105,17 +107,17 @@
         <card number="1" name="Venser, Shaper Savant"/>
         <card number="1" name="Fatestitcher"/>
         <card number="1" name="Spellseeker"/>
-        <card number="1" name="Scholar of the Ages"/>
+        <card number="2" name="Scholar of the Ages"/>
         <card number="1" name="Revolutionist"/>
         <card number="1" name="Krark, the Thumbless"/>
         <card number="1" name="Salvager of Secrets"/>
         <card number="1" name="Blue Sun's Zenith"/>
         <card number="1" name="Stroke of Genius"/>
         <card number="1" name="Mystic Confluence"/>
-        <card number="3" name="Sublime Epiphany"/>
+        <card number="4" name="Sublime Epiphany"/>
         <card number="2" name="Mind Spring"/>
         <card number="2" name="Dig Through Time"/>
-        <card number="2" name="Shipwreck Dowser"/>
+        <card number="3" name="Shipwreck Dowser"/>
         <card number="1" name="Omnispell Adept"/>
         <card number="1" name="Izzet Chronarch"/>
         <card number="1" name="Cyclone Summoner"/>
@@ -143,7 +145,7 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Increasing Vengeance"/>
         <card number="1" name="Howl of the Horde"/>
-        <card number="1" name="Nivix Guildmage"/>
+        <card number="2" name="Nivix Guildmage"/>
         <card number="1" name="Impulse"/>
         <card number="1" name="Kelpie Guide"/>
         <card number="2" name="Harmonic Prodigy"/>
@@ -151,7 +153,7 @@
         <card number="1" name="Goblin Wizardry"/>
         <card number="1" name="Diviner's Portent"/>
         <card number="1" name="Gadwick, the Wizened"/>
-        <card number="1" name="Retreat to Coralhelm"/>
+        <card number="2" name="Retreat to Coralhelm"/>
         <card number="2" name="Memory Deluge"/>
         <card number="1" name="Hidden Strings"/>
         <card number="1" name="Ingenious Mastery"/>
@@ -167,5 +169,22 @@
         <card number="1" name="Wandering Fumarole"/>
         <card number="1" name="Maelstrom Muse"/>
         <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="1" name="Arcane Artisan"/>
+        <card number="1" name="Pondering Mage"/>
+        <card number="1" name="Creative Outburst"/>
+        <card number="1" name="Ral's Outburst"/>
+        <card number="1" name="Thirst for Discovery"/>
+        <card number="3" name="Island"/>
+        <card number="1" name="Highland Lake"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Crackle with Power"/>
+        <card number="1" name="Vodalian Arcanist"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Replication Technique"/>
+        <card number="1" name="Supreme Will"/>
     </zone>
 </cockatrice_deck>

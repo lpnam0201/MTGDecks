@@ -3,13 +3,10 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Abomination of Llanowar"/>
         <card number="1" name="Lathril, Blade of the Elves"/>
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Llanowar Elves"/>
-        <card number="1" name="Miara, Thorn of the Glade"/>
         <card number="1" name="Elvish Archdruid"/>
-        <card number="1" name="Harald Unites the Elves"/>
         <card number="1" name="Imperious Perfect"/>
         <card number="1" name="Marwyn, the Nurturer"/>
         <card number="1" name="Reclamation Sage"/>
@@ -35,8 +32,8 @@
         <card number="1" name="Moldervine Reclamation"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Command Tower"/>
-        <card number="11" name="Forest"/>
-        <card number="11" name="Swamp"/>
+        <card number="10" name="Forest"/>
+        <card number="10" name="Swamp"/>
         <card number="1" name="Llanowar Wastes"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Poison-Tip Archer"/>
@@ -68,7 +65,6 @@
         <card number="1" name="Immaculate Magistrate"/>
         <card number="1" name="Golgari Rot Farm"/>
         <card number="1" name="Cultivator of Blades"/>
-        <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Scale Up"/>
         <card number="1" name="Realmwalker"/>
@@ -78,14 +74,20 @@
         <card number="1" name="Access Tunnel"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Kindred Summons"/>
         <card number="1" name="Read the Bones"/>
         <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Shaman of the Pack"/>
         <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Leaf-Crowned Visionary"/>
+        <card number="1" name="Windgrace's Judgment"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Halsin, Emerald Archdruid"/>
+        <card number="1" name="Jaheira, Friend of the Forest"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Bojuka Bog"/>
+        <card number="2" name="Bojuka Bog"/>
         <card number="1" name="Timberwatch Elf"/>
         <card number="2" name="Yeva, Nature's Herald"/>
         <card number="1" name="Guardian Project"/>
@@ -102,7 +104,6 @@
         <card number="1" name="Crown of Skemfar"/>
         <card number="2" name="Poison the Cup"/>
         <card number="1" name="Priest of Forgotten Gods"/>
-        <card number="1" name="Lifecrafter's Bestiary"/>
         <card number="1" name="End-Raze Forerunners"/>
         <card number="1" name="Deathreap Ritual"/>
         <card number="1" name="Harmonize"/>
@@ -135,6 +136,14 @@
         <card number="1" name="Ambition's Cost"/>
         <card number="1" name="Great Oak Guardian"/>
         <card number="1" name="Windgrace's Judgment"/>
-        <card number="1" name="Jaheira, Friend of the Forest"/>
+        <card number="2" name="Jaheira, Friend of the Forest"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Harald Unites the Elves"/>
+        <card number="1" name="Shaman of the Pack"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Halsin, Emerald Archdruid"/>
+        <card number="1" name="Abomination of Llanowar"/>
+        <card number="1" name="Miara, Thorn of the Glade"/>
     </zone>
 </cockatrice_deck>

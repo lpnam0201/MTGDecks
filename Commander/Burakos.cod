@@ -8,37 +8,131 @@
         <card number="1" name="Nalia de'Arnise"/>
         <card number="1" name="Harper Recruiter"/>
         <card number="1" name="Grim Hireling"/>
-        <card number="1" name="Squad Commander"/>
-        <card number="1" name="Mirror Entity"/>
-        <card number="1" name="Seasoned Dungeoneer"/>
-        <card number="1" name="Mindblade Render"/>
-        <card number="1" name="Selfless Spirit"/>
         <card number="1" name="Mother of Runes"/>
-        <card number="1" name="Archpriest of Iona"/>
-        <card number="1" name="Solemn Doomguide"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Grim Haruspex"/>
-        <card number="1" name="Rumor Gatherer"/>
         <card number="1" name="Frontline Medic"/>
-        <card number="1" name="Bloodsoaked Champion"/>
         <card number="1" name="Nighthawk Scavenger"/>
-        <card number="1" name="Irregular Cohort"/>
-        <card number="1" name="Eight-and-a-Half-Tails"/>
-        <card number="1" name="Gonti, Lord of Luxury"/>
         <card number="1" name="Glorious Protector"/>
-        <card number="1" name="Bygone Bishop"/>
-        <card number="1" name="Morbid Opportunist"/>
         <card number="1" name="High Priest of Penance"/>
-        <card number="1" name="Tenacious Underdog"/>
-        <card number="1" name="Shakedown Heavy"/>
         <card number="1" name="Sigrid, God-Favored"/>
         <card number="1" name="Selfless Glyphweaver"/>
-        <card number="1" name="Drana, the Last Bloodchief"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Banisher Priest"/>
+        <card number="1" name="Dire Fleet Ravager"/>
+        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="10" name="Plains"/>
+        <card number="10" name="Swamp"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Debt to the Deathless"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Coveted Prize"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Nadier's Nightblade"/>
+        <card number="1" name="Vizkopa Guildmage"/>
+        <card number="1" name="Leonin Relic-Warder"/>
+        <card number="1" name="Orzhov Enforcer"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Ayli, Eternal Pilgrim"/>
+        <card number="1" name="Demon's Disciple"/>
+        <card number="1" name="Merciless Executioner"/>
+        <card number="1" name="Venomous Changeling"/>
+        <card number="1" name="Hammers of Moradin"/>
+        <card number="1" name="Mage's Attendant"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="1" name="Isareth the Awakener"/>
+        <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
+        <card number="1" name="Bishop of Binding"/>
+        <card number="1" name="Marionette Master"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Mangara of Corondor"/>
+        <card number="1" name="Sivriss, Nightmare Speaker"/>
+        <card number="1" name="Blot Out the Sky"/>
+        <card number="1" name="Dawnbringer Cleric"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Nighthawk"/>
         <card number="1" name="Morbid Plunder"/>
+        <card number="2" name="Solemn Doomguide"/>
+        <card number="2" name="Bygone Bishop"/>
+        <card number="1" name="Stick Together"/>
+        <card number="1" name="Thwart the Grave"/>
+        <card number="1" name="Selfless Glyphweaver"/>
+        <card number="1" name="Access Tunnel"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Agent of the Shadow Thieves"/>
+        <card number="1" name="Vindicate"/>
+        <card number="1" name="Irregular Cohort"/>
+        <card number="1" name="Magus of the Balance"/>
+        <card number="1" name="Order of Whiteclay"/>
+        <card number="1" name="Pontiff of Blight"/>
+        <card number="1" name="Tenacious Underdog"/>
+        <card number="1" name="Galepowder Mage"/>
+        <card number="1" name="Bloodsoaked Champion"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="2" name="Luminarch Aspirant"/>
+        <card number="1" name="Rumor Gatherer"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Elderfang Disciple"/>
+        <card number="1" name="Seasoned Dungeoneer"/>
+        <card number="1" name="Archpriest of Iona"/>
+        <card number="1" name="Glint-Sleeve Siphoner"/>
+        <card number="1" name="Drana, the Last Bloodchief"/>
+        <card number="1" name="Eight-and-a-Half-Tails"/>
+        <card number="1" name="Malakir Blood-Priest"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Grim Haruspex"/>
+        <card number="1" name="Squad Commander"/>
+        <card number="1" name="Shakedown Heavy"/>
+        <card number="1" name="Nullpriest of Oblivion"/>
+        <card number="1" name="Multiclass Baldric"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Solemn Recruit"/>
+        <card number="1" name="Dreamstealer"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="2" name="Austere Command"/>
+        <card number="1" name="Devour Intellect"/>
+        <card number="1" name="Duress"/>
+        <card number="1" name="Dawnbringer Cleric"/>
+        <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Expedition Skulker"/>
+        <card number="1" name="Mindblade Render"/>
+        <card number="1" name="Deadeye Harpooner"/>
     </zone>
 </cockatrice_deck>

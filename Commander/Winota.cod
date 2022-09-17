@@ -5,7 +5,6 @@
     <zone name="main">
         <card number="1" name="Winota, Joiner of Forces"/>
         <card number="1" name="Blade Historian"/>
-        <card number="1" name="Alpine Meadow"/>
         <card number="1" name="Lena, Selfless Champion"/>
         <card number="1" name="Geist-Honored Monk"/>
         <card number="1" name="Blade Splicer"/>
@@ -40,8 +39,8 @@
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Command Beacon"/>
-        <card number="12" name="Plains"/>
-        <card number="12" name="Mountain"/>
+        <card number="11" name="Plains"/>
+        <card number="11" name="Mountain"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Goblin Instigator"/>
@@ -81,6 +80,9 @@
         <card number="1" name="Bolt Bend"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Prismatic Vista"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lightning Greaves"/>
@@ -103,8 +105,8 @@
         <card number="1" name="Emerge Unscathed"/>
         <card number="1" name="Rograkh, Son of Rohgahh"/>
         <card number="1" name="Citywide Bust"/>
-        <card number="1" name="Mountain"/>
-        <card number="4" name="Plains"/>
+        <card number="2" name="Mountain"/>
+        <card number="5" name="Plains"/>
         <card number="1" name="Make a Stand"/>
         <card number="1" name="Ornithopter"/>
         <card number="1" name="Skullclamp"/>
@@ -151,5 +153,6 @@
         <card number="1" name="Ghitu Encampment"/>
         <card number="1" name="Needle Spires"/>
         <card number="1" name="Impulsive Pilferer"/>
+        <card number="1" name="Alpine Meadow"/>
     </zone>
 </cockatrice_deck>

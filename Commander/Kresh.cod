@@ -4,27 +4,16 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Kresh the Bloodbraided"/>
-        <card number="1" name="Vaevictis Asmadi, the Dire"/>
-        <card number="1" name="Greater Good"/>
-        <card number="1" name="Momentous Fall"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Rancor"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Feldon of the Third Path"/>
-        <card number="1" name="Acidic Slime"/>
-        <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Plaguecrafter"/>
         <card number="1" name="Fleshbag Marauder"/>
         <card number="1" name="Merciless Executioner"/>
         <card number="1" name="Demon's Disciple"/>
-        <card number="1" name="Wood Elves"/>
-        <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Managorger Hydra"/>
-        <card number="1" name="Greven, Predator Captain"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Cultivate"/>
@@ -37,60 +26,73 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Kessig Wolf Run"/>
-        <card number="1" name="Skarrg, the Rage Pits"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Spinerock Knoll"/>
-        <card number="1" name="Mosswort Bridge"/>
-        <card number="1" name="Castle Garenbrig"/>
         <card number="1" name="Golgari Signet"/>
         <card number="1" name="Rakdos Signet"/>
         <card number="1" name="Gruul Signet"/>
         <card number="1" name="Talisman of Resilience"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Savage Lands"/>
-        <card number="1" name="Temple of Malady"/>
-        <card number="1" name="Temple of Abandon"/>
-        <card number="1" name="Temple of Malice"/>
-        <card number="1" name="Thriving Moor"/>
-        <card number="1" name="Thriving Grove"/>
-        <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Llanowar Wastes"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="7" name="Forest"/>
+        <card number="5" name="Forest"/>
         <card number="5" name="Mountain"/>
         <card number="6" name="Swamp"/>
-        <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Terminate"/>
-        <card number="1" name="Nature's Claim"/>
         <card number="1" name="Thrashing Brontodon"/>
         <card number="1" name="Kazuul's Fury"/>
         <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Thought Vessel"/>
         <card number="1" name="Shriekmaw"/>
         <card number="1" name="Painful Truths"/>
         <card number="1" name="The Eldest Reborn"/>
         <card number="1" name="Soul Shatter"/>
-        <card number="1" name="Outland Liberator"/>
-        <card number="1" name="Ghalta, Primal Hunger"/>
-        <card number="1" name="Soul's Majesty"/>
         <card number="1" name="Foundation Breaker"/>
-        <card number="1" name="Sengir, the Dark Baron"/>
-        <card number="1" name="Disciple of Bolas"/>
-        <card number="1" name="Fell Stinger"/>
-        <card number="1" name="Oakhame Adversary"/>
-        <card number="1" name="Ohran Viper"/>
-        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
-        <card number="1" name="Doomed Necromancer"/>
-        <card number="1" name="Elvish Rejuvenator"/>
         <card number="1" name="Deathsprout"/>
         <card number="1" name="Binding the Old Gods"/>
-        <card number="1" name="Golgari Charm"/>
         <card number="1" name="Read the Bones"/>
-        <card number="1" name="Timeless Witness"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Fling"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Ancient Craving"/>
+        <card number="1" name="Ambition's Cost"/>
+        <card number="1" name="Hex"/>
+        <card number="1" name="Windgrace's Judgment"/>
+        <card number="1" name="Riveteers Charm"/>
+        <card number="1" name="Casualties of War"/>
+        <card number="1" name="Road of Return"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Szat's Will"/>
+        <card number="1" name="Make an Example"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Soul's Fire"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Deathreap Ritual"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Mortality Spear"/>
+        <card number="1" name="Reckless Endeavor"/>
+        <card number="1" name="Chain Reaction"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Greven, Predator Captain"/>
+        <card number="2" name="Greven, Predator Captain"/>
         <card number="1" name="Life's Legacy"/>
         <card number="1" name="Ball Lightning"/>
         <card number="1" name="Chainer, Nightmare Adept"/>
@@ -108,7 +110,53 @@
         <card number="1" name="Soul's Fire"/>
         <card number="1" name="Temur Battle Rage"/>
         <card number="1" name="Victimize"/>
-        <card number="1" name="Eternal Witness"/>
+        <card number="2" name="Eternal Witness"/>
         <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Doomed Necromancer"/>
+        <card number="1" name="Disciple of Bolas"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Feldon of the Third Path"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Fell Stinger"/>
+        <card number="1" name="Ghalta, Primal Hunger"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Outland Liberator"/>
+        <card number="1" name="Sengir, the Dark Baron"/>
+        <card number="1" name="Timeless Witness"/>
+        <card number="1" name="Vaevictis Asmadi, the Dire"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Momentous Fall"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Skarrg, the Rage Pits"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="2" name="Soul's Majesty"/>
+        <card number="1" name="Liliana's Triumph"/>
+        <card number="1" name="Mire in Misery"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Elvish Rejuvenator"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Kazuul's Fury"/>
+        <card number="1" name="Blood Pact"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Ohran Viper"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Mirror Shield"/>
+        <card number="1" name="Hunter's Prowess"/>
     </zone>
 </cockatrice_deck>

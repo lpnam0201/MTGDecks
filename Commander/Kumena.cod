@@ -8,7 +8,6 @@
         <card number="1" name="Counterspell"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Murkfiend Liege"/>
-        <card number="1" name="Deeproot Waters"/>
         <card number="1" name="Svyelun of Sea and Sky"/>
         <card number="1" name="Merfolk Sovereign"/>
         <card number="1" name="Merfolk Mistbinder"/>
@@ -19,7 +18,6 @@
         <card number="1" name="Cold-Eyed Selkie"/>
         <card number="1" name="Kiora's Follower"/>
         <card number="1" name="Thieving Skydiver"/>
-        <card number="1" name="Reflections of Littjara"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Silvergill Adept"/>
         <card number="1" name="Merfolk Trickster"/>
@@ -36,25 +34,16 @@
         <card number="1" name="Pongify"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Aetherize"/>
-        <card number="1" name="Aetherspouts"/>
         <card number="1" name="Shamanic Revelation"/>
-        <card number="1" name="Rite of Replication"/>
-        <card number="1" name="Curse of the Swine"/>
-        <card number="1" name="Aquatic Incursion"/>
         <card number="1" name="Merfolk Skydiver"/>
         <card number="1" name="Fallowsage"/>
         <card number="1" name="Talisman of Curiosity"/>
         <card number="1" name="Merfolk Looter"/>
-        <card number="1" name="Krosan Grip"/>
-        <card number="1" name="Quandrix Campus"/>
         <card number="1" name="Temple of Mystery"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Rogue's Passage"/>
         <card number="10" name="Island"/>
         <card number="10" name="Forest"/>
-        <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Triton Shorestalker"/>
         <card number="1" name="Mist-Cloaked Herald"/>
         <card number="1" name="Riverwise Augur"/>
@@ -69,7 +58,6 @@
         <card number="1" name="Vorel of the Hull Clade"/>
         <card number="1" name="Herald of Secret Streams"/>
         <card number="1" name="Simic Growth Chamber"/>
-        <card number="1" name="Rimewood Falls"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Simic Signet"/>
         <card number="1" name="Sol Ring"/>
@@ -83,8 +71,20 @@
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Rejuvenating Springs"/>
         <card number="1" name="Flooded Grove"/>
-        <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Quest for Renewal"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Vodalian Hexcatcher"/>
     </zone>
     <zone name="side">
         <card number="1" name="Tatyova, Benthic Druid"/>
@@ -133,5 +133,20 @@
         <card number="1" name="Tanglepool Bridge"/>
         <card number="1" name="Thornwood Falls"/>
         <card number="1" name="Incubation // Incongruity"/>
+        <card number="1" name="Reflections of Littjara"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Quandrix Campus"/>
+        <card number="1" name="Rimewood Falls"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Aquatic Incursion"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Deeproot Waters"/>
+        <card number="1" name="Magus of the Order"/>
     </zone>
 </cockatrice_deck>

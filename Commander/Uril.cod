@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Uril</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Uril, the Miststalker"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="1" name="Sentinel's Eyes"/>
+        <card number="1" name="Flaming Fist"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Shield of the Oversoul"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="1" name="Armadillo Cloak"/>
+        <card number="1" name="Spirit Mantle"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Ancestral Mask"/>
+        <card number="1" name="Unflinching Courage"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Sage's Reverie"/>
+        <card number="1" name="Bear Umbra"/>
+        <card number="1" name="Soul's Majesty"/>
+        <card number="1" name="Hunter's Prowess"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Mantle of the Ancients"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Battle Mastery"/>
+        <card number="1" name="Mammoth Umbra"/>
+        <card number="1" name="Boar Umbra"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Treefolk Umbra"/>
+        <card number="1" name="Hyena Umbra"/>
+        <card number="1" name="Spider Umbra"/>
+        <card number="1" name="Indestructibility"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Holy Mantle"/>
+        <card number="1" name="Asha's Favor"/>
+        <card number="1" name="Indomitable Might"/>
+        <card number="1" name="Rune of Might"/>
+        <card number="1" name="Road of Return"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Plains"/>
+        <card number="1" name="Pentarch Ward"/>
+        <card number="1" name="Benevolent Blessing"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Bala Ged Thief"/>
+        <card number="1" name="Campfire"/>
+        <card number="1" name="Kediss, Emberclaw Familiar"/>
+        <card number="1" name="Tajuru Preserver"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Serra Paragon"/>
+        <card number="1" name="Runes of the Deus"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Season of Growth"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Sticky Fingers"/>
+        <card number="1" name="Escape Velocity"/>
+    </zone>
+</cockatrice_deck>

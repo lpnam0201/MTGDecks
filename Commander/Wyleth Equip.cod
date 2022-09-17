@@ -8,14 +8,13 @@
         <card number="1" name="Selfless Savior"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Wear // Tear"/>
         <card number="1" name="Response // Resurgence"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Temple of Triumph"/>
-        <card number="12" name="Plains"/>
-        <card number="12" name="Mountain"/>
+        <card number="10" name="Plains"/>
+        <card number="10" name="Mountain"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Disenchant"/>
         <card number="1" name="Swords to Plowshares"/>
@@ -41,19 +40,13 @@
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Cliffside Rescuer"/>
         <card number="1" name="Benevolent Bodyguard"/>
-        <card number="1" name="Kor Blademaster"/>
         <card number="1" name="Forging the Tyrite Sword"/>
         <card number="1" name="Sunforger"/>
         <card number="1" name="Open the Armory"/>
-        <card number="1" name="Relentless Assault"/>
         <card number="1" name="Hero's Blade"/>
-        <card number="1" name="Unquestioned Authority"/>
-        <card number="1" name="Benevolent Blessing"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Colossus Hammer"/>
-        <card number="1" name="Lorehold Campus"/>
-        <card number="1" name="Timely Ward"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Inspiring Statuary"/>
@@ -62,7 +55,6 @@
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Axgard Armory"/>
         <card number="1" name="Blacksmith's Skill"/>
-        <card number="1" name="Valorous Stance"/>
         <card number="1" name="Emerge Unscathed"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Raiyuu, Storm's Edge"/>
@@ -76,11 +68,23 @@
         <card number="1" name="Holy Avenger"/>
         <card number="1" name="Armored Skyhunter"/>
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Fighter Class"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Darksteel Plate"/>
         <card number="1" name="Talisman of Conviction"/>
-        <card number="1" name="Blazing Sunsteel"/>
+        <card number="1" name="The Reaver Cleaver"/>
+        <card number="1" name="Astor, Bearer of Blades"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Bloodforged Battle-Axe"/>
+        <card number="1" name="Greatsword of Tyr"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Fires of Invention"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Mandate of Peace"/>
+        <card number="1" name="Campfire"/>
+        <card number="1" name="Komainu Battle Armor"/>
     </zone>
     <zone name="side">
         <card number="1" name="Blasphemous Act"/>
@@ -114,8 +118,8 @@
         <card number="1" name="Winds of Abandon"/>
         <card number="1" name="Hyena Umbra"/>
         <card number="1" name="Mirror Shield"/>
-        <card number="6" name="Plains"/>
-        <card number="2" name="Mountain"/>
+        <card number="8" name="Plains"/>
+        <card number="4" name="Mountain"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Rage Reflection"/>
         <card number="2" name="Mask of Avacyn"/>
@@ -159,9 +163,9 @@
         <card number="1" name="Sentinel's Eyes"/>
         <card number="1" name="Shielded by Faith"/>
         <card number="2" name="Spirit Mantle"/>
-        <card number="1" name="Timely Ward"/>
-        <card number="1" name="Unquestioned Authority"/>
-        <card number="2" name="Benevolent Blessing"/>
+        <card number="2" name="Timely Ward"/>
+        <card number="2" name="Unquestioned Authority"/>
+        <card number="3" name="Benevolent Blessing"/>
         <card number="1" name="Battle Mastery"/>
         <card number="1" name="Marble Diamond"/>
         <card number="1" name="Fire Diamond"/>
@@ -190,9 +194,9 @@
         <card number="1" name="Archaeomancer's Map"/>
         <card number="1" name="Resolute Watchdog"/>
         <card number="1" name="Mana Geyser"/>
-        <card number="1" name="Blazing Sunsteel"/>
+        <card number="2" name="Blazing Sunsteel"/>
         <card number="1" name="Armored Skyhunter"/>
-        <card number="1" name="Fighter Class"/>
+        <card number="2" name="Fighter Class"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Boros Signet"/>
@@ -211,9 +215,15 @@
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Bloodforged Battle-Axe"/>
         <card number="1" name="Stone Quarry"/>
-        <card number="1" name="Lorehold Campus"/>
+        <card number="2" name="Lorehold Campus"/>
         <card number="1" name="Heirloom Blade"/>
         <card number="1" name="Darksteel Plate"/>
         <card number="1" name="Path to Exile"/>
+        <card number="1" name="Kor Blademaster"/>
+        <card number="1" name="Two-Handed Axe // Sweeping Cleave"/>
+        <card number="1" name="Hero's Heirloom"/>
+        <card number="1" name="Relentless Assault"/>
+        <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Wear // Tear"/>
     </zone>
 </cockatrice_deck>

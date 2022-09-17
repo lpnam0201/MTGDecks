@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Meria</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Radha, Heart of Keld"/>
+        <card number="1" name="Ingenious Artillerist"/>
+        <card number="1" name="Reckless Fireweaver"/>
+        <card number="1" name="Daretti, Scrap Savant"/>
+        <card number="1" name="Audacious Reshapers"/>
+        <card number="1" name="Ichor Wellspring"/>
+        <card number="1" name="Chromatic Sphere"/>
+        <card number="1" name="Scrabbling Claws"/>
+        <card number="1" name="Lantern of the Lost"/>
+        <card number="1" name="Soul-Guide Lantern"/>
+        <card number="1" name="Jack-o'-Lantern"/>
+        <card number="1" name="Implement of Ferocity"/>
+        <card number="1" name="Scroll of Avacyn"/>
+        <card number="1" name="Wedding Invitation"/>
+        <card number="1" name="Prophetic Prism"/>
+        <card number="1" name="Sleeper Dart"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Spare Supplies"/>
+        <card number="1" name="Guild Globe"/>
+        <card number="1" name="Golden Egg"/>
+        <card number="1" name="Tome of Legends"/>
+        <card number="1" name="Alchemist's Vial"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Triplicate Titan"/>
+        <card number="1" name="Scrap Trawler"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Myr Retriever"/>
+        <card number="1" name="Phyrexian Triniform"/>
+        <card number="1" name="Steel Overseer"/>
+        <card number="1" name="Scrap Welder"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Shimmer Myr"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Skyscanner"/>
+        <card number="1" name="Darksteel Juggernaut"/>
+        <card number="1" name="Mycosynth Wellspring"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Stonecoil Serpent"/>
+        <card number="1" name="Verdurous Gearhulk"/>
+        <card number="1" name="Traxos, Scourge of Kroog"/>
+    </zone>
+</cockatrice_deck>

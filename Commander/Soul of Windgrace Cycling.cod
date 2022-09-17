@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Soul of Windgrace Cycling</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Glint-Horn Buccaneer"/>
+        <card number="1" name="Feast of Sanity"/>
+        <card number="1" name="Bag of Holding"/>
+        <card number="1" name="Containment Construct"/>
+        <card number="1" name="Brallin, Skyshark Rider"/>
+        <card number="1" name="Surly Badgersaur"/>
+        <card number="1" name="Bone Miser"/>
+    </zone>
+</cockatrice_deck>

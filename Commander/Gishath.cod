@@ -25,8 +25,6 @@
         <card number="1" name="Majestic Heliopterus"/>
         <card number="1" name="Charging Tuskodon"/>
         <card number="1" name="Charging Monstrosaur"/>
-        <card number="1" name="Boros Charm"/>
-        <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Blasphemous Act"/>
@@ -47,34 +45,25 @@
         <card number="1" name="Jungle Shrine"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Battlefield Forge"/>
-        <card number="4" name="Mountain"/>
-        <card number="5" name="Forest"/>
-        <card number="4" name="Plains"/>
+        <card number="5" name="Mountain"/>
+        <card number="6" name="Forest"/>
+        <card number="5" name="Plains"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Vastwood Surge"/>
         <card number="1" name="Verdant Mastery"/>
         <card number="1" name="Yidaro, Wandering Monster"/>
-        <card number="1" name="Deathgorge Scavenger"/>
         <card number="1" name="Rampaging Brontodon"/>
         <card number="1" name="Fires of Invention"/>
         <card number="1" name="Kinjalli's Sunwing"/>
         <card number="1" name="Search for Tomorrow"/>
-        <card number="1" name="Marauding Raptor"/>
-        <card number="1" name="Emerge Unscathed"/>
-        <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Thunderherd Migration"/>
         <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Seething Song"/>
         <card number="1" name="Coalition Relic"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Grow from the Ashes"/>
         <card number="1" name="Command Beacon"/>
-        <card number="1" name="Road of Return"/>
-        <card number="1" name="Zendikar Resurgent"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Rugged Prairie"/>
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Sungrass Prairie"/>
         <card number="1" name="Canopy Vista"/>
@@ -86,13 +75,21 @@
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Emergent Sequence"/>
         <card number="1" name="Rockfall Vale"/>
-        <card number="1" name="Bolt Bend"/>
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Wooded Foothills"/>
         <card number="1" name="Arid Mesa"/>
         <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Terramorph"/>
+        <card number="1" name="Reckless Endeavor"/>
+        <card number="1" name="Dawntreader Elk"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Hunting Wilds"/>
+        <card number="1" name="Thundering Spineback"/>
+        <card number="1" name="Shifting Ceratops"/>
+        <card number="1" name="Nature's Lore"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lightning Greaves"/>
@@ -106,7 +103,7 @@
         <card number="2" name="Annoyed Altisaur"/>
         <card number="2" name="Elemental Bond"/>
         <card number="1" name="Yidaro, Wandering Monster"/>
-        <card number="2" name="Deathgorge Scavenger"/>
+        <card number="3" name="Deathgorge Scavenger"/>
         <card number="1" name="Kaheera, the Orphanguard"/>
         <card number="2" name="Harmonize"/>
         <card number="3" name="Kessig Wolf Run"/>
@@ -145,8 +142,8 @@
         <card number="1" name="Shifting Ceratops"/>
         <card number="1" name="Bellowing Aegisaur"/>
         <card number="1" name="Ranging Raptors"/>
-        <card number="1" name="Vines of Vastwood"/>
-        <card number="1" name="Emerge Unscathed"/>
+        <card number="2" name="Vines of Vastwood"/>
+        <card number="2" name="Emerge Unscathed"/>
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Outpost Siege"/>
         <card number="1" name="Nature's Claim"/>
@@ -154,7 +151,7 @@
         <card number="1" name="Make a Stand"/>
         <card number="1" name="Sol Ring"/>
         <card number="2" name="Rage Reflection"/>
-        <card number="1" name="Zendikar Resurgent"/>
+        <card number="3" name="Zendikar Resurgent"/>
         <card number="1" name="Berserkers' Onslaught"/>
         <card number="1" name="Alpine Meadow"/>
         <card number="1" name="Arctic Treeline"/>
@@ -176,7 +173,23 @@
         <card number="1" name="Spire Garden"/>
         <card number="1" name="Sundown Pass"/>
         <card number="1" name="Overgrown Farmland"/>
-        <card number="1" name="Duelist's Heritage"/>
+        <card number="2" name="Duelist's Heritage"/>
         <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Seething Song"/>
+        <card number="1" name="Blood Mist"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Dire-Strain Rampage"/>
+        <card number="1" name="Road of Return"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Jaheira's Respite"/>
+        <card number="1" name="Marauding Raptor"/>
+        <card number="1" name="Font of Fertility"/>
     </zone>
 </cockatrice_deck>

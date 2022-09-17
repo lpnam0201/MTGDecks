@@ -6,7 +6,6 @@
         <card number="1" name="Galazeth Prismari"/>
         <card number="1" name="Big Score"/>
         <card number="1" name="Inspired Tinkering"/>
-        <card number="1" name="Trail of Evidence"/>
         <card number="1" name="Seize the Spoils"/>
         <card number="1" name="Unexpected Windfall"/>
         <card number="1" name="Pirate's Pillage"/>
@@ -15,7 +14,6 @@
         <card number="1" name="Jaya's Immolating Inferno"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Talisman of Creativity"/>
-        <card number="1" name="Saheeli, Sublime Artificer"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Expansion // Explosion"/>
@@ -29,7 +27,6 @@
         <card number="1" name="Noble's Purse"/>
         <card number="1" name="Swarm Intelligence"/>
         <card number="1" name="Shiny Impetus"/>
-        <card number="1" name="Creative Outburst"/>
         <card number="1" name="Pirate's Prize"/>
         <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
         <card number="1" name="An Offer You Can't Refuse"/>
@@ -80,11 +77,14 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Saw It Coming"/>
-        <card number="1" name="Confirm Suspicions"/>
-        <card number="1" name="Horizon Stone"/>
         <card number="1" name="Expressive Iteration"/>
         <card number="1" name="Thopter Spy Network"/>
         <card number="1" name="Descent into Avernus"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Horizon Stone"/>
+        <card number="1" name="Lose Focus"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Reverberate"/>
     </zone>
     <zone name="side">
         <card number="1" name="Saheeli Rai"/>
@@ -98,9 +98,14 @@
         <card number="1" name="Vandalblast"/>
         <card number="1" name="Spiteful Repossession"/>
         <card number="1" name="Abrade"/>
-        <card number="1" name="Archmage Emeritus"/>
+        <card number="2" name="Archmage Emeritus"/>
         <card number="1" name="Descent into Avernus"/>
         <card number="1" name="Metallurgic Summonings"/>
         <card number="1" name="Skullclamp"/>
+        <card number="1" name="Saheeli, Sublime Artificer"/>
+        <card number="1" name="Horizon Stone"/>
+        <card number="1" name="Confirm Suspicions"/>
+        <card number="1" name="Trail of Evidence"/>
+        <card number="1" name="Creative Outburst"/>
     </zone>
 </cockatrice_deck>

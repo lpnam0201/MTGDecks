@@ -25,9 +25,9 @@
         <card number="1" name="Crumbling Necropolis"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Darkwater Catacombs"/>
-        <card number="7" name="Island"/>
-        <card number="6" name="Mountain"/>
-        <card number="6" name="Swamp"/>
+        <card number="5" name="Island"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Swamp"/>
         <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Necromantic Selection"/>
@@ -81,12 +81,18 @@
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Shipwreck Marsh"/>
         <card number="1" name="Swarm Intelligence"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Thriving Bluff"/>
-        <card number="1" name="Thriving Moor"/>
         <card number="1" name="Blood Money"/>
         <card number="1" name="Reckless Endeavor"/>
         <card number="1" name="Make an Example"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Scalding Tarn"/>
     </zone>
     <zone name="side">
         <card number="1" name="Talisman of Creativity"/>
@@ -171,13 +177,13 @@
         <card number="1" name="Rise from the Tides"/>
         <card number="1" name="River's Rebuke"/>
         <card number="1" name="Commander's Sphere"/>
-        <card number="2" name="Thriving Moor"/>
-        <card number="2" name="Thriving Isle"/>
-        <card number="2" name="Thriving Bluff"/>
+        <card number="3" name="Thriving Moor"/>
+        <card number="3" name="Thriving Isle"/>
+        <card number="3" name="Thriving Bluff"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Command Tower"/>
-        <card number="2" name="Island"/>
-        <card number="2" name="Swamp"/>
+        <card number="4" name="Island"/>
+        <card number="5" name="Swamp"/>
         <card number="1" name="Darkwater Catacombs"/>
         <card number="1" name="Flood of Tears"/>
         <card number="1" name="Blasphemous Act"/>
@@ -242,5 +248,7 @@
         <card number="1" name="Haunted Ridge"/>
         <card number="1" name="Necrotic Hex"/>
         <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Blood Money"/>
+        <card number="2" name="Mountain"/>
     </zone>
 </cockatrice_deck>

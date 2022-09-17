@@ -23,7 +23,6 @@
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Village Rites"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Austere Command"/>
@@ -32,31 +31,25 @@
         <card number="1" name="Return to Dust"/>
         <card number="1" name="Heirloom Blade"/>
         <card number="1" name="Soul Shatter"/>
-        <card number="1" name="Slaughter the Strong"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Temple of Silence"/>
         <card number="10" name="Plains"/>
         <card number="10" name="Swamp"/>
-        <card number="1" name="Read the Bones"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Silverquill Campus"/>
         <card number="1" name="Sanguine Bond"/>
         <card number="1" name="Soul Warden"/>
         <card number="1" name="Cleric of Life's Bond"/>
-        <card number="1" name="Impassioned Orator"/>
         <card number="1" name="Utter End"/>
-        <card number="1" name="Costly Plunder"/>
         <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Haunting Voyage"/>
-        <card number="1" name="Debtors' Knell"/>
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Banisher Priest"/>
         <card number="1" name="Bishop of Binding"/>
         <card number="1" name="Price of Fame"/>
-        <card number="1" name="Blood Pact"/>
         <card number="1" name="Moon-Blessed Cleric"/>
         <card number="1" name="Priest of the Blood Rite"/>
         <card number="1" name="Martyr's Bond"/>
@@ -71,20 +64,27 @@
         <card number="1" name="Thriving Heath"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Inkshield"/>
-        <card number="1" name="Reckoner's Bargain"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Relic Vial"/>
         <card number="1" name="Bonecaller Cleric"/>
         <card number="1" name="Shadowheart, Dark Justiciar"/>
         <card number="1" name="Sivriss, Nightmare Speaker"/>
-        <card number="1" name="Hammers of Moradin"/>
-        <card number="1" name="Viconia, Drow Apostate"/>
         <card number="1" name="High Priest of Penance"/>
         <card number="1" name="Selfless Spirit"/>
-        <card number="1" name="Altar's Reap"/>
-        <card number="1" name="Deadly Dispute"/>
         <card number="1" name="Firja, Judge of Valor"/>
         <card number="1" name="Vizkopa Guildmage"/>
+        <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Final Parting"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Coveted Prize"/>
+        <card number="1" name="Illicit Shipment"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Obzedat's Aid"/>
+        <card number="1" name="Netherborn Altar"/>
     </zone>
     <zone name="side">
         <card number="1" name="Valkyrie Harbinger"/>
@@ -102,15 +102,15 @@
         <card number="2" name="Zulaport Cutthroat"/>
         <card number="2" name="Cruel Celebrant"/>
         <card number="1" name="Relic Vial"/>
-        <card number="2" name="High Priest of Penance"/>
+        <card number="3" name="High Priest of Penance"/>
         <card number="1" name="Tymna the Weaver"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="2" name="Merciless Resolve"/>
         <card number="1" name="Bygone Bishop"/>
         <card number="1" name="Sejiri Shelter"/>
         <card number="1" name="Command the Dreadhorde"/>
-        <card number="1" name="Read the Bones"/>
-        <card number="1" name="Costly Plunder"/>
+        <card number="2" name="Read the Bones"/>
+        <card number="2" name="Costly Plunder"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Exquisite Blood"/>
         <card number="1" name="Silverquill Campus"/>
@@ -129,7 +129,7 @@
         <card number="1" name="Necrotic Hex"/>
         <card number="1" name="Agadeem's Awakening"/>
         <card number="1" name="Anguished Unmaking"/>
-        <card number="1" name="Deadly Dispute"/>
+        <card number="2" name="Deadly Dispute"/>
         <card number="1" name="Plumb the Forbidden"/>
         <card number="1" name="Yawgmoth, Thran Physician"/>
         <card number="1" name="Selfless Spirit"/>
@@ -194,17 +194,28 @@
         <card number="1" name="Pact of the Serpent"/>
         <card number="1" name="Victimize"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Altar's Reap"/>
+        <card number="2" name="Altar's Reap"/>
         <card number="1" name="Pointed Discussion"/>
         <card number="1" name="Firja, Judge of Valor"/>
         <card number="1" name="Moonlight Bargain"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Professor of Symbology"/>
         <card number="1" name="Oriq Loremage"/>
-        <card number="1" name="Minthara, Merciless Soul"/>
+        <card number="2" name="Minthara, Merciless Soul"/>
         <card number="1" name="Ambition's Cost"/>
         <card number="1" name="Ancient Craving"/>
         <card number="1" name="Vizkopa Guildmage"/>
         <card number="1" name="Obzedat's Aid"/>
+        <card number="1" name="Shadow-Rite Priest"/>
+        <card number="1" name="Shadowheart, Dark Justiciar"/>
+        <card number="1" name="Sivriss, Nightmare Speaker"/>
+        <card number="1" name="Impassioned Orator"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="Reckoner's Bargain"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Blood Pact"/>
+        <card number="1" name="Debtors' Knell"/>
+        <card number="1" name="Viconia, Drow Apostate"/>
+        <card number="1" name="Hammers of Moradin"/>
     </zone>
 </cockatrice_deck>

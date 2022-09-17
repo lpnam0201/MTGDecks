@@ -84,7 +84,6 @@
         <card number="1" name="Inscription of Abundance"/>
         <card number="1" name="Witch's Oven"/>
         <card number="1" name="Skullclamp"/>
-        <card number="1" name="Liege of the Tangle"/>
         <card number="1" name="Magmatic Force"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
         <card number="1" name="Setessan Tactics"/>
@@ -92,6 +91,7 @@
         <card number="1" name="Titanic Brawl"/>
         <card number="1" name="Prizefight"/>
         <card number="1" name="Marauding Raptor"/>
+        <card number="1" name="Olivia's Attendants"/>
     </zone>
     <zone name="side">
         <card number="1" name="Song of the Worldsoul"/>
@@ -121,5 +121,6 @@
         <card number="1" name="Primal Might"/>
         <card number="1" name="Three Visits"/>
         <card number="1" name="Cabaretti Confluence"/>
+        <card number="1" name="Liege of the Tangle"/>
     </zone>
 </cockatrice_deck>

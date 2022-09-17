@@ -53,8 +53,8 @@
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Fortified Village"/>
         <card number="1" name="Temple of Plenty"/>
-        <card number="12" name="Forest"/>
-        <card number="12" name="Plains"/>
+        <card number="10" name="Forest"/>
+        <card number="10" name="Plains"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Krosan Verge"/>
         <card number="1" name="Myriad Landscape"/>
@@ -69,23 +69,27 @@
         <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Armadillo Cloak"/>
         <card number="1" name="Unflinching Courage"/>
-        <card number="1" name="Eidolon of Countless Battles"/>
         <card number="1" name="Sanctum Weaver"/>
         <card number="1" name="Sigil of the Empty Throne"/>
         <card number="1" name="Vines of Vastwood"/>
-        <card number="1" name="Shigeki, Jukai Visionary"/>
-        <card number="1" name="Jukai Naturalist"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Mantle of the Ancients"/>
         <card number="1" name="Ancestral Mask"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Winds of Rath"/>
         <card number="1" name="Bear Umbra"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Eidolon of Countless Battles"/>
     </zone>
     <zone name="side">
         <card number="1" name="Epic Proportions"/>
         <card number="1" name="Solitary Confinement"/>
-        <card number="1" name="Shielded by Faith"/>
+        <card number="2" name="Shielded by Faith"/>
         <card number="1" name="Brilliant Restoration"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Siona, Captain of the Pyleas"/>
@@ -117,16 +121,21 @@
         <card number="1" name="Eidolon of Blossoms"/>
         <card number="1" name="Enchantress's Presence"/>
         <card number="1" name="Vines of Vastwood"/>
-        <card number="2" name="Flaming Fist"/>
+        <card number="3" name="Flaming Fist"/>
         <card number="1" name="Botanical Plaza"/>
         <card number="1" name="Light of Promise"/>
         <card number="1" name="Battle Mastery"/>
         <card number="1" name="Ancestral Mask"/>
         <card number="1" name="Mantle of the Ancients"/>
-        <card number="1" name="Shigeki, Jukai Visionary"/>
+        <card number="2" name="Shigeki, Jukai Visionary"/>
         <card number="1" name="Weaver of Harmony"/>
         <card number="1" name="Archon of Sun's Grace"/>
         <card number="1" name="Setessan Champion"/>
         <card number="1" name="Nessian Wanderer"/>
+        <card number="1" name="Jukai Naturalist"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Eidolon of Countless Battles"/>
+        <card number="1" name="Guardian Augmenter"/>
     </zone>
 </cockatrice_deck>

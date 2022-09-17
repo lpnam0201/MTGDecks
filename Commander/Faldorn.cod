@@ -9,5 +9,86 @@
         <card number="1" name="Nalfeshnee"/>
         <card number="1" name="Tempered in Solitude"/>
         <card number="1" name="Light Up the Stage"/>
+        <card number="1" name="Wild-Magic Sorcerer"/>
+        <card number="1" name="Laelia, the Blade Reforged"/>
+        <card number="1" name="Ignite the Future"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Stolen Strategy"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Dire Fleet Daredevil"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Bloodbraid Elf"/>
+        <card number="1" name="Containment Construct"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Durnan of the Yawning Portal"/>
+        <card number="1" name="Passionate Archaeologist"/>
+        <card number="1" name="Tectonic Giant"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Embereth Shieldbreaker // Battle Display"/>
+        <card number="1" name="Battle Mammoth"/>
+        <card number="1" name="Conspiracy Theorist"/>
+        <card number="1" name="Sweet-Gum Recluse"/>
+        <card number="1" name="Aurora Phoenix"/>
+        <card number="1" name="Lovestruck Beast // Heart's Desire"/>
+        <card number="1" name="Dark-Dweller Oracle"/>
+        <card number="1" name="Demon Bolt"/>
+        <card number="1" name="Natural Reclamation"/>
+        <card number="1" name="Faithless Salvaging"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="You Find Some Prisoners"/>
+        <card number="1" name="March of Reckless Joy"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Creative Technique"/>
+        <card number="1" name="Volcanic Torrent"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Venture Forth"/>
+        <card number="1" name="Reckless Impulse"/>
+        <card number="1" name="Experimental Frenzy"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Inspired Tinkering"/>
+        <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Valakut Exploration"/>
+        <card number="1" name="Journey to the Lost City"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Tavern Brawler"/>
+        <card number="1" name="Vivien, Champion of the Wilds"/>
+        <card number="1" name="Chandra, Fire Artisan"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="10" name="Forest"/>
+        <card number="10" name="Mountain"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Beast Within"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Izzet Chemister"/>
+        <card number="1" name="Chandra, Heart of Fire"/>
+        <card number="1" name="Fellwar Stone"/>
     </zone>
 </cockatrice_deck>

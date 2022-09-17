@@ -5,8 +5,6 @@
     <zone name="main">
         <card number="1" name="Oskar, Rubbish Reclaimer"/>
         <card number="1" name="Ominous Seas"/>
-        <card number="1" name="Wharf Infiltrator"/>
-        <card number="1" name="Looter il-Kor"/>
         <card number="1" name="Dragonborn Looter"/>
         <card number="1" name="Merfolk Looter"/>
         <card number="1" name="Obsessive Stitcher"/>
@@ -17,7 +15,6 @@
         <card number="1" name="Drake Haven"/>
         <card number="1" name="Faith of the Devoted"/>
         <card number="1" name="Feast of Sanity"/>
-        <card number="1" name="Dying to Serve"/>
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sol Ring"/>
@@ -40,7 +37,6 @@
         <card number="1" name="Pongify"/>
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="See the Truth"/>
-        <card number="1" name="Monastery Siege"/>
         <card number="1" name="Facet Reader"/>
         <card number="1" name="Atemsis, All-Seeing"/>
         <card number="1" name="An Offer You Can't Refuse"/>
@@ -48,15 +44,14 @@
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Command Tower"/>
-        <card number="12" name="Island"/>
-        <card number="12" name="Swamp"/>
+        <card number="10" name="Island"/>
+        <card number="10" name="Swamp"/>
         <card number="1" name="Shipwreck Marsh"/>
         <card number="1" name="Sunken Hollow"/>
         <card number="1" name="Darkwater Catacombs"/>
         <card number="1" name="Temple of Deceit"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Tainted Isle"/>
         <card number="1" name="Dimir Aqueduct"/>
         <card number="1" name="Psychosis Crawler"/>
         <card number="1" name="Marshland Bloodcaster"/>
@@ -73,7 +68,6 @@
         <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Eldritch Pact"/>
         <card number="1" name="Laboratory Maniac"/>
-        <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Decanter of Endless Water"/>
         <card number="1" name="Coalition Relic"/>
         <card number="1" name="Deadly Tempest"/>
@@ -81,6 +75,16 @@
         <card number="1" name="Ghostly Pilferer"/>
         <card number="1" name="Reckless Scholar"/>
         <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Vohar, Vodalian Desecrator"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Geier Reach Sanitarium"/>
+        <card number="1" name="Raving Visionary"/>
     </zone>
     <zone name="side">
         <card number="2" name="Dreamscape Artist"/>
@@ -89,8 +93,8 @@
         <card number="1" name="Thirst for Discovery"/>
         <card number="1" name="Dimir Aqueduct"/>
         <card number="1" name="Wavebreak Hippocamp"/>
-        <card number="2" name="Island"/>
-        <card number="2" name="Swamp"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Swamp"/>
         <card number="2" name="Patrician Geist"/>
         <card number="1" name="Nimble Obstructionist"/>
         <card number="1" name="Magus of the Bazaar"/>
@@ -122,5 +126,12 @@
         <card number="1" name="Smuggler's Copter"/>
         <card number="1" name="Drowned Catacomb"/>
         <card number="1" name="Facet Reader"/>
+        <card number="1" name="Wharf Infiltrator"/>
+        <card number="1" name="Dying to Serve"/>
+        <card number="1" name="Monastery Siege"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Tainted Isle"/>
+        <card number="1" name="Looter il-Kor"/>
     </zone>
 </cockatrice_deck>

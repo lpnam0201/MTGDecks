@@ -5,11 +5,9 @@
     <zone name="main">
         <card number="1" name="Kalamax, the Stormsire"/>
         <card number="1" name="Brainstorm"/>
-        <card number="1" name="Crop Rotation"/>
         <card number="1" name="Opt"/>
         <card number="1" name="Impulse"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Harrow"/>
         <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Return to Nature"/>
         <card number="1" name="Twinning Staff"/>
@@ -31,37 +29,29 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Cultivator's Caravan"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Frontier Bivouac"/>
         <card number="1" name="Yavimaya Coast"/>
-        <card number="1" name="Survivors' Encampment"/>
-        <card number="1" name="Holdout Settlement"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Mossfire Valley"/>
         <card number="1" name="Shivan Reef"/>
-        <card number="5" name="Forest"/>
+        <card number="3" name="Forest"/>
         <card number="4" name="Mountain"/>
-        <card number="6" name="Island"/>
+        <card number="4" name="Island"/>
         <card number="1" name="Dispel"/>
         <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Gruul Signet"/>
         <card number="1" name="Comet Storm"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Thought Vessel"/>
-        <card number="1" name="Road // Ruin"/>
         <card number="1" name="Silundi Vision"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Commander's Plate"/>
-        <card number="1" name="Natural Connection"/>
-        <card number="1" name="Bolt Bend"/>
         <card number="1" name="Starstorm"/>
         <card number="1" name="Mystic Confluence"/>
         <card number="1" name="Supreme Will"/>
         <card number="1" name="Dream Fracture"/>
         <card number="1" name="Slice in Twain"/>
-        <card number="1" name="Electrolyze"/>
-        <card number="1" name="Creative Outburst"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Archmage Emeritus"/>
@@ -71,26 +61,40 @@
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Jaheira's Respite"/>
-        <card number="1" name="Fateful Showdown"/>
         <card number="1" name="Big Score"/>
         <card number="1" name="Refuse // Cooperate"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Ral, Storm Conduit"/>
-        <card number="1" name="Soul's Fire"/>
-        <card number="1" name="Kazuul's Fury"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Rejuvenating Springs"/>
         <card number="1" name="Training Center"/>
         <card number="1" name="Spire Garden"/>
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Flooded Grove"/>
-        <card number="1" name="Guttersnipe"/>
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Swarm Intelligence"/>
-        <card number="1" name="Thriving Grove"/>
-        <card number="1" name="Thriving Bluff"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Elminster's Simulacrum"/>
+        <card number="1" name="Lunar Frenzy"/>
+        <card number="1" name="Bounty of Might"/>
+        <card number="1" name="Become Immense"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Blossoming Defense"/>
+        <card number="1" name="Snakeskin Veil"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Fists of Flame"/>
+        <card number="1" name="Reverberate"/>
+        <card number="1" name="Insidious Will"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Ral, Storm Conduit"/>
+        <card number="1" name="Reiterate"/>
+        <card number="1" name="Soul's Fire"/>
     </zone>
     <zone name="side">
         <card number="2" name="Mission Briefing"/>
@@ -101,7 +105,7 @@
         <card number="1" name="Sublime Epiphany"/>
         <card number="1" name="Wort, the Raidmother"/>
         <card number="1" name="Saheeli, Sublime Artificer"/>
-        <card number="2" name="Unleash Fury"/>
+        <card number="3" name="Unleash Fury"/>
         <card number="1" name="Kessig Wolf Run"/>
         <card number="1" name="Rashmi, Eternities Crafter"/>
         <card number="1" name="Cinder Glade"/>
@@ -122,18 +126,18 @@
         <card number="1" name="Increasing Vengeance"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Invigorate"/>
+        <card number="2" name="Invigorate"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Bounty of Might"/>
         <card number="1" name="Choose Your Weapon"/>
         <card number="1" name="Invigorating Surge"/>
         <card number="1" name="Lunar Frenzy"/>
-        <card number="1" name="Soul's Fire"/>
+        <card number="2" name="Soul's Fire"/>
         <card number="1" name="You Come to a River"/>
         <card number="4" name="Into the Roil"/>
         <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Memory Deluge"/>
-        <card number="1" name="Collision // Colossus"/>
+        <card number="2" name="Collision // Colossus"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Archmage Emeritus"/>
@@ -147,16 +151,16 @@
         <card number="2" name="You Look Upon the Tarrasque"/>
         <card number="1" name="Fists of Flame"/>
         <card number="1" name="Unexpected Windfall"/>
-        <card number="1" name="Balduvian Rage"/>
+        <card number="2" name="Balduvian Rage"/>
         <card number="1" name="Fury Storm"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Roiling Regrowth"/>
-        <card number="1" name="Wildsize"/>
+        <card number="2" name="Wildsize"/>
         <card number="1" name="Charge Through"/>
         <card number="1" name="Fire // Ice"/>
-        <card number="1" name="Thriving Bluff"/>
-        <card number="1" name="Thriving Grove"/>
-        <card number="1" name="Thriving Isle"/>
+        <card number="2" name="Thriving Bluff"/>
+        <card number="2" name="Thriving Grove"/>
+        <card number="2" name="Thriving Isle"/>
         <card number="1" name="Dragonsguard Elite"/>
         <card number="1" name="Breeding Pool"/>
         <card number="1" name="Steam Vents"/>
@@ -168,5 +172,25 @@
         <card number="1" name="Temple of Mystery"/>
         <card number="1" name="Dreamroot Cascade"/>
         <card number="1" name="Reverberate"/>
+        <card number="1" name="Road // Ruin"/>
+        <card number="1" name="Kazuul's Fury"/>
+        <card number="1" name="Natural Connection"/>
+        <card number="1" name="Fateful Showdown"/>
+        <card number="1" name="Ral, Storm Conduit"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Creative Outburst"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Cultivator's Caravan"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Elminster's Simulacrum"/>
+        <card number="1" name="Electrolyze"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="Electrodominance"/>
+        <card number="1" name="Holdout Settlement"/>
+        <card number="1" name="Survivors' Encampment"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Mountain"/>
     </zone>
 </cockatrice_deck>

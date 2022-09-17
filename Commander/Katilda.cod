@@ -11,7 +11,6 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Mikaeus, the Lunarch"/>
-        <card number="1" name="Increasing Devotion"/>
         <card number="1" name="Cathar Commando"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Avacyn's Pilgrim"/>
@@ -29,8 +28,6 @@
         <card number="1" name="Somberwald Sage"/>
         <card number="1" name="Riders of Gavony"/>
         <card number="1" name="Bounty Agent"/>
-        <card number="1" name="Make a Stand"/>
-        <card number="1" name="Rootborn Defenses"/>
         <card number="1" name="Temple of Plenty"/>
         <card number="1" name="Lavabrink Venturer"/>
         <card number="1" name="Heroic Intervention"/>
@@ -40,14 +37,12 @@
         <card number="1" name="Krosan Verge"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Sungrass Prairie"/>
-        <card number="12" name="Plains"/>
-        <card number="12" name="Forest"/>
+        <card number="10" name="Plains"/>
+        <card number="10" name="Forest"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Return to Nature"/>
-        <card number="1" name="Austere Command"/>
-        <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Stalwart Pathlighter"/>
         <card number="1" name="Wild Beastmaster"/>
@@ -62,32 +57,41 @@
         <card number="1" name="Elite Scaleguard"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Overwhelming Stampede"/>
-        <card number="1" name="Hunter's Insight"/>
         <card number="1" name="Avenging Huntbonder"/>
         <card number="1" name="Camaraderie"/>
         <card number="1" name="Selesnya Sanctuary"/>
-        <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Return to Dust"/>
-        <card number="1" name="Scale Up"/>
         <card number="1" name="Regrowth"/>
-        <card number="1" name="Call the Coppercoats"/>
         <card number="1" name="Hopeful Initiate"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="True Conviction"/>
-        <card number="1" name="Kindred Summons"/>
         <card number="1" name="Basri's Lieutenant"/>
         <card number="1" name="Frontline Medic"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Cut a Deal"/>
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Leinore, Autumn Sovereign"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Magus of the Order"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Primal Command"/>
+        <card number="1" name="Make a Stand"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sigarda, Heron's Grace"/>
         <card number="2" name="Torens, Fist of the Angels"/>
         <card number="2" name="Champion of the Parish"/>
         <card number="1" name="Mikaeus, the Lunarch"/>
-        <card number="3" name="Call the Coppercoats"/>
+        <card number="4" name="Call the Coppercoats"/>
         <card number="1" name="Devout Chaplain"/>
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Bala Ged Sanctuary"/>
@@ -105,12 +109,12 @@
         <card number="1" name="Thalia's Lieutenant"/>
         <card number="1" name="Tireless Tracker"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Kindred Summons"/>
+        <card number="2" name="Kindred Summons"/>
         <card number="1" name="Teferi's Protection"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Great Oak Guardian"/>
         <card number="1" name="Laid to Rest"/>
-        <card number="1" name="Cleansing Nova"/>
+        <card number="2" name="Cleansing Nova"/>
         <card number="2" name="Angel of Glory's Rise"/>
         <card number="2" name="Krosan Grip"/>
         <card number="1" name="Mirran Crusader"/>
@@ -149,5 +153,20 @@
         <card number="1" name="Botanical Plaza"/>
         <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Scale Up"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Make a Stand"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Increasing Devotion"/>
+        <card number="1" name="Ecological Appreciation"/>
+        <card number="1" name="Wild Pair"/>
+        <card number="1" name="Threats Undetected"/>
+        <card number="1" name="Uncage the Menagerie"/>
     </zone>
 </cockatrice_deck>

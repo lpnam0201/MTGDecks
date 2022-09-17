@@ -28,7 +28,6 @@
         <card number="1" name="Timeless Witness"/>
         <card number="1" name="Kogla, the Titan Ape"/>
         <card number="1" name="Thorn Mammoth"/>
-        <card number="1" name="Aggressive Mammoth"/>
         <card number="1" name="Urabrask the Hidden"/>
         <card number="1" name="Paradise Druid"/>
         <card number="1" name="Hellkite Charger"/>
@@ -71,12 +70,13 @@
         <card number="1" name="Angrath's Marauders"/>
         <card number="1" name="Terror of Mount Velus"/>
         <card number="1" name="Karlach, Fury of Avernus"/>
-        <card number="1" name="Savage Ventmaw"/>
         <card number="1" name="Thunderfoot Baloth"/>
         <card number="1" name="Goblin Anarchomancer"/>
         <card number="1" name="Oakhame Adversary"/>
         <card number="1" name="Sawtusk Demolisher"/>
         <card number="1" name="Markov Enforcer"/>
+        <card number="1" name="Spearbreaker Behemoth"/>
+        <card number="1" name="Savage Ventmaw"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sunder Shaman"/>
@@ -91,11 +91,11 @@
         <card number="1" name="Meteor Golem"/>
         <card number="1" name="Gargos, Vicious Watcher"/>
         <card number="1" name="Flameblast Dragon"/>
-        <card number="1" name="Savage Ventmaw"/>
+        <card number="2" name="Savage Ventmaw"/>
         <card number="1" name="Sawtusk Demolisher"/>
         <card number="2" name="Gemrazer"/>
         <card number="1" name="Apex Altisaur"/>
-        <card number="1" name="Dawnglade Regent"/>
+        <card number="2" name="Dawnglade Regent"/>
         <card number="1" name="Spearbreaker Behemoth"/>
         <card number="1" name="Whiptongue Hydra"/>
         <card number="1" name="Wolverine Riders"/>
@@ -113,5 +113,8 @@
         <card number="1" name="Spire Garden"/>
         <card number="2" name="Neverwinter Hydra"/>
         <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Kamahl, Heart of Krosa"/>
+        <card number="1" name="Port Razer"/>
+        <card number="1" name="Aggressive Mammoth"/>
     </zone>
 </cockatrice_deck>

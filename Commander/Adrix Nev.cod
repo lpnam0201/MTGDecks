@@ -7,8 +7,10 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Fractal Harness"/>
         <card number="1" name="Oversimplify"/>
         <card number="1" name="Perplexing Test"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Fractal Harness"/>
     </zone>
 </cockatrice_deck>

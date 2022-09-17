@@ -6,7 +6,6 @@
         <card number="1" name="Dimir Signet"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Temple of Deceit"/>
         <card number="10" name="Island"/>
         <card number="10" name="Swamp"/>
         <card number="1" name="Soaring Thought-Thief"/>
@@ -30,7 +29,6 @@
         <card number="1" name="Blackbloom Rogue"/>
         <card number="1" name="Looter il-Kor"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Memory Plunder"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Anowon, the Ruin Thief"/>
@@ -52,39 +50,41 @@
         <card number="1" name="Orzhov Enforcer"/>
         <card number="1" name="Mask of Memory"/>
         <card number="1" name="Rapid Hybridization"/>
-        <card number="1" name="Path of Ancestry"/>
-        <card number="1" name="Sepulchral Primordial"/>
         <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Aetherize"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Vedalken Infiltrator"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Disdainful Stroke"/>
-        <card number="1" name="Boneyard Parley"/>
-        <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Dimir Aqueduct"/>
         <card number="1" name="Military Intelligence"/>
         <card number="1" name="Rogue's Gloves"/>
-        <card number="1" name="Scavenger Grounds"/>
-        <card number="1" name="Thought Vessel"/>
-        <card number="1" name="Stolen Identity"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Cephalid Facetaker"/>
         <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Morphic Pool"/>
-        <card number="1" name="Waterfront District"/>
-        <card number="1" name="Confounding Conundrum"/>
         <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Ice Tunnel"/>
-        <card number="1" name="Spelltwine"/>
         <card number="1" name="Gray Harbor Merfolk"/>
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Eldritch Pact"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Shipwreck Marsh"/>
-        <card number="1" name="Whispering Madness"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Tainted Isle"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Flood of Recollection"/>
+        <card number="1" name="Call to Mind"/>
+        <card number="1" name="Said // Done"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Coveted Prize"/>
+        <card number="1" name="Razaketh's Rite"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -150,17 +150,17 @@
         <card number="1" name="Military Intelligence"/>
         <card number="1" name="Faerie Duelist"/>
         <card number="1" name="Mystic Sanctuary"/>
-        <card number="2" name="Stolen Identity"/>
-        <card number="2" name="Aetherize"/>
+        <card number="3" name="Stolen Identity"/>
+        <card number="3" name="Aetherize"/>
         <card number="1" name="The Eldest Reborn"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Prying Blade"/>
-        <card number="3" name="Whispering Madness"/>
+        <card number="4" name="Whispering Madness"/>
         <card number="1" name="Drag to the Underworld"/>
         <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="Path of Ancestry"/>
+        <card number="2" name="Path of Ancestry"/>
         <card number="1" name="Disdainful Stroke"/>
         <card number="3" name="Island"/>
         <card number="3" name="Swamp"/>
@@ -168,15 +168,15 @@
         <card number="1" name="Lonely Sandbar"/>
         <card number="2" name="Silundi Vision"/>
         <card number="1" name="Malakir Rebirth"/>
-        <card number="2" name="Bojuka Bog"/>
+        <card number="3" name="Bojuka Bog"/>
         <card number="1" name="Explorer's Scope"/>
         <card number="1" name="Opal Palace"/>
         <card number="1" name="Supreme Will"/>
         <card number="1" name="River's Rebuke"/>
         <card number="1" name="Endless Obedience"/>
-        <card number="1" name="Boneyard Parley"/>
+        <card number="2" name="Boneyard Parley"/>
         <card number="1" name="Flood of Tears"/>
-        <card number="1" name="Spelltwine"/>
+        <card number="2" name="Spelltwine"/>
         <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Murder"/>
         <card number="3" name="Fact or Fiction"/>
@@ -184,7 +184,7 @@
         <card number="1" name="Nightshade Stinger"/>
         <card number="1" name="Dimir Aqueduct"/>
         <card number="1" name="Krydle of Baldur's Gate"/>
-        <card number="1" name="Scavenger Grounds"/>
+        <card number="2" name="Scavenger Grounds"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Sol Ring"/>
@@ -199,7 +199,7 @@
         <card number="1" name="Tainted Isle"/>
         <card number="2" name="Mistvault Bridge"/>
         <card number="1" name="Drowned Catacomb"/>
-        <card number="1" name="Waterfront District"/>
+        <card number="2" name="Waterfront District"/>
         <card number="1" name="Sunken Ruins"/>
         <card number="2" name="Rilsa Rael, Kingpin"/>
         <card number="1" name="Watery Grave"/>
@@ -207,9 +207,17 @@
         <card number="1" name="Wrexial, the Risen Deep"/>
         <card number="1" name="Sure-Footed Infiltrator"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Mission Briefing"/>
+        <card number="3" name="Mission Briefing"/>
         <card number="1" name="Gray Harbor Merfolk"/>
         <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Reflections of Littjara"/>
+        <card number="1" name="Ice Tunnel"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Confounding Conundrum"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Memory Plunder"/>
+        <card number="1" name="Sepulchral Primordial"/>
     </zone>
 </cockatrice_deck>

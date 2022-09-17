@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Wasitora</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Feline Sovereign"/>
+        <card number="1" name="Wasitora, Nekoru Queen"/>
+    </zone>
+</cockatrice_deck>

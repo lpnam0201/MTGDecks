@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Torsten</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Emmara Tandris"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Dawntreader Elk"/>
+        <card number="1" name="Somberwald Sage"/>
+        <card number="1" name="Topiary Stomper"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Greater Tanuki"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Hunting Wilds"/>
+        <card number="1" name="Vastwood Surge"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Terramorph"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Emergent Sequence"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Banisher Priest"/>
+        <card number="1" name="Angel of Condemnation"/>
+        <card number="1" name="Felidar Guardian"/>
+        <card number="1" name="Restoration Angel"/>
+        <card number="1" name="Angel of Serenity"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Knight of Autumn"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Kogla, the Titan Ape"/>
+        <card number="1" name="Sunblast Angel"/>
+        <card number="1" name="Bounty Agent"/>
+        <card number="1" name="Giant Killer // Chop Down"/>
+        <card number="1" name="Thorn Mammoth"/>
+        <card number="1" name="Archon of Coronation"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Command Tower"/>
+        <card number="10" name="Forest"/>
+        <card number="10" name="Plains"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Aerial Extortionist"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Skyclave Apparition"/>
+        <card number="1" name="Teleportation Circle"/>
+        <card number="1" name="End-Raze Forerunners"/>
+        <card number="1" name="Kamahl, Heart of Krosa"/>
+        <card number="1" name="Gluntch, the Bestower"/>
+        <card number="1" name="Selvala, Explorer Returned"/>
+        <card number="1" name="Wakening Sun's Avatar"/>
+        <card number="1" name="Realm-Cloaked Giant // Cast Off"/>
+        <card number="1" name="Whiptongue Hydra"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Foundation Breaker"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Kamahl, Fist of Krosa"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Icewind Stalwart"/>
+        <card number="1" name="Charming Prince"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Wolverine Riders"/>
+        <card number="1" name="Leonin Relic-Warder"/>
+    </zone>
+</cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Galea</deckname>
+    <deckname>Galea Equip</deckname>
     <comments></comments>
     <zone name="main">
         <card number="1" name="Galea, Kindler of Hope"/>
@@ -10,36 +10,25 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Fertile Ground"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Temple of Plenty"/>
-        <card number="1" name="Temple of Mystery"/>
-        <card number="1" name="Temple of Enlightenment"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Seaside Citadel"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Krosan Verge"/>
         <card number="1" name="Sungrass Prairie"/>
-        <card number="1" name="Thriving Grove"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Thriving Heath"/>
-        <card number="7" name="Forest"/>
-        <card number="6" name="Plains"/>
+        <card number="4" name="Forest"/>
+        <card number="3" name="Plains"/>
         <card number="4" name="Island"/>
-        <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Minimus Containment"/>
         <card number="1" name="Kasmina's Transmutation"/>
         <card number="1" name="Mystic Subdual"/>
-        <card number="1" name="Benevolent Blessing"/>
         <card number="1" name="Reprobation"/>
-        <card number="1" name="Tamiyo, Collector of Tales"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Mirror Shield"/>
         <card number="1" name="Halimar Depths"/>
         <card number="1" name="Brainstorm"/>
-        <card number="1" name="Ponder"/>
-        <card number="1" name="Serum Visions"/>
         <card number="1" name="Blackblade Reforged"/>
         <card number="1" name="Colossus Hammer"/>
         <card number="1" name="Commander's Plate"/>
@@ -55,7 +44,6 @@
         <card number="1" name="Winged Boots"/>
         <card number="1" name="Explorer's Scope"/>
         <card number="1" name="Mask of Memory"/>
-        <card number="1" name="Timely Ward"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Road of Return"/>
         <card number="1" name="Benevolent Bodyguard"/>
@@ -64,31 +52,49 @@
         <card number="1" name="Belt of Giant Strength"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Cloudsteel Kirin"/>
-        <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Brass Knuckles"/>
         <card number="1" name="Witness Protection"/>
-        <card number="1" name="Blacksmith's Skill"/>
-        <card number="1" name="Tamiyo's Safekeeping"/>
         <card number="1" name="Aqueous Form"/>
         <card number="1" name="Seraphic Greatsword"/>
         <card number="1" name="Rancor"/>
-        <card number="1" name="Wild Growth"/>
-        <card number="1" name="Wolfwillow Haven"/>
-        <card number="1" name="Sheltering Light"/>
-        <card number="1" name="Gods Willing"/>
-        <card number="1" name="Brave the Elements"/>
         <card number="1" name="Cliffside Rescuer"/>
-        <card number="1" name="Finest Hour"/>
-        <card number="1" name="Courser of Kruphix"/>
-        <card number="1" name="Verge Rangers"/>
         <card number="1" name="Simic Signet"/>
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Selesnya Signet"/>
         <card number="1" name="Talisman of Curiosity"/>
         <card number="1" name="Talisman of Unity"/>
         <card number="1" name="The Reality Chip"/>
-        <card number="1" name="Single Combat"/>
-        <card number="1" name="Austere Command"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Campfire"/>
+        <card number="1" name="Sigiled Starfish"/>
+        <card number="1" name="Crystal Ball"/>
+        <card number="1" name="Mazemind Tome"/>
+        <card number="1" name="Tanuki Transplanter"/>
+        <card number="1" name="Scepter of Celebration"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Disruption Protocol"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Stubborn Denial"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Nissa, Steward of Elements"/>
+        <card number="1" name="Tamiyo, Collector of Tales"/>
     </zone>
     <zone name="side">
         <card number="2" name="Starnheim Courser"/>
@@ -107,7 +113,7 @@
         <card number="4" name="Slippery Bogle"/>
         <card number="1" name="Starfield Mystic"/>
         <card number="1" name="Find the Path"/>
-        <card number="1" name="Finest Hour"/>
+        <card number="2" name="Finest Hour"/>
         <card number="1" name="Cleansing Nova"/>
         <card number="2" name="Sovereigns of Lost Alara"/>
         <card number="1" name="Utopia Sprawl"/>
@@ -122,16 +128,16 @@
         <card number="2" name="Gladecover Scout"/>
         <card number="2" name="Slippery Bogbonder"/>
         <card number="2" name="Silhana Ledgewalker"/>
-        <card number="2" name="Serum Visions"/>
-        <card number="2" name="Ponder"/>
+        <card number="3" name="Serum Visions"/>
+        <card number="3" name="Ponder"/>
         <card number="2" name="Brainstorm"/>
         <card number="2" name="Weirding Wood"/>
         <card number="3" name="Overgrowth"/>
         <card number="1" name="Island"/>
-        <card number="1" name="Wolfwillow Haven"/>
+        <card number="2" name="Wolfwillow Haven"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Mirari's Wake"/>
-        <card number="1" name="Forest"/>
+        <card number="5" name="Forest"/>
         <card number="1" name="Indrik Umbra"/>
         <card number="1" name="Slash the Ranks"/>
         <card number="1" name="In Search of Greatness"/>
@@ -181,16 +187,16 @@
         <card number="1" name="Aqueous Form"/>
         <card number="1" name="Indomitable Might"/>
         <card number="1" name="Pentarch Ward"/>
-        <card number="1" name="Timely Ward"/>
+        <card number="2" name="Timely Ward"/>
         <card number="1" name="Unquestioned Authority"/>
         <card number="2" name="Prognostic Sphinx"/>
-        <card number="1" name="Benevolent Blessing"/>
+        <card number="2" name="Benevolent Blessing"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Belt of Giant Strength"/>
         <card number="1" name="Sram, Senior Edificer"/>
         <card number="1" name="Brass Squire"/>
         <card number="1" name="Confiscate"/>
-        <card number="1" name="Mantle of the Ancients"/>
+        <card number="2" name="Mantle of the Ancients"/>
         <card number="1" name="Open the Vaults"/>
         <card number="1" name="Loyal Warhound"/>
         <card number="1" name="Knight of the White Orchid"/>
@@ -201,14 +207,14 @@
         <card number="1" name="Fyndhorn Elves"/>
         <card number="1" name="Lawmage's Binding"/>
         <card number="1" name="Llanowar Elves"/>
-        <card number="1" name="Wild Growth"/>
+        <card number="2" name="Wild Growth"/>
         <card number="1" name="Chariot of Victory"/>
         <card number="1" name="Frogify"/>
-        <card number="1" name="Ardenn, Intrepid Archaeologist"/>
+        <card number="2" name="Ardenn, Intrepid Archaeologist"/>
         <card number="1" name="Omen of the Sea"/>
         <card number="1" name="Omen of the Hunt"/>
         <card number="1" name="Nissa, Steward of Elements"/>
-        <card number="1" name="Puresteel Paladin"/>
+        <card number="2" name="Puresteel Paladin"/>
         <card number="1" name="Argentum Armor"/>
         <card number="1" name="Hedgewitch's Mask"/>
         <card number="1" name="Rune of Flight"/>
@@ -223,12 +229,12 @@
         <card number="2" name="Unbridled Growth"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Emerge Unscathed"/>
-        <card number="1" name="Gods Willing"/>
-        <card number="1" name="Brave the Elements"/>
+        <card number="2" name="Gods Willing"/>
+        <card number="2" name="Brave the Elements"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Selfless Samurai"/>
         <card number="1" name="In Too Deep"/>
-        <card number="1" name="Austere Command"/>
+        <card number="2" name="Austere Command"/>
         <card number="1" name="Gift of Paradise"/>
         <card number="1" name="Grafted Growth"/>
         <card number="1" name="New Horizons"/>
@@ -237,5 +243,25 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Alseid of Life's Bounty"/>
         <card number="1" name="Future Sight"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Verge Rangers"/>
+        <card number="1" name="Sheltering Light"/>
+        <card number="1" name="Single Combat"/>
+        <card number="2" name="Psychic Impetus"/>
+        <card number="1" name="Goggles of Night"/>
+        <card number="1" name="Tamiyo, Collector of Tales"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Blacksmith's Skill"/>
     </zone>
 </cockatrice_deck>

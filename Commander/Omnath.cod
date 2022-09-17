@@ -13,7 +13,6 @@
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Mina and Denn, Wildborn"/>
         <card number="1" name="Explosive Vegetation"/>
-        <card number="1" name="Rampaging Baloths"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Grow from the Ashes"/>
@@ -31,18 +30,16 @@
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Evolving Wilds"/>
-        <card number="16" name="Forest"/>
+        <card number="10" name="Forest"/>
         <card number="1" name="Gruul Turf"/>
         <card number="10" name="Mountain"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Crop Rotation"/>
-        <card number="1" name="Guildless Commons"/>
         <card number="1" name="Ramunap Excavator"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Multani, Yavimaya's Avatar"/>
-        <card number="1" name="Phylath, World Sculptor"/>
         <card number="1" name="Vastwood Surge"/>
         <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
         <card number="1" name="Bala Ged Recovery"/>
@@ -59,15 +56,10 @@
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Bolt Bend"/>
         <card number="1" name="Tibalt's Trickery"/>
-        <card number="1" name="Liege of the Tangle"/>
         <card number="1" name="Escape to the Wilds"/>
-        <card number="1" name="Splendid Reclamation"/>
-        <card number="1" name="Scute Swarm"/>
-        <card number="1" name="Regrowth"/>
         <card number="1" name="Road of Return"/>
         <card number="1" name="Reshape the Earth"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Three Visits"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Spire Garden"/>
@@ -79,6 +71,20 @@
         <card number="1" name="Elemental Bond"/>
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Harmonize"/>
+        <card number="1" name="Terramorph"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Fire-Lit Thicket"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Arboreal Grazer"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Hunting Wilds"/>
     </zone>
     <zone name="side">
         <card number="1" name="Tempt with Vengeance"/>
@@ -138,7 +144,7 @@
         <card number="1" name="Hull Breach"/>
         <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Vandalblast"/>
-        <card number="4" name="Forest"/>
+        <card number="10" name="Forest"/>
         <card number="1" name="Undergrowth Champion"/>
         <card number="1" name="Perilous Forays"/>
         <card number="1" name="Spearbreaker Behemoth"/>
@@ -153,7 +159,7 @@
         <card number="1" name="Moraug, Fury of Akoum"/>
         <card number="1" name="Ghost Quarter"/>
         <card number="1" name="Boundless Realms"/>
-        <card number="1" name="Three Visits"/>
+        <card number="2" name="Three Visits"/>
         <card number="2" name="Ranger's Path"/>
         <card number="1" name="Praetor's Counsel"/>
         <card number="1" name="Hammer of Purphoros"/>
@@ -184,5 +190,13 @@
         <card number="1" name="Harvest Season"/>
         <card number="1" name="Nissa's Renewal"/>
         <card number="1" name="Nahiri's Lithoforming"/>
+        <card number="1" name="Guildless Commons"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Splendid Reclamation"/>
+        <card number="1" name="Liege of the Tangle"/>
+        <card number="1" name="Phylath, World Sculptor"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Terramorph"/>
+        <card number="1" name="Scute Swarm"/>
     </zone>
 </cockatrice_deck>

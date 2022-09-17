@@ -5,19 +5,14 @@
     <zone name="main">
         <card number="1" name="Killian, Ink Duelist"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Silverquill Campus"/>
-        <card number="1" name="Sram, Senior Edificer"/>
         <card number="1" name="Sage's Reverie"/>
         <card number="1" name="Unquestioned Authority"/>
         <card number="1" name="All That Glitters"/>
         <card number="1" name="Battle Mastery"/>
         <card number="1" name="Timely Ward"/>
-        <card number="1" name="Winds of Rath"/>
         <card number="1" name="Spirit Mantle"/>
         <card number="1" name="Light of Promise"/>
-        <card number="1" name="Utter End"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Hateful Eidolon"/>
         <card number="1" name="Phyresis"/>
         <card number="1" name="Pentarch Ward"/>
         <card number="1" name="Eidolon of Countless Battles"/>
@@ -27,25 +22,11 @@
         <card number="1" name="Demonic Embrace"/>
         <card number="1" name="General's Enforcer"/>
         <card number="1" name="Silent Arbiter"/>
-        <card number="1" name="Ghostly Prison"/>
-        <card number="1" name="Sun Titan"/>
         <card number="1" name="Armored Skyhunter"/>
         <card number="1" name="Mother of Runes"/>
-        <card number="1" name="Ghostblade Eidolon"/>
-        <card number="1" name="Crib Swap"/>
         <card number="1" name="Shelter"/>
         <card number="1" name="Sejiri Shelter"/>
         <card number="1" name="Despark"/>
-        <card number="1" name="Eat to Extinction"/>
-        <card number="1" name="Price of Fame"/>
-        <card number="1" name="Return to Dust"/>
-        <card number="1" name="Snowfield Sinkhole"/>
-        <card number="1" name="Read the Bones"/>
-        <card number="1" name="Sign in Blood"/>
-        <card number="1" name="Single Combat"/>
-        <card number="1" name="Slash the Ranks"/>
-        <card number="1" name="Ambition's Cost"/>
-        <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Tome of Legends"/>
         <card number="1" name="Spectra Ward"/>
@@ -57,34 +38,53 @@
         <card number="1" name="Mammoth Umbra"/>
         <card number="1" name="Indestructibility"/>
         <card number="1" name="Duelist's Heritage"/>
-        <card number="1" name="Underworld Connections"/>
-        <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Greed"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Orzhov Basilica"/>
-        <card number="1" name="Scoured Barrens"/>
-        <card number="1" name="Orzhov Guildgate"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Forsaken Sanctuary"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="10" name="Plains"/>
         <card number="10" name="Swamp"/>
         <card number="1" name="Mask of Memory"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Ancient Craving"/>
         <card number="1" name="Cliffside Rescuer"/>
         <card number="1" name="Selfless Savior"/>
         <card number="1" name="Benevolent Bodyguard"/>
-        <card number="1" name="Herald of Torment"/>
         <card number="1" name="Inner Demon"/>
-        <card number="1" name="Thriving Heath"/>
-        <card number="1" name="Thriving Moor"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Arcane Lighthouse"/>
         <card number="1" name="Caves of Koilos"/>
-        <card number="1" name="Sigarda's Aid"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Gift of Doom"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Mantle of the Ancients"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="1" name="Hyena Umbra"/>
+        <card number="1" name="Edge of the Divinity"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Blacksmith's Skill"/>
+        <card number="1" name="Blessing of Leeches"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Candlelight Vigil"/>
+        <card number="1" name="Serra's Embrace"/>
+        <card number="1" name="Crystal Dragon // Rob the Hoard"/>
+        <card number="1" name="Sram, Senior Edificer"/>
     </zone>
     <zone name="side">
         <card number="1" name="Demonic Gifts"/>
@@ -98,12 +98,12 @@
         <card number="1" name="Angelic Gift"/>
         <card number="1" name="Celestial Archon"/>
         <card number="1" name="Karametra's Blessing"/>
-        <card number="1" name="Sigarda's Aid"/>
+        <card number="2" name="Sigarda's Aid"/>
         <card number="1" name="Closing Statement"/>
         <card number="1" name="Dire Tactics"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Hex"/>
-        <card number="1" name="Read the Bones"/>
+        <card number="2" name="Read the Bones"/>
         <card number="1" name="Divine Reckoning"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Archaeomancer's Map"/>
@@ -115,5 +115,41 @@
         <card number="1" name="Arguel's Blood Fast"/>
         <card number="1" name="Unlikely Aid"/>
         <card number="1" name="Well of Lost Dreams"/>
+        <card number="1" name="Gut, True Soul Zealot"/>
+        <card number="1" name="Hateful Eidolon"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Greed"/>
+        <card number="1" name="Underworld Connections"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Eat to Extinction"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Forsaken Sanctuary"/>
+        <card number="1" name="Orzhov Guildgate"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="1" name="Silverquill Campus"/>
+        <card number="1" name="Snowfield Sinkhole"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Ghostblade Eidolon"/>
+        <card number="1" name="Single Combat"/>
+        <card number="1" name="Herald of Torment"/>
+        <card number="1" name="Demonic Embrace"/>
+        <card number="1" name="Ancient Craving"/>
+        <card number="1" name="Ambition's Cost"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Resurgent Belief"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="On Serra's Wings"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Slash the Ranks"/>
+        <card number="1" name="Winds of Rath"/>
     </zone>
 </cockatrice_deck>

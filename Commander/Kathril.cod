@@ -20,7 +20,6 @@
         <card number="1" name="Mythos of Nethroi"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Perpetual Timepiece"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Sandsteppe Citadel"/>
         <card number="1" name="Myriad Landscape"/>
@@ -54,7 +53,6 @@
         <card number="1" name="See the Unwritten"/>
         <card number="1" name="Aerial Responder"/>
         <card number="1" name="Incarnation Technique"/>
-        <card number="1" name="Mire Triton"/>
         <card number="1" name="Slippery Bogbonder"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Road of Return"/>
@@ -90,9 +88,11 @@
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Oketra the True"/>
         <card number="1" name="Nylea, Keen-Eyed"/>
         <card number="1" name="Skull Prophet"/>
+        <card number="1" name="Verrak, Warped Sengir"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Eternal Witness"/>
     </zone>
     <zone name="side">
         <card number="1" name="Return of the Wildspeaker"/>
@@ -207,7 +207,7 @@
         <card number="1" name="Darksteel Myr"/>
         <card number="2" name="Relentless Pursuit"/>
         <card number="1" name="Key to the City"/>
-        <card number="1" name="Mire Triton"/>
+        <card number="2" name="Mire Triton"/>
         <card number="1" name="Ghostblade Eidolon"/>
         <card number="1" name="Sol Ring"/>
         <card number="2" name="Skull Prophet"/>
@@ -225,7 +225,7 @@
         <card number="2" name="Stinkweed Imp"/>
         <card number="1" name="Utter End"/>
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Eternal Witness"/>
+        <card number="2" name="Eternal Witness"/>
         <card number="1" name="Oriq Loremage"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Temple Garden"/>
@@ -247,5 +247,7 @@
         <card number="1" name="Deathcap Glade"/>
         <card number="1" name="Necromantic Selection"/>
         <card number="1" name="Unburial Rites"/>
+        <card number="1" name="Oketra the True"/>
+        <card number="1" name="Perpetual Timepiece"/>
     </zone>
 </cockatrice_deck>

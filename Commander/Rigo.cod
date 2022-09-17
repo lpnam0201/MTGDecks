@@ -46,11 +46,9 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="Krosan Verge"/>
         <card number="4" name="Plains"/>
-        <card number="6" name="Forest"/>
-        <card number="6" name="Island"/>
-        <card number="1" name="Myriad Landscape"/>
+        <card number="5" name="Forest"/>
+        <card number="5" name="Island"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Seaside Citadel"/>
         <card number="1" name="Skycloud Expanse"/>
@@ -69,8 +67,6 @@
         <card number="1" name="Disdainful Stroke"/>
         <card number="1" name="Road of Return"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Reconnaissance Mission"/>
-        <card number="1" name="Bident of Thassa"/>
         <card number="1" name="Storvald, Frost Giant Jarl"/>
         <card number="1" name="Approach of the Second Sun"/>
         <card number="1" name="Ominous Seas"/>
@@ -86,10 +82,16 @@
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Sea of Clouds"/>
         <card number="1" name="Rejuvenating Springs"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Thriving Heath"/>
-        <card number="1" name="Thriving Grove"/>
         <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Wharf Infiltrator"/>
     </zone>
     <zone name="side">
         <card number="1" name="Abiding Grace"/>
@@ -107,9 +109,8 @@
         <card number="1" name="Pongify"/>
         <card number="1" name="Patch Up"/>
         <card number="1" name="Fogwalker"/>
-        <card number="1" name="Bident of Thassa"/>
+        <card number="2" name="Bident of Thassa"/>
         <card number="1" name="Reconnaissance Mission"/>
-        <card number="1" name="Wharf Infiltrator"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Bant Charm"/>
@@ -133,9 +134,9 @@
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Dream Fracture"/>
         <card number="1" name="Spara's Headquarters"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Thriving Heath"/>
-        <card number="1" name="Thriving Grove"/>
+        <card number="2" name="Thriving Isle"/>
+        <card number="2" name="Thriving Heath"/>
+        <card number="2" name="Thriving Grove"/>
         <card number="1" name="Windbrisk Heights"/>
         <card number="1" name="Breeding Pool"/>
         <card number="1" name="Path of Ancestry"/>
@@ -147,5 +148,10 @@
         <card number="1" name="Temple of Plenty"/>
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Oblation"/>
+        <card number="2" name="Krosan Verge"/>
+        <card number="2" name="Myriad Landscape"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Llanowar Scout"/>
+        <card number="1" name="Scaled Herbalist"/>
     </zone>
 </cockatrice_deck>

@@ -16,7 +16,6 @@
         <card number="1" name="Regisaur Alpha"/>
         <card number="1" name="Rionya, Fire Dancer"/>
         <card number="1" name="Zagras, Thief of Heartbeats"/>
-        <card number="1" name="Thopter Engineer"/>
         <card number="1" name="Shifting Ceratops"/>
         <card number="1" name="Glorybringer"/>
         <card number="1" name="Falkenrath Aristocrat"/>
@@ -37,7 +36,6 @@
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Bedevil"/>
-        <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Nature's Lore"/>
@@ -48,19 +46,15 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Goblin Assault"/>
         <card number="6" name="Mountain"/>
-        <card number="6" name="Forest"/>
+        <card number="5" name="Forest"/>
         <card number="4" name="Swamp"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Path of Ancestry"/>
-        <card number="1" name="Temple of Malady"/>
-        <card number="1" name="Temple of Abandon"/>
-        <card number="1" name="Temple of Malice"/>
         <card number="1" name="Mossfire Valley"/>
         <card number="1" name="Shadowblood Ridge"/>
         <card number="1" name="Smoldering Marsh"/>
         <card number="1" name="Llanowar Wastes"/>
-        <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Mortality Spear"/>
         <card number="1" name="Talisman of Resilience"/>
         <card number="1" name="Talisman of Indulgence"/>
@@ -82,14 +76,21 @@
         <card number="1" name="Elemental Mastery"/>
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Kalain, Reclusive Painter"/>
-        <card number="1" name="Dockside Chef"/>
         <card number="1" name="Gruul Signet"/>
         <card number="1" name="Rakdos Signet"/>
         <card number="1" name="Golgari Signet"/>
         <card number="1" name="Laelia, the Blade Reforged"/>
-        <card number="1" name="Jaya's Immolating Inferno"/>
         <card number="1" name="Skull Storm"/>
         <card number="1" name="Grim Hireling"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Bloodbraid Elf"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Reckless Endeavor"/>
     </zone>
     <zone name="side">
         <card number="1" name="Crashing Drawbridge"/>
@@ -131,5 +132,15 @@
         <card number="1" name="Read the Bones"/>
         <card number="1" name="Regrowth"/>
         <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Thopter Engineer"/>
+        <card number="1" name="Dockside Chef"/>
+        <card number="1" name="Jaya's Immolating Inferno"/>
     </zone>
 </cockatrice_deck>

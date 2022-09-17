@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Karrthus</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Karrthus, Tyrant of Jund"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Dragon's Hoard"/>
+        <card number="1" name="Emerald Dragon // Dissonant Wave"/>
+        <card number="1" name="Topaz Dragon // Entropic Cloud"/>
+        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Savage Ventmaw"/>
+        <card number="1" name="Atarka, World Render"/>
+        <card number="1" name="Scourge of Valkas"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Dragon Mage"/>
+        <card number="1" name="Bladewing, Deathless Tyrant"/>
+        <card number="1" name="Bladewing the Risen"/>
+        <card number="1" name="Terror of Mount Velus"/>
+        <card number="1" name="Hellkite Courser"/>
+        <card number="1" name="Ryusei, the Falling Star"/>
+        <card number="1" name="Wrathful Red Dragon"/>
+        <card number="1" name="Thrakkus the Butcher"/>
+        <card number="1" name="Skanos Dragonheart"/>
+        <card number="1" name="Kolaghan, the Storm's Fury"/>
+        <card number="1" name="Deathbringer Regent"/>
+        <card number="1" name="Brainstealer Dragon"/>
+        <card number="1" name="Earthquake Dragon"/>
+        <card number="1" name="Vaevictis Asmadi, the Dire"/>
+        <card number="1" name="Wasitora, Nekoru Queen"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Emergent Sequence"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Verdant Mastery"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Soul's Majesty"/>
+        <card number="1" name="Haunting Voyage"/>
+    </zone>
+</cockatrice_deck>

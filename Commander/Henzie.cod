@@ -57,8 +57,6 @@
         <card number="1" name="Luxury Suite"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Drakuseth, Maw of Flames"/>
-        <card number="1" name="Foundation Breaker"/>
-        <card number="1" name="Acidic Slime"/>
         <card number="1" name="Elder Brain"/>
         <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
         <card number="1" name="Battle Mammoth"/>
@@ -72,10 +70,8 @@
         <card number="1" name="Thriving Moor"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Thragtusk"/>
-        <card number="1" name="Massacre Girl"/>
         <card number="1" name="Neheb, Dreadhorde Champion"/>
         <card number="1" name="Karlach, Fury of Avernus"/>
-        <card number="1" name="Nylea's Forerunner"/>
         <card number="1" name="Verdurous Gearhulk"/>
         <card number="1" name="Nullhide Ferox"/>
         <card number="1" name="Spiritmonger"/>
@@ -86,7 +82,11 @@
         <card number="1" name="Workshop Warchief"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Orcus, Prince of Undeath"/>
-        <card number="1" name="Wasitora, Nekoru Queen"/>
+        <card number="1" name="Inferno Hellion"/>
+        <card number="1" name="Impetuous Devils"/>
+        <card number="1" name="Terror of Mount Velus"/>
+        <card number="1" name="Foundation Breaker"/>
+        <card number="1" name="Greenwarden of Murasa"/>
     </zone>
     <zone name="side">
         <card number="1" name="Inferno Titan"/>
@@ -108,7 +108,7 @@
         <card number="2" name="Battle Mammoth"/>
         <card number="1" name="Cleaving Reaper"/>
         <card number="2" name="Verdurous Gearhulk"/>
-        <card number="1" name="Acidic Slime"/>
+        <card number="2" name="Acidic Slime"/>
         <card number="1" name="Nylea, Keen-Eyed"/>
         <card number="1" name="Feldon of the Third Path"/>
         <card number="1" name="Rakshasa Debaser"/>
@@ -192,5 +192,11 @@
         <card number="1" name="Crimson Fleet Commodore"/>
         <card number="1" name="Territorial Hellkite"/>
         <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Nylea's Forerunner"/>
+        <card number="1" name="Foundation Breaker"/>
+        <card number="1" name="Gyome, Master Chef"/>
+        <card number="1" name="Massacre Girl"/>
+        <card number="1" name="Wasitora, Nekoru Queen"/>
+        <card number="1" name="Siege Behemoth"/>
     </zone>
 </cockatrice_deck>

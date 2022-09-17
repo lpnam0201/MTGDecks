@@ -7,16 +7,12 @@
         <card number="1" name="Riveteers Ascendancy"/>
         <card number="1" name="Regisaur Alpha"/>
         <card number="1" name="Quartzwood Crasher"/>
-        <card number="1" name="Juri, Master of the Revue"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Timeless Witness"/>
         <card number="1" name="Daemogoth Woe-Eater"/>
         <card number="1" name="Daemogoth Titan"/>
-        <card number="1" name="Basilisk Collar"/>
-        <card number="1" name="Falthis, Shadowcat Familiar"/>
         <card number="1" name="Zagras, Thief of Heartbeats"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Dawntreader Elk"/>
         <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Yavimaya Dryad"/>
         <card number="1" name="Wood Elves"/>
@@ -25,8 +21,6 @@
         <card number="1" name="Ghalta, Primal Hunger"/>
         <card number="1" name="Managorger Hydra"/>
         <card number="1" name="Somberwald Sage"/>
-        <card number="1" name="Living Death"/>
-        <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Springbloom Druid"/>
         <card number="1" name="Topiary Stomper"/>
         <card number="1" name="Morbid Opportunist"/>
@@ -35,22 +29,86 @@
         <card number="1" name="Thrashing Brontodon"/>
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Acidic Slime"/>
-        <card number="1" name="Ravenous Slime"/>
         <card number="1" name="Dreadhorde Invasion"/>
         <card number="1" name="Moldervine Reclamation"/>
         <card number="1" name="Deathreap Ritual"/>
-        <card number="1" name="Necromantic Selection"/>
-        <card number="1" name="Necrotic Hex"/>
-        <card number="1" name="Find // Finality"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Scute Swarm"/>
         <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Noxious Gearhulk"/>
         <card number="1" name="Sepulchral Primordial"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Ilysian Caryatid"/>
+        <card number="1" name="Crackle with Power"/>
+        <card number="1" name="Cut // Ribbons"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Marionette Master"/>
+        <card number="1" name="Meren of Clan Nel Toth"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Windgrace's Judgment"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Mortality Spear"/>
+        <card number="1" name="Savage Lands"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="5" name="Forest"/>
+        <card number="4" name="Swamp"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Dragonmaster Outcast"/>
     </zone>
     <zone name="side">
         <card number="1" name="Flamewake Phoenix"/>
+        <card number="1" name="Juri, Master of the Revue"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Necrotic Hex"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Dreadhorde Butcher"/>
+        <card number="1" name="Find // Finality"/>
+        <card number="1" name="Dawntreader Elk"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Falthis, Shadowcat Familiar"/>
+        <card number="1" name="Ravenous Slime"/>
+        <card number="1" name="Noxious Gearhulk"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Necromantic Selection"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Diabolic Tutor"/>
     </zone>
 </cockatrice_deck>

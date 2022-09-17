@@ -32,8 +32,8 @@
         <card number="1" name="Loyal Sentry"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Command Tower"/>
-        <card number="12" name="Plains"/>
-        <card number="12" name="Swamp"/>
+        <card number="10" name="Plains"/>
+        <card number="10" name="Swamp"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Selfless Squire"/>
         <card number="1" name="Settle the Wreckage"/>
@@ -77,10 +77,14 @@
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Return to Dust"/>
-        <card number="1" name="Utter End"/>
         <card number="1" name="Archon of Coronation"/>
-        <card number="1" name="Giant Killer // Chop Down"/>
         <card number="1" name="Vindicate"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Prismatic Vista"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Cutthroat"/>
@@ -129,7 +133,7 @@
         <card number="1" name="Orzhov Advokist"/>
         <card number="1" name="High Priest of Penance"/>
         <card number="1" name="Crib Swap"/>
-        <card number="1" name="Giant Killer // Chop Down"/>
+        <card number="2" name="Giant Killer // Chop Down"/>
         <card number="1" name="Snowfield Sinkhole"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="2" name="Emerge Unscathed"/>
@@ -141,7 +145,7 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Godless Shrine"/>
-        <card number="1" name="Utter End"/>
+        <card number="2" name="Utter End"/>
         <card number="1" name="Isolated Chapel"/>
         <card number="1" name="Shattered Sanctum"/>
         <card number="1" name="Silverquill Campus"/>
@@ -151,5 +155,8 @@
         <card number="1" name="Anguished Unmaking"/>
         <card number="1" name="Dire Tactics"/>
         <card number="1" name="Blacksmith's Skill"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Fabled Passage"/>
     </zone>
 </cockatrice_deck>

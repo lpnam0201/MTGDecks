@@ -57,9 +57,9 @@
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Sunken Hollow"/>
-        <card number="6" name="Island"/>
-        <card number="6" name="Swamp"/>
-        <card number="5" name="Plains"/>
+        <card number="5" name="Island"/>
+        <card number="4" name="Swamp"/>
+        <card number="4" name="Plains"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Void Rend"/>
@@ -85,10 +85,14 @@
         <card number="1" name="Kor Blademaster"/>
         <card number="1" name="Prying Blade"/>
         <card number="1" name="Goldvein Pick"/>
-        <card number="1" name="Thriving Heath"/>
-        <card number="1" name="Thriving Moor"/>
-        <card number="1" name="Thriving Isle"/>
         <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Polluted Delta"/>
     </zone>
     <zone name="side">
         <card number="1" name="Whispering Madness"/>
@@ -103,9 +107,9 @@
         <card number="1" name="Strionic Resonator"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Notion Thief"/>
-        <card number="1" name="Thriving Heath"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Thriving Moor"/>
+        <card number="2" name="Thriving Heath"/>
+        <card number="2" name="Thriving Isle"/>
+        <card number="2" name="Thriving Moor"/>
         <card number="1" name="Misfortune Teller"/>
         <card number="1" name="Graveblade Marauder"/>
         <card number="1" name="Looter il-Kor"/>
@@ -129,5 +133,8 @@
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Shattered Sanctum"/>
         <card number="1" name="Iymrith, Desert Doom"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Plains"/>
+        <card number="2" name="Swamp"/>
     </zone>
 </cockatrice_deck>

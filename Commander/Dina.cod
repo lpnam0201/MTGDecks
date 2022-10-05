@@ -4,87 +4,133 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Dina, Soul Steeper"/>
-        <card number="1" name="Pest Infestation"/>
         <card number="1" name="Blight Mound"/>
-        <card number="1" name="Veinwitch Coven"/>
-        <card number="1" name="Sanguine Bond"/>
         <card number="1" name="Well of Lost Dreams"/>
-        <card number="1" name="Noxious Gearhulk"/>
         <card number="1" name="Essence Warden"/>
         <card number="1" name="Marauding Blight-Priest"/>
         <card number="1" name="Vito, Thorn of the Dusk Rose"/>
         <card number="1" name="Valentin, Dean of the Vein"/>
         <card number="1" name="Tend the Pests"/>
-        <card number="1" name="Culling Ritual"/>
-        <card number="1" name="Trudge Garden"/>
         <card number="1" name="Revenge of Ravens"/>
-        <card number="1" name="Falkenrath Noble"/>
         <card number="1" name="Zulaport Cutthroat"/>
         <card number="1" name="Moldervine Reclamation"/>
-        <card number="1" name="Bastion of Remembrance"/>
-        <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Scavenging Ooze"/>
         <card number="1" name="Skullclamp"/>
-        <card number="1" name="Elves of Deep Shadow"/>
         <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Blossoming Bogbeast"/>
-        <card number="1" name="Epicure of Blood"/>
-        <card number="1" name="Accomplished Alchemist"/>
-        <card number="1" name="Ayara, First of Locthwain"/>
-        <card number="1" name="Ezzaroot Channeler"/>
         <card number="1" name="Silversmote Ghoul"/>
-        <card number="1" name="Sproutback Trudge"/>
         <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Vindictive Vampire"/>
-        <card number="1" name="Tivash, Gloom Summoner"/>
-        <card number="1" name="Marshland Bloodcaster"/>
         <card number="1" name="Putrefy"/>
         <card number="1" name="Plumb the Forbidden"/>
         <card number="1" name="Village Rites"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Deadly Brew"/>
-        <card number="1" name="Essence Pulse"/>
-        <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Farseek"/>
         <card number="1" name="Read the Bones"/>
         <card number="1" name="Deadly Tempest"/>
-        <card number="1" name="Victimize"/>
-        <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Cultivate"/>
-        <card number="1" name="Alhammarret's Archive"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Vampiric Rites"/>
         <card number="1" name="Sapseep Forest"/>
         <card number="1" name="High Market"/>
-        <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Llanowar Wastes"/>
-        <card number="1" name="Jungle Hollow"/>
         <card number="1" name="Temple of Malady"/>
         <card number="1" name="Golgari Rot Farm"/>
-        <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Woodland Chasm"/>
-        <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Deathgreeter"/>
-        <card number="12" name="Forest"/>
-        <card number="12" name="Swamp"/>
+        <card number="11" name="Forest"/>
+        <card number="11" name="Swamp"/>
         <card number="1" name="Pristine Talisman"/>
-        <card number="1" name="Viscera Seer"/>
-        <card number="1" name="Sangromancer"/>
-        <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Llanowar Elves"/>
-        <card number="1" name="Fyndhorn Elves"/>
         <card number="1" name="Leyline Prowler"/>
-        <card number="1" name="Witherbloom Campus"/>
         <card number="1" name="Mortality Spear"/>
-        <card number="1" name="Poison the Cup"/>
+        <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Wolverine Riders"/>
+        <card number="1" name="Campfire"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Ambition's Cost"/>
+        <card number="1" name="Ancient Craving"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Poison-Tip Archer"/>
+        <card number="1" name="Bontu's Monument"/>
+        <card number="1" name="Sanctum of Stone Fangs"/>
+        <card number="1" name="Prosperous Innkeeper"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Necroblossom Snarl"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Vampire of the Dire Moon"/>
+        <card number="1" name="Nighthawk Scavenger"/>
+        <card number="1" name="Vampire Nighthawk"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Deathreap Ritual"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Blood Pact"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Command the Dreadhorde"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Cultivate"/>
+        <card number="2" name="Cultivate"/>
         <card number="1" name="Honor Troll"/>
         <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Alhammarret's Archive"/>
+        <card number="1" name="Ayara, First of Locthwain"/>
+        <card number="1" name="Blossoming Bogbeast"/>
+        <card number="1" name="Epicure of Blood"/>
+        <card number="1" name="Ezzaroot Channeler"/>
+        <card number="1" name="Falkenrath Noble"/>
+        <card number="1" name="Marshland Bloodcaster"/>
+        <card number="1" name="Noxious Gearhulk"/>
+        <card number="1" name="Sangromancer"/>
+        <card number="1" name="Tivash, Gloom Summoner"/>
+        <card number="1" name="Sproutback Trudge"/>
+        <card number="1" name="Veinwitch Coven"/>
+        <card number="1" name="Vindictive Vampire"/>
+        <card number="1" name="Sanguine Bond"/>
+        <card number="1" name="Trudge Garden"/>
+        <card number="1" name="Vampiric Rites"/>
+        <card number="1" name="Poison the Cup"/>
+        <card number="1" name="Woodland Chasm"/>
+        <card number="1" name="Witherbloom Campus"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Culling Ritual"/>
+        <card number="1" name="Deadly Brew"/>
+        <card number="1" name="Essence Pulse"/>
+        <card number="1" name="Pest Infestation"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Accomplished Alchemist"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Leyline Prowler"/>
+        <card number="1" name="Bala Ged Recovery"/>
     </zone>
 </cockatrice_deck>

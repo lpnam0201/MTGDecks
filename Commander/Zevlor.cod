@@ -18,7 +18,6 @@
         <card number="1" name="Lightning Bolt"/>
         <card number="1" name="Leadership Vacuum"/>
         <card number="1" name="Siphon Insight"/>
-        <card number="1" name="Abrade"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Arcane Denial"/>
@@ -26,7 +25,6 @@
         <card number="1" name="Pongify"/>
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Hurl Through Hell"/>
         <card number="1" name="Fortune's Favor"/>
         <card number="1" name="Baleful Mastery"/>
         <card number="1" name="Depths of Desire"/>
@@ -41,15 +39,64 @@
         <card number="1" name="Vandalblast"/>
         <card number="1" name="Cleansing Wildfire"/>
         <card number="1" name="Windfall"/>
-        <card number="1" name="Duress"/>
         <card number="1" name="Ponder"/>
         <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Preordain"/>
         <card number="1" name="Reckless Endeavor"/>
         <card number="1" name="Blood Money"/>
         <card number="1" name="Blightning"/>
+        <card number="1" name="Mind Rot"/>
+        <card number="1" name="Double Vision"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Disrupt Decorum"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Crackle with Power"/>
+        <card number="1" name="Thought Erasure"/>
+        <card number="1" name="Pilfer"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="5" name="Island"/>
+        <card number="5" name="Mountain"/>
+        <card number="5" name="Swamp"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Exotic Orchard"/>
     </zone>
     <zone name="side">
         <card number="1" name="Thought Scour"/>
+        <card number="1" name="Duress"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Hurl Through Hell"/>
     </zone>
 </cockatrice_deck>

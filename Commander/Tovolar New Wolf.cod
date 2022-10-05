@@ -51,7 +51,6 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="The Celestus"/>
         <card number="1" name="Wrap in Vigor"/>
-        <card number="1" name="Road of Return"/>
         <card number="1" name="Unnatural Moonrise"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Gruul Signet"/>
@@ -60,7 +59,6 @@
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Overwhelming Stampede"/>
-        <card number="1" name="Into the Night"/>
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Wild Magic Surge"/>
@@ -74,7 +72,6 @@
         <card number="1" name="Ram Through"/>
         <card number="1" name="Primal Adversary"/>
         <card number="1" name="Cemetery Prowler"/>
-        <card number="1" name="Howling Moon"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Rockfall Vale"/>
@@ -85,6 +82,9 @@
         <card number="1" name="Fog"/>
         <card number="1" name="Winds of Qal Sisma"/>
         <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="1" name="Disrupt Decorum"/>
+        <card number="1" name="Ferocious Pup"/>
     </zone>
     <zone name="side">
         <card number="1" name="Overwhelming Stampede"/>
@@ -121,7 +121,7 @@
         <card number="2" name="Rampant Growth"/>
         <card number="2" name="Farseek"/>
         <card number="1" name="Afflicted Deserter"/>
-        <card number="2" name="Into the Night"/>
+        <card number="3" name="Into the Night"/>
         <card number="1" name="Unnatural Moonrise"/>
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Llanowar Elves"/>
@@ -130,7 +130,7 @@
         <card number="1" name="Snarling Wolf"/>
         <card number="1" name="Blossoming Defense"/>
         <card number="1" name="The Celestus"/>
-        <card number="1" name="Howling Moon"/>
+        <card number="2" name="Howling Moon"/>
         <card number="1" name="Weary Prisoner"/>
         <card number="2" name="Tavern Ruffian"/>
         <card number="1" name="Lambholt Raconteur"/>
@@ -191,5 +191,6 @@
         <card number="1" name="Wooded Foothills"/>
         <card number="1" name="Withstand Death"/>
         <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Road of Return"/>
     </zone>
 </cockatrice_deck>

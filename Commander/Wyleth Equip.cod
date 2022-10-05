@@ -23,7 +23,6 @@
         <card number="1" name="Sejiri Shelter"/>
         <card number="1" name="Fireshrieker"/>
         <card number="1" name="Wyleth, Soul of Steel"/>
-        <card number="1" name="Zirda, the Dawnwaker"/>
         <card number="1" name="Akiri, Fearless Voyager"/>
         <card number="1" name="Ardenn, Intrepid Archaeologist"/>
         <card number="1" name="Puresteel Paladin"/>
@@ -56,7 +55,6 @@
         <card number="1" name="Axgard Armory"/>
         <card number="1" name="Blacksmith's Skill"/>
         <card number="1" name="Emerge Unscathed"/>
-        <card number="1" name="Thought Vessel"/>
         <card number="1" name="Raiyuu, Storm's Edge"/>
         <card number="1" name="Selfless Samurai"/>
         <card number="1" name="Sol Ring"/>
@@ -85,6 +83,8 @@
         <card number="1" name="Mandate of Peace"/>
         <card number="1" name="Campfire"/>
         <card number="1" name="Komainu Battle Armor"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Wild Magic Surge"/>
     </zone>
     <zone name="side">
         <card number="1" name="Blasphemous Act"/>
@@ -111,7 +111,7 @@
         <card number="2" name="Karametra's Blessing"/>
         <card number="1" name="Cavalier of Dawn"/>
         <card number="1" name="Verge Rangers"/>
-        <card number="2" name="Thought Vessel"/>
+        <card number="3" name="Thought Vessel"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Spiteful Motives"/>
         <card number="1" name="Face of Divinity"/>
@@ -151,7 +151,7 @@
         <card number="2" name="Blood Mist"/>
         <card number="1" name="Hammer of Bogardan"/>
         <card number="1" name="Forging the Tyrite Sword"/>
-        <card number="1" name="Zirda, the Dawnwaker"/>
+        <card number="2" name="Zirda, the Dawnwaker"/>
         <card number="1" name="Dauntless Bodyguard"/>
         <card number="1" name="Angelic Destiny"/>
         <card number="1" name="Gift of Immortality"/>
@@ -225,5 +225,6 @@
         <card number="1" name="Relentless Assault"/>
         <card number="1" name="Valorous Stance"/>
         <card number="1" name="Wear // Tear"/>
+        <card number="1" name="Deflecting Palm"/>
     </zone>
 </cockatrice_deck>

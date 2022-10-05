@@ -6,16 +6,12 @@
         <card number="1" name="Kumena, Tyrant of Orazca"/>
         <card number="1" name="Realmwalker"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Arcane Signet"/>
         <card number="1" name="Murkfiend Liege"/>
         <card number="1" name="Svyelun of Sea and Sky"/>
         <card number="1" name="Merfolk Sovereign"/>
         <card number="1" name="Merfolk Mistbinder"/>
-        <card number="1" name="Seafloor Oracle"/>
         <card number="1" name="Kopala, Warden of Waves"/>
         <card number="1" name="Deeproot Elite"/>
-        <card number="1" name="Forerunner of the Heralds"/>
-        <card number="1" name="Cold-Eyed Selkie"/>
         <card number="1" name="Kiora's Follower"/>
         <card number="1" name="Thieving Skydiver"/>
         <card number="1" name="Beast Within"/>
@@ -25,71 +21,71 @@
         <card number="1" name="Jungleborn Pioneer"/>
         <card number="1" name="Swift Warden"/>
         <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Wrap in Vigor"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Inspiring Call"/>
-        <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Return to Nature"/>
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Merfolk Skydiver"/>
-        <card number="1" name="Fallowsage"/>
-        <card number="1" name="Talisman of Curiosity"/>
         <card number="1" name="Merfolk Looter"/>
         <card number="1" name="Temple of Mystery"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Command Tower"/>
-        <card number="10" name="Island"/>
-        <card number="10" name="Forest"/>
-        <card number="1" name="Triton Shorestalker"/>
+        <card number="12" name="Island"/>
+        <card number="12" name="Forest"/>
         <card number="1" name="Mist-Cloaked Herald"/>
-        <card number="1" name="Riverwise Augur"/>
         <card number="1" name="Jadelight Ranger"/>
-        <card number="1" name="River Sneak"/>
-        <card number="1" name="Wake Thrasher"/>
         <card number="1" name="Merfolk Branchwalker"/>
-        <card number="1" name="Vineshaper Mystic"/>
-        <card number="1" name="Watertrap Weaver"/>
-        <card number="1" name="Raving Visionary"/>
-        <card number="1" name="Tishana's Wayfinder"/>
-        <card number="1" name="Vorel of the Hull Clade"/>
-        <card number="1" name="Herald of Secret Streams"/>
         <card number="1" name="Simic Growth Chamber"/>
-        <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Simic Signet"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Vineglimmer Snarl"/>
-        <card number="1" name="Path of Ancestry"/>
-        <card number="1" name="Scale Up"/>
-        <card number="1" name="Biomass Mutation"/>
-        <card number="1" name="Regrowth"/>
         <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Rejuvenating Springs"/>
         <card number="1" name="Flooded Grove"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Quest for Renewal"/>
-        <card number="1" name="Seedborn Muse"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Saw It Coming"/>
-        <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Breeding Pool"/>
-        <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Command Beacon"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Raised by Giants"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Fog"/>
+        <card number="1" name="Winds of Qal Sisma"/>
+        <card number="1" name="Enclave Cryptologist"/>
+        <card number="1" name="Quietus Spike"/>
+        <card number="1" name="Triton Shorestalker"/>
+        <card number="1" name="Herald of Secret Streams"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Deeproot Waters"/>
+        <card number="1" name="Magus of the Order"/>
         <card number="1" name="Summoner's Pact"/>
-        <card number="1" name="Shared Summons"/>
-        <card number="1" name="Kindred Summons"/>
-        <card number="1" name="Vodalian Hexcatcher"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Simic Ascendancy"/>
+        <card number="1" name="Jade Bearer"/>
+        <card number="1" name="Kumena's Speaker"/>
+        <card number="1" name="Tide Shaper"/>
+        <card number="1" name="Decisive Denial"/>
+        <card number="1" name="Mistcaller"/>
+        <card number="1" name="Merfolk Windrobber"/>
+        <card number="1" name="Lose Focus"/>
+        <card number="1" name="Curse of Bounty"/>
+        <card number="1" name="Primal Command"/>
+        <card number="1" name="Dream Fracture"/>
+        <card number="1" name="Volshe Tideturner"/>
+        <card number="1" name="Vodalian Arcanist"/>
+        <card number="1" name="Raving Visionary"/>
+        <card number="1" name="Rishadan Dockhand"/>
     </zone>
     <zone name="side">
         <card number="1" name="Tatyova, Benthic Druid"/>
         <card number="1" name="Return of the Wildspeaker"/>
-        <card number="1" name="Herald of Secret Streams"/>
+        <card number="2" name="Herald of Secret Streams"/>
         <card number="1" name="Lord of Atlantis"/>
         <card number="1" name="Lullmage Mentor"/>
         <card number="1" name="Master of the Pearl Trident"/>
@@ -97,21 +93,21 @@
         <card number="1" name="Surgespanner"/>
         <card number="1" name="Stonybrook Banneret"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Quest for Renewal"/>
-        <card number="1" name="Kindred Summons"/>
-        <card number="1" name="Seedborn Muse"/>
+        <card number="2" name="Quest for Renewal"/>
+        <card number="2" name="Kindred Summons"/>
+        <card number="2" name="Seedborn Muse"/>
         <card number="1" name="Merrow Commerce"/>
         <card number="1" name="Harvest Season"/>
-        <card number="1" name="Simic Signet"/>
+        <card number="2" name="Simic Signet"/>
         <card number="1" name="Commander's Insight"/>
-        <card number="1" name="Shamanic Revelation"/>
+        <card number="2" name="Shamanic Revelation"/>
         <card number="1" name="Masked Vandal"/>
         <card number="1" name="Botanical Sanctum"/>
         <card number="1" name="Breeding Pool"/>
         <card number="1" name="Dreamroot Cascade"/>
         <card number="1" name="Flooded Grove"/>
         <card number="1" name="Hinterland Harbor"/>
-        <card number="1" name="Misty Rainforest"/>
+        <card number="2" name="Misty Rainforest"/>
         <card number="1" name="Rejuvenating Springs"/>
         <card number="1" name="Vineglimmer Snarl"/>
         <card number="1" name="Waterlogged Grove"/>
@@ -119,12 +115,12 @@
         <card number="2" name="Thriving Isle"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Mosswort Bridge"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Simic Charm"/>
+        <card number="2" name="Sol Ring"/>
+        <card number="3" name="Simic Charm"/>
         <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Stolen Identity"/>
         <card number="1" name="Tempest Caller"/>
-        <card number="1" name="Overwhelming Stampede"/>
+        <card number="2" name="Overwhelming Stampede"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Great Oak Guardian"/>
@@ -134,19 +130,64 @@
         <card number="1" name="Thornwood Falls"/>
         <card number="1" name="Incubation // Incongruity"/>
         <card number="1" name="Reflections of Littjara"/>
-        <card number="1" name="Aetherspouts"/>
-        <card number="1" name="Aetherize"/>
+        <card number="2" name="Aetherspouts"/>
+        <card number="2" name="Aetherize"/>
         <card number="1" name="Quandrix Campus"/>
         <card number="1" name="Rimewood Falls"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Unclaimed Territory"/>
-        <card number="1" name="Rogue's Passage"/>
+        <card number="2" name="Rogue's Passage"/>
         <card number="1" name="Curse of the Swine"/>
         <card number="1" name="Krosan Grip"/>
-        <card number="1" name="Summoner's Pact"/>
+        <card number="2" name="Summoner's Pact"/>
         <card number="1" name="Aquatic Incursion"/>
         <card number="1" name="Rite of Replication"/>
-        <card number="1" name="Deeproot Waters"/>
-        <card number="1" name="Magus of the Order"/>
+        <card number="2" name="Deeproot Waters"/>
+        <card number="2" name="Magus of the Order"/>
+        <card number="1" name="Biomass Mutation"/>
+        <card number="1" name="Vodalian Hexcatcher"/>
+        <card number="1" name="Forerunner of the Heralds"/>
+        <card number="1" name="Riverwise Augur"/>
+        <card number="1" name="Vorel of the Hull Clade"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Primal Command"/>
+        <card number="1" name="Prime Speaker Vannifar"/>
+        <card number="1" name="Scale Up"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Rancor"/>
+        <card number="2" name="Triton Shorestalker"/>
+        <card number="1" name="Bounty of Might"/>
+        <card number="1" name="Become Immense"/>
+        <card number="1" name="River Sneak"/>
+        <card number="1" name="Raving Visionary"/>
+        <card number="1" name="Colossification"/>
+        <card number="1" name="Wake Thrasher"/>
+        <card number="2" name="Delay"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Indomitable Might"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Lose Focus"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="Epic Proportions"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Fallowsage"/>
+        <card number="1" name="Wrap in Vigor"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Mist-Cloaked Herald"/>
+        <card number="1" name="Merfolk Looter"/>
+        <card number="1" name="Cold-Eyed Selkie"/>
+        <card number="2" name="Augur of Bolas"/>
+        <card number="1" name="Seafloor Oracle"/>
+        <card number="1" name="Vineshaper Mystic"/>
+        <card number="1" name="Watertrap Weaver"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Tishana's Wayfinder"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Bloodforged Battle-Axe"/>
     </zone>
 </cockatrice_deck>

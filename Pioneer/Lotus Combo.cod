@@ -21,8 +21,7 @@
         <card number="4" name="Shimmer of Possibility"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Omniscience"/>
-        <card number="3" name="Emergent Ultimatum"/>
-        <card number="1" name="Underworld Dreams"/>
+        <card number="4" name="Emergent Ultimatum"/>
     </zone>
     <zone name="side">
         <card number="1" name="Peer into the Abyss"/>
@@ -30,12 +29,13 @@
         <card number="2" name="Thought Distortion"/>
         <card number="1" name="Sweltering Suns"/>
         <card number="2" name="Void Snare"/>
-        <card number="1" name="Emergent Ultimatum"/>
         <card number="1" name="Wilt"/>
         <card number="1" name="Dispel"/>
         <card number="1" name="Spell Pierce"/>
         <card number="1" name="Shifting Ceratops"/>
         <card number="1" name="Niv-Mizzet, Parun"/>
-        <card number="2" name="Fog"/>
+        <card number="1" name="Fog"/>
+        <card number="1" name="Nine Lives"/>
+        <card number="1" name="Pithing Needle"/>
     </zone>
 </cockatrice_deck>

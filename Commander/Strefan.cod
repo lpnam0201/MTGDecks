@@ -19,9 +19,7 @@
         <card number="1" name="Anowon, the Ruin Sage"/>
         <card number="1" name="Butcher of Malakir"/>
         <card number="1" name="Olivia's Attendants"/>
-        <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Feed the Swarm"/>
-        <card number="1" name="Rakish Heir"/>
         <card number="1" name="Vampire Nighthawk"/>
         <card number="1" name="Nighthawk Scavenger"/>
         <card number="1" name="Drana, the Last Bloodchief"/>
@@ -31,10 +29,8 @@
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Terminate"/>
         <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Abrade"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Read the Bones"/>
-        <card number="1" name="Pact of the Serpent"/>
         <card number="1" name="Haunting Voyage"/>
         <card number="1" name="Sign in Blood"/>
         <card number="1" name="Mind Stone"/>
@@ -81,10 +77,14 @@
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Dark Bargain"/>
         <card number="1" name="Disrupt Decorum"/>
-        <card number="1" name="Midnight Arsonist"/>
-        <card number="1" name="Rakdos Charm"/>
         <card number="1" name="Vito, Thorn of the Dusk Rose"/>
         <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Nirkana Revenant"/>
+        <card number="1" name="Fiend of the Shadows"/>
+        <card number="1" name="Dark Impostor"/>
+        <card number="1" name="Pact of the Serpent"/>
+        <card number="1" name="Damnable Pact"/>
     </zone>
     <zone name="side">
         <card number="1" name="Anger"/>
@@ -173,9 +173,16 @@
         <card number="1" name="Moonlight Bargain"/>
         <card number="1" name="Falkenrath Forebear"/>
         <card number="1" name="Falkenrath Gorger"/>
-        <card number="1" name="Rakdos Charm"/>
+        <card number="2" name="Rakdos Charm"/>
         <card number="1" name="Wild Magic Surge"/>
         <card number="2" name="Cryptolith Fragment"/>
         <card number="1" name="Dark Impostor"/>
+        <card number="1" name="Rakish Heir"/>
+        <card number="1" name="The Haunt of Hightower"/>
+        <card number="1" name="Vengeant Vampire"/>
+        <card number="1" name="Abrade"/>
+        <card number="2" name="Midnight Arsonist"/>
+        <card number="1" name="Pact of the Serpent"/>
+        <card number="1" name="Blasphemous Act"/>
     </zone>
 </cockatrice_deck>

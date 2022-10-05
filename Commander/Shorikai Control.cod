@@ -64,7 +64,6 @@
         <card number="1" name="Jace, Architect of Thought"/>
         <card number="1" name="Jace, Mirror Mage"/>
         <card number="1" name="Will Kenrith"/>
-        <card number="1" name="Gideon Jura"/>
         <card number="1" name="Tezzeret, Betrayer of Flesh"/>
         <card number="1" name="Teferi, Temporal Archmage"/>
         <card number="1" name="Soul Snare"/>
@@ -84,6 +83,7 @@
         <card number="1" name="Fateful Absence"/>
         <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Urza Assembles the Titans"/>
+        <card number="1" name="Jace, the Living Guildpact"/>
     </zone>
     <zone name="side">
         <card number="1" name="Prismatic Lens"/>
@@ -205,5 +205,6 @@
         <card number="1" name="Fateful Absence"/>
         <card number="1" name="Condemn"/>
         <card number="1" name="Elspeth Conquers Death"/>
+        <card number="1" name="Gideon Jura"/>
     </zone>
 </cockatrice_deck>

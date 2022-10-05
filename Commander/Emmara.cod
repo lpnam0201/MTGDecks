@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Emmara</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Emmara, Soul of the Accord"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Springleaf Drum"/>
+        <card number="1" name="Presence of Gond"/>
+        <card number="1" name="Karametra's Favor"/>
+        <card number="1" name="Glare of Subdual"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Relic Vial"/>
+        <card number="1" name="Queen Allenal of Ruadach"/>
+        <card number="1" name="King Darien XLVIII"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="March of the Multitudes"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Nullmage Shepherd"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Inspiring Leader"/>
+        <card number="1" name="Harmonious Archon"/>
+        <card number="1" name="Prava of the Steel Legion"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Captain of the Watch"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Citywide Bust"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Aerial Surveyor"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Fell the Mighty"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Dictate of Heliod"/>
+        <card number="1" name="Obelisk of Urd"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Halsin, Emerald Archdruid"/>
+        <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Mandate of Peace"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="11" name="Forest"/>
+        <card number="11" name="Plains"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Pentarch Ward"/>
+        <card number="1" name="Jazal Goldmane"/>
+        <card number="1" name="Radiant Destiny"/>
+        <card number="1" name="Rally the Ranks"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Collective Blessing"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="Benevolent Blessing"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Nykthos Paragon"/>
+        <card number="1" name="Ant Queen"/>
+        <card number="1" name="Jaspera Sentinel"/>
+        <card number="1" name="Saruli Caretaker"/>
+        <card number="1" name="Esika's Chariot"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Devout Invocation"/>
+        <card number="1" name="Song of Freyalise"/>
+        <card number="1" name="Far Traveler"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="Path of Discovery"/>
+        <card number="1" name="Trostani Discordant"/>
+        <card number="1" name="Selesnya Evangel"/>
+        <card number="1" name="Access Tunnel"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Rumor Gatherer"/>
+        <card number="1" name="Drumbellower"/>
+        <card number="1" name="Relic of Legends"/>
+        <card number="1" name="Rabble Rousing"/>
+        <card number="1" name="Rishkar, Peema Renegade"/>
+        <card number="1" name="Storm Herd"/>
+        <card number="1" name="Holdout Settlement"/>
+        <card number="1" name="Survivors' Encampment"/>
+        <card number="1" name="Mobile Garrison"/>
+        <card number="1" name="Benevolent Blessing"/>
+        <card number="1" name="Anara, Wolvid Familiar"/>
+    </zone>
+</cockatrice_deck>

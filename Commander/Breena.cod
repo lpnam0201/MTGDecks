@@ -6,7 +6,6 @@
         <card number="1" name="Breena, the Demagogue"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Caves of Koilos"/>
-        <card number="1" name="Knight of the Ebon Legion"/>
         <card number="1" name="Alseid of Life's Bounty"/>
         <card number="1" name="Selfless Savior"/>
         <card number="1" name="Cliffside Rescuer"/>
@@ -19,7 +18,6 @@
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Sun Titan"/>
         <card number="1" name="Healer's Hawk"/>
         <card number="1" name="Inkshield"/>
         <card number="1" name="Soul Snare"/>
@@ -32,9 +30,8 @@
         <card number="1" name="Loyal Sentry"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Command Tower"/>
-        <card number="10" name="Plains"/>
-        <card number="10" name="Swamp"/>
-        <card number="1" name="Bojuka Bog"/>
+        <card number="11" name="Plains"/>
+        <card number="11" name="Swamp"/>
         <card number="1" name="Selfless Squire"/>
         <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Valorous Stance"/>
@@ -49,13 +46,11 @@
         <card number="1" name="Kor Blademaster"/>
         <card number="1" name="Silverblade Paladin"/>
         <card number="1" name="Bounty Agent"/>
-        <card number="1" name="Necropolis Regent"/>
         <card number="1" name="Retribution of the Ancients"/>
         <card number="1" name="Abzan Battle Priest"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Disenchant"/>
         <card number="1" name="Shadrix Silverquill"/>
-        <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Forsworn Paladin"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Orzhov Basilica"/>
@@ -81,10 +76,13 @@
         <card number="1" name="Vindicate"/>
         <card number="1" name="Fateful Absence"/>
         <card number="1" name="Utter End"/>
-        <card number="1" name="Tainted Field"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Marsh Flats"/>
         <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Tormented Soul"/>
+        <card number="1" name="Will-o'-the-Wisp"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Sol Ring"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Cutthroat"/>
@@ -104,7 +102,7 @@
         <card number="1" name="Speaker of the Heavens"/>
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Necropolis Regent"/>
+        <card number="2" name="Necropolis Regent"/>
         <card number="1" name="Shambling Vent"/>
         <card number="2" name="Talisman of Hierarchy"/>
         <card number="1" name="Orzhov Signet"/>
@@ -158,5 +156,11 @@
         <card number="2" name="Plains"/>
         <card number="2" name="Swamp"/>
         <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Knight of the Ebon Legion"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Segovian Angel"/>
+        <card number="1" name="Netherborn Altar"/>
     </zone>
 </cockatrice_deck>

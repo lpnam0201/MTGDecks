@@ -11,14 +11,10 @@
         <card number="1" name="Deathbringer Regent"/>
         <card number="1" name="Drakuseth, Maw of Flames"/>
         <card number="1" name="Bladewing the Risen"/>
-        <card number="1" name="Tiamat's Fanatics"/>
         <card number="1" name="Wrathful Red Dragon"/>
-        <card number="1" name="Glorybringer"/>
         <card number="1" name="Kolaghan, the Storm's Fury"/>
-        <card number="1" name="Boltwing Marauder"/>
         <card number="1" name="Scourge of Valkas"/>
         <card number="1" name="Vengeful Ancestor"/>
-        <card number="1" name="Thunderbreak Regent"/>
         <card number="1" name="Territorial Hellkite"/>
         <card number="1" name="Steel Hellkite"/>
         <card number="1" name="Hellkite Charger"/>
@@ -48,9 +44,7 @@
         <card number="1" name="Temple of Malice"/>
         <card number="1" name="Blood Crypt"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Vandalblast"/>
         <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Blood Money"/>
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Bedevil"/>
@@ -61,7 +55,6 @@
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Price of Fame"/>
         <card number="1" name="Dragon's Hoard"/>
-        <card number="1" name="Reckless Endeavor"/>
         <card number="1" name="Dragon Mage"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Red Dragon"/>
@@ -71,38 +64,59 @@
         <card number="1" name="Warstorm Surge"/>
         <card number="1" name="Scion of Halaster"/>
         <card number="1" name="Warlock Class"/>
-        <card number="1" name="Bitter Revelation"/>
-        <card number="1" name="Blood Mist"/>
-        <card number="1" name="Rakdos Charm"/>
         <card number="1" name="Skyline Despot"/>
         <card number="1" name="Ryusei, the Falling Star"/>
-        <card number="1" name="Flameblast Dragon"/>
         <card number="1" name="Rorix Bladewing"/>
         <card number="1" name="Living Death"/>
-        <card number="1" name="Sunbird's Invocation"/>
         <card number="1" name="Industrial Advancement"/>
         <card number="1" name="Junji, the Midnight Sky"/>
-        <card number="1" name="Atsushi, the Blazing Sky"/>
         <card number="1" name="Tyrant's Familiar"/>
         <card number="1" name="Hoard-Smelter Dragon"/>
+        <card number="1" name="Crux of Fate"/>
+        <card number="1" name="Incarnation Technique"/>
+        <card number="1" name="Molten Echoes"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Disrupt Decorum"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="1" name="Tormenting Voice"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Cut // Ribbons"/>
+        <card number="1" name="Pyre of Heroes"/>
+        <card number="1" name="Final Parting"/>
+        <card number="1" name="Demonic Bargain"/>
     </zone>
     <zone name="side">
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Inferno of the Star Mounts"/>
         <card number="1" name="Ebondeath, Dracolich"/>
-        <card number="1" name="Lathliss, Dragon Queen"/>
+        <card number="2" name="Lathliss, Dragon Queen"/>
         <card number="1" name="Outpost Siege"/>
         <card number="1" name="Tome of Legends"/>
         <card number="1" name="Make an Example"/>
         <card number="1" name="Verix Bladewing"/>
         <card number="1" name="Abrade"/>
         <card number="1" name="Thrill of Possibility"/>
-        <card number="1" name="Immersturm Predator"/>
+        <card number="2" name="Immersturm Predator"/>
         <card number="1" name="Leyline Tyrant"/>
-        <card number="1" name="Backdraft Hellkite"/>
+        <card number="2" name="Backdraft Hellkite"/>
         <card number="1" name="Ganax, Astral Hunter"/>
         <card number="1" name="Perpetual Timepiece"/>
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Multiclass Baldric"/>
+        <card number="1" name="Atsushi, the Blazing Sky"/>
+        <card number="1" name="Boltwing Marauder"/>
+        <card number="2" name="Blood Mist"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Bitter Revelation"/>
+        <card number="1" name="Thunderbreak Regent"/>
+        <card number="1" name="Reckless Endeavor"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Tiamat's Fanatics"/>
+        <card number="1" name="Flameblast Dragon"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Glorybringer"/>
+        <card number="1" name="Dark Bargain"/>
     </zone>
 </cockatrice_deck>

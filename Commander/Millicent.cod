@@ -63,7 +63,6 @@
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Beckoning Will-o'-Wisp"/>
-        <card number="1" name="Cut a Deal"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Reconnaissance Mission"/>
         <card number="1" name="Behold the Multiverse"/>
@@ -76,15 +75,16 @@
         <card number="1" name="Kindred Discovery"/>
         <card number="1" name="Departed Deckhand"/>
         <card number="1" name="Niblis of the Urn"/>
-        <card number="1" name="Dream Fracture"/>
-        <card number="1" name="Drawn from Dreams"/>
         <card number="1" name="Radiant Destiny"/>
         <card number="1" name="Rally the Ranks"/>
         <card number="1" name="Favorable Winds"/>
-        <card number="1" name="Force of Virtue"/>
         <card number="1" name="Dictate of Heliod"/>
         <card number="1" name="Obelisk of Urd"/>
         <card number="1" name="Strixhaven Stadium"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Lose Focus"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
     </zone>
     <zone name="side">
         <card number="1" name="Negate"/>
@@ -167,12 +167,12 @@
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Arcane Signet"/>
+        <card number="2" name="Arcane Signet"/>
         <card number="3" name="Island"/>
         <card number="1" name="Confounding Conundrum"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Reconnaissance Mission"/>
-        <card number="3" name="Ingenious Mastery"/>
+        <card number="4" name="Ingenious Mastery"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Rootborn Defenses"/>
         <card number="1" name="Duelist's Heritage"/>
@@ -182,9 +182,12 @@
         <card number="1" name="Rescuer Chwinga"/>
         <card number="1" name="Dorothea, Vengeful Victim"/>
         <card number="1" name="Anafenza, Kin-Tree Spirit"/>
-        <card number="1" name="Force of Virtue"/>
+        <card number="3" name="Force of Virtue"/>
         <card number="1" name="Dictate of Heliod"/>
         <card number="1" name="Breath of the Sleepless"/>
         <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Drawn from Dreams"/>
+        <card number="1" name="Dream Fracture"/>
+        <card number="1" name="Cut a Deal"/>
     </zone>
 </cockatrice_deck>

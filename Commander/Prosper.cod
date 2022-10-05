@@ -33,7 +33,6 @@
         <card number="1" name="Cut // Ribbons"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Inspiring Statuary"/>
-        <card number="1" name="You Find Some Prisoners"/>
         <card number="1" name="Liquimetal Torque"/>
         <card number="1" name="Mizzium Mortars"/>
         <card number="1" name="Volcanic Torrent"/>
@@ -73,7 +72,6 @@
         <card number="1" name="Doom Blade"/>
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Make an Example"/>
-        <card number="1" name="Dark Ritual"/>
         <card number="1" name="Disrupt Decorum"/>
         <card number="1" name="Agent of the Iron Throne"/>
         <card number="1" name="Blood Money"/>
@@ -85,6 +83,8 @@
         <card number="1" name="Blood Crypt"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Hellish Rebuke"/>
+        <card number="1" name="Kardur, Doomscourge"/>
     </zone>
     <zone name="side">
         <card number="1" name="Tainted Peak"/>
@@ -94,7 +94,7 @@
         <card number="2" name="Gonti, Lord of Luxury"/>
         <card number="1" name="Cunning Rhetoric"/>
         <card number="1" name="Dead Man's Chest"/>
-        <card number="1" name="You Find Some Prisoners"/>
+        <card number="2" name="You Find Some Prisoners"/>
         <card number="1" name="Tendrils of Agony"/>
         <card number="1" name="Breya's Apprentice"/>
         <card number="1" name="Rousing Refrain"/>
@@ -188,5 +188,6 @@
         <card number="3" name="Mountain"/>
         <card number="2" name="Swamp"/>
         <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Dark Ritual"/>
     </zone>
 </cockatrice_deck>

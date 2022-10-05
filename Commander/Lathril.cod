@@ -52,7 +52,6 @@
         <card number="1" name="Demonic Embrace"/>
         <card number="1" name="Oakhame Adversary"/>
         <card number="1" name="Elderfang Venom"/>
-        <card number="1" name="Nature's Claim"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
@@ -64,14 +63,12 @@
         <card number="1" name="Springbloom Druid"/>
         <card number="1" name="Immaculate Magistrate"/>
         <card number="1" name="Golgari Rot Farm"/>
-        <card number="1" name="Cultivator of Blades"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Scale Up"/>
         <card number="1" name="Realmwalker"/>
         <card number="1" name="Undergrowth Stadium"/>
         <card number="1" name="Necroblossom Snarl"/>
         <card number="1" name="Twilight Mire"/>
-        <card number="1" name="Access Tunnel"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Read the Bones"/>
@@ -80,11 +77,14 @@
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Verdant Catacombs"/>
-        <card number="1" name="Leaf-Crowned Visionary"/>
         <card number="1" name="Windgrace's Judgment"/>
         <card number="1" name="Lifecrafter's Bestiary"/>
         <card number="1" name="Halsin, Emerald Archdruid"/>
-        <card number="1" name="Jaheira, Friend of the Forest"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Cultist of the Absolute"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Obelisk of Urd"/>
     </zone>
     <zone name="side">
         <card number="2" name="Bojuka Bog"/>
@@ -114,7 +114,7 @@
         <card number="1" name="Realmwalker"/>
         <card number="2" name="Serpent's Soul-Jar"/>
         <card number="1" name="Command Beacon"/>
-        <card number="2" name="Access Tunnel"/>
+        <card number="3" name="Access Tunnel"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Skemfar Elderhall"/>
@@ -136,14 +136,19 @@
         <card number="1" name="Ambition's Cost"/>
         <card number="1" name="Great Oak Guardian"/>
         <card number="1" name="Windgrace's Judgment"/>
-        <card number="2" name="Jaheira, Friend of the Forest"/>
+        <card number="3" name="Jaheira, Friend of the Forest"/>
         <card number="1" name="Forest"/>
         <card number="1" name="Swamp"/>
         <card number="1" name="Harald Unites the Elves"/>
         <card number="1" name="Shaman of the Pack"/>
         <card number="1" name="Kindred Summons"/>
         <card number="1" name="Halsin, Emerald Archdruid"/>
-        <card number="1" name="Abomination of Llanowar"/>
+        <card number="2" name="Abomination of Llanowar"/>
         <card number="1" name="Miara, Thorn of the Glade"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Leaf-Crowned Visionary"/>
+        <card number="1" name="Druid of the Cowl"/>
+        <card number="1" name="Tear Asunder"/>
+        <card number="1" name="Cultivator of Blades"/>
     </zone>
 </cockatrice_deck>

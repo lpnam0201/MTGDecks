@@ -58,7 +58,6 @@
         <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Dimir Aqueduct"/>
         <card number="1" name="Military Intelligence"/>
-        <card number="1" name="Rogue's Gloves"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Cephalid Facetaker"/>
         <card number="1" name="Infernal Grasp"/>
@@ -67,7 +66,6 @@
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Gray Harbor Merfolk"/>
         <card number="1" name="Talisman of Dominance"/>
-        <card number="1" name="Eldritch Pact"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Shipwreck Marsh"/>
         <card number="1" name="Prismatic Vista"/>
@@ -85,6 +83,8 @@
         <card number="1" name="Demonic Bargain"/>
         <card number="1" name="Coveted Prize"/>
         <card number="1" name="Razaketh's Rite"/>
+        <card number="1" name="Mission Briefing"/>
+        <card number="1" name="Grim Hireling"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -219,5 +219,7 @@
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Memory Plunder"/>
         <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Eldritch Pact"/>
+        <card number="1" name="Rogue's Gloves"/>
     </zone>
 </cockatrice_deck>

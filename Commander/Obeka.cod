@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Obeka</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Obeka, Brute Chronologist"/>
+        <card number="1" name="Alchemist's Gambit"/>
+        <card number="1" name="Warrior's Oath"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Alrund's Epiphany"/>
+        <card number="1" name="Temporal Mastery"/>
+        <card number="1" name="Part the Waterveil"/>
+        <card number="1" name="Walk the Aeons"/>
+        <card number="1" name="Time Warp"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Hate Mirage"/>
+        <card number="1" name="Firbolg Flutist"/>
+        <card number="1" name="Broodbirth Viper"/>
+        <card number="1" name="Tiamat's Fanatics"/>
+        <card number="1" name="Warchief Giant"/>
+        <card number="1" name="Banshee of the Dread Choir"/>
+        <card number="1" name="Wizards of Thay"/>
+        <card number="1" name="Elturel Survivors"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Phantom Steed"/>
+        <card number="1" name="Delina, Wild Mage"/>
+        <card number="1" name="Identity Thief"/>
+        <card number="1" name="Tidal Barracuda"/>
+        <card number="1" name="Zara, Renegade Recruiter"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Genasi Enforcers"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Defabricate"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="4" name="Mountain"/>
+        <card number="3" name="Swamp"/>
+        <card number="4" name="Island"/>
+        <card number="1" name="Flamerush Rider"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Temporal Manipulation"/>
+        <card number="1" name="Teferi, Master of Time"/>
+        <card number="1" name="Puppeteer Clique"/>
+        <card number="1" name="Mimic Vat"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Beacon of Tomorrows"/>
+    </zone>
+</cockatrice_deck>

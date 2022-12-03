@@ -32,7 +32,6 @@
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Road of Return"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Farhaven Elf"/>
@@ -67,30 +66,31 @@
         <card number="1" name="Karplusan Forest"/>
         <card number="1" name="Sulfurous Springs"/>
         <card number="1" name="Mahadi, Emporium Master"/>
-        <card number="1" name="Binding the Old Gods"/>
         <card number="1" name="Blood Money"/>
         <card number="1" name="Reckless Endeavor"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Grim Hireling"/>
         <card number="1" name="The Reaver Cleaver"/>
-        <card number="1" name="Shiny Impetus"/>
         <card number="1" name="Black Market Tycoon"/>
         <card number="1" name="Noble's Purse"/>
-        <card number="1" name="Guild Artisan"/>
-        <card number="1" name="Windgrace's Judgment"/>
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Nadier's Nightblade"/>
         <card number="1" name="Marionette Master"/>
-        <card number="1" name="Fog"/>
-        <card number="1" name="Winds of Qal Sisma"/>
         <card number="1" name="Fain, the Broker"/>
         <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Seal of Primordium"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Wolverine Riders"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Jadar, Ghoulcaller of Nephalia"/>
+        <card number="1" name="Quartzwood Crasher"/>
+        <card number="1" name="Legion Warboss"/>
+        <card number="1" name="Dreadfeast Demon"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Return to Nature"/>
     </zone>
     <zone name="side">
         <card number="1" name="Village Rites"/>
@@ -113,7 +113,7 @@
         <card number="1" name="Seize the Spoils"/>
         <card number="2" name="Brass's Bounty"/>
         <card number="3" name="Viscera Seer"/>
-        <card number="1" name="Shiny Impetus"/>
+        <card number="2" name="Shiny Impetus"/>
         <card number="2" name="Cindervines"/>
         <card number="1" name="Strike It Rich"/>
         <card number="2" name="Tergrid's Shadow"/>
@@ -208,7 +208,7 @@
         <card number="1" name="Luxury Suite"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Field of Ruin"/>
-        <card number="1" name="Windgrace's Judgment"/>
+        <card number="2" name="Windgrace's Judgment"/>
         <card number="1" name="Ghoulish Procession"/>
         <card number="1" name="Temple of Malice"/>
         <card number="1" name="Temple of Malady"/>
@@ -234,5 +234,13 @@
         <card number="1" name="Deathreap Ritual"/>
         <card number="1" name="Moldervine Reclamation"/>
         <card number="1" name="The Eldest Reborn"/>
+        <card number="1" name="Binding the Old Gods"/>
+        <card number="1" name="Agent of the Iron Throne"/>
+        <card number="1" name="Cloakwood Hermit"/>
+        <card number="1" name="Guild Artisan"/>
+        <card number="1" name="Seal of Primordium"/>
+        <card number="1" name="Road of Return"/>
+        <card number="1" name="Winds of Qal Sisma"/>
+        <card number="1" name="Fog"/>
     </zone>
 </cockatrice_deck>

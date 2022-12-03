@@ -1,4 +1,3 @@
-Gargos
 Niv Mizzet
 Wyleth
 Oskar
@@ -19,3 +18,7 @@ Kumena
 Aryel
 Katilda
 Tovolar
+Haktos
+Emmara
+Burakos
+Nymris

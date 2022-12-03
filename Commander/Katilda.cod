@@ -8,88 +8,90 @@
         <card number="1" name="Heronblade Elite"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Arcane Signet"/>
         <card number="1" name="Champion of Lambholt"/>
-        <card number="1" name="Mikaeus, the Lunarch"/>
         <card number="1" name="Cathar Commando"/>
         <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Avacyn's Pilgrim"/>
-        <card number="1" name="Inspiring Call"/>
-        <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Odric, Master Tactician"/>
         <card number="1" name="Devout Chaplain"/>
-        <card number="1" name="Abzan Falconer"/>
         <card number="1" name="Mother of Runes"/>
-        <card number="1" name="Knight of the White Orchid"/>
-        <card number="1" name="Heron's Grace Champion"/>
-        <card number="1" name="Somberwald Sage"/>
-        <card number="1" name="Riders of Gavony"/>
         <card number="1" name="Bounty Agent"/>
         <card number="1" name="Temple of Plenty"/>
-        <card number="1" name="Lavabrink Venturer"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Realmwalker"/>
-        <card number="1" name="Bastion Protector"/>
-        <card number="1" name="Sigardian Zealot"/>
         <card number="1" name="Sungrass Prairie"/>
-        <card number="11" name="Plains"/>
-        <card number="11" name="Forest"/>
+        <card number="10" name="Plains"/>
+        <card number="10" name="Forest"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Return to Nature"/>
-        <card number="1" name="Harmonize"/>
-        <card number="1" name="Stalwart Pathlighter"/>
-        <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Verge Rangers"/>
         <card number="1" name="Mirror Entity"/>
-        <card number="1" name="Abzan Battle Priest"/>
-        <card number="1" name="Fiend Hunter"/>
-        <card number="1" name="Selfless Squire"/>
-        <card number="1" name="Lifecrafter's Bestiary"/>
-        <card number="1" name="Elite Scaleguard"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Selesnya Sanctuary"/>
-        <card number="1" name="Return to Dust"/>
-        <card number="1" name="Hopeful Initiate"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Basri's Lieutenant"/>
-        <card number="1" name="Frontline Medic"/>
-        <card number="1" name="Windswept Heath"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Wooded Bastion"/>
         <card number="1" name="Fortified Village"/>
         <card number="1" name="Beast Whisperer"/>
-        <card number="1" name="Cut a Deal"/>
-        <card number="1" name="Make a Stand"/>
-        <card number="1" name="Fog"/>
-        <card number="1" name="Mandate of Peace"/>
-        <card number="1" name="Rootborn Defenses"/>
-        <card number="1" name="Thraben Doomsayer"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
-        <card number="1" name="Banisher Priest"/>
-        <card number="1" name="Obelisk of Urd"/>
-        <card number="1" name="Dictate of Heliod"/>
-        <card number="1" name="Your Temple Is Under Attack"/>
-        <card number="1" name="Folk Hero"/>
-        <card number="1" name="King Darien XLVIII"/>
-        <card number="1" name="Angel of Glory's Rise"/>
-        <card number="1" name="Ascend from Avernus"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Finale of Glory"/>
+        <card number="1" name="Magus of the Order"/>
+        <card number="1" name="Thalia, Guardian of Thraben"/>
+        <card number="1" name="Thraben Doomsayer"/>
+        <card number="1" name="Increasing Devotion"/>
+        <card number="1" name="Imposing Sovereign"/>
+        <card number="1" name="Reverent Hoplite"/>
+        <card number="1" name="Augur of Autumn"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Village Bell-Ringer"/>
+        <card number="1" name="Torens, Fist of the Angels"/>
+        <card number="1" name="Join the Dance"/>
+        <card number="1" name="Cathar's Call"/>
         <card number="1" name="Shamanic Revelation"/>
-        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Folk Hero"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Glare of Subdual"/>
+        <card number="1" name="Castle Ardenvale"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Sigarda, Heron's Grace"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Outland Liberator"/>
+        <card number="1" name="Sigrid, God-Favored"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Riders of Gavony"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Saryth, the Viper's Fang"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Cemetery Protector"/>
+        <card number="1" name="Trynn, Champion of Freedom"/>
+        <card number="1" name="Threats Undetected"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sigarda, Heron's Grace"/>
         <card number="2" name="Torens, Fist of the Angels"/>
         <card number="2" name="Champion of the Parish"/>
-        <card number="1" name="Mikaeus, the Lunarch"/>
-        <card number="4" name="Call the Coppercoats"/>
+        <card number="2" name="Mikaeus, the Lunarch"/>
+        <card number="5" name="Call the Coppercoats"/>
         <card number="1" name="Devout Chaplain"/>
         <card number="2" name="Mentor of the Meek"/>
         <card number="1" name="Bala Ged Sanctuary"/>
@@ -97,12 +99,12 @@
         <card number="1" name="Sigarda, Champion of Light"/>
         <card number="1" name="Mangara, the Diplomat"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
-        <card number="1" name="Adeline, Resplendent Cathar"/>
+        <card number="4" name="Adeline, Resplendent Cathar"/>
         <card number="1" name="Augur of Autumn"/>
         <card number="1" name="Realmwalker"/>
         <card number="1" name="Druid of Purification"/>
-        <card number="1" name="Seedborn Muse"/>
-        <card number="1" name="Thalia, Heretic Cathar"/>
+        <card number="2" name="Seedborn Muse"/>
+        <card number="3" name="Thalia, Heretic Cathar"/>
         <card number="1" name="Thalia's Lieutenant"/>
         <card number="1" name="Tireless Tracker"/>
         <card number="1" name="Beastmaster Ascension"/>
@@ -112,11 +114,11 @@
         <card number="1" name="Great Oak Guardian"/>
         <card number="1" name="Laid to Rest"/>
         <card number="2" name="Cleansing Nova"/>
-        <card number="1" name="Angel of Glory's Rise"/>
+        <card number="2" name="Angel of Glory's Rise"/>
         <card number="2" name="Krosan Grip"/>
-        <card number="1" name="Mirran Crusader"/>
+        <card number="2" name="Mirran Crusader"/>
         <card number="1" name="Join Shields"/>
-        <card number="2" name="Camaraderie"/>
+        <card number="4" name="Camaraderie"/>
         <card number="2" name="Maja, Bretagard Protector"/>
         <card number="1" name="Soul's Majesty"/>
         <card number="1" name="Bountiful Promenade"/>
@@ -126,12 +128,12 @@
         <card number="1" name="Razorverge Thicket"/>
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Temple Garden"/>
-        <card number="1" name="Windswept Heath"/>
-        <card number="1" name="Wooded Bastion"/>
-        <card number="2" name="Sol Ring"/>
+        <card number="2" name="Windswept Heath"/>
+        <card number="2" name="Wooded Bastion"/>
+        <card number="3" name="Sol Ring"/>
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Danitha Capashen, Paragon"/>
-        <card number="1" name="Overwhelming Stampede"/>
+        <card number="2" name="Overwhelming Stampede"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Hunter's Prowess"/>
         <card number="1" name="Odric, Lunarch Marshal"/>
@@ -143,7 +145,7 @@
         <card number="1" name="Graypelt Refuge"/>
         <card number="1" name="Blossoming Sands"/>
         <card number="1" name="Masked Vandal"/>
-        <card number="1" name="Basri's Lieutenant"/>
+        <card number="2" name="Basri's Lieutenant"/>
         <card number="1" name="Village Bell-Ringer"/>
         <card number="1" name="Slippery Bogbonder"/>
         <card number="1" name="Arctic Treeline"/>
@@ -152,37 +154,98 @@
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Scale Up"/>
         <card number="1" name="Mosswort Bridge"/>
-        <card number="2" name="Forest"/>
-        <card number="2" name="Plains"/>
-        <card number="1" name="Rootborn Defenses"/>
-        <card number="1" name="Make a Stand"/>
+        <card number="3" name="Forest"/>
+        <card number="3" name="Plains"/>
+        <card number="2" name="Rootborn Defenses"/>
+        <card number="2" name="Make a Stand"/>
         <card number="1" name="Hunter's Insight"/>
         <card number="2" name="Austere Command"/>
         <card number="1" name="True Conviction"/>
         <card number="1" name="Colossal Majesty"/>
-        <card number="1" name="Increasing Devotion"/>
-        <card number="1" name="Ecological Appreciation"/>
+        <card number="2" name="Increasing Devotion"/>
+        <card number="2" name="Ecological Appreciation"/>
         <card number="1" name="Wild Pair"/>
         <card number="1" name="Threats Undetected"/>
         <card number="1" name="Uncage the Menagerie"/>
         <card number="1" name="Regrowth"/>
         <card number="1" name="Giant Killer // Chop Down"/>
-        <card number="1" name="Thraben Doomsayer"/>
+        <card number="2" name="Thraben Doomsayer"/>
         <card number="1" name="Leinore, Autumn Sovereign"/>
         <card number="1" name="Avenging Huntbonder"/>
         <card number="1" name="Wild Beastmaster"/>
         <card number="1" name="Magus of the Order"/>
         <card number="1" name="Summoner's Pact"/>
         <card number="1" name="Shared Summons"/>
-        <card number="1" name="Primal Command"/>
+        <card number="2" name="Primal Command"/>
         <card number="1" name="Radiant Destiny"/>
         <card number="1" name="Herald's Horn"/>
-        <card number="1" name="Zendikar Resurgent"/>
+        <card number="2" name="Zendikar Resurgent"/>
         <card number="1" name="Force of Virtue"/>
         <card number="1" name="Heirloom Blade"/>
-        <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Shamanic Revelation"/>
+        <card number="2" name="Myriad Landscape"/>
+        <card number="2" name="Krosan Verge"/>
+        <card number="3" name="Shamanic Revelation"/>
         <card number="1" name="Saryth, the Viper's Fang"/>
+        <card number="1" name="Cut a Deal"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="2" name="Return to Nature"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Ascend from Avernus"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="Odric, Master Tactician"/>
+        <card number="1" name="Stalwart Pathlighter"/>
+        <card number="1" name="Frontline Medic"/>
+        <card number="1" name="Lovestruck Beast // Heart's Desire"/>
+        <card number="1" name="Cemetery Protector"/>
+        <card number="1" name="Cathar's Call"/>
+        <card number="1" name="Lavabrink Venturer"/>
+        <card number="1" name="Somberwald Sage"/>
+        <card number="1" name="Ethersworn Canonist"/>
+        <card number="1" name="Tuskguard Captain"/>
+        <card number="1" name="Selfless Squire"/>
+        <card number="1" name="Necrotic Ooze"/>
+        <card number="1" name="Nils, Discipline Enforcer"/>
+        <card number="1" name="Your Temple Is Under Attack"/>
+        <card number="1" name="Fog"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Reverent Hoplite"/>
+        <card number="1" name="Magus of the Disk"/>
+        <card number="2" name="Heron's Grace Champion"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Elite Scaleguard"/>
+        <card number="1" name="Banisher Priest"/>
+        <card number="2" name="Trynn, Champion of Freedom"/>
+        <card number="2" name="Inspiring Call"/>
+        <card number="1" name="Obelisk of Urd"/>
+        <card number="2" name="March of the Multitudes"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Dictate of Heliod"/>
+        <card number="1" name="Folk Hero"/>
+        <card number="1" name="Mangara of Corondor"/>
+        <card number="1" name="Sigardian Zealot"/>
+        <card number="1" name="Starnheim Unleashed"/>
+        <card number="1" name="Decree of Justice"/>
+        <card number="1" name="Riders of Gavony"/>
+        <card number="1" name="End-Raze Forerunners"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Visions of Glory"/>
+        <card number="1" name="Glare of Subdual"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Mandate of Peace"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Winds of Abandon"/>
+        <card number="1" name="Tocasia's Onulet"/>
+        <card number="1" name="Pyre of Heroes"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Timeless Witness"/>
+        <card number="1" name="King Darien XLVIII"/>
+        <card number="1" name="Abzan Battle Priest"/>
+        <card number="1" name="Abzan Falconer"/>
+        <card number="1" name="Hopeful Initiate"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Autumn's Veil"/>
     </zone>
 </cockatrice_deck>

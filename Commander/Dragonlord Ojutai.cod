@@ -15,7 +15,6 @@
         <card number="1" name="Loyal Unicorn"/>
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Return to Dust"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Reality Shift"/>
@@ -23,8 +22,6 @@
         <card number="1" name="Disenchant"/>
         <card number="1" name="Aetherspouts"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Tragic Arrogance"/>
-        <card number="1" name="Sword of Vengeance"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Fireshrieker"/>
         <card number="1" name="Ghostly Prison"/>
@@ -34,62 +31,67 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Battle Mastery"/>
-        <card number="1" name="Mammoth Umbra"/>
         <card number="1" name="Timely Ward"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Worn Powerstone"/>
-        <card number="1" name="Marble Diamond"/>
-        <card number="1" name="Sky Diamond"/>
         <card number="1" name="Star Compass"/>
         <card number="1" name="Coalition Relic"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Temple of Enlightenment"/>
-        <card number="1" name="Tranquil Cove"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Irrigated Farmland"/>
-        <card number="1" name="Glacial Floodplain"/>
-        <card number="1" name="Sejiri Refuge"/>
         <card number="1" name="Skycloud Expanse"/>
-        <card number="11" name="Plains"/>
+        <card number="9" name="Plains"/>
         <card number="9" name="Island"/>
-        <card number="1" name="Meandering River"/>
         <card number="1" name="Vizier of Tumbling Sands"/>
         <card number="1" name="Kelpie Guide"/>
-        <card number="1" name="Medomai the Ageless"/>
         <card number="1" name="Karn's Temporal Sundering"/>
         <card number="1" name="Part the Waterveil"/>
         <card number="1" name="Walk the Aeons"/>
         <card number="1" name="Silverblade Paladin"/>
-        <card number="1" name="Azorius Guildgate"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Port Town"/>
-        <card number="1" name="Triclopean Sight"/>
         <card number="1" name="Haunted Cloak"/>
         <card number="1" name="Selfless Savior"/>
-        <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Saw It Coming"/>
-        <card number="1" name="Confounding Conundrum"/>
         <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Loyal Warhound"/>
-        <card number="1" name="Ring of Thune"/>
-        <card number="1" name="Dissipate"/>
-        <card number="1" name="You Find the Villains' Lair"/>
         <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Windfall"/>
         <card number="1" name="Benevolent Bodyguard"/>
-        <card number="1" name="Slash the Ranks"/>
         <card number="1" name="Approach of the Second Sun"/>
+        <card number="1" name="Alrund's Epiphany"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Nimbleclaw Adept"/>
+        <card number="1" name="Clever Conjurer"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Stonespeaker Crystal"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Far Traveler"/>
+        <card number="1" name="Flaming Fist"/>
+        <card number="1" name="Sword Coast Sailor"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Mandate of Peace"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Glacial Fortress"/>
     </zone>
     <zone name="side">
         <card number="1" name="Isperia, Supreme Judge"/>
         <card number="1" name="Disdainful Stroke"/>
-        <card number="1" name="Medomai the Ageless"/>
+        <card number="2" name="Medomai the Ageless"/>
         <card number="1" name="Benevolent Bodyguard"/>
         <card number="1" name="Cliffside Rescuer"/>
         <card number="1" name="Selfless Savior"/>
@@ -100,21 +102,40 @@
         <card number="1" name="Hushbringer"/>
         <card number="1" name="Kinjalli's Sunwing"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Ring of Thune"/>
+        <card number="2" name="Ring of Thune"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Single Combat"/>
         <card number="1" name="Divine Reckoning"/>
-        <card number="1" name="Plains"/>
+        <card number="3" name="Plains"/>
         <card number="1" name="Thriving Heath"/>
         <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Slash the Ranks"/>
+        <card number="2" name="Slash the Ranks"/>
         <card number="1" name="Blackblade Reforged"/>
-        <card number="1" name="Confounding Conundrum"/>
+        <card number="2" name="Confounding Conundrum"/>
         <card number="1" name="Azorius Chancery"/>
         <card number="1" name="Soulherder"/>
         <card number="1" name="Sword of the Realms"/>
         <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Sejiri Refuge"/>
+        <card number="1" name="Tranquil Cove"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Meandering River"/>
+        <card number="1" name="Irrigated Farmland"/>
+        <card number="1" name="Glacial Floodplain"/>
+        <card number="1" name="Azorius Guildgate"/>
+        <card number="1" name="You Find the Villains' Lair"/>
+        <card number="1" name="Dissipate"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Sword of Vengeance"/>
+        <card number="1" name="Tragic Arrogance"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Triclopean Sight"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Mammoth Umbra"/>
     </zone>
 </cockatrice_deck>

@@ -47,12 +47,10 @@
         <card number="1" name="Verdant Mastery"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="Courser of Kruphix"/>
-        <card number="1" name="Fires of Invention"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Road // Ruin"/>
         <card number="1" name="Tangled Florahedron"/>
         <card number="1" name="Kazuul's Fury"/>
-        <card number="1" name="Song-Mad Treachery"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Bolt Bend"/>
         <card number="1" name="Tibalt's Trickery"/>
@@ -80,11 +78,13 @@
         <card number="1" name="Karplusan Forest"/>
         <card number="1" name="Game Trail"/>
         <card number="1" name="Temple of Abandon"/>
-        <card number="1" name="Arboreal Grazer"/>
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Fyndhorn Elves"/>
         <card number="1" name="Hunting Wilds"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Where Ancients Tread"/>
     </zone>
     <zone name="side">
         <card number="1" name="Tempt with Vengeance"/>
@@ -172,7 +172,7 @@
         <card number="1" name="Escape to the Wilds"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Mountain Valley"/>
-        <card number="1" name="Fires of Invention"/>
+        <card number="2" name="Fires of Invention"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Far Wanderings"/>
         <card number="1" name="Autumn's Veil"/>
@@ -198,5 +198,7 @@
         <card number="1" name="Rampaging Baloths"/>
         <card number="1" name="Terramorph"/>
         <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Arboreal Grazer"/>
+        <card number="1" name="Song-Mad Treachery"/>
     </zone>
 </cockatrice_deck>

@@ -53,30 +53,23 @@
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Fortified Village"/>
         <card number="1" name="Temple of Plenty"/>
-        <card number="10" name="Forest"/>
-        <card number="10" name="Plains"/>
+        <card number="11" name="Forest"/>
+        <card number="11" name="Plains"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Selfless Savior"/>
         <card number="1" name="Emerge Unscathed"/>
         <card number="1" name="Brave the Elements"/>
-        <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Road of Return"/>
-        <card number="1" name="Raised by Giants"/>
         <card number="1" name="Shield of the Oversoul"/>
         <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Armadillo Cloak"/>
         <card number="1" name="Unflinching Courage"/>
         <card number="1" name="Sanctum Weaver"/>
-        <card number="1" name="Sigil of the Empty Throne"/>
-        <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Mantle of the Ancients"/>
         <card number="1" name="Ancestral Mask"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Winds of Rath"/>
         <card number="1" name="Bear Umbra"/>
         <card number="1" name="Bastion Protector"/>
         <card number="1" name="Temple Garden"/>
@@ -85,6 +78,11 @@
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Dawn Charm"/>
         <card number="1" name="Eidolon of Countless Battles"/>
+        <card number="1" name="Sigarda's Aid"/>
+        <card number="1" name="Heliod's Pilgrim"/>
+        <card number="1" name="Battle Mastery"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Moon-Blessed Cleric"/>
     </zone>
     <zone name="side">
         <card number="1" name="Epic Proportions"/>
@@ -101,7 +99,7 @@
         <card number="2" name="Gods Willing"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Selesnya Guildgate"/>
-        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="2" name="Sigil of the Empty Throne"/>
         <card number="1" name="Hydra's Growth"/>
         <card number="1" name="Open the Armory"/>
         <card number="1" name="Heliod's Pilgrim"/>
@@ -113,14 +111,14 @@
         <card number="1" name="Indrik Umbra"/>
         <card number="1" name="Mammoth Umbra"/>
         <card number="1" name="Indestructibility"/>
-        <card number="1" name="Sigarda's Aid"/>
+        <card number="2" name="Sigarda's Aid"/>
         <card number="1" name="Divine Reckoning"/>
         <card number="1" name="Single Combat"/>
         <card number="2" name="Courser of Kruphix"/>
         <card number="1" name="Asceticism"/>
         <card number="1" name="Eidolon of Blossoms"/>
         <card number="1" name="Enchantress's Presence"/>
-        <card number="1" name="Vines of Vastwood"/>
+        <card number="2" name="Vines of Vastwood"/>
         <card number="3" name="Flaming Fist"/>
         <card number="1" name="Botanical Plaza"/>
         <card number="1" name="Light of Promise"/>
@@ -137,5 +135,10 @@
         <card number="2" name="Forest"/>
         <card number="1" name="Eidolon of Countless Battles"/>
         <card number="1" name="Guardian Augmenter"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Raised by Giants"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Winds of Rath"/>
     </zone>
 </cockatrice_deck>

@@ -7,7 +7,6 @@
         <card number="1" name="Dragonborn Looter"/>
         <card number="1" name="Merfolk Looter"/>
         <card number="1" name="Obsessive Stitcher"/>
-        <card number="1" name="Archfiend of Ifnir"/>
         <card number="1" name="Bone Miser"/>
         <card number="1" name="Skirge Familiar"/>
         <card number="1" name="Peer into the Abyss"/>
@@ -18,7 +17,6 @@
         <card number="1" name="Windfall"/>
         <card number="1" name="Whispering Madness"/>
         <card number="1" name="Notion Thief"/>
-        <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Containment Construct"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Infernal Grasp"/>
@@ -32,7 +30,6 @@
         <card number="1" name="Neutralize"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Rapid Hybridization"/>
-        <card number="1" name="See the Truth"/>
         <card number="1" name="Facet Reader"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Mana Leak"/>
@@ -56,7 +53,6 @@
         <card number="1" name="Lore Broker"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Enclave Cryptologist"/>
-        <card number="1" name="Drawn from Dreams"/>
         <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Laboratory Maniac"/>
         <card number="1" name="Coalition Relic"/>
@@ -74,7 +70,6 @@
         <card number="1" name="Polluted Delta"/>
         <card number="1" name="Geier Reach Sanitarium"/>
         <card number="1" name="Raving Visionary"/>
-        <card number="1" name="Razaketh's Rite"/>
         <card number="1" name="Solve the Equation"/>
         <card number="1" name="Coveted Prize"/>
         <card number="1" name="Said // Done"/>
@@ -84,7 +79,12 @@
         <card number="1" name="Dark Ritual"/>
         <card number="1" name="Ominous Seas"/>
         <card number="1" name="Faith of the Devoted"/>
-        <card number="1" name="Feast of Sanity"/>
+        <card number="1" name="Decanter of Endless Water"/>
+        <card number="1" name="Illicit Shipment"/>
+        <card number="1" name="Horizon Stone"/>
+        <card number="1" name="Razaketh's Rite"/>
+        <card number="1" name="Final Parting"/>
+        <card number="1" name="Increasing Ambition"/>
     </zone>
     <zone name="side">
         <card number="2" name="Dreamscape Artist"/>
@@ -133,7 +133,7 @@
         <card number="1" name="Demonic Bargain"/>
         <card number="1" name="Tainted Isle"/>
         <card number="1" name="Looter il-Kor"/>
-        <card number="1" name="Feast of Sanity"/>
+        <card number="2" name="Feast of Sanity"/>
         <card number="1" name="Thought Reflection"/>
         <card number="1" name="Sage of the Beyond"/>
         <card number="1" name="Eldritch Pact"/>
@@ -143,8 +143,13 @@
         <card number="1" name="Final Parting"/>
         <card number="1" name="Drake Haven"/>
         <card number="1" name="Faith of the Devoted"/>
-        <card number="1" name="Decanter of Endless Water"/>
         <card number="1" name="Behold the Multiverse"/>
         <card number="1" name="Dihada's Ploy"/>
+        <card number="1" name="Necrotic Ooze"/>
+        <card number="1" name="Razaketh's Rite"/>
+        <card number="1" name="Archfiend of Ifnir"/>
+        <card number="1" name="Drawn from Dreams"/>
+        <card number="1" name="See the Truth"/>
+        <card number="1" name="Feed the Swarm"/>
     </zone>
 </cockatrice_deck>

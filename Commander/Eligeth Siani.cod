@@ -7,73 +7,73 @@
         <card number="1" name="Siani, Eye of the Storm"/>
         <card number="30" name="Island"/>
         <card number="1" name="Atemsis, All-Seeing"/>
-        <card number="1" name="Ravenform"/>
-        <card number="1" name="Behold the Multiverse"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Augury Owl"/>
         <card number="1" name="Warden of Evos Isle"/>
-        <card number="1" name="Faerie Seer"/>
         <card number="1" name="Sphinx of Foresight"/>
-        <card number="1" name="Deliberate"/>
-        <card number="1" name="Preordain"/>
         <card number="1" name="Opt"/>
         <card number="1" name="Prognostic Sphinx"/>
         <card number="1" name="Esior, Wardwing Familiar"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Dissolve"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Windreader Sphinx"/>
         <card number="1" name="Pongify"/>
-        <card number="1" name="Scour All Possibilities"/>
         <card number="1" name="Siren Stormtamer"/>
-        <card number="1" name="Reconnaissance Mission"/>
-        <card number="1" name="Bident of Thassa"/>
-        <card number="1" name="Faerie Vandal"/>
         <card number="1" name="Faerie Formation"/>
-        <card number="1" name="Mass Manipulation"/>
         <card number="1" name="Thieving Skydiver"/>
-        <card number="1" name="Kefnet the Mindful"/>
         <card number="1" name="Loyal Drake"/>
         <card number="1" name="Nimble Obstructionist"/>
-        <card number="1" name="Tide Skimmer"/>
         <card number="1" name="Reality Shift"/>
-        <card number="1" name="Memory Drain"/>
         <card number="1" name="Aetherize"/>
         <card number="1" name="Aetherspouts"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Rapid Hybridization"/>
-        <card number="1" name="Lofty Denial"/>
-        <card number="1" name="Brainstorm"/>
-        <card number="1" name="Polymorphist's Jest"/>
-        <card number="1" name="Curse of the Swine"/>
-        <card number="1" name="Winged Words"/>
-        <card number="1" name="Flood of Tears"/>
-        <card number="1" name="River's Rebuke"/>
-        <card number="1" name="Devastation Tide"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Dispel"/>
-        <card number="1" name="Mana Leak"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Propaganda"/>
-        <card number="1" name="Medomai's Prophecy"/>
         <card number="1" name="Castle Vantress"/>
-        <card number="1" name="Zhalfirin Void"/>
-        <card number="1" name="Isolated Watchtower"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Caged Sun"/>
-        <card number="1" name="Mirror Match"/>
         <card number="1" name="Sky Diamond"/>
-        <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Hedron Archive"/>
-        <card number="1" name="Sisay's Ring"/>
         <card number="1" name="Sphinx of the Second Sun"/>
-        <card number="1" name="Omen of the Sea"/>
+        <card number="1" name="Defiler of Dreams"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Sapphire Dragon // Psionic Pulse"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Spectral Sailor"/>
+        <card number="1" name="Thryx, the Sudden Storm"/>
+        <card number="1" name="Whirler Rogue"/>
+        <card number="1" name="Iymrith, Desert Doom"/>
+        <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
+        <card number="1" name="Ethereal Investigator"/>
+        <card number="1" name="Dazzling Sphinx"/>
+        <card number="1" name="Sage of the Beyond"/>
+        <card number="1" name="Tempest Djinn"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Cemetery Illuminator"/>
+        <card number="1" name="Guardian of Tazeem"/>
+        <card number="1" name="Feywild Visitor"/>
+        <card number="1" name="Delay"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Miscast"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Moonfolk Puzzlemaker"/>
+        <card number="1" name="Foil"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Worn Powerstone"/>
     </zone>
     <zone name="side">
         <card number="2" name="Tamiyo's Epiphany"/>
@@ -81,7 +81,7 @@
         <card number="1" name="Jace, Mirror Mage"/>
         <card number="1" name="Witching Well"/>
         <card number="1" name="Stolen by the Fae"/>
-        <card number="1" name="Omen of the Sea"/>
+        <card number="2" name="Omen of the Sea"/>
         <card number="1" name="Sky Diamond"/>
         <card number="1" name="Ormos, Archive Keeper"/>
         <card number="1" name="Sigiled Starfish"/>
@@ -96,5 +96,38 @@
         <card number="1" name="Talrand, Sky Summoner"/>
         <card number="1" name="Favorable Winds"/>
         <card number="1" name="Loyal Drake"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Sisay's Ring"/>
+        <card number="1" name="Faerie Seer"/>
+        <card number="1" name="Medomai's Prophecy"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Dissolve"/>
+        <card number="1" name="Deliberate"/>
+        <card number="1" name="Polymorphist's Jest"/>
+        <card number="1" name="Mirror Match"/>
+        <card number="1" name="Memory Drain"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Isolated Watchtower"/>
+        <card number="1" name="Zhalfirin Void"/>
+        <card number="1" name="Devastation Tide"/>
+        <card number="1" name="Mass Manipulation"/>
+        <card number="1" name="Ravenform"/>
+        <card number="1" name="River's Rebuke"/>
+        <card number="1" name="Scour All Possibilities"/>
+        <card number="1" name="Winged Words"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Behold the Multiverse"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Augury Owl"/>
+        <card number="1" name="Lofty Denial"/>
+        <card number="1" name="Kefnet the Mindful"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Lose Focus"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Faerie Vandal"/>
+        <card number="1" name="Tide Skimmer"/>
     </zone>
 </cockatrice_deck>

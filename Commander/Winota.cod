@@ -10,11 +10,9 @@
         <card number="1" name="Blade Splicer"/>
         <card number="1" name="Captain of the Watch"/>
         <card number="1" name="Evangel of Heliod"/>
-        <card number="1" name="Raise the Alarm"/>
         <card number="1" name="Goldnight Commander"/>
         <card number="1" name="Odric, Master Tactician"/>
         <card number="1" name="Adriana, Captain of the Guard"/>
-        <card number="1" name="Hordeling Outburst"/>
         <card number="1" name="Angrath's Marauders"/>
         <card number="1" name="Resolute Blademaster"/>
         <card number="1" name="Legion Warboss"/>
@@ -32,7 +30,6 @@
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Eerie Interlude"/>
-        <card number="1" name="Midnight Haunting"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple of Triumph"/>
@@ -43,7 +40,6 @@
         <card number="11" name="Mountain"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Goblin Instigator"/>
         <card number="1" name="Verge Rangers"/>
         <card number="1" name="Ephemerate"/>
         <card number="1" name="Cliffside Rescuer"/>
@@ -51,13 +47,9 @@
         <card number="1" name="Hedron Crawler"/>
         <card number="1" name="Manakin"/>
         <card number="1" name="Millikin"/>
-        <card number="1" name="Palladium Myr"/>
         <card number="1" name="Cartographer's Hawk"/>
-        <card number="1" name="Haktos the Unscarred"/>
         <card number="1" name="Boreas Charger"/>
         <card number="1" name="Ornithopter of Paradise"/>
-        <card number="1" name="Phoenix of Ash"/>
-        <card number="1" name="Flamewake Phoenix"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Loyal Apprentice"/>
         <card number="1" name="Boros Garrison"/>
@@ -69,12 +61,9 @@
         <card number="1" name="Blacksmith's Skill"/>
         <card number="1" name="Furycalm Snarl"/>
         <card number="1" name="Wild Magic Surge"/>
-        <card number="1" name="Your Temple Is Under Attack"/>
         <card number="1" name="Cloudshift"/>
         <card number="1" name="Spectator Seating"/>
         <card number="1" name="Rugged Prairie"/>
-        <card number="1" name="Gift of Estates"/>
-        <card number="1" name="Cut a Deal"/>
         <card number="1" name="Commander Liara Portyr"/>
         <card number="1" name="Scouting Hawk"/>
         <card number="1" name="Bolt Bend"/>
@@ -83,6 +72,17 @@
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Arid Mesa"/>
         <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Thalia, Guardian of Thraben"/>
+        <card number="1" name="Vryn Wingmare"/>
+        <card number="1" name="Archon of Emeria"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Spirit of the Labyrinth"/>
+        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="1" name="Kinjalli's Sunwing"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Imposing Sovereign"/>
+        <card number="1" name="Hushbringer"/>
+        <card number="1" name="Ethersworn Canonist"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lightning Greaves"/>
@@ -92,8 +92,8 @@
         <card number="1" name="Gingerbrute"/>
         <card number="1" name="Breath of Fury"/>
         <card number="1" name="Village Bell-Ringer"/>
-        <card number="1" name="Palladium Myr"/>
-        <card number="1" name="Silverwing Squadron"/>
+        <card number="2" name="Palladium Myr"/>
+        <card number="2" name="Silverwing Squadron"/>
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Mogg War Marshal"/>
         <card number="1" name="Anax, Hardened in the Forge"/>
@@ -122,8 +122,8 @@
         <card number="1" name="Pia and Kiran Nalaar"/>
         <card number="1" name="Grinning Ignus"/>
         <card number="1" name="Cavalry Pegasus"/>
-        <card number="1" name="Spirit of the Labyrinth"/>
-        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="2" name="Spirit of the Labyrinth"/>
+        <card number="2" name="Eidolon of Rhetoric"/>
         <card number="1" name="Vryn Wingmare"/>
         <card number="1" name="Ambitious Farmhand"/>
         <card number="1" name="Cloudshift"/>
@@ -135,7 +135,7 @@
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Chance for Glory"/>
         <card number="1" name="Kangee's Lieutenant"/>
-        <card number="1" name="Archon of Emeria"/>
+        <card number="3" name="Archon of Emeria"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Boros Guildgate"/>
         <card number="1" name="Stone Quarry"/>
@@ -154,5 +154,17 @@
         <card number="1" name="Needle Spires"/>
         <card number="1" name="Impulsive Pilferer"/>
         <card number="1" name="Alpine Meadow"/>
+        <card number="1" name="Cut a Deal"/>
+        <card number="1" name="Goblin Instigator"/>
+        <card number="1" name="Hordeling Outburst"/>
+        <card number="1" name="Gift of Estates"/>
+        <card number="1" name="Leonin Arbiter"/>
+        <card number="1" name="Raise the Alarm"/>
+        <card number="1" name="Midnight Haunting"/>
+        <card number="1" name="Your Temple Is Under Attack"/>
+        <card number="1" name="Haktos the Unscarred"/>
+        <card number="1" name="Flamewake Phoenix"/>
+        <card number="1" name="Hushbringer"/>
+        <card number="1" name="Phoenix of Ash"/>
     </zone>
 </cockatrice_deck>

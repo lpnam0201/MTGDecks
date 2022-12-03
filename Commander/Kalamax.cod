@@ -28,31 +28,26 @@
         <card number="1" name="Behold the Multiverse"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Frontier Bivouac"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Mossfire Valley"/>
         <card number="1" name="Shivan Reef"/>
-        <card number="3" name="Forest"/>
+        <card number="4" name="Forest"/>
         <card number="4" name="Mountain"/>
         <card number="4" name="Island"/>
         <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Gruul Signet"/>
-        <card number="1" name="Comet Storm"/>
         <card number="1" name="Propaganda"/>
-        <card number="1" name="Thought Vessel"/>
         <card number="1" name="Silundi Vision"/>
         <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Commander's Plate"/>
         <card number="1" name="Starstorm"/>
         <card number="1" name="Mystic Confluence"/>
         <card number="1" name="Supreme Will"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Archmage Emeritus"/>
-        <card number="1" name="Choose Your Weapon"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Dig Through Time"/>
@@ -68,13 +63,9 @@
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Flooded Grove"/>
         <card number="1" name="Rockfall Vale"/>
-        <card number="1" name="Swarm Intelligence"/>
-        <card number="1" name="Become Immense"/>
-        <card number="1" name="Vines of Vastwood"/>
         <card number="1" name="Unexpected Windfall"/>
         <card number="1" name="Reverberate"/>
         <card number="1" name="Insidious Will"/>
-        <card number="1" name="Harrow"/>
         <card number="1" name="Karplusan Forest"/>
         <card number="1" name="Steam Vents"/>
         <card number="1" name="Stomping Ground"/>
@@ -88,19 +79,27 @@
         <card number="1" name="Reiterate"/>
         <card number="1" name="Soul's Fire"/>
         <card number="1" name="Invert // Invent"/>
-        <card number="1" name="Electrolyze"/>
         <card number="1" name="Increasing Vengeance"/>
-        <card number="1" name="Volcanic Fallout"/>
-        <card number="1" name="Sulfurous Blast"/>
-        <card number="1" name="Flame Sweep"/>
         <card number="1" name="Dispel"/>
         <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Unwind"/>
+        <card number="1" name="Memory Deluge"/>
+        <card number="1" name="Firemind's Foresight"/>
+        <card number="1" name="Miscast"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Gravitic Punch"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Talisman of Impulse"/>
+        <card number="1" name="Volcanic Fallout"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Farseek"/>
     </zone>
     <zone name="side">
         <card number="2" name="Mission Briefing"/>
         <card number="2" name="Mana Leak"/>
         <card number="1" name="Talrand, Sky Summoner"/>
-        <card number="1" name="Talisman of Impulse"/>
+        <card number="2" name="Talisman of Impulse"/>
         <card number="1" name="Gruul Signet"/>
         <card number="1" name="Sublime Epiphany"/>
         <card number="1" name="Wort, the Raidmother"/>
@@ -114,7 +113,7 @@
         <card number="2" name="Simic Charm"/>
         <card number="1" name="Into the Story"/>
         <card number="1" name="Searing Spear"/>
-        <card number="1" name="Swarm Intelligence"/>
+        <card number="2" name="Swarm Intelligence"/>
         <card number="1" name="Anticipate"/>
         <card number="1" name="Ral Zarek"/>
         <card number="1" name="Gruul Turf"/>
@@ -124,18 +123,18 @@
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Increasing Vengeance"/>
-        <card number="1" name="Farseek"/>
-        <card number="1" name="Rampant Growth"/>
+        <card number="2" name="Farseek"/>
+        <card number="2" name="Rampant Growth"/>
         <card number="2" name="Invigorate"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="2" name="Bounty of Might"/>
-        <card number="1" name="Choose Your Weapon"/>
+        <card number="2" name="Choose Your Weapon"/>
         <card number="1" name="Invigorating Surge"/>
         <card number="2" name="Lunar Frenzy"/>
         <card number="2" name="Soul's Fire"/>
         <card number="1" name="You Come to a River"/>
         <card number="4" name="Into the Roil"/>
-        <card number="1" name="Vines of Vastwood"/>
+        <card number="2" name="Vines of Vastwood"/>
         <card number="1" name="Memory Deluge"/>
         <card number="2" name="Collision // Colossus"/>
         <card number="1" name="Sol Ring"/>
@@ -145,8 +144,8 @@
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Backdraft Hellkite"/>
         <card number="1" name="Chemister's Insight"/>
-        <card number="2" name="Volcanic Fallout"/>
-        <card number="1" name="Flame Sweep"/>
+        <card number="3" name="Volcanic Fallout"/>
+        <card number="2" name="Flame Sweep"/>
         <card number="1" name="Thrill of Possibility"/>
         <card number="2" name="You Look Upon the Tarrasque"/>
         <card number="2" name="Fists of Flame"/>
@@ -182,9 +181,9 @@
         <card number="1" name="Crop Rotation"/>
         <card number="1" name="Cultivator's Caravan"/>
         <card number="1" name="Guttersnipe"/>
-        <card number="1" name="Harrow"/>
+        <card number="2" name="Harrow"/>
         <card number="1" name="Elminster's Simulacrum"/>
-        <card number="1" name="Electrolyze"/>
+        <card number="2" name="Electrolyze"/>
         <card number="1" name="Temur Battle Rage"/>
         <card number="1" name="Electrodominance"/>
         <card number="1" name="Holdout Settlement"/>
@@ -198,5 +197,13 @@
         <card number="1" name="Blossoming Defense"/>
         <card number="1" name="Dream Fracture"/>
         <card number="1" name="Izzet Charm"/>
+        <card number="1" name="Sulfurous Blast"/>
+        <card number="1" name="Comet Storm"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Become Immense"/>
+        <card number="1" name="Invert // Invent"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Nature's Lore"/>
     </zone>
 </cockatrice_deck>

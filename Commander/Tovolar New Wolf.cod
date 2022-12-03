@@ -51,7 +51,6 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="The Celestus"/>
         <card number="1" name="Wrap in Vigor"/>
-        <card number="1" name="Unnatural Moonrise"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Gruul Signet"/>
         <card number="1" name="Rampant Growth"/>
@@ -67,7 +66,6 @@
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Realmwalker"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Tamiyo's Safekeeping"/>
         <card number="1" name="Vivien, Champion of the Wilds"/>
         <card number="1" name="Ram Through"/>
         <card number="1" name="Primal Adversary"/>
@@ -85,6 +83,8 @@
         <card number="1" name="Mob Rule"/>
         <card number="1" name="Disrupt Decorum"/>
         <card number="1" name="Ferocious Pup"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Fellwar Stone"/>
     </zone>
     <zone name="side">
         <card number="1" name="Overwhelming Stampede"/>
@@ -122,7 +122,7 @@
         <card number="2" name="Farseek"/>
         <card number="1" name="Afflicted Deserter"/>
         <card number="3" name="Into the Night"/>
-        <card number="1" name="Unnatural Moonrise"/>
+        <card number="2" name="Unnatural Moonrise"/>
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Lambholt Elder"/>
@@ -192,5 +192,6 @@
         <card number="1" name="Withstand Death"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Road of Return"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
     </zone>
 </cockatrice_deck>

@@ -17,17 +17,12 @@
         <card number="1" name="Krosan Verge"/>
         <card number="1" name="Sungrass Prairie"/>
         <card number="4" name="Forest"/>
-        <card number="3" name="Plains"/>
+        <card number="4" name="Plains"/>
         <card number="4" name="Island"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Minimus Containment"/>
-        <card number="1" name="Kasmina's Transmutation"/>
-        <card number="1" name="Mystic Subdual"/>
-        <card number="1" name="Reprobation"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Mirror Shield"/>
-        <card number="1" name="Halimar Depths"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Blackblade Reforged"/>
         <card number="1" name="Colossus Hammer"/>
@@ -53,7 +48,6 @@
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Cloudsteel Kirin"/>
         <card number="1" name="Brass Knuckles"/>
-        <card number="1" name="Witness Protection"/>
         <card number="1" name="Aqueous Form"/>
         <card number="1" name="Seraphic Greatsword"/>
         <card number="1" name="Rancor"/>
@@ -80,21 +74,26 @@
         <card number="1" name="Adarkar Wastes"/>
         <card number="1" name="Flooded Grove"/>
         <card number="1" name="Campfire"/>
-        <card number="1" name="Sigiled Starfish"/>
         <card number="1" name="Crystal Ball"/>
-        <card number="1" name="Mazemind Tome"/>
-        <card number="1" name="Tanuki Transplanter"/>
         <card number="1" name="Scepter of Celebration"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Disruption Protocol"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Stubborn Denial"/>
         <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Sram, Senior Edificer"/>
-        <card number="1" name="Nissa, Steward of Elements"/>
         <card number="1" name="Tamiyo, Collector of Tales"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Augur of Autumn"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Verge Rangers"/>
+        <card number="1" name="Cemetery Illuminator"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Delay"/>
+        <card number="1" name="Winds of Abandon"/>
     </zone>
     <zone name="side">
         <card number="2" name="Starnheim Courser"/>
@@ -193,7 +192,7 @@
         <card number="2" name="Benevolent Blessing"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Belt of Giant Strength"/>
-        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="2" name="Sram, Senior Edificer"/>
         <card number="1" name="Brass Squire"/>
         <card number="1" name="Confiscate"/>
         <card number="2" name="Mantle of the Ancients"/>
@@ -213,7 +212,7 @@
         <card number="2" name="Ardenn, Intrepid Archaeologist"/>
         <card number="1" name="Omen of the Sea"/>
         <card number="1" name="Omen of the Hunt"/>
-        <card number="1" name="Nissa, Steward of Elements"/>
+        <card number="2" name="Nissa, Steward of Elements"/>
         <card number="2" name="Puresteel Paladin"/>
         <card number="1" name="Argentum Armor"/>
         <card number="1" name="Hedgewitch's Mask"/>
@@ -263,5 +262,15 @@
         <card number="1" name="Tamiyo, Collector of Tales"/>
         <card number="1" name="Tamiyo's Safekeeping"/>
         <card number="1" name="Blacksmith's Skill"/>
+        <card number="1" name="Disruption Protocol"/>
+        <card number="1" name="Sigiled Starfish"/>
+        <card number="1" name="Tanuki Transplanter"/>
+        <card number="1" name="Mazemind Tome"/>
+        <card number="1" name="Halimar Depths"/>
+        <card number="1" name="Kasmina's Transmutation"/>
+        <card number="1" name="Minimus Containment"/>
+        <card number="1" name="Mystic Subdual"/>
+        <card number="1" name="Reprobation"/>
+        <card number="1" name="Witness Protection"/>
     </zone>
 </cockatrice_deck>

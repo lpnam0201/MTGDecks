@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Alseid of Life's Bounty"/>
         <card number="1" name="Selfless Savior"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Generous Gift"/>
@@ -16,14 +15,12 @@
         <card number="10" name="Plains"/>
         <card number="10" name="Mountain"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Disenchant"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Sunhome, Fortress of the Legion"/>
         <card number="1" name="Mirror Shield"/>
         <card number="1" name="Sejiri Shelter"/>
         <card number="1" name="Fireshrieker"/>
         <card number="1" name="Wyleth, Soul of Steel"/>
-        <card number="1" name="Akiri, Fearless Voyager"/>
         <card number="1" name="Ardenn, Intrepid Archaeologist"/>
         <card number="1" name="Puresteel Paladin"/>
         <card number="1" name="Blackblade Reforged"/>
@@ -42,19 +39,14 @@
         <card number="1" name="Forging the Tyrite Sword"/>
         <card number="1" name="Sunforger"/>
         <card number="1" name="Open the Armory"/>
-        <card number="1" name="Hero's Blade"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Colossus Hammer"/>
-        <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Inspiring Statuary"/>
-        <card number="1" name="Plate Armor"/>
         <card number="1" name="Boros Garrison"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Axgard Armory"/>
         <card number="1" name="Blacksmith's Skill"/>
-        <card number="1" name="Emerge Unscathed"/>
         <card number="1" name="Raiyuu, Storm's Edge"/>
         <card number="1" name="Selfless Samurai"/>
         <card number="1" name="Sol Ring"/>
@@ -72,22 +64,30 @@
         <card number="1" name="The Reaver Cleaver"/>
         <card number="1" name="Astor, Bearer of Blades"/>
         <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Arid Mesa"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Spectator Seating"/>
         <card number="1" name="Bloodforged Battle-Axe"/>
         <card number="1" name="Greatsword of Tyr"/>
-        <card number="1" name="Silent Arbiter"/>
-        <card number="1" name="Fires of Invention"/>
         <card number="1" name="Dawn Charm"/>
-        <card number="1" name="Mandate of Peace"/>
-        <card number="1" name="Campfire"/>
         <card number="1" name="Komainu Battle Armor"/>
         <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="1" name="Karlach, Fury of Avernus"/>
+        <card number="1" name="Relentless Assault"/>
+        <card number="1" name="Seize the Day"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Kediss, Emberclaw Familiar"/>
+        <card number="1" name="Zirda, the Dawnwaker"/>
+        <card number="1" name="Akki Battle Squad"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Loran's Escape"/>
+        <card number="1" name="Thran Power Suit"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Emerge Unscathed"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Blasphemous Act"/>
+        <card number="2" name="Blasphemous Act"/>
         <card number="2" name="Duelist's Heritage"/>
         <card number="1" name="Fiery Emancipation"/>
         <card number="1" name="Dictate of the Twin Gods"/>
@@ -115,7 +115,7 @@
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Spiteful Motives"/>
         <card number="1" name="Face of Divinity"/>
-        <card number="1" name="Winds of Abandon"/>
+        <card number="2" name="Winds of Abandon"/>
         <card number="1" name="Hyena Umbra"/>
         <card number="1" name="Mirror Shield"/>
         <card number="8" name="Plains"/>
@@ -177,7 +177,7 @@
         <card number="1" name="Single Combat"/>
         <card number="1" name="Divine Reckoning"/>
         <card number="1" name="Axgard Armory"/>
-        <card number="2" name="Gods Willing"/>
+        <card number="3" name="Gods Willing"/>
         <card number="1" name="Brash Taunter"/>
         <card number="1" name="Danitha Capashen, Paragon"/>
         <card number="1" name="Godo, Bandit Warlord"/>
@@ -226,5 +226,18 @@
         <card number="1" name="Valorous Stance"/>
         <card number="1" name="Wear // Tear"/>
         <card number="1" name="Deflecting Palm"/>
+        <card number="1" name="Akiri, Fearless Voyager"/>
+        <card number="2" name="Silent Arbiter"/>
+        <card number="1" name="Fires of Invention"/>
+        <card number="2" name="Plate Armor"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Campfire"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Disenchant"/>
+        <card number="2" name="Mandate of Peace"/>
+        <card number="1" name="Chance for Glory"/>
+        <card number="1" name="Hero's Blade"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Emerge Unscathed"/>
     </zone>
 </cockatrice_deck>

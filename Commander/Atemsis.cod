@@ -6,74 +6,74 @@
         <card number="1" name="Atemsis, All-Seeing"/>
         <card number="1" name="Misdirection"/>
         <card number="1" name="Propaganda"/>
-        <card number="1" name="Treasure Cruise"/>
-        <card number="1" name="Thought Reflection"/>
-        <card number="1" name="Teferi's Ageless Insight"/>
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Commit // Memory"/>
-        <card number="1" name="Midnight Clock"/>
-        <card number="1" name="Body of Knowledge"/>
         <card number="1" name="Sorcerer's Wand"/>
-        <card number="1" name="Brainstorm"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Stormtide Leviathan"/>
         <card number="1" name="Vizier of Tumbling Sands"/>
         <card number="1" name="Kelpie Guide"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Aetherize"/>
         <card number="1" name="Aetherspouts"/>
-        <card number="1" name="Behold the Multiverse"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Scavenger Grounds"/>
         <card number="30" name="Island"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Hedron Archive"/>
         <card number="1" name="Sky Diamond"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Worn Powerstone"/>
-        <card number="1" name="Caged Sun"/>
         <card number="1" name="Prismatic Lens"/>
-        <card number="1" name="Star Compass"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Dispel"/>
         <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Guildless Commons"/>
-        <card number="1" name="Foil"/>
-        <card number="1" name="Precognitive Perception"/>
-        <card number="1" name="Wizard Class"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Viridian Longbow"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Stubborn Denial"/>
-        <card number="1" name="Opportunity"/>
-        <card number="1" name="Mystic Confluence"/>
-        <card number="1" name="Unsubstantiate"/>
         <card number="1" name="Disdainful Stroke"/>
-        <card number="1" name="Dream Fracture"/>
-        <card number="1" name="You Come to a River"/>
         <card number="1" name="Dig Through Time"/>
-        <card number="1" name="Snow Day"/>
-        <card number="1" name="Thirst for Discovery"/>
-        <card number="1" name="Trinket Mage"/>
-        <card number="1" name="Omniscience"/>
-        <card number="1" name="You See a Guard Approach"/>
-        <card number="1" name="Palladium Myr"/>
-        <card number="1" name="Ornithopter of Paradise"/>
-        <card number="1" name="Into the Story"/>
-        <card number="1" name="Mental Journey"/>
-        <card number="1" name="Neutralize"/>
-        <card number="1" name="Commander's Insight"/>
-        <card number="1" name="Paradoxical Outcome"/>
         <card number="1" name="Fellwar Stone"/>
         <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Dive Down"/>
+        <card number="1" name="Stonespeaker Crystal"/>
+        <card number="1" name="Sisay's Ring"/>
+        <card number="1" name="Memory Deluge"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Part the Waterveil"/>
+        <card number="1" name="Walk the Aeons"/>
+        <card number="1" name="Decanter of Endless Water"/>
+        <card number="1" name="Disciple of the Ring"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Bag of Holding"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Alrund's Epiphany"/>
+        <card number="1" name="Patriar's Seal"/>
+        <card number="1" name="Clever Conjurer"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Mystic Sanctuary"/>
+        <card number="1" name="Ur-Golem's Eye"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Miscast"/>
+        <card number="1" name="Wizard Class"/>
+        <card number="1" name="Body of Knowledge"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Nimbleclaw Adept"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Stormtide Leviathan"/>
+        <card number="1" name="Ormos, Archive Keeper"/>
+        <card number="1" name="Arcanis the Omnipotent"/>
+        <card number="1" name="Drawn from Dreams"/>
+        <card number="1" name="Delay"/>
+        <card number="1" name="All-Seeing Arbiter"/>
     </zone>
     <zone name="side">
         <card number="2" name="Serum Visions"/>
@@ -82,9 +82,9 @@
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Ponder"/>
         <card number="1" name="Memorial to Genius"/>
-        <card number="1" name="Archmage Emeritus"/>
+        <card number="3" name="Archmage Emeritus"/>
         <card number="2" name="Rush of Knowledge"/>
-        <card number="1" name="Reality Shift"/>
+        <card number="2" name="Reality Shift"/>
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Pongify"/>
         <card number="3" name="Spell Pierce"/>
@@ -94,40 +94,40 @@
         <card number="1" name="Opt"/>
         <card number="1" name="Game Plan"/>
         <card number="1" name="Dig Through Time"/>
-        <card number="1" name="Paradoxical Outcome"/>
+        <card number="2" name="Paradoxical Outcome"/>
         <card number="2" name="Tidings"/>
         <card number="1" name="Wolfhunter's Quiver"/>
-        <card number="2" name="Gadwick, the Wizened"/>
+        <card number="3" name="Gadwick, the Wizened"/>
         <card number="1" name="Arcanis the Omnipotent"/>
         <card number="1" name="Viridian Longbow"/>
         <card number="1" name="Bag of Holding"/>
         <card number="1" name="Ravenform"/>
         <card number="1" name="Coral Atoll"/>
-        <card number="1" name="Guildless Commons"/>
+        <card number="2" name="Guildless Commons"/>
         <card number="1" name="Buried Ruin"/>
         <card number="1" name="Endless Atlas"/>
-        <card number="1" name="Aqueous Form"/>
+        <card number="2" name="Aqueous Form"/>
         <card number="2" name="Siren Stormtamer"/>
-        <card number="1" name="Esior, Wardwing Familiar"/>
+        <card number="2" name="Esior, Wardwing Familiar"/>
         <card number="2" name="Turn Aside"/>
-        <card number="2" name="Dive Down"/>
+        <card number="3" name="Dive Down"/>
         <card number="1" name="Said // Done"/>
-        <card number="3" name="Mental Journey"/>
+        <card number="4" name="Mental Journey"/>
         <card number="2" name="Discontinuity"/>
         <card number="1" name="All Is Dust"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Boon of the Wish-Giver"/>
         <card number="2" name="Mind Spring"/>
         <card number="1" name="Ingenious Mastery"/>
-        <card number="1" name="Flood of Tears"/>
+        <card number="2" name="Flood of Tears"/>
         <card number="1" name="Miscast"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Memory Lapse"/>
         <card number="2" name="Chemister's Insight"/>
         <card number="1" name="Kefnet the Mindful"/>
-        <card number="1" name="Neutralize"/>
-        <card number="1" name="Thirst for Discovery"/>
+        <card number="2" name="Neutralize"/>
+        <card number="2" name="Thirst for Discovery"/>
         <card number="1" name="Dreamscape Artist"/>
         <card number="1" name="Perplexing Test"/>
         <card number="2" name="Rain of Revelation"/>
@@ -139,12 +139,61 @@
         <card number="1" name="Triskaidekaphile"/>
         <card number="1" name="Frantic Search"/>
         <card number="1" name="Blue Sun's Zenith"/>
-        <card number="1" name="Diviner's Portent"/>
-        <card number="1" name="Commander's Insight"/>
+        <card number="2" name="Diviner's Portent"/>
+        <card number="4" name="Commander's Insight"/>
         <card number="1" name="You Find the Villains' Lair"/>
         <card number="1" name="Lazotep Plating"/>
         <card number="1" name="Dragonlord's Prerogative"/>
         <card number="1" name="Apprentice Wizard"/>
         <card number="2" name="Slip Out the Back"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Palladium Myr"/>
+        <card number="1" name="Snow Day"/>
+        <card number="1" name="Teferi's Ageless Insight"/>
+        <card number="1" name="You Come to a River"/>
+        <card number="2" name="Sublime Epiphany"/>
+        <card number="1" name="Thought Reflection"/>
+        <card number="1" name="Omniscience"/>
+        <card number="1" name="Opportunity"/>
+        <card number="1" name="Precognitive Perception"/>
+        <card number="1" name="Unsubstantiate"/>
+        <card number="2" name="Midnight Clock"/>
+        <card number="1" name="Wizard Class"/>
+        <card number="2" name="Body of Knowledge"/>
+        <card number="2" name="Trinket Mage"/>
+        <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="Narset, Parter of Veils"/>
+        <card number="1" name="You See a Guard Approach"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Dream Fracture"/>
+        <card number="1" name="Stormtide Leviathan"/>
+        <card number="1" name="Into the Story"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Lantern of Revealing"/>
+        <card number="1" name="Behold the Multiverse"/>
+        <card number="1" name="River's Rebuke"/>
+        <card number="1" name="Blink of an Eye"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Nimbleclaw Adept"/>
+        <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Delay"/>
+        <card number="2" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Teferi, Master of Time"/>
+        <card number="1" name="Aether Gale"/>
+        <card number="1" name="Sphinx of the Final Word"/>
+        <card number="1" name="Kira, Great Glass-Spinner"/>
+        <card number="1" name="Jin-Gitaxias, Core Augur"/>
+        <card number="1" name="All-Seeing Arbiter"/>
+        <card number="1" name="Deadeye Quartermaster"/>
+        <card number="1" name="Foil"/>
+        <card number="1" name="Consecrated Sphinx"/>
+        <card number="1" name="Atemsis, All-Seeing"/>
     </zone>
 </cockatrice_deck>

@@ -63,7 +63,6 @@
         <card number="1" name="Aven Mindcensor"/>
         <card number="1" name="Nadier's Nightblade"/>
         <card number="1" name="Vizkopa Guildmage"/>
-        <card number="1" name="Leonin Relic-Warder"/>
         <card number="1" name="Orzhov Enforcer"/>
         <card number="1" name="Benevolent Bodyguard"/>
         <card number="1" name="Diabolic Tutor"/>
@@ -71,7 +70,6 @@
         <card number="1" name="Ayli, Eternal Pilgrim"/>
         <card number="1" name="Demon's Disciple"/>
         <card number="1" name="Merciless Executioner"/>
-        <card number="1" name="Venomous Changeling"/>
         <card number="1" name="Hammers of Moradin"/>
         <card number="1" name="Mage's Attendant"/>
         <card number="1" name="Commander's Plate"/>
@@ -83,8 +81,10 @@
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Mangara of Corondor"/>
         <card number="1" name="Sivriss, Nightmare Speaker"/>
-        <card number="1" name="Blot Out the Sky"/>
-        <card number="1" name="Dawnbringer Cleric"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Selfless Spirit"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Nighthawk"/>
@@ -129,10 +129,13 @@
         <card number="2" name="Austere Command"/>
         <card number="1" name="Devour Intellect"/>
         <card number="1" name="Duress"/>
-        <card number="1" name="Dawnbringer Cleric"/>
+        <card number="2" name="Dawnbringer Cleric"/>
         <card number="1" name="Selfless Spirit"/>
         <card number="1" name="Expedition Skulker"/>
         <card number="1" name="Mindblade Render"/>
         <card number="1" name="Deadeye Harpooner"/>
+        <card number="1" name="Blot Out the Sky"/>
+        <card number="1" name="Venomous Changeling"/>
+        <card number="1" name="Leonin Relic-Warder"/>
     </zone>
 </cockatrice_deck>

@@ -3,7 +3,6 @@
     <deckname>Garna</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="&quot;Garna, Aggro Champ&quot;"/>
         <card number="1" name="Lagomos, Hand of Hatred"/>
         <card number="1" name="Rekindling Phoenix"/>
         <card number="1" name="Kardur, Doomscourge"/>
@@ -23,7 +22,6 @@
         <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Ambition's Cost"/>
         <card number="1" name="Ancient Craving"/>
-        <card number="1" name="Village Rites"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Living Death"/>
         <card number="1" name="Skullclamp"/>
@@ -84,6 +82,8 @@
         <card number="1" name="Mahadi, Emporium Master"/>
         <card number="1" name="Price of Fame"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Garna, Bloodfist of Keld"/>
+        <card number="1" name="Wayfarer's Bauble"/>
     </zone>
     <zone name="side">
         <card number="1" name="Glass-Cast Heart"/>
@@ -133,5 +133,7 @@
         <card number="1" name="Lampad of Death's Vigil"/>
         <card number="1" name="Altar's Reap"/>
         <card number="1" name="Vampiric Rites"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="&quot;Garna, Aggro Champ&quot;"/>
     </zone>
 </cockatrice_deck>

@@ -21,7 +21,6 @@
         <card number="1" name="Maraleaf Pixie"/>
         <card number="1" name="Acidic Slime"/>
         <card number="1" name="Leafkin Druid"/>
-        <card number="1" name="Reflector Mage"/>
         <card number="1" name="Gyre Engineer"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Negate"/>
@@ -35,12 +34,9 @@
         <card number="1" name="Kiora's Follower"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Prairie Stream"/>
-        <card number="1" name="Temple of Plenty"/>
-        <card number="1" name="Temple of Enlightenment"/>
-        <card number="1" name="Temple of Mystery"/>
-        <card number="8" name="Forest"/>
-        <card number="7" name="Island"/>
-        <card number="6" name="Plains"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Plains"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Dispel"/>
@@ -48,9 +44,6 @@
         <card number="1" name="Seaside Citadel"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Thriving Grove"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Thriving Heath"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Storvald, Frost Giant Jarl"/>
@@ -69,22 +62,38 @@
         <card number="1" name="Elvish Rejuvenator"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
-        <card number="1" name="Cultivator of Blades"/>
         <card number="1" name="Mirror Entity"/>
-        <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Selfless Squire"/>
         <card number="1" name="Angel of the Dire Hour"/>
-        <card number="1" name="Shepherd of the Flock // Usher to Safety"/>
-        <card number="1" name="Eerie Interlude"/>
         <card number="1" name="Fierce Empath"/>
-        <card number="1" name="Spell Pierce"/>
         <card number="1" name="Reclusive Taxidermist"/>
         <card number="1" name="Yavimaya Dryad"/>
-        <card number="1" name="Ephemerate"/>
         <card number="1" name="Road of Return"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Coiling Oracle"/>
+        <card number="1" name="Endless Detour"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Llanowar Loamspeaker"/>
+        <card number="1" name="Drover of the Mighty"/>
+        <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Rumor Gatherer"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Path to Exile"/>
     </zone>
     <zone name="side">
         <card number="2" name="Memory Lapse"/>
@@ -107,7 +116,7 @@
         <card number="1" name="Turn to Mist"/>
         <card number="1" name="Terastodon"/>
         <card number="2" name="Kor Skyfisher"/>
-        <card number="1" name="Ephemerate"/>
+        <card number="2" name="Ephemerate"/>
         <card number="1" name="Beastcaller Savant"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Dispel"/>
@@ -120,7 +129,7 @@
         <card number="2" name="Primordial Sage"/>
         <card number="1" name="Village Bell-Ringer"/>
         <card number="1" name="Flood of Tears"/>
-        <card number="1" name="Shepherd of the Flock // Usher to Safety"/>
+        <card number="2" name="Shepherd of the Flock // Usher to Safety"/>
         <card number="2" name="Sol Ring"/>
         <card number="1" name="Meteor Golem"/>
         <card number="2" name="Dovin's Veto"/>
@@ -129,11 +138,11 @@
         <card number="1" name="Vizier of the Menagerie"/>
         <card number="1" name="Dauntless Escort"/>
         <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Thriving Grove"/>
-        <card number="1" name="Thriving Heath"/>
-        <card number="1" name="Thriving Isle"/>
+        <card number="2" name="Thriving Grove"/>
+        <card number="2" name="Thriving Heath"/>
+        <card number="2" name="Thriving Isle"/>
         <card number="1" name="Agent of Treachery"/>
-        <card number="1" name="Eerie Interlude"/>
+        <card number="2" name="Eerie Interlude"/>
         <card number="1" name="Soul of the Harvest"/>
         <card number="1" name="Blacksmith's Skill"/>
         <card number="1" name="Voracious Greatshark"/>
@@ -146,6 +155,19 @@
         <card number="1" name="Arctic Treeline"/>
         <card number="1" name="Rimewood Falls"/>
         <card number="1" name="Glacial Floodplain"/>
-        <card number="1" name="Coiling Oracle"/>
+        <card number="2" name="Coiling Oracle"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="4" name="Forest"/>
+        <card number="3" name="Island"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Cultivator of Blades"/>
+        <card number="1" name="Reclusive Taxidermist"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Reflector Mage"/>
     </zone>
 </cockatrice_deck>

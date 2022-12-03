@@ -10,7 +10,6 @@
         <card number="1" name="Gerrard, Weatherlight Hero"/>
         <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Call the Coppercoats"/>
-        <card number="1" name="Martial Coup"/>
         <card number="1" name="Prava of the Steel Legion"/>
         <card number="1" name="Skyknight Vanguard"/>
         <card number="1" name="Captain of the Watch"/>
@@ -49,10 +48,7 @@
         <card number="1" name="Folk Hero"/>
         <card number="1" name="Passionate Archaeologist"/>
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Your Temple Is Under Attack"/>
         <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Rootborn Defenses"/>
-        <card number="1" name="Make a Stand"/>
         <card number="1" name="Response // Resurgence"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Generous Gift"/>
@@ -73,7 +69,6 @@
         <card number="1" name="Furycalm Snarl"/>
         <card number="1" name="Spectator Seating"/>
         <card number="1" name="Shared Animosity"/>
-        <card number="1" name="Heirloom Blade"/>
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Tibalt's Trickery"/>
@@ -81,6 +76,11 @@
         <card number="1" name="Fireflux Squad"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Rally the Ranks"/>
+        <card number="1" name="Winds of Abandon"/>
+        <card number="1" name="Baird, Argivian Recruiter"/>
+        <card number="1" name="Mandate of Peace"/>
+        <card number="1" name="Your Temple Is Under Attack"/>
+        <card number="1" name="Baird, Steward of Argive"/>
     </zone>
     <zone name="side">
         <card number="1" name="Mobilization"/>
@@ -105,5 +105,10 @@
         <card number="1" name="Arid Mesa"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Return to Dust"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Heirloom Blade"/>
+        <card number="1" name="Make a Stand"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Serra Redeemer"/>
     </zone>
 </cockatrice_deck>

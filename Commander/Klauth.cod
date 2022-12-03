@@ -4,85 +4,169 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Klauth, Unrivaled Ancient"/>
-        <card number="1" name="Jaya's Immolating Inferno"/>
         <card number="1" name="Crackle with Power"/>
         <card number="1" name="Comet Storm"/>
-        <card number="1" name="Magmaquake"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Lifeblood Hydra"/>
-        <card number="1" name="Voracious Hydra"/>
         <card number="1" name="Savage Ventmaw"/>
         <card number="1" name="Mana Geyser"/>
-        <card number="1" name="Verdant Mastery"/>
         <card number="1" name="Migration Path"/>
-        <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Explosive Vegetation"/>
-        <card number="1" name="Vastwood Surge"/>
         <card number="1" name="Circuitous Route"/>
         <card number="1" name="Hellkite Charger"/>
-        <card number="1" name="Harmonize"/>
-        <card number="1" name="Commune with Lava"/>
-        <card number="1" name="Wildest Dreams"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Fires of Invention"/>
-        <card number="1" name="Outpost Siege"/>
-        <card number="1" name="Tectonic Giant"/>
-        <card number="1" name="Chaos Channeler"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Return to Nature"/>
         <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Gelatinous Genesis"/>
-        <card number="1" name="Devil's Play"/>
-        <card number="1" name="Horizon Stone"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Apex of Power"/>
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
-        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
-        <card number="1" name="Etali, Primal Storm"/>
-        <card number="1" name="Backdraft Hellkite"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Fyndhorn Elves"/>
-        <card number="1" name="Escape to the Wilds"/>
         <card number="1" name="Cinder Glade"/>
-        <card number="1" name="Highland Forest"/>
-        <card number="1" name="Rugged Highlands"/>
         <card number="1" name="Temple of Abandon"/>
-        <card number="1" name="Timber Gorge"/>
-        <card number="1" name="Gruul Guildgate"/>
-        <card number="1" name="Kazandu Refuge"/>
         <card number="1" name="Mossfire Valley"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Scavenger Grounds"/>
-        <card number="14" name="Forest"/>
+        <card number="10" name="Forest"/>
         <card number="10" name="Mountain"/>
-        <card number="1" name="Slagwoods Bridge"/>
-        <card number="1" name="Oakhame Adversary"/>
-        <card number="1" name="Ohran Viper"/>
-        <card number="1" name="Ezuri's Predation"/>
-        <card number="1" name="Ignite the Future"/>
-        <card number="1" name="Dream Pillager"/>
         <card number="1" name="Past in Flames"/>
-        <card number="1" name="Multani, Yavimaya's Avatar"/>
-        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
-        <card number="1" name="Keeper of Fables"/>
-        <card number="1" name="Coastline Marauders"/>
-        <card number="1" name="Laelia, the Blade Reforged"/>
-        <card number="1" name="Neheb, Dreadhorde Champion"/>
-        <card number="1" name="Dragonborn Champion"/>
-        <card number="1" name="Ripjaw Raptor"/>
-        <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Paradise Druid"/>
-        <card number="1" name="Wild Growth"/>
-        <card number="1" name="Whisperer of the Wilds"/>
-        <card number="1" name="Ilysian Caryatid"/>
+        <card number="1" name="Karlach, Fury of Avernus"/>
+        <card number="1" name="Fervent Mastery"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Urabrask the Hidden"/>
+        <card number="1" name="Relentless Assault"/>
+        <card number="1" name="Autumn's Veil"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Fire-Lit Thicket"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Commune with Lava"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="1" name="Tyrant's Familiar"/>
+        <card number="1" name="Firbolg Flutist"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Reiterate"/>
+        <card number="1" name="March of Reckless Joy"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="1" name="Elturel Survivors"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Forgotten Ancient"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Red Dragon"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Skyline Despot"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Outpost Siege"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Dream Pillager"/>
+        <card number="2" name="Dream Pillager"/>
+        <card number="1" name="Chaos Channeler"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Laelia, the Blade Reforged"/>
+        <card number="1" name="Lifeblood Hydra"/>
+        <card number="1" name="Multani, Yavimaya's Avatar"/>
+        <card number="2" name="Neheb, Dreadhorde Champion"/>
+        <card number="1" name="Ripjaw Raptor"/>
+        <card number="1" name="Ohran Viper"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Tectonic Giant"/>
+        <card number="1" name="Voracious Hydra"/>
+        <card number="1" name="Whisperer of the Wilds"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Magmaquake"/>
+        <card number="1" name="Timber Gorge"/>
+        <card number="1" name="Slagwoods Bridge"/>
+        <card number="1" name="Rugged Highlands"/>
+        <card number="1" name="Kazandu Refuge"/>
+        <card number="1" name="Highland Forest"/>
+        <card number="1" name="Gruul Guildgate"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Devil's Play"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Gelatinous Genesis"/>
+        <card number="1" name="Verdant Mastery"/>
+        <card number="1" name="Wildest Dreams"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Dragonborn Champion"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="4" name="Forest"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="2" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Atsushi, the Blazing Sky"/>
+        <card number="1" name="Fires of Invention"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Jaya's Immolating Inferno"/>
+        <card number="1" name="Recoup"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Commune with Lava"/>
+        <card number="1" name="Hunter's Prowess"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Backdraft Hellkite"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Skanos Dragonheart"/>
+        <card number="1" name="Thrakkus the Butcher"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Harmonize"/>
+        <card number="2" name="Wulfgar of Icewind Dale"/>
+        <card number="3" name="Return of the Wildspeaker"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Warchief Giant"/>
+        <card number="2" name="Tiamat's Fanatics"/>
+        <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Elturel Survivors"/>
+        <card number="1" name="Coastline Marauders"/>
+        <card number="1" name="Ilysian Caryatid"/>
+        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="2" name="Swiftfoot Boots"/>
+        <card number="2" name="Lightning Greaves"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Horizon Stone"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Leyline Tyrant"/>
+        <card number="1" name="Vastwood Surge"/>
+        <card number="1" name="Ignite the Future"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Skyline Despot"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Territorial Hellkite"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Timeless Witness"/>
     </zone>
 </cockatrice_deck>

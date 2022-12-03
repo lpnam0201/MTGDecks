@@ -81,8 +81,8 @@
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Idol of Oblivion"/>
         <card number="1" name="Collective Blessing"/>
-        <card number="1" name="Throne of the God-Pharaoh"/>
         <card number="1" name="Benevolent Blessing"/>
+        <card number="1" name="Rumor Gatherer"/>
     </zone>
     <zone name="side">
         <card number="1" name="Nykthos Paragon"/>
@@ -96,7 +96,7 @@
         <card number="1" name="Far Traveler"/>
         <card number="1" name="Timely Ward"/>
         <card number="1" name="Windswept Heath"/>
-        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="2" name="Throne of the God-Pharaoh"/>
         <card number="1" name="Path of Discovery"/>
         <card number="1" name="Trostani Discordant"/>
         <card number="1" name="Selesnya Evangel"/>

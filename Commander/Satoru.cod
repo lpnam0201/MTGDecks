@@ -20,13 +20,10 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Siren Stormtamer"/>
         <card number="1" name="Esior, Wardwing Familiar"/>
-        <card number="1" name="Brainstorm"/>
         <card number="1" name="Wrexial, the Risen Deep"/>
         <card number="1" name="Hullbreaker Horror"/>
         <card number="1" name="Notion Thief"/>
-        <card number="1" name="Blighted Agent"/>
         <card number="1" name="Netherborn Altar"/>
-        <card number="1" name="Gyruda, Doom of Depths"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Countersquall"/>
         <card number="1" name="Counterspell"/>
@@ -34,64 +31,93 @@
         <card number="1" name="Negate"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Unsubstantiate"/>
-        <card number="1" name="Unsummon"/>
         <card number="1" name="Miscast"/>
         <card number="1" name="Sphinx of the Second Sun"/>
-        <card number="1" name="Tidespout Tyrant"/>
-        <card number="1" name="Windfall"/>
         <card number="1" name="Noxious Gearhulk"/>
         <card number="1" name="Overseer of the Damned"/>
-        <card number="1" name="Necropolis Regent"/>
         <card number="1" name="Virtus the Veiled"/>
-        <card number="1" name="Thief of Sanity"/>
-        <card number="1" name="Shadowmage Infiltrator"/>
-        <card number="1" name="Grazilaxx, Illithid Scholar"/>
         <card number="1" name="Dazzling Sphinx"/>
         <card number="1" name="Grim Hireling"/>
         <card number="1" name="Iymrith, Desert Doom"/>
         <card number="1" name="You See a Guard Approach"/>
-        <card number="1" name="Ravenous Chupacabra"/>
         <card number="1" name="Sharding Sphinx"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Dimir Signet"/>
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Command Beacon"/>
-        <card number="1" name="Fiend of the Shadows"/>
         <card number="1" name="Snapback"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Necrotic Hex"/>
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Darkwater Catacombs"/>
         <card number="1" name="Dimir Aqueduct"/>
         <card number="1" name="Drowned Catacomb"/>
         <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Myriad Landscape"/>
-        <card number="11" name="Island"/>
-        <card number="11" name="Swamp"/>
+        <card number="10" name="Island"/>
+        <card number="10" name="Swamp"/>
         <card number="1" name="Shipwreck Marsh"/>
         <card number="1" name="Sunken Hollow"/>
         <card number="1" name="Tainted Isle"/>
         <card number="1" name="Temple of Deceit"/>
         <card number="1" name="Watery Grave"/>
-        <card number="1" name="Whispering Madness"/>
         <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Consuming Aberration"/>
-        <card number="1" name="Fading Hope"/>
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Stubborn Denial"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Stormtide Leviathan"/>
+        <card number="1" name="Elder Brain"/>
+        <card number="1" name="Brainstealer Dragon"/>
+        <card number="1" name="Will-o'-the-Wisp"/>
+        <card number="1" name="Ornithopter"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Lose Focus"/>
+        <card number="1" name="Baleful Mastery"/>
     </zone>
     <zone name="side">
         <card number="1" name="Hullbreaker Horror"/>
         <card number="1" name="Vilis, Broker of Blood"/>
         <card number="1" name="Inkwell Leviathan"/>
         <card number="1" name="Meteor Golem"/>
-        <card number="1" name="Brainstorm"/>
+        <card number="2" name="Brainstorm"/>
         <card number="1" name="Aetherspouts"/>
         <card number="1" name="Baleful Mastery"/>
         <card number="1" name="Slip Out the Back"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="River of Tears"/>
+        <card number="1" name="Necrotic Hex"/>
+        <card number="1" name="Siren Stormtamer"/>
+        <card number="1" name="Unsubstantiate"/>
+        <card number="1" name="Tidespout Tyrant"/>
+        <card number="1" name="Necropolis Regent"/>
+        <card number="1" name="Grazilaxx, Illithid Scholar"/>
+        <card number="1" name="Fiend of the Shadows"/>
+        <card number="1" name="Gyruda, Doom of Depths"/>
+        <card number="1" name="Shadowmage Infiltrator"/>
+        <card number="1" name="Blighted Agent"/>
+        <card number="1" name="Consuming Aberration"/>
+        <card number="1" name="Thief of Sanity"/>
+        <card number="1" name="Mist-Cloaked Herald"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Fading Hope"/>
+        <card number="1" name="Unsummon"/>
+        <card number="1" name="Whispering Madness"/>
+        <card number="1" name="Windfall"/>
     </zone>
 </cockatrice_deck>

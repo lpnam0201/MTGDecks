@@ -6,18 +6,14 @@
         <card number="1" name="Zevlor, Elturel Exile"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Archmage Emeritus"/>
-        <card number="1" name="Cruel Ultimatum"/>
         <card number="1" name="Thought Scour"/>
-        <card number="1" name="Twinning Staff"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="You Find Some Prisoners"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Terminate"/>
         <card number="1" name="Talent of the Telepath"/>
         <card number="1" name="Bedevil"/>
-        <card number="1" name="Lightning Bolt"/>
         <card number="1" name="Leadership Vacuum"/>
-        <card number="1" name="Siphon Insight"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Arcane Denial"/>
@@ -34,18 +30,13 @@
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Stolen Goods"/>
         <card number="1" name="Portent"/>
-        <card number="1" name="Extract Brain"/>
         <card number="1" name="River's Rebuke"/>
         <card number="1" name="Vandalblast"/>
-        <card number="1" name="Cleansing Wildfire"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Ponder"/>
         <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Preordain"/>
-        <card number="1" name="Reckless Endeavor"/>
         <card number="1" name="Blood Money"/>
-        <card number="1" name="Blightning"/>
-        <card number="1" name="Mind Rot"/>
         <card number="1" name="Double Vision"/>
         <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Talisman of Dominance"/>
@@ -91,6 +82,18 @@
         <card number="5" name="Swamp"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Tidal Barracuda"/>
+        <card number="1" name="Wizards of Thay"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Najal, the Storm Runner"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Rousing Refrain"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Invert // Invent"/>
+        <card number="1" name="Fervent Mastery"/>
+        <card number="1" name="Past in Flames"/>
+        <card number="1" name="Duress"/>
     </zone>
     <zone name="side">
         <card number="1" name="Thought Scour"/>
@@ -98,5 +101,17 @@
         <card number="1" name="Abrade"/>
         <card number="1" name="Island"/>
         <card number="1" name="Hurl Through Hell"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Cleansing Wildfire"/>
+        <card number="1" name="Cruel Ultimatum"/>
+        <card number="1" name="Mind Rot"/>
+        <card number="1" name="Siphon Insight"/>
+        <card number="1" name="Fortune's Favor"/>
+        <card number="1" name="Blightning"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Reckless Endeavor"/>
+        <card number="1" name="Twinning Staff"/>
+        <card number="1" name="Lay Bare"/>
+        <card number="1" name="Extract Brain"/>
     </zone>
 </cockatrice_deck>

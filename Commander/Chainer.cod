@@ -38,7 +38,6 @@
         <card number="1" name="Cinder Barrens"/>
         <card number="1" name="Rakdos Guildgate"/>
         <card number="1" name="Dragon Mage"/>
-        <card number="1" name="The Eldest Reborn"/>
         <card number="1" name="Ever After"/>
         <card number="1" name="Vile Entomber"/>
         <card number="1" name="Incarnation Technique"/>
@@ -46,23 +45,15 @@
         <card number="1" name="Oriq Loremage"/>
         <card number="1" name="Sulfurous Mire"/>
         <card number="1" name="Lavaclaw Reaches"/>
-        <card number="1" name="Demon of Dark Schemes"/>
-        <card number="1" name="Fires of Invention"/>
-        <card number="1" name="Anje Falkenrath"/>
         <card number="1" name="Kardur, Doomscourge"/>
         <card number="1" name="Terminate"/>
         <card number="1" name="Drossforge Bridge"/>
         <card number="1" name="Gonti, Lord of Luxury"/>
-        <card number="1" name="Sepulchral Primordial"/>
         <card number="1" name="Seize the Spoils"/>
         <card number="1" name="Prismatic Lens"/>
-        <card number="1" name="Drana, the Last Bloodchief"/>
         <card number="1" name="Whisper, Blood Liturgist"/>
         <card number="1" name="Cathartic Reunion"/>
-        <card number="1" name="Boneyard Parley"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Fire Diamond"/>
-        <card number="1" name="Charcoal Diamond"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Big Game Hunter"/>
         <card number="1" name="Fleshbag Marauder"/>
@@ -76,11 +67,14 @@
         <card number="1" name="Bolt Bend"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Syr Konrad, the Grim"/>
-        <card number="1" name="Burning-Rune Demon"/>
         <card number="1" name="Phyrexian Delver"/>
         <card number="1" name="Rakdos Carnarium"/>
         <card number="1" name="Shriekmaw"/>
-        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Exhume"/>
+        <card number="1" name="From the Catacombs"/>
+        <card number="1" name="Sheoldred, Whispering One"/>
     </zone>
     <zone name="side">
         <card number="1" name="Muck Drubb"/>
@@ -139,6 +133,16 @@
         <card number="1" name="Foreboding Ruins"/>
         <card number="1" name="Fast // Furious"/>
         <card number="1" name="Merchant of the Vale // Haggle"/>
-        <card number="1" name="Price of Fame"/>
+        <card number="2" name="Price of Fame"/>
+        <card number="1" name="Charcoal Diamond"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Anje Falkenrath"/>
+        <card number="1" name="Burning-Rune Demon"/>
+        <card number="1" name="Demon of Dark Schemes"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="1" name="Fires of Invention"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Drana, the Last Bloodchief"/>
+        <card number="1" name="Boneyard Parley"/>
     </zone>
 </cockatrice_deck>

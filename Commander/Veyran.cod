@@ -38,20 +38,16 @@
         <card number="12" name="Mountain"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Warlord's Fury"/>
-        <card number="1" name="The Mirari Conjecture"/>
         <card number="1" name="Expedite"/>
         <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Ral, Storm Conduit"/>
         <card number="1" name="Harmonic Prodigy"/>
-        <card number="1" name="Swarm Intelligence"/>
         <card number="1" name="Sprite Dragon"/>
         <card number="1" name="Ancestral Anger"/>
         <card number="1" name="Renegade Tactics"/>
         <card number="1" name="Faithless Looting"/>
         <card number="1" name="Crash Through"/>
         <card number="1" name="Rile"/>
-        <card number="1" name="Reach Through Mists"/>
-        <card number="1" name="Thought Scour"/>
         <card number="1" name="Portent"/>
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Fabled Passage"/>
@@ -63,24 +59,29 @@
         <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Anticipate"/>
         <card number="1" name="Training Center"/>
-        <card number="1" name="Peek"/>
-        <card number="1" name="Charmbreaker Devils"/>
         <card number="1" name="Metallurgic Summonings"/>
-        <card number="1" name="Arcane Bombardment"/>
-        <card number="1" name="Electrostatic Field"/>
         <card number="1" name="Sorcerer Class"/>
-        <card number="1" name="Thermo-Alchemist"/>
         <card number="1" name="Aria of Flame"/>
-        <card number="1" name="Firebrand Archer"/>
         <card number="1" name="Kessig Flamebreather"/>
         <card number="1" name="Deliberate"/>
         <card number="1" name="Curate"/>
-        <card number="1" name="Twisted Image"/>
-        <card number="1" name="See the Truth"/>
-        <card number="1" name="A Little Chat"/>
-        <card number="1" name="Shimmer of Possibility"/>
-        <card number="1" name="Strategic Planning"/>
         <card number="1" name="Chart a Course"/>
+        <card number="1" name="Candlekeep Inspiration"/>
+        <card number="1" name="Third Path Iconoclast"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Balmor, Battlemage Captain"/>
+        <card number="1" name="Electrostatic Infantry"/>
+        <card number="1" name="Surge to Victory"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Birgi, God of Storytelling"/>
+        <card number="1" name="Smoldering Egg"/>
+        <card number="1" name="Imperial Recruiter"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Past in Flames"/>
+        <card number="1" name="Step Through"/>
+        <card number="1" name="Teferi's Ageless Insight"/>
     </zone>
     <zone name="side">
         <card number="2" name="Guttersnipe"/>
@@ -96,7 +97,7 @@
         <card number="1" name="Windrider Wizard"/>
         <card number="2" name="Dispel"/>
         <card number="2" name="Stormchaser Mage"/>
-        <card number="1" name="Swarm Intelligence"/>
+        <card number="2" name="Swarm Intelligence"/>
         <card number="1" name="Jace's Sanctum"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Mizzium Mortars"/>
@@ -131,7 +132,7 @@
         <card number="2" name="Bloodwater Entity"/>
         <card number="1" name="Krark, the Thumbless"/>
         <card number="3" name="Melek, Izzet Paragon"/>
-        <card number="1" name="Firebrand Archer"/>
+        <card number="2" name="Firebrand Archer"/>
         <card number="1" name="Dual Strike"/>
         <card number="1" name="Abrade"/>
         <card number="1" name="Blasphemous Act"/>
@@ -146,8 +147,8 @@
         <card number="1" name="Rile"/>
         <card number="1" name="Crash Through"/>
         <card number="2" name="Chart a Course"/>
-        <card number="1" name="Electrostatic Field"/>
-        <card number="1" name="Thermo-Alchemist"/>
+        <card number="2" name="Electrostatic Field"/>
+        <card number="2" name="Thermo-Alchemist"/>
         <card number="1" name="Illusion of Choice"/>
         <card number="1" name="Epic Experiment"/>
         <card number="1" name="Counterspell"/>
@@ -158,10 +159,22 @@
         <card number="1" name="Wee Dragonauts"/>
         <card number="1" name="Umara Mystic"/>
         <card number="1" name="Magmatic Insight"/>
-        <card number="1" name="Twisted Image"/>
+        <card number="2" name="Twisted Image"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Fleeting Distraction"/>
+        <card number="1" name="Daretti, Ingenious Iconoclast"/>
+        <card number="1" name="Arcane Bombardment"/>
+        <card number="1" name="Charmbreaker Devils"/>
+        <card number="1" name="The Mirari Conjecture"/>
+        <card number="1" name="Gale, Waterdeep Prodigy"/>
+        <card number="1" name="Strategic Planning"/>
+        <card number="1" name="Shimmer of Possibility"/>
+        <card number="1" name="Thought Scour"/>
+        <card number="1" name="Reach Through Mists"/>
+        <card number="1" name="See the Truth"/>
+        <card number="1" name="A Little Chat"/>
+        <card number="1" name="Peek"/>
     </zone>
 </cockatrice_deck>

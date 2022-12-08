@@ -88,11 +88,11 @@
         <card number="1" name="Watery Grave"/>
         <card number="1" name="Defabricate"/>
         <card number="1" name="Tale's End"/>
-        <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Flood of Tears"/>
         <card number="1" name="Idyllic Tutor"/>
         <card number="1" name="Wonder"/>
         <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Hour of Revelation"/>
     </zone>
     <zone name="side">
         <card number="1" name="Noosegraf Mob"/>
@@ -228,7 +228,7 @@
         <card number="1" name="Prairie Stream"/>
         <card number="3" name="Island"/>
         <card number="3" name="Plains"/>
-        <card number="1" name="Supreme Verdict"/>
+        <card number="2" name="Supreme Verdict"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Aetherize"/>
         <card number="1" name="Dihada's Ploy"/>

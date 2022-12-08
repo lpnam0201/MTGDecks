@@ -82,9 +82,9 @@
         <card number="1" name="Sisay's Ring"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Lae'zel's Acrobatics"/>
-        <card number="1" name="Pilgrim's Eye"/>
         <card number="1" name="Sanctuary Warden"/>
         <card number="1" name="Palace Jailer"/>
+        <card number="1" name="Swashbuckler Extraordinaire"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oreskos Explorer"/>
@@ -114,5 +114,7 @@
         <card number="1" name="Plaza of Heroes"/>
         <card number="1" name="Patron of the Arts"/>
         <card number="1" name="Firbolg Flutist"/>
+        <card number="1" name="Pilgrim's Eye"/>
+        <card number="1" name="Guild Artisan"/>
     </zone>
 </cockatrice_deck>

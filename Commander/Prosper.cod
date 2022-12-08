@@ -23,7 +23,6 @@
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Crackle with Power"/>
-        <card number="1" name="Abrade"/>
         <card number="1" name="Kaya's Ghostform"/>
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Price of Fame"/>
@@ -32,7 +31,6 @@
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Inspiring Statuary"/>
         <card number="1" name="Liquimetal Torque"/>
-        <card number="1" name="Volcanic Torrent"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Reckless Endeavor"/>
         <card number="1" name="Viridian Longbow"/>
@@ -74,17 +72,19 @@
         <card number="1" name="Ingenious Artillerist"/>
         <card number="1" name="Exsanguinate"/>
         <card number="1" name="Xorn"/>
-        <card number="1" name="Murderous Rider // Swift End"/>
         <card number="1" name="Brainstealer Dragon"/>
         <card number="1" name="Profane Tutor"/>
         <card number="1" name="Oni-Cult Anvil"/>
         <card number="1" name="Valakut Exploration"/>
         <card number="1" name="Outpost Siege"/>
-        <card number="1" name="Share the Spoils"/>
         <card number="1" name="Agent of the Iron Throne"/>
         <card number="1" name="Duress"/>
         <card number="1" name="Pilfer"/>
         <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Academy Manufactor"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Torment of Hailfire"/>
     </zone>
     <zone name="side">
         <card number="1" name="Tainted Peak"/>
@@ -123,7 +123,7 @@
         <card number="1" name="Without Weakness"/>
         <card number="1" name="Unlikely Aid"/>
         <card number="1" name="Creative Technique"/>
-        <card number="1" name="Murderous Rider // Swift End"/>
+        <card number="2" name="Murderous Rider // Swift End"/>
         <card number="1" name="Dream Pillager"/>
         <card number="3" name="Unexpected Windfall"/>
         <card number="3" name="Reckless Impulse"/>
@@ -217,5 +217,8 @@
         <card number="1" name="Agent of the Shadow Thieves"/>
         <card number="1" name="Mizzium Mortars"/>
         <card number="1" name="Past in Flames"/>
+        <card number="1" name="Share the Spoils"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Volcanic Torrent"/>
     </zone>
 </cockatrice_deck>

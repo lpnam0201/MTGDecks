@@ -84,7 +84,7 @@
         <card number="1" name="Loran's Escape"/>
         <card number="1" name="Thran Power Suit"/>
         <card number="1" name="Clifftop Retreat"/>
-        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Wyll's Reversal"/>
     </zone>
     <zone name="side">
         <card number="2" name="Blasphemous Act"/>
@@ -238,6 +238,6 @@
         <card number="1" name="Chance for Glory"/>
         <card number="1" name="Hero's Blade"/>
         <card number="1" name="Arid Mesa"/>
-        <card number="1" name="Emerge Unscathed"/>
+        <card number="2" name="Emerge Unscathed"/>
     </zone>
 </cockatrice_deck>

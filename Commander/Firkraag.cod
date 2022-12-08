@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Firkraag, Cunning Instigator"/>
-        <card number="1" name="Keiga, the Tide Star"/>
         <card number="1" name="Ryusei, the Falling Star"/>
         <card number="1" name="Drakuseth, Maw of Flames"/>
         <card number="1" name="Chaos Dragon"/>
@@ -13,17 +12,8 @@
         <card number="1" name="Sprite Dragon"/>
         <card number="1" name="Feywild Visitor"/>
         <card number="1" name="Hellkite Charger"/>
-        <card number="1" name="Scourge of Valkas"/>
         <card number="1" name="Iymrith, Desert Doom"/>
-        <card number="1" name="Pseudodragon Familiar"/>
-        <card number="1" name="Young Red Dragon // Bathe in Gold"/>
-        <card number="1" name="Renari, Merchant of Marvels"/>
-        <card number="1" name="Young Blue Dragon // Sand Augury"/>
-        <card number="1" name="Wrathful Red Dragon"/>
-        <card number="1" name="Lozhan, Dragons' Legacy"/>
         <card number="1" name="Ganax, Astral Hunter"/>
-        <card number="1" name="Sword Coast Serpent // Capsizing Wave"/>
-        <card number="1" name="Sapphire Dragon // Psionic Pulse"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Izzet Signet"/>
@@ -33,7 +23,6 @@
         <card number="1" name="Aetherspouts"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Mana Leak"/>
         <card number="1" name="Dispel"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Wild Magic Surge"/>
@@ -55,9 +44,7 @@
         <card number="1" name="Coalition Relic"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Bolt Bend"/>
-        <card number="1" name="Turn Aside"/>
         <card number="1" name="You See a Guard Approach"/>
-        <card number="1" name="Lose Focus"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Command Tower"/>
@@ -75,12 +62,13 @@
         <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Chain Reaction"/>
-        <card number="1" name="Thunderbreak Regent"/>
-        <card number="1" name="Skyship Stalker"/>
         <card number="1" name="Mob Rule"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Sarkhan the Masterless"/>
         <card number="1" name="Command Beacon"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Wyll's Reversal"/>
     </zone>
     <zone name="side">
         <card number="1" name="Amethyst Dragon // Explosive Crystal"/>
@@ -100,5 +88,20 @@
         <card number="1" name="Prismari Campus"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Renari, Merchant of Marvels"/>
+        <card number="1" name="Wrathful Red Dragon"/>
+        <card number="1" name="Thunderbreak Regent"/>
+        <card number="1" name="Keiga, the Tide Star"/>
+        <card number="1" name="Lozhan, Dragons' Legacy"/>
+        <card number="1" name="Pseudodragon Familiar"/>
+        <card number="1" name="Sapphire Dragon // Psionic Pulse"/>
+        <card number="1" name="Sword Coast Serpent // Capsizing Wave"/>
+        <card number="1" name="Young Red Dragon // Bathe in Gold"/>
+        <card number="1" name="Lose Focus"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Young Blue Dragon // Sand Augury"/>
+        <card number="1" name="Scourge of Valkas"/>
+        <card number="1" name="Skyship Stalker"/>
+        <card number="1" name="Turn Aside"/>
     </zone>
 </cockatrice_deck>

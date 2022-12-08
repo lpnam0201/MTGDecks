@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Nine-Fingers Keene"/>
-        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
         <card number="1" name="District Guide"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Maze's End"/>
@@ -12,7 +11,6 @@
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Emergent Ultimatum"/>
         <card number="1" name="Reshape the Earth"/>
-        <card number="1" name="Replication Technique"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Circuitous Route"/>
         <card number="1" name="Bala Ged Recovery"/>
@@ -39,27 +37,17 @@
         <card number="1" name="Guild Summit"/>
         <card number="1" name="Explore the Underdark"/>
         <card number="1" name="Archelos, Lagoon Mystic"/>
-        <card number="1" name="Navigation Orb"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Tireless Provisioner"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Negate"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Flood of Tears"/>
-        <card number="1" name="Perplexing Test"/>
-        <card number="1" name="Brainstorm"/>
-        <card number="1" name="Reality Shift"/>
         <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Tear Asunder"/>
-        <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Hour of Promise"/>
-        <card number="1" name="Villainous Wealth"/>
-        <card number="1" name="Nylea's Intervention"/>
         <card number="1" name="In Garruk's Wake"/>
         <card number="1" name="Whispersilk Cloak"/>
-        <card number="1" name="Strionic Resonator"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Dispel"/>
@@ -68,16 +56,13 @@
         <card number="1" name="Breeding Pool"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Rejuvenating Springs"/>
-        <card number="1" name="Opulent Palace"/>
         <card number="1" name="Underground River"/>
         <card number="1" name="Morphic Pool"/>
-        <card number="1" name="Darkwater Catacombs"/>
         <card number="1" name="Shipwreck Marsh"/>
         <card number="1" name="Llanowar Wastes"/>
         <card number="1" name="Undergrowth Stadium"/>
-        <card number="1" name="Deathcap Glade"/>
         <card number="2" name="Forest"/>
-        <card number="2" name="Swamp"/>
+        <card number="1" name="Swamp"/>
         <card number="2" name="Island"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Karn's Temporal Sundering"/>
@@ -87,21 +72,38 @@
         <card number="1" name="Talisman of Resilience"/>
         <card number="1" name="Talisman of Curiosity"/>
         <card number="1" name="Alrund's Epiphany"/>
-        <card number="1" name="Tireless Tracker"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Key to the City"/>
-        <card number="1" name="Torment of Hailfire"/>
         <card number="1" name="Shizo, Death's Storehouse"/>
         <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Blackblade Reforged"/>
-        <card number="1" name="Tatyova, Benthic Druid"/>
         <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Mask of Riddles"/>
         <card number="1" name="Countersquall"/>
+        <card number="1" name="Sword Coast Sailor"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Tidal Barracuda"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Demonic Embrace"/>
+        <card number="1" name="Expedition Map"/>
+        <card number="1" name="Navigation Orb"/>
+        <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Tolaria West"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Delay"/>
+        <card number="1" name="Mortality Spear"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Thespian's Stage"/>
+        <card number="1" name="Pir's Whim"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Mirage Mirror"/>
+        <card number="1" name="Gaze of Granite"/>
+        <card number="1" name="Quicken"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Diabolic Tutor"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Tireless Tracker"/>
+        <card number="2" name="Tireless Tracker"/>
         <card number="1" name="Zimone, Quandrix Prodigy"/>
         <card number="1" name="Gretchen Titchwillow"/>
         <card number="1" name="Kodama of the East Tree"/>
@@ -115,21 +117,46 @@
         <card number="1" name="Resculpt"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
+        <card number="3" name="Swiftfoot Boots"/>
         <card number="1" name="Scute Swarm"/>
         <card number="1" name="Azusa, Lost but Seeking"/>
         <card number="1" name="Urban Evolution"/>
         <card number="1" name="Eureka Moment"/>
-        <card number="1" name="Avenger of Zendikar"/>
-        <card number="1" name="Sol Ring"/>
+        <card number="2" name="Avenger of Zendikar"/>
         <card number="1" name="Painful Truths"/>
         <card number="1" name="Forest"/>
         <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Augur of Autumn"/>
         <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Rampaging Baloths"/>
-        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="2" name="Aesi, Tyrant of Gyre Strait"/>
         <card number="1" name="Ramunap Excavator"/>
-        <card number="1" name="Tale's End"/>
+        <card number="2" name="Tale's End"/>
+        <card number="1" name="Replication Technique"/>
+        <card number="3" name="Mask of Riddles"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="2" name="Navigation Orb"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Mask of Griselbrand"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Gaze of Granite"/>
+        <card number="2" name="Deathcap Glade"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Defabricate"/>
+        <card number="1" name="Villainous Wealth"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Elvish Reclaimer"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Nylea's Intervention"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Regrowth"/>
     </zone>
 </cockatrice_deck>

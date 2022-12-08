@@ -51,7 +51,6 @@
         <card number="1" name="Prosperous Partnership"/>
         <card number="1" name="Awakening Zone"/>
         <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Mandate of Peace"/>
         <card number="1" name="Gluntch, the Bestower"/>
         <card number="1" name="Odric, Master Tactician"/>
         <card number="1" name="Witty Roastmaster"/>
@@ -94,6 +93,7 @@
         <card number="1" name="Elemental Bond"/>
         <card number="1" name="Glare of Subdual"/>
         <card number="1" name="Winds of Abandon"/>
+        <card number="1" name="Nature's Claim"/>
     </zone>
     <zone name="side">
         <card number="1" name="Swords to Plowshares"/>
@@ -116,5 +116,6 @@
         <card number="1" name="Camaraderie"/>
         <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Mandate of Peace"/>
     </zone>
 </cockatrice_deck>

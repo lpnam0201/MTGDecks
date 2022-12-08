@@ -13,7 +13,6 @@
         <card number="1" name="Clever Conjurer"/>
         <card number="1" name="Crackle with Power"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Double Vision"/>
         <card number="1" name="Puppeteer"/>
         <card number="1" name="Disciple of the Ring"/>
         <card number="1" name="Negate"/>
@@ -72,16 +71,17 @@
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Fervent Mastery"/>
-        <card number="1" name="Spark Double"/>
         <card number="1" name="Venser, Shaper Savant"/>
         <card number="1" name="Shipwreck Dowser"/>
         <card number="1" name="Stolen Identity"/>
         <card number="1" name="Emergence Zone"/>
         <card number="1" name="Quicken"/>
-        <card number="1" name="Academy Loremaster"/>
         <card number="1" name="Malevolent Hermit"/>
         <card number="1" name="Augur of Bolas"/>
         <card number="1" name="Brainstorm"/>
+        <card number="1" name="Cackling Counterpart"/>
+        <card number="1" name="Quasiduplicate"/>
+        <card number="1" name="Leyline of Anticipation"/>
     </zone>
     <zone name="side">
         <card number="2" name="Ponder"/>
@@ -101,7 +101,7 @@
         <card number="1" name="Lier, Disciple of the Drowned"/>
         <card number="1" name="Sigil Tracer"/>
         <card number="1" name="Snapcaster Mage"/>
-        <card number="1" name="Spark Double"/>
+        <card number="2" name="Spark Double"/>
         <card number="1" name="Stonybrook Angler"/>
         <card number="1" name="Venser, Shaper Savant"/>
         <card number="1" name="Fatestitcher"/>
@@ -210,5 +210,7 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Aether Channeler"/>
+        <card number="1" name="Academy Loremaster"/>
+        <card number="1" name="Double Vision"/>
     </zone>
 </cockatrice_deck>

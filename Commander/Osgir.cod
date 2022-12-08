@@ -12,37 +12,29 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Audacious Reshapers"/>
-        <card number="1" name="Archaeomancer's Map"/>
         <card number="1" name="Digsite Engineer"/>
         <card number="1" name="Losheel, Clockwork Scholar"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Osgir, the Reconstructor"/>
-        <card number="1" name="Daretti, Scrap Savant"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Hedron Archive"/>
-        <card number="1" name="Alibou, Ancient Witness"/>
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Bronze Guardian"/>
         <card number="1" name="Combustible Gearhulk"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Steel Hellkite"/>
-        <card number="1" name="Wake the Past"/>
         <card number="1" name="Myr Battlesphere"/>
         <card number="1" name="Meteor Golem"/>
-        <card number="1" name="Triplicate Titan"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Boros Signet"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Prismatic Lens"/>
-        <card number="1" name="Sisay's Ring"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Cathartic Reunion"/>
         <card number="1" name="Thrill of Possibility"/>
-        <card number="1" name="Tormenting Voice"/>
         <card number="1" name="Golden Egg"/>
         <card number="1" name="Guild Globe"/>
         <card number="1" name="Sleeper Dart"/>
-        <card number="1" name="Tome of Legends"/>
         <card number="1" name="Inspiring Statuary"/>
         <card number="1" name="Rebbec, Architect of Ascension"/>
         <card number="1" name="Angel of the Ruins"/>
@@ -50,38 +42,50 @@
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Blasphemous Act"/>
-        <card number="11" name="Mountain"/>
-        <card number="12" name="Plains"/>
+        <card number="10" name="Mountain"/>
+        <card number="9" name="Plains"/>
         <card number="1" name="Boros Garrison"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Sunhome, Fortress of the Legion"/>
-        <card number="1" name="Wind-Scarred Crag"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Return to Dust"/>
         <card number="1" name="Soul-Guide Lantern"/>
         <card number="1" name="Darksteel Juggernaut"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Slobad, Goblin Tinkerer"/>
-        <card number="1" name="Jor Kadeen, the Prevailer"/>
         <card number="1" name="Thrilling Discovery"/>
-        <card number="1" name="Dispatch"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Mycosynth Wellspring"/>
         <card number="1" name="Duplicant"/>
-        <card number="1" name="Parhelion II"/>
-        <card number="1" name="Battlemage's Bracers"/>
-        <card number="1" name="Cursed Mirror"/>
         <card number="1" name="Wear // Tear"/>
-        <card number="1" name="Slayers' Stronghold"/>
-        <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Zirda, the Dawnwaker"/>
         <card number="1" name="Crashing Drawbridge"/>
-        <card number="1" name="Monologue Tax"/>
         <card number="1" name="Rustvale Bridge"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Oswald Fiddlebender"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Imperial Recruiter"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Moonsilver Key"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Dispeller's Capsule"/>
+        <card number="1" name="Rings of Brighthearth"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Furycalm Snarl"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Rug of Smothering"/>
+        <card number="1" name="Contraband Livestock"/>
     </zone>
     <zone name="side">
         <card number="1" name="Phyrexia's Core"/>
@@ -89,9 +93,9 @@
         <card number="1" name="Dispeller's Capsule"/>
         <card number="1" name="Song of the Worldsoul"/>
         <card number="2" name="Ugin's Nexus"/>
-        <card number="2" name="Dispatch"/>
-        <card number="1" name="Ruin Grinder"/>
-        <card number="1" name="Jor Kadeen, the Prevailer"/>
+        <card number="3" name="Dispatch"/>
+        <card number="2" name="Ruin Grinder"/>
+        <card number="2" name="Jor Kadeen, the Prevailer"/>
         <card number="1" name="Chromatic Sphere"/>
         <card number="1" name="Bosh, Iron Golem"/>
         <card number="1" name="Feldon of the Third Path"/>
@@ -103,14 +107,34 @@
         <card number="1" name="Rip Apart"/>
         <card number="1" name="Sculpting Steel"/>
         <card number="1" name="Gadrak, the Crown-Scourge"/>
-        <card number="1" name="Cursed Mirror"/>
+        <card number="2" name="Cursed Mirror"/>
         <card number="1" name="Terrarion"/>
         <card number="1" name="Mycosynth Wellspring"/>
         <card number="1" name="Zirda, the Dawnwaker"/>
         <card number="1" name="Quicksmith Genius"/>
-        <card number="1" name="Monologue Tax"/>
+        <card number="2" name="Monologue Tax"/>
         <card number="1" name="Scrap Trawler"/>
-        <card number="1" name="Mountain"/>
+        <card number="3" name="Mountain"/>
         <card number="1" name="Silverbluff Bridge"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Slayers' Stronghold"/>
+        <card number="1" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" name="Wind-Scarred Crag"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Parhelion II"/>
+        <card number="1" name="Archaeomancer's Map"/>
+        <card number="1" name="Tome of Legends"/>
+        <card number="1" name="Battlemage's Bracers"/>
+        <card number="1" name="Slobad, Goblin Tinkerer"/>
+        <card number="1" name="Sisay's Ring"/>
+        <card number="1" name="Triplicate Titan"/>
+        <card number="1" name="Daretti, Scrap Savant"/>
+        <card number="1" name="Ingenious Artillerist"/>
+        <card number="1" name="Mishra, Excavation Prodigy"/>
+        <card number="1" name="Alibou, Ancient Witness"/>
+        <card number="1" name="Scrap Welder"/>
+        <card number="1" name="Wake the Past"/>
+        <card number="1" name="Tormenting Voice"/>
     </zone>
 </cockatrice_deck>

@@ -61,7 +61,6 @@
         <card number="1" name="Folk Hero"/>
         <card number="1" name="Lifecrafter's Bestiary"/>
         <card number="1" name="Welcoming Vampire"/>
-        <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Brushland"/>
         <card number="1" name="Glare of Subdual"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Cemetery Protector"/>
         <card number="1" name="Trynn, Champion of Freedom"/>
         <card number="1" name="Threats Undetected"/>
+        <card number="1" name="Seedborn Muse"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sigarda, Heron's Grace"/>
@@ -247,5 +247,6 @@
         <card number="1" name="Hopeful Initiate"/>
         <card number="1" name="Idyllic Tutor"/>
         <card number="1" name="Autumn's Veil"/>
+        <card number="1" name="Crashing Drawbridge"/>
     </zone>
 </cockatrice_deck>

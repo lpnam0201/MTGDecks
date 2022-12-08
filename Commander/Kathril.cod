@@ -5,10 +5,8 @@
     <zone name="main">
         <card number="1" name="Kathril, Aspect Warper"/>
         <card number="1" name="Zetalpa, Primal Dawn"/>
-        <card number="1" name="Nighthawk Scavenger"/>
         <card number="1" name="Leyline Prowler"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Kunoros, Hound of Athreos"/>
         <card number="1" name="Mythos of Nethroi"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
@@ -43,9 +41,6 @@
         <card number="1" name="Mortify"/>
         <card number="1" name="Living Death"/>
         <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Verdant Catacombs"/>
-        <card number="1" name="Marsh Flats"/>
-        <card number="1" name="Windswept Heath"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Overgrown Tomb"/>
@@ -53,7 +48,6 @@
         <card number="1" name="Austere Command"/>
         <card number="1" name="Nylea, Keen-Eyed"/>
         <card number="1" name="Skull Prophet"/>
-        <card number="1" name="Oketra the True"/>
         <card number="1" name="Akroma, Vision of Ixidor"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Doom Whisperer"/>
@@ -64,37 +58,43 @@
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Archon of Coronation"/>
         <card number="1" name="Battle Angels of Tyr"/>
-        <card number="1" name="Vona, Butcher of Magan"/>
         <card number="1" name="Nullpriest of Oblivion"/>
-        <card number="1" name="Faeburrow Elder"/>
-        <card number="1" name="Indatha Triome"/>
-        <card number="1" name="Bassara Tower Archer"/>
-        <card number="1" name="Plated Crusher"/>
         <card number="1" name="Key to the City"/>
-        <card number="1" name="Perpetual Timepiece"/>
-        <card number="1" name="Nyx Weaver"/>
-        <card number="1" name="Splinterfright"/>
         <card number="1" name="Oriq Loremage"/>
         <card number="1" name="Vile Entomber"/>
         <card number="1" name="Gravebreaker Lamia"/>
         <card number="1" name="Jarad's Orders"/>
         <card number="1" name="Final Parting"/>
-        <card number="1" name="Warlock Class"/>
-        <card number="1" name="The Binding of the Titans"/>
-        <card number="1" name="Vessel of Nascency"/>
-        <card number="1" name="Grapple with the Past"/>
-        <card number="1" name="Grisly Salvage"/>
-        <card number="1" name="Winding Way"/>
-        <card number="1" name="Scout the Borders"/>
-        <card number="1" name="Relentless Pursuit"/>
-        <card number="1" name="Ransack the Lab"/>
-        <card number="1" name="Mulch"/>
         <card number="1" name="Discerning Taste"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Timeless Witness"/>
         <card number="1" name="Akroma, Angel of Wrath"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Karametra, God of Harvests"/>
+        <card number="1" name="Fauna Shaman"/>
+        <card number="1" name="Moon-Blessed Cleric"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Hostile Negotiations"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Geier Reach Sanitarium"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Angel of Suffering"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Serra's Emissary"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Mortality Spear"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Idyllic Tutor"/>
     </zone>
     <zone name="side">
         <card number="1" name="Deathsprout"/>
@@ -109,24 +109,24 @@
         <card number="1" name="Avenging Huntbonder"/>
         <card number="2" name="Arcane Signet"/>
         <card number="1" name="Read the Bones"/>
-        <card number="3" name="The Binding of the Titans"/>
+        <card number="4" name="The Binding of the Titans"/>
         <card number="1" name="Dread Return"/>
-        <card number="1" name="Winding Way"/>
+        <card number="2" name="Winding Way"/>
         <card number="2" name="Karametra, God of Harvests"/>
-        <card number="2" name="Splinterfright"/>
+        <card number="3" name="Splinterfright"/>
         <card number="2" name="Sunblade Angel"/>
         <card number="1" name="Nethroi, Apex of Death"/>
-        <card number="2" name="Grapple with the Past"/>
+        <card number="3" name="Grapple with the Past"/>
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Ephemerate"/>
         <card number="1" name="Unbreakable Bond"/>
-        <card number="3" name="Mulch"/>
+        <card number="4" name="Mulch"/>
         <card number="1" name="Duneblast"/>
         <card number="1" name="Golgari Grave-Troll"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Knight of Grace"/>
         <card number="1" name="Knight of Malice"/>
-        <card number="2" name="Ransack the Lab"/>
+        <card number="3" name="Ransack the Lab"/>
         <card number="1" name="Stitch Together"/>
         <card number="2" name="Buried Alive"/>
         <card number="5" name="Final Parting"/>
@@ -168,7 +168,7 @@
         <card number="1" name="Explosive Vegetation"/>
         <card number="2" name="Corpse Churn"/>
         <card number="1" name="Thornweald Archer"/>
-        <card number="2" name="Scout the Borders"/>
+        <card number="3" name="Scout the Borders"/>
         <card number="2" name="Gather the Pack"/>
         <card number="4" name="Swords to Plowshares"/>
         <card number="1" name="Liesa, Shroud of Dusk"/>
@@ -195,7 +195,7 @@
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Darksteel Myr"/>
-        <card number="3" name="Relentless Pursuit"/>
+        <card number="4" name="Relentless Pursuit"/>
         <card number="1" name="Mire Triton"/>
         <card number="1" name="Ghostblade Eidolon"/>
         <card number="2" name="Skull Prophet"/>
@@ -234,7 +234,7 @@
         <card number="1" name="Deathcap Glade"/>
         <card number="1" name="Necromantic Selection"/>
         <card number="1" name="Unburial Rites"/>
-        <card number="1" name="Oketra the True"/>
+        <card number="2" name="Oketra the True"/>
         <card number="1" name="Wilson, Refined Grizzly"/>
         <card number="1" name="Selective Adaptation"/>
         <card number="2" name="Verrak, Warped Sengir"/>
@@ -243,9 +243,9 @@
         <card number="1" name="Witherbloom Command"/>
         <card number="1" name="Bitter Revelation"/>
         <card number="1" name="Nullpriest of Oblivion"/>
-        <card number="2" name="Vessel of Nascency"/>
-        <card number="1" name="Warlock Class"/>
-        <card number="1" name="Nyx Weaver"/>
+        <card number="3" name="Vessel of Nascency"/>
+        <card number="2" name="Warlock Class"/>
+        <card number="2" name="Nyx Weaver"/>
         <card number="2" name="Oakhame Adversary"/>
         <card number="2" name="Thrun, the Last Troll"/>
         <card number="1" name="Jewel Thief"/>
@@ -256,8 +256,8 @@
         <card number="1" name="Blink of an Eye"/>
         <card number="1" name="Mortality Spear"/>
         <card number="1" name="Aven Sunstriker"/>
-        <card number="1" name="Bassara Tower Archer"/>
-        <card number="1" name="Plated Crusher"/>
+        <card number="2" name="Bassara Tower Archer"/>
+        <card number="2" name="Plated Crusher"/>
         <card number="2" name="Angel of Suffering"/>
         <card number="2" name="Glowspore Shaman"/>
         <card number="2" name="Dogged Detective"/>
@@ -297,5 +297,17 @@
         <card number="1" name="Reidane, God of the Worthy"/>
         <card number="1" name="Archon of Valor's Reach"/>
         <card number="1" name="Archon of Coronation"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Grisly Salvage"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Kunoros, Hound of Athreos"/>
+        <card number="1" name="Nighthawk Scavenger"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Battle Angels of Tyr"/>
+        <card number="1" name="Vona, Butcher of Magan"/>
     </zone>
 </cockatrice_deck>

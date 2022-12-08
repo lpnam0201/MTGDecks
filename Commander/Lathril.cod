@@ -35,12 +35,10 @@
         <card number="1" name="Mortality Spear"/>
         <card number="1" name="Fallen Ideal"/>
         <card number="1" name="Demonic Embrace"/>
-        <card number="1" name="Elderfang Venom"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Whispersilk Cloak"/>
-        <card number="1" name="Status // Statue"/>
         <card number="1" name="Immaculate Magistrate"/>
         <card number="1" name="Golgari Rot Farm"/>
         <card number="1" name="Sol Ring"/>
@@ -60,7 +58,6 @@
         <card number="1" name="Tear Asunder"/>
         <card number="1" name="Llanowar Loamspeaker"/>
         <card number="1" name="Kindred Summons"/>
-        <card number="1" name="Lys Alana Scarblade"/>
         <card number="1" name="Craterhoof Behemoth"/>
         <card number="1" name="Chord of Calling"/>
         <card number="1" name="Shamanic Revelation"/>
@@ -84,8 +81,11 @@
         <card number="1" name="Deathcap Glade"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Demonic Bargain"/>
         <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Moldervine Reclamation"/>
+        <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Status // Statue"/>
+        <card number="1" name="Pact of the Serpent"/>
     </zone>
     <zone name="side">
         <card number="2" name="Bojuka Bog"/>
@@ -108,7 +108,7 @@
         <card number="1" name="End-Raze Forerunners"/>
         <card number="1" name="Deathreap Ritual"/>
         <card number="2" name="Harmonize"/>
-        <card number="1" name="Elderfang Venom"/>
+        <card number="2" name="Elderfang Venom"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Gilt-Leaf Winnower"/>
         <card number="3" name="Haunting Voyage"/>
@@ -178,7 +178,10 @@
         <card number="1" name="Verdant Catacombs"/>
         <card number="1" name="Llanowar Visionary"/>
         <card number="1" name="Canopy Cover"/>
-        <card number="1" name="Pact of the Serpent"/>
+        <card number="2" name="Pact of the Serpent"/>
         <card number="1" name="Wrap in Vigor"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Status // Statue"/>
+        <card number="1" name="Lys Alana Scarblade"/>
     </zone>
 </cockatrice_deck>

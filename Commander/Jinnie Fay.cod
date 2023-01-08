@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Call the Coppercoats"/>
-        <card number="1" name="Shared Animosity"/>
         <card number="1" name="Jinnie Fay, Jetmir's Second"/>
         <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Chord of Calling"/>
@@ -53,7 +52,6 @@
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Gluntch, the Bestower"/>
         <card number="1" name="Odric, Master Tactician"/>
-        <card number="1" name="Witty Roastmaster"/>
         <card number="1" name="Loyal Apprentice"/>
         <card number="1" name="Shiny Impetus"/>
         <card number="1" name="Legion Warboss"/>
@@ -82,18 +80,21 @@
         <card number="4" name="Mountain"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="4" name="Plains"/>
+        <card number="3" name="Plains"/>
         <card number="1" name="Craterhoof Behemoth"/>
-        <card number="1" name="Sticky Fingers"/>
         <card number="1" name="Skyknight Vanguard"/>
-        <card number="1" name="Descent into Avernus"/>
         <card number="1" name="Goblin Assault"/>
         <card number="1" name="Increasing Devotion"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Elemental Bond"/>
         <card number="1" name="Glare of Subdual"/>
-        <card number="1" name="Winds of Abandon"/>
         <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Rite of Harmony"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Kher Keep"/>
+        <card number="1" name="Squirrel Nest"/>
+        <card number="1" name="Presence of Gond"/>
     </zone>
     <zone name="side">
         <card number="1" name="Swords to Plowshares"/>
@@ -117,5 +118,11 @@
         <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Mandate of Peace"/>
+        <card number="1" name="Witty Roastmaster"/>
+        <card number="1" name="Winds of Abandon"/>
+        <card number="1" name="Shared Animosity"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Sticky Fingers"/>
+        <card number="1" name="Descent into Avernus"/>
     </zone>
 </cockatrice_deck>

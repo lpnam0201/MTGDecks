@@ -7,19 +7,16 @@
         <card number="1" name="Fathom Mage"/>
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Cold-Eyed Selkie"/>
-        <card number="1" name="Beast Whisperer"/>
         <card number="1" name="Marwyn, the Nurturer"/>
         <card number="1" name="Simic Ascendancy"/>
         <card number="1" name="Iridescent Hornbeetle"/>
         <card number="1" name="Cultivator of Blades"/>
-        <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Fyndhorn Elves"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Trygon Predator"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
@@ -27,9 +24,7 @@
         <card number="1" name="Fertilid"/>
         <card number="1" name="Managorger Hydra"/>
         <card number="1" name="Duskshell Crawler"/>
-        <card number="1" name="Tuskguard Captain"/>
         <card number="1" name="Inspiring Call"/>
-        <card number="1" name="Foundation Breaker"/>
         <card number="1" name="Gyre Sage"/>
         <card number="1" name="Kodama of the West Tree"/>
         <card number="1" name="Sol Ring"/>
@@ -40,8 +35,6 @@
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Resculpt"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Pongify"/>
-        <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
@@ -50,7 +43,6 @@
         <card number="1" name="Three Visits"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Saw It Coming"/>
-        <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Command Beacon"/>
@@ -73,18 +65,26 @@
         <card number="1" name="Siren Stormtamer"/>
         <card number="1" name="Devoted Druid"/>
         <card number="1" name="Whirler Rogue"/>
-        <card number="1" name="Kira, Great Glass-Spinner"/>
         <card number="1" name="Ghostly Pilferer"/>
         <card number="1" name="Herald of Secret Streams"/>
         <card number="1" name="Guardian Augmenter"/>
         <card number="1" name="Spellskite"/>
-        <card number="1" name="Tanazir Quandrix"/>
-        <card number="1" name="Crashing Drawbridge"/>
-        <card number="1" name="Karn's Temporal Sundering"/>
-        <card number="1" name="Walk the Aeons"/>
-        <card number="1" name="Alrund's Epiphany"/>
         <card number="1" name="Druid of Purification"/>
         <card number="1" name="Forgotten Ancient"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Delay"/>
+        <card number="1" name="Tale's End"/>
+        <card number="1" name="Fauna Shaman"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Wolverine Riders"/>
+        <card number="1" name="Vorel of the Hull Clade"/>
+        <card number="1" name="Runic Armasaur"/>
+        <card number="1" name="Scurry Oak"/>
+        <card number="1" name="Zameck Guildmage"/>
+        <card number="1" name="Gnarlid Colony"/>
     </zone>
     <zone name="side">
         <card number="1" name="Acidic Slime"/>
@@ -109,7 +109,7 @@
         <card number="3" name="Blighted Agent"/>
         <card number="1" name="Master Biomancer"/>
         <card number="1" name="Animation Module"/>
-        <card number="1" name="Oakhame Adversary"/>
+        <card number="2" name="Oakhame Adversary"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Ranger Class"/>
@@ -118,7 +118,7 @@
         <card number="1" name="Destiny Spinner"/>
         <card number="1" name="Invisible Stalker"/>
         <card number="1" name="The Reality Chip"/>
-        <card number="1" name="Toski, Bearer of Secrets"/>
+        <card number="3" name="Toski, Bearer of Secrets"/>
         <card number="1" name="Venser, Shaper Savant"/>
         <card number="1" name="Bident of Thassa"/>
         <card number="1" name="Reconnaissance Mission"/>
@@ -127,8 +127,28 @@
         <card number="1" name="Esior, Wardwing Familiar"/>
         <card number="1" name="Bred for the Hunt"/>
         <card number="1" name="Hardened Scales"/>
-        <card number="1" name="Scavenging Ooze"/>
+        <card number="2" name="Scavenging Ooze"/>
         <card number="1" name="Scurry Oak"/>
         <card number="1" name="Zameck Guildmage"/>
+        <card number="1" name="Kira, Great Glass-Spinner"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Alrund's Epiphany"/>
+        <card number="1" name="Walk the Aeons"/>
+        <card number="1" name="Tanazir Quandrix"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Edric, Spymaster of Trest"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="2" name="Fact or Fiction"/>
+        <card number="1" name="Mindless Automaton"/>
+        <card number="1" name="Foundation Breaker"/>
+        <card number="1" name="Tuskguard Captain"/>
+        <card number="1" name="Soulherder"/>
     </zone>
 </cockatrice_deck>

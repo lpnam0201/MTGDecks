@@ -11,23 +11,16 @@
         <card number="1" name="Pirate's Pillage"/>
         <card number="1" name="Crackle with Power"/>
         <card number="1" name="Comet Storm"/>
-        <card number="1" name="Jaya's Immolating Inferno"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Expansion // Explosion"/>
         <card number="1" name="Double Vision"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Strike It Rich"/>
         <card number="1" name="Reckless Endeavor"/>
-        <card number="1" name="Mass Manipulation"/>
         <card number="1" name="Inspiring Statuary"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Noble's Purse"/>
-        <card number="1" name="Swarm Intelligence"/>
-        <card number="1" name="Shiny Impetus"/>
-        <card number="1" name="Pirate's Prize"/>
         <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Izzet Signet"/>
@@ -44,16 +37,12 @@
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Dig Through Time"/>
-        <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Solve the Equation"/>
-        <card number="1" name="Pongify"/>
-        <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Preordain"/>
         <card number="1" name="Mana Geyser"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Commander's Insight"/>
         <card number="1" name="Mystic Confluence"/>
         <card number="1" name="Memory Deluge"/>
         <card number="1" name="Drawn from Dreams"/>
@@ -70,7 +59,6 @@
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Frostboil Snarl"/>
         <card number="1" name="Sulfur Falls"/>
-        <card number="1" name="Scalding Tarn"/>
         <card number="10" name="Mountain"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Mana Confluence"/>
@@ -78,13 +66,25 @@
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Expressive Iteration"/>
-        <card number="1" name="Thopter Spy Network"/>
-        <card number="1" name="Descent into Avernus"/>
-        <card number="1" name="Mana Leak"/>
-        <card number="1" name="Horizon Stone"/>
-        <card number="1" name="Lose Focus"/>
-        <card number="1" name="Blue Sun's Zenith"/>
         <card number="1" name="Reverberate"/>
+        <card number="1" name="Delay"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Cyberdrive Awakener"/>
+        <card number="1" name="Xorn"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Invert // Invent"/>
+        <card number="1" name="Reiterate"/>
+        <card number="1" name="Brass's Bounty"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Past in Flames"/>
+        <card number="1" name="Fervent Mastery"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Thassa, Deep-Dwelling"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Archmage Emeritus"/>
     </zone>
     <zone name="side">
         <card number="1" name="Saheeli Rai"/>
@@ -99,13 +99,32 @@
         <card number="1" name="Spiteful Repossession"/>
         <card number="1" name="Abrade"/>
         <card number="2" name="Archmage Emeritus"/>
-        <card number="1" name="Descent into Avernus"/>
+        <card number="2" name="Descent into Avernus"/>
         <card number="1" name="Metallurgic Summonings"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Saheeli, Sublime Artificer"/>
-        <card number="1" name="Horizon Stone"/>
+        <card number="2" name="Horizon Stone"/>
         <card number="1" name="Confirm Suspicions"/>
         <card number="1" name="Trail of Evidence"/>
         <card number="1" name="Creative Outburst"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Lose Focus"/>
+        <card number="1" name="Swarm Intelligence"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Commander's Insight"/>
+        <card number="1" name="Third Path Iconoclast"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Jaya's Immolating Inferno"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Mass Manipulation"/>
+        <card number="1" name="Strike It Rich"/>
+        <card number="1" name="Thopter Spy Network"/>
+        <card number="1" name="Shiny Impetus"/>
+        <card number="1" name="The Reaver Cleaver"/>
+        <card number="1" name="Pirate's Prize"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Rise and Shine"/>
     </zone>
 </cockatrice_deck>

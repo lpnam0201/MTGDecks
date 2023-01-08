@@ -10,97 +10,107 @@
         <card number="1" name="Lay Claim"/>
         <card number="1" name="New Perspectives"/>
         <card number="1" name="Akroma's Vengeance"/>
-        <card number="1" name="Sanctum Plowbeast"/>
         <card number="1" name="Boon of the Wish-Giver"/>
-        <card number="1" name="Mental Journey"/>
         <card number="1" name="Remote Isle"/>
         <card number="1" name="Irrigated Farmland"/>
         <card number="1" name="Polluted Mire"/>
         <card number="1" name="Lonely Sandbar"/>
-        <card number="1" name="Barren Moor"/>
         <card number="1" name="Drifting Meadow"/>
         <card number="1" name="Desert of the Mindful"/>
         <card number="1" name="Desert of the True"/>
         <card number="1" name="Desert of the Glorified"/>
         <card number="1" name="Secluded Steppe"/>
-        <card number="1" name="Vile Manifestation"/>
         <card number="1" name="Ominous Seas"/>
-        <card number="1" name="Djeru's Renunciation"/>
         <card number="1" name="Valiant Rescuer"/>
         <card number="1" name="Fluctuator"/>
-        <card number="1" name="Rescind"/>
         <card number="1" name="Neutralize"/>
-        <card number="1" name="Memory Leak"/>
         <card number="1" name="Countervailing Winds"/>
         <card number="1" name="Rebuild"/>
-        <card number="1" name="Vizier of Tumbling Sands"/>
         <card number="1" name="Nimble Obstructionist"/>
-        <card number="1" name="Dismantling Wave"/>
-        <card number="1" name="Akroma's Blessing"/>
-        <card number="1" name="Radiant's Judgment"/>
-        <card number="1" name="Abandoned Sarcophagus"/>
-        <card number="1" name="Esper Sojourners"/>
-        <card number="1" name="Curator of Mysteries"/>
         <card number="1" name="Reconnaissance Mission"/>
-        <card number="1" name="Hieroglyphic Illumination"/>
-        <card number="1" name="Choking Tethers"/>
-        <card number="1" name="Sacred Excavation"/>
         <card number="1" name="Cast Out"/>
-        <card number="1" name="Decree of Justice"/>
-        <card number="1" name="Archfiend of Ifnir"/>
         <card number="1" name="Razaketh's Rite"/>
         <card number="1" name="Street Wraith"/>
-        <card number="1" name="Frostveil Ambush"/>
-        <card number="1" name="Drake Haven"/>
-        <card number="1" name="Thought Reflection"/>
         <card number="1" name="Teferi's Ageless Insight"/>
         <card number="1" name="Faith of the Devoted"/>
         <card number="1" name="Bone Miser"/>
-        <card number="1" name="Flourishing Fox"/>
-        <card number="1" name="Gray Merchant of Asphodel"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Dimir Signet"/>
         <card number="1" name="Talisman of Hierarchy"/>
-        <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Bag of Holding"/>
-        <card number="1" name="Crystalline Resonance"/>
-        <card number="1" name="Ghostly Prison"/>
-        <card number="1" name="Propaganda"/>
-        <card number="1" name="Temple of Deceit"/>
-        <card number="1" name="Temple of Enlightenment"/>
-        <card number="1" name="Temple of Silence"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Thriving Heath"/>
-        <card number="1" name="Thriving Moor"/>
-        <card number="5" name="Plains"/>
-        <card number="6" name="Island"/>
-        <card number="5" name="Swamp"/>
-        <card number="1" name="Sunken Hollow"/>
-        <card number="1" name="Prairie Stream"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Swamp"/>
         <card number="1" name="Darkwater Catacombs"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Command Tower"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="1" name="Ertai Resurrected"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Decree of Pain"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Angelsong"/>
+        <card number="1" name="Cloud of Faeries"/>
+        <card number="1" name="Fetid Pools"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Approach of the Second Sun"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Alhammarret's Archive"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Step Through"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="All-Seeing Arbiter"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Escape Protocol"/>
-        <card number="1" name="Vampire Spawn"/>
-        <card number="1" name="Malakir Blood-Priest"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Flourishing Fox"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="Shorikai, Genesis Engine"/>
+        <card number="1" name="Oubliette"/>
         <card number="1" name="Banishing Light"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Raffine's Tower"/>
+        <card number="1" name="Drannith Healer"/>
     </zone>
     <zone name="side">
         <card number="1" name="Forsake the Worldly"/>
         <card number="1" name="Astral Drift"/>
         <card number="1" name="Splendor Mare"/>
         <card number="1" name="Unburden"/>
-        <card number="1" name="Horror of the Broken Lands"/>
+        <card number="2" name="Horror of the Broken Lands"/>
         <card number="1" name="Imposing Vantasaur"/>
         <card number="1" name="Void Beckoner"/>
         <card number="1" name="World-Weary"/>
-        <card number="1" name="Suffocating Fumes"/>
+        <card number="2" name="Suffocating Fumes"/>
         <card number="1" name="Without Weakness"/>
         <card number="1" name="Traumatic Visions"/>
         <card number="1" name="Censor"/>
@@ -108,9 +118,73 @@
         <card number="1" name="Angelsong"/>
         <card number="1" name="Ichor Slick"/>
         <card number="1" name="Reconnaissance Mission"/>
-        <card number="1" name="Ancient Excavation"/>
-        <card number="1" name="Scarab Feast"/>
+        <card number="2" name="Scarab Feast"/>
         <card number="1" name="Archaeomancer"/>
         <card number="1" name="Cauldron Familiar"/>
+        <card number="1" name="Abandoned Sarcophagus"/>
+        <card number="1" name="Bag of Holding"/>
+        <card number="1" name="Esper Sojourners"/>
+        <card number="1" name="Malakir Blood-Priest"/>
+        <card number="1" name="Sanctum Plowbeast"/>
+        <card number="1" name="Vampire Spawn"/>
+        <card number="1" name="Akroma's Blessing"/>
+        <card number="1" name="Choking Tethers"/>
+        <card number="1" name="Djeru's Renunciation"/>
+        <card number="1" name="Frostveil Ambush"/>
+        <card number="1" name="Radiant's Judgment"/>
+        <card number="1" name="Rescind"/>
+        <card number="5" name="Island"/>
+        <card number="3" name="Plains"/>
+        <card number="3" name="Swamp"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="1" name="Decree of Justice"/>
+        <card number="1" name="Sacred Excavation"/>
+        <card number="2" name="Drake Haven"/>
+        <card number="1" name="Crystalline Resonance"/>
+        <card number="1" name="Banishing Light"/>
+        <card number="1" name="Vizier of Tumbling Sands"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Thought Reflection"/>
+        <card number="2" name="Escape Protocol"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Dismantling Wave"/>
+        <card number="1" name="Unearth"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Cloudblazer"/>
+        <card number="2" name="Vile Manifestation"/>
+        <card number="1" name="Mental Journey"/>
+        <card number="1" name="Hieroglyphic Illumination"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="2" name="Curator of Mysteries"/>
+        <card number="1" name="Aether Channeler"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="Auramancer"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Ancient Excavation"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="Obscura Charm"/>
+        <card number="1" name="Angel of the Ruins"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Memory Leak"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Archfiend of Ifnir"/>
     </zone>
 </cockatrice_deck>

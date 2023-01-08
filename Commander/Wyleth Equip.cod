@@ -77,7 +77,6 @@
         <card number="1" name="Relentless Assault"/>
         <card number="1" name="Seize the Day"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Kediss, Emberclaw Familiar"/>
         <card number="1" name="Zirda, the Dawnwaker"/>
         <card number="1" name="Akki Battle Squad"/>
         <card number="1" name="Disenchant"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Thran Power Suit"/>
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Akiri, Fearless Voyager"/>
     </zone>
     <zone name="side">
         <card number="2" name="Blasphemous Act"/>
@@ -188,7 +188,7 @@
         <card number="1" name="Koll, the Forgemaster"/>
         <card number="1" name="Port Razer"/>
         <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Kediss, Emberclaw Familiar"/>
+        <card number="2" name="Kediss, Emberclaw Familiar"/>
         <card number="1" name="Solar Blaze"/>
         <card number="1" name="Boros Garrison"/>
         <card number="1" name="Archaeomancer's Map"/>
@@ -211,7 +211,7 @@
         <card number="1" name="Reyav, Master Smith"/>
         <card number="1" name="Open the Vaults"/>
         <card number="1" name="Chain Reaction"/>
-        <card number="1" name="Relic Seeker"/>
+        <card number="2" name="Relic Seeker"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Bloodforged Battle-Axe"/>
         <card number="1" name="Stone Quarry"/>

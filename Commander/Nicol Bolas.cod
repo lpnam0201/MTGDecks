@@ -5,14 +5,12 @@
     <zone name="main">
         <card number="1" name="Nicol Bolas, the Ravager"/>
         <card number="1" name="Thassa, Deep-Dwelling"/>
-        <card number="1" name="Illusionist's Stratagem"/>
         <card number="1" name="Displace"/>
         <card number="1" name="Blur"/>
         <card number="1" name="Ghostly Flicker"/>
         <card number="1" name="Planar Incision"/>
         <card number="1" name="Teferi's Time Twist"/>
         <card number="1" name="Essence Flux"/>
-        <card number="1" name="Deadly Tempest"/>
         <card number="1" name="Conjurer's Closet"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Notion Thief"/>
@@ -20,7 +18,6 @@
         <card number="1" name="Venser, Shaper Savant"/>
         <card number="1" name="Mulldrifter"/>
         <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Propaganda"/>
         <card number="1" name="Flood of Tears"/>
         <card number="1" name="Perplexing Test"/>
         <card number="1" name="Candlekeep Sage"/>
@@ -29,7 +26,6 @@
         <card number="1" name="Countersquall"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Dispel"/>
         <card number="1" name="Archaeomancer"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Rionya, Fire Dancer"/>
@@ -43,18 +39,9 @@
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Aether Channeler"/>
-        <card number="1" name="Imperial Recruiter"/>
         <card number="1" name="Kardur, Doomscourge"/>
-        <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Reality Shift"/>
-        <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Demonic Bargain"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Release to the Wind"/>
         <card number="1" name="Displacer Kitten"/>
-        <card number="1" name="Identity Thief"/>
-        <card number="1" name="Sentinel of the Pearl Trident"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Command Tower"/>
@@ -76,37 +63,51 @@
         <card number="1" name="Luxury Suite"/>
         <card number="1" name="Smoldering Marsh"/>
         <card number="1" name="Blood Crypt"/>
-        <card number="4" name="Mountain"/>
+        <card number="3" name="Mountain"/>
         <card number="4" name="Island"/>
         <card number="3" name="Swamp"/>
-        <card number="1" name="Panharmonicon"/>
-        <card number="1" name="Callous Bloodmage"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="Thriving Moor"/>
         <card number="1" name="Thriving Isle"/>
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Deadeye Navigator"/>
         <card number="1" name="Mirage Phalanx"/>
-        <card number="1" name="Hostage Taker"/>
         <card number="1" name="Massacre Girl"/>
-        <card number="1" name="Geth's Grimoire"/>
         <card number="1" name="Torment of Hailfire"/>
-        <card number="1" name="Blood Money"/>
-        <card number="1" name="Cut // Ribbons"/>
         <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Ardent Elementalist"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Fell Specter"/>
+        <card number="1" name="Raiders' Wake"/>
+        <card number="1" name="Tergrid, God of Fright"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Stonespeaker Crystal"/>
+        <card number="1" name="Release to the Wind"/>
+        <card number="1" name="Illusionist's Stratagem"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Aether Channeler"/>
+        <card number="1" name="Ertai Resurrected"/>
     </zone>
     <zone name="side">
-        <card number="2" name="Reanimate"/>
+        <card number="4" name="Reanimate"/>
         <card number="1" name="Blood on the Snow"/>
         <card number="1" name="Counterspell"/>
         <card number="2" name="Agent of Treachery"/>
-        <card number="1" name="Windfall"/>
+        <card number="2" name="Windfall"/>
         <card number="1" name="Shriekmaw"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="Mind Flayer"/>
         <card number="1" name="Gray Merchant of Asphodel"/>
-        <card number="1" name="Blood Money"/>
+        <card number="2" name="Blood Money"/>
         <card number="1" name="Quasiduplicate"/>
         <card number="1" name="Familiar's Ruse"/>
         <card number="1" name="Guild Artisan"/>
@@ -128,13 +129,43 @@
         <card number="1" name="Defabricate"/>
         <card number="1" name="Golden Argosy"/>
         <card number="1" name="Jeska's Will"/>
-        <card number="1" name="Hostage Taker"/>
+        <card number="2" name="Hostage Taker"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Gonti, Lord of Luxury"/>
         <card number="1" name="Mizzix's Mastery"/>
-        <card number="1" name="Mana Geyser"/>
+        <card number="2" name="Mana Geyser"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Aetherspouts"/>
+        <card number="2" name="Geth's Grimoire"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="2" name="Baleful Mastery"/>
+        <card number="1" name="Identity Thief"/>
+        <card number="1" name="Ardent Elementalist"/>
+        <card number="1" name="All-Seeing Arbiter"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Cut // Ribbons"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="2" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Aether Channeler"/>
+        <card number="1" name="Imperial Recruiter"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Release to the Wind"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Waste Not"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Illusionist's Stratagem"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Callous Bloodmage"/>
+        <card number="1" name="Liliana's Caress"/>
+        <card number="1" name="Ertai Resurrected"/>
+        <card number="1" name="Grim Tutor"/>
+        <card number="1" name="Sentinel of the Pearl Trident"/>
+        <card number="1" name="Bedevil"/>
     </zone>
 </cockatrice_deck>

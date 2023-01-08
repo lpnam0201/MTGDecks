@@ -77,14 +77,14 @@
         <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Curate"/>
         <card number="1" name="Sheoldred, Whispering One"/>
-        <card number="1" name="Baleful Force"/>
         <card number="1" name="Port of Karfell"/>
         <card number="1" name="Ever After"/>
-        <card number="1" name="Sphinx of the Final Word"/>
         <card number="1" name="Jin-Gitaxias, Core Augur"/>
         <card number="1" name="Opt"/>
         <card number="1" name="Miscast"/>
         <card number="1" name="Angel of Suffering"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Sepulchral Primordial"/>
     </zone>
     <zone name="side">
         <card number="1" name="Codex Shredder"/>
@@ -104,7 +104,7 @@
         <card number="1" name="Swamp"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Command Beacon"/>
-        <card number="1" name="Sphinx of the Final Word"/>
+        <card number="2" name="Sphinx of the Final Word"/>
         <card number="1" name="Rise of the Dark Realms"/>
         <card number="1" name="Toxic Deluge"/>
         <card number="1" name="Ancient Excavation"/>
@@ -132,7 +132,7 @@
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Arcanis the Omnipotent"/>
-        <card number="1" name="Baleful Force"/>
+        <card number="2" name="Baleful Force"/>
         <card number="2" name="Elder Brain"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Polluted Delta"/>

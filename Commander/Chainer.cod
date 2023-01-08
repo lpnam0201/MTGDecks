@@ -24,34 +24,22 @@
         <card number="1" name="Victimize"/>
         <card number="1" name="Thrill of Possibility"/>
         <card number="1" name="Tormenting Voice"/>
-        <card number="12" name="Mountain"/>
-        <card number="12" name="Swamp"/>
+        <card number="10" name="Mountain"/>
+        <card number="10" name="Swamp"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Temple of Malice"/>
-        <card number="1" name="Bloodfell Caves"/>
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Apprentice Necromancer"/>
         <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Akoum Refuge"/>
         <card number="1" name="Shadowblood Ridge"/>
-        <card number="1" name="Cinder Barrens"/>
-        <card number="1" name="Rakdos Guildgate"/>
-        <card number="1" name="Dragon Mage"/>
-        <card number="1" name="Ever After"/>
         <card number="1" name="Vile Entomber"/>
         <card number="1" name="Incarnation Technique"/>
-        <card number="1" name="Necromantic Selection"/>
         <card number="1" name="Oriq Loremage"/>
-        <card number="1" name="Sulfurous Mire"/>
-        <card number="1" name="Lavaclaw Reaches"/>
         <card number="1" name="Kardur, Doomscourge"/>
         <card number="1" name="Terminate"/>
-        <card number="1" name="Drossforge Bridge"/>
         <card number="1" name="Gonti, Lord of Luxury"/>
         <card number="1" name="Seize the Spoils"/>
-        <card number="1" name="Prismatic Lens"/>
-        <card number="1" name="Whisper, Blood Liturgist"/>
         <card number="1" name="Cathartic Reunion"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Soul Shatter"/>
@@ -60,7 +48,6 @@
         <card number="1" name="Disciple of Bolas"/>
         <card number="1" name="Young Necromancer"/>
         <card number="1" name="Liquimetal Torque"/>
-        <card number="1" name="Thought Vessel"/>
         <card number="1" name="Gravebreaker Lamia"/>
         <card number="1" name="Vilis, Broker of Blood"/>
         <card number="1" name="Dualcaster Mage"/>
@@ -75,6 +62,25 @@
         <card number="1" name="Exhume"/>
         <card number="1" name="From the Catacombs"/>
         <card number="1" name="Sheoldred, Whispering One"/>
+        <card number="1" name="Elder Brain"/>
+        <card number="1" name="Persist"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Bladewing, Deathless Tyrant"/>
+        <card number="1" name="Lord of the Forsaken"/>
+        <card number="1" name="Bone Miser"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Stitch Together"/>
+        <card number="1" name="Wayfarer's Bauble"/>
     </zone>
     <zone name="side">
         <card number="1" name="Muck Drubb"/>
@@ -82,7 +88,7 @@
         <card number="1" name="Experimental Frenzy"/>
         <card number="1" name="Archfiend of Spite"/>
         <card number="1" name="Grim Haruspex"/>
-        <card number="1" name="Ever After"/>
+        <card number="2" name="Ever After"/>
         <card number="1" name="Kardur's Vicious Return"/>
         <card number="1" name="Ancient Craving"/>
         <card number="1" name="Ambition's Cost"/>
@@ -108,7 +114,7 @@
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Terminate"/>
         <card number="1" name="Burnished Hart"/>
-        <card number="1" name="Necromantic Selection"/>
+        <card number="2" name="Necromantic Selection"/>
         <card number="1" name="Read the Bones"/>
         <card number="1" name="Dualcaster Mage"/>
         <card number="1" name="Squee, Goblin Nabob"/>
@@ -124,10 +130,10 @@
         <card number="1" name="Pirate's Pillage"/>
         <card number="1" name="Blacklance Paragon"/>
         <card number="1" name="Bolt Bend"/>
-        <card number="1" name="Drossforge Bridge"/>
+        <card number="2" name="Drossforge Bridge"/>
         <card number="1" name="Rakdos Carnarium"/>
         <card number="2" name="Rogue's Passage"/>
-        <card number="1" name="Thought Vessel"/>
+        <card number="2" name="Thought Vessel"/>
         <card number="1" name="Terror of Mount Velus"/>
         <card number="1" name="Coercive Recruiter"/>
         <card number="1" name="Foreboding Ruins"/>
@@ -144,5 +150,17 @@
         <card number="1" name="Sepulchral Primordial"/>
         <card number="1" name="Drana, the Last Bloodchief"/>
         <card number="1" name="Boneyard Parley"/>
+        <card number="1" name="Dragon Mage"/>
+        <card number="1" name="Akoum Refuge"/>
+        <card number="1" name="Bloodfell Caves"/>
+        <card number="1" name="Cinder Barrens"/>
+        <card number="1" name="Lavaclaw Reaches"/>
+        <card number="1" name="Rakdos Guildgate"/>
+        <card number="1" name="Sulfurous Mire"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Whisper, Blood Liturgist"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
     </zone>
 </cockatrice_deck>

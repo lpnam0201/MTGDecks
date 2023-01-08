@@ -25,7 +25,7 @@
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Command Tower"/>
         <card number="10" name="Plains"/>
-        <card number="10" name="Swamp"/>
+        <card number="8" name="Swamp"/>
         <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Bounty Agent"/>
@@ -72,7 +72,6 @@
         <card number="1" name="Baleful Mastery"/>
         <card number="1" name="Hellish Rebuke"/>
         <card number="1" name="Reidane, God of the Worthy"/>
-        <card number="1" name="Archivist of Oghma"/>
         <card number="1" name="Archon of Coronation"/>
         <card number="1" name="Selfless Samurai"/>
         <card number="1" name="Selfless Glyphweaver"/>
@@ -82,9 +81,12 @@
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Seal of Cleansing"/>
         <card number="1" name="Sevinne's Reclamation"/>
-        <card number="1" name="Giver of Runes"/>
-        <card number="1" name="Destroy Evil"/>
-        <card number="1" name="Oblation"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Archivist of Oghma"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Mandate of Peace"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Cutthroat"/>
@@ -155,7 +157,7 @@
         <card number="1" name="Dire Tactics"/>
         <card number="1" name="Blacksmith's Skill"/>
         <card number="4" name="Plains"/>
-        <card number="3" name="Swamp"/>
+        <card number="5" name="Swamp"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Tainted Field"/>
@@ -182,7 +184,7 @@
         <card number="2" name="Citadel Siege"/>
         <card number="1" name="Will-o'-the-Wisp"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Archivist of Oghma"/>
+        <card number="2" name="Archivist of Oghma"/>
         <card number="1" name="Ethersworn Canonist"/>
         <card number="1" name="Fateful Absence"/>
         <card number="1" name="Kunoros, Hound of Athreos"/>
@@ -200,5 +202,8 @@
         <card number="1" name="Ondu Inversion"/>
         <card number="1" name="Beloved Princess"/>
         <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Destroy Evil"/>
+        <card number="1" name="Oblation"/>
     </zone>
 </cockatrice_deck>

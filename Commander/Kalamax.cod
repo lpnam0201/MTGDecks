@@ -14,8 +14,6 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Talisman of Curiosity"/>
-        <card number="1" name="Izzet Signet"/>
-        <card number="1" name="Simic Signet"/>
         <card number="1" name="Wilderness Reclamation"/>
         <card number="1" name="Expansion // Explosion"/>
         <card number="1" name="Chaos Warp"/>
@@ -34,11 +32,10 @@
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Mossfire Valley"/>
         <card number="1" name="Shivan Reef"/>
-        <card number="4" name="Forest"/>
-        <card number="4" name="Mountain"/>
-        <card number="4" name="Island"/>
+        <card number="3" name="Forest"/>
+        <card number="3" name="Mountain"/>
+        <card number="3" name="Island"/>
         <card number="1" name="Mizzix's Mastery"/>
-        <card number="1" name="Gruul Signet"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Silundi Vision"/>
         <card number="1" name="Bala Ged Recovery"/>
@@ -52,10 +49,8 @@
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Jaheira's Respite"/>
         <card number="1" name="Big Score"/>
         <card number="1" name="Refuse // Cooperate"/>
-        <card number="1" name="Fellwar Stone"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Rejuvenating Springs"/>
         <card number="1" name="Training Center"/>
@@ -70,9 +65,6 @@
         <card number="1" name="Steam Vents"/>
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Breeding Pool"/>
-        <card number="1" name="Scalding Tarn"/>
-        <card number="1" name="Misty Rainforest"/>
-        <card number="1" name="Wooded Foothills"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Ral, Storm Conduit"/>
@@ -94,19 +86,30 @@
         <card number="1" name="Volcanic Fallout"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Farseek"/>
+        <card number="1" name="Survivors' Encampment"/>
+        <card number="1" name="Holdout Settlement"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Wavebreak Hippocamp"/>
+        <card number="1" name="Dragonsguard Elite"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Relic of Legends"/>
     </zone>
     <zone name="side">
         <card number="2" name="Mission Briefing"/>
         <card number="2" name="Mana Leak"/>
         <card number="1" name="Talrand, Sky Summoner"/>
         <card number="2" name="Talisman of Impulse"/>
-        <card number="1" name="Gruul Signet"/>
+        <card number="2" name="Gruul Signet"/>
         <card number="1" name="Sublime Epiphany"/>
         <card number="1" name="Wort, the Raidmother"/>
         <card number="1" name="Saheeli, Sublime Artificer"/>
         <card number="3" name="Unleash Fury"/>
         <card number="1" name="Kessig Wolf Run"/>
-        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="2" name="Rashmi, Eternities Crafter"/>
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Three Visits"/>
         <card number="1" name="Lightning Bolt"/>
@@ -157,9 +160,9 @@
         <card number="2" name="Wildsize"/>
         <card number="1" name="Charge Through"/>
         <card number="1" name="Fire // Ice"/>
-        <card number="2" name="Thriving Bluff"/>
-        <card number="2" name="Thriving Grove"/>
-        <card number="2" name="Thriving Isle"/>
+        <card number="3" name="Thriving Bluff"/>
+        <card number="3" name="Thriving Grove"/>
+        <card number="3" name="Thriving Isle"/>
         <card number="1" name="Dragonsguard Elite"/>
         <card number="1" name="Breeding Pool"/>
         <card number="1" name="Steam Vents"/>
@@ -169,7 +172,6 @@
         <card number="1" name="Temple of Epiphany"/>
         <card number="1" name="Temple of Abandon"/>
         <card number="1" name="Temple of Mystery"/>
-        <card number="1" name="Dreamroot Cascade"/>
         <card number="1" name="Reverberate"/>
         <card number="1" name="Road // Ruin"/>
         <card number="1" name="Kazuul's Fury"/>
@@ -188,9 +190,9 @@
         <card number="1" name="Electrodominance"/>
         <card number="1" name="Holdout Settlement"/>
         <card number="1" name="Survivors' Encampment"/>
-        <card number="2" name="Forest"/>
-        <card number="1" name="Island"/>
-        <card number="1" name="Mountain"/>
+        <card number="3" name="Forest"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Mountain"/>
         <card number="1" name="Slice in Twain"/>
         <card number="1" name="Snakeskin Veil"/>
         <card number="1" name="Dispel"/>
@@ -205,5 +207,14 @@
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Jaheira's Respite"/>
     </zone>
 </cockatrice_deck>

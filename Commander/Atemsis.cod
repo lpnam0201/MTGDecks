@@ -5,7 +5,6 @@
     <zone name="main">
         <card number="1" name="Atemsis, All-Seeing"/>
         <card number="1" name="Misdirection"/>
-        <card number="1" name="Propaganda"/>
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Commit // Memory"/>
         <card number="1" name="Sorcerer's Wand"/>
@@ -22,7 +21,7 @@
         <card number="1" name="Aetherspouts"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="30" name="Island"/>
+        <card number="27" name="Island"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Hedron Archive"/>
         <card number="1" name="Sky Diamond"/>
@@ -36,7 +35,6 @@
         <card number="1" name="Viridian Longbow"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Stubborn Denial"/>
-        <card number="1" name="Disdainful Stroke"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Fellwar Stone"/>
         <card number="1" name="An Offer You Can't Refuse"/>
@@ -44,7 +42,6 @@
         <card number="1" name="Sisay's Ring"/>
         <card number="1" name="Memory Deluge"/>
         <card number="1" name="Whispersilk Cloak"/>
-        <card number="1" name="Karn's Temporal Sundering"/>
         <card number="1" name="Part the Waterveil"/>
         <card number="1" name="Walk the Aeons"/>
         <card number="1" name="Decanter of Endless Water"/>
@@ -57,23 +54,29 @@
         <card number="1" name="Alrund's Epiphany"/>
         <card number="1" name="Patriar's Seal"/>
         <card number="1" name="Clever Conjurer"/>
-        <card number="1" name="Mystic Confluence"/>
         <card number="1" name="Mystic Sanctuary"/>
         <card number="1" name="Ur-Golem's Eye"/>
         <card number="1" name="Into the Roil"/>
-        <card number="1" name="Miscast"/>
         <card number="1" name="Wizard Class"/>
         <card number="1" name="Body of Knowledge"/>
         <card number="1" name="Solve the Equation"/>
         <card number="1" name="Nimbleclaw Adept"/>
         <card number="1" name="Perplexing Test"/>
         <card number="1" name="Sphinx of the Second Sun"/>
-        <card number="1" name="Stormtide Leviathan"/>
         <card number="1" name="Ormos, Archive Keeper"/>
         <card number="1" name="Arcanis the Omnipotent"/>
         <card number="1" name="Drawn from Dreams"/>
         <card number="1" name="Delay"/>
         <card number="1" name="All-Seeing Arbiter"/>
+        <card number="1" name="Tidal Barracuda"/>
+        <card number="1" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Jin-Gitaxias, Core Augur"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Guildless Commons"/>
+        <card number="1" name="Tale's End"/>
+        <card number="1" name="Foil"/>
     </zone>
     <zone name="side">
         <card number="2" name="Serum Visions"/>
@@ -120,7 +123,7 @@
         <card number="2" name="Mind Spring"/>
         <card number="1" name="Ingenious Mastery"/>
         <card number="2" name="Flood of Tears"/>
-        <card number="1" name="Miscast"/>
+        <card number="2" name="Miscast"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Memory Lapse"/>
@@ -168,10 +171,10 @@
         <card number="1" name="Star Compass"/>
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Dream Fracture"/>
-        <card number="1" name="Stormtide Leviathan"/>
+        <card number="2" name="Stormtide Leviathan"/>
         <card number="1" name="Into the Story"/>
         <card number="1" name="Hullbreaker Horror"/>
-        <card number="1" name="Mystic Confluence"/>
+        <card number="2" name="Mystic Confluence"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Lantern of Revealing"/>
         <card number="1" name="Behold the Multiverse"/>
@@ -195,5 +198,9 @@
         <card number="1" name="Foil"/>
         <card number="1" name="Consecrated Sphinx"/>
         <card number="1" name="Atemsis, All-Seeing"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Silent Arbiter"/>
     </zone>
 </cockatrice_deck>

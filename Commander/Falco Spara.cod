@@ -12,30 +12,22 @@
         <card number="1" name="Incubation Druid"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
         <card number="1" name="Fathom Mage"/>
-        <card number="1" name="Damning Verdict"/>
-        <card number="1" name="Tezzeret's Gambit"/>
         <card number="1" name="Kodama of the West Tree"/>
         <card number="1" name="Vega, the Watcher"/>
         <card number="1" name="Felidar Retreat"/>
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Luminarch Aspirant"/>
-        <card number="1" name="Good-Fortune Unicorn"/>
         <card number="1" name="Fertilid"/>
-        <card number="1" name="Gyre Sage"/>
         <card number="1" name="Augur of Autumn"/>
         <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Sanctuary Warden"/>
         <card number="1" name="Abzan Falconer"/>
-        <card number="1" name="Eternal Witness"/>
         <card number="1" name="Inspiring Call"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Path to Exile"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Leyline of Anticipation"/>
         <card number="1" name="Dovin's Veto"/>
-        <card number="1" name="Ponder"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Arcane Denial"/>
@@ -48,19 +40,15 @@
         <card number="1" name="Three Visits"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Together Forever"/>
-        <card number="1" name="Family's Favor"/>
         <card number="1" name="Gavony Township"/>
         <card number="1" name="Talisman of Curiosity"/>
         <card number="1" name="Talisman of Progress"/>
         <card number="1" name="Talisman of Unity"/>
-        <card number="1" name="Tanazir Quandrix"/>
-        <card number="1" name="Soulherder"/>
         <card number="1" name="Simic Ascendancy"/>
         <card number="1" name="Herald of Secret Streams"/>
         <card number="1" name="Sunscorch Regent"/>
@@ -88,7 +76,7 @@
         <card number="1" name="Rejuvenating Springs"/>
         <card number="1" name="Breeding Pool"/>
         <card number="3" name="Island"/>
-        <card number="4" name="Forest"/>
+        <card number="3" name="Forest"/>
         <card number="3" name="Plains"/>
         <card number="1" name="Thriving Grove"/>
         <card number="1" name="Thriving Heath"/>
@@ -96,6 +84,19 @@
         <card number="1" name="Wall of Roots"/>
         <card number="1" name="Basri's Lieutenant"/>
         <card number="1" name="Swift Reconfiguration"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Kamahl, Heart of Krosa"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Thrummingbird"/>
+        <card number="1" name="Grateful Apparition"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Arcus Acolyte"/>
+        <card number="1" name="Krosan Verge"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lambholt Harrier"/>
@@ -115,5 +116,19 @@
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Knight of Autumn"/>
         <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Tezzeret's Gambit"/>
+        <card number="1" name="Tanazir Quandrix"/>
+        <card number="1" name="Family's Favor"/>
+        <card number="1" name="Damning Verdict"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Good-Fortune Unicorn"/>
+        <card number="1" name="Renata, Called to the Hunt"/>
+        <card number="1" name="Conclave Mentor"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Soulherder"/>
+        <card number="1" name="Gyre Sage"/>
+        <card number="1" name="Forest"/>
     </zone>
 </cockatrice_deck>

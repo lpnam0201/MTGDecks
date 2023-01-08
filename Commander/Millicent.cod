@@ -74,7 +74,6 @@
         <card number="1" name="Dreamshackle Geist"/>
         <card number="1" name="Glacial Fortress"/>
         <card number="1" name="Tocasia's Welcome"/>
-        <card number="1" name="Austere Command"/>
         <card number="1" name="Familiar's Ruse"/>
         <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Path of Ancestry"/>
@@ -86,8 +85,9 @@
         <card number="1" name="Kira, Great Glass-Spinner"/>
         <card number="1" name="Synthetic Destiny"/>
         <card number="1" name="Talisman of Progress"/>
-        <card number="1" name="Cleansing Nova"/>
-        <card number="1" name="Winds of Abandon"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Aetherspouts"/>
     </zone>
     <zone name="side">
         <card number="1" name="Negate"/>
@@ -96,7 +96,7 @@
         <card number="2" name="Field of Souls"/>
         <card number="1" name="Haunting Imitation"/>
         <card number="8" name="Plains"/>
-        <card number="2" name="Winds of Abandon"/>
+        <card number="3" name="Winds of Abandon"/>
         <card number="4" name="Aetherize"/>
         <card number="1" name="Katilda, Dawnhart Martyr"/>
         <card number="3" name="Mirrorhall Mimic"/>
@@ -176,7 +176,7 @@
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Reconnaissance Mission"/>
         <card number="4" name="Ingenious Mastery"/>
-        <card number="1" name="Austere Command"/>
+        <card number="2" name="Austere Command"/>
         <card number="1" name="Rootborn Defenses"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Makindi Stampede"/>
@@ -239,5 +239,6 @@
         <card number="1" name="Ondu Inversion"/>
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Lose Focus"/>
+        <card number="1" name="Cleansing Nova"/>
     </zone>
 </cockatrice_deck>

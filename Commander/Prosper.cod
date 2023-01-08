@@ -32,16 +32,13 @@
         <card number="1" name="Inspiring Statuary"/>
         <card number="1" name="Liquimetal Torque"/>
         <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Reckless Endeavor"/>
         <card number="1" name="Viridian Longbow"/>
         <card number="1" name="Talisman of Indulgence"/>
         <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Bedevil"/>
-        <card number="1" name="Vandalblast"/>
         <card number="1" name="Foreboding Ruins"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Luxury Suite"/>
-        <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Smoldering Marsh"/>
         <card number="1" name="Rakdos Carnarium"/>
         <card number="1" name="Baleful Mastery"/>
@@ -53,7 +50,6 @@
         <card number="1" name="Stolen Strategy"/>
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Blood Money"/>
-        <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Sulfurous Springs"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Blood Crypt"/>
@@ -64,7 +60,6 @@
         <card number="1" name="Street Urchin"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Dark Ritual"/>
-        <card number="1" name="Brass's Bounty"/>
         <card number="1" name="Dream Devourer"/>
         <card number="1" name="Wild-Magic Sorcerer"/>
         <card number="1" name="Nadier's Nightblade"/>
@@ -75,7 +70,6 @@
         <card number="1" name="Brainstealer Dragon"/>
         <card number="1" name="Profane Tutor"/>
         <card number="1" name="Oni-Cult Anvil"/>
-        <card number="1" name="Valakut Exploration"/>
         <card number="1" name="Outpost Siege"/>
         <card number="1" name="Agent of the Iron Throne"/>
         <card number="1" name="Duress"/>
@@ -85,6 +79,12 @@
         <card number="1" name="Academy Manufactor"/>
         <card number="1" name="Wyll's Reversal"/>
         <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Fevered Suspicion"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Disciple of the Vault"/>
     </zone>
     <zone name="side">
         <card number="1" name="Tainted Peak"/>
@@ -94,7 +94,7 @@
         <card number="2" name="Gonti, Lord of Luxury"/>
         <card number="1" name="Cunning Rhetoric"/>
         <card number="1" name="Dead Man's Chest"/>
-        <card number="2" name="You Find Some Prisoners"/>
+        <card number="3" name="You Find Some Prisoners"/>
         <card number="1" name="Tendrils of Agony"/>
         <card number="1" name="Breya's Apprentice"/>
         <card number="1" name="Rousing Refrain"/>
@@ -105,7 +105,7 @@
         <card number="1" name="Dire Fleet Daredevil"/>
         <card number="2" name="Profane Transfusion"/>
         <card number="2" name="Hellish Rebuke"/>
-        <card number="2" name="Vandalblast"/>
+        <card number="3" name="Vandalblast"/>
         <card number="2" name="By Force"/>
         <card number="1" name="Nested Shambler"/>
         <card number="1" name="Sepulchral Primordial"/>
@@ -129,7 +129,7 @@
         <card number="3" name="Reckless Impulse"/>
         <card number="2" name="Wild Ricochet"/>
         <card number="2" name="Hurl Through Hell"/>
-        <card number="2" name="Valakut Exploration"/>
+        <card number="3" name="Valakut Exploration"/>
         <card number="1" name="Liquimetal Torque"/>
         <card number="2" name="Shiny Impetus"/>
         <card number="2" name="Reverberate"/>
@@ -140,13 +140,13 @@
         <card number="1" name="Bedevil"/>
         <card number="1" name="Mayhem Devil"/>
         <card number="1" name="Pirate's Pillage"/>
-        <card number="2" name="Dream Devourer"/>
+        <card number="3" name="Dream Devourer"/>
         <card number="1" name="Hoard Robber"/>
         <card number="2" name="Hidetsugu, Devouring Chaos"/>
         <card number="4" name="Torment of Hailfire"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Murder"/>
-        <card number="1" name="Brass's Bounty"/>
+        <card number="2" name="Brass's Bounty"/>
         <card number="1" name="Apex of Power"/>
         <card number="2" name="Strike It Rich"/>
         <card number="2" name="Bolt Bend"/>
@@ -173,7 +173,7 @@
         <card number="1" name="Haunted Ridge"/>
         <card number="1" name="Cinder Barrens"/>
         <card number="1" name="Stolen Strategy"/>
-        <card number="1" name="Soulfire Eruption"/>
+        <card number="2" name="Soulfire Eruption"/>
         <card number="2" name="Commune with Lava"/>
         <card number="1" name="Myojin of Roaring Blades"/>
         <card number="1" name="Myojin of Grim Betrayal"/>
@@ -199,7 +199,7 @@
         <card number="1" name="Disciple of the Vault"/>
         <card number="1" name="Ingenious Artillerist"/>
         <card number="1" name="Nadier's Nightblade"/>
-        <card number="1" name="Agent of the Iron Throne"/>
+        <card number="2" name="Agent of the Iron Throne"/>
         <card number="1" name="Outpost Siege"/>
         <card number="1" name="Brainstealer Dragon"/>
         <card number="1" name="Birgi, God of Storytelling"/>
@@ -220,5 +220,11 @@
         <card number="1" name="Share the Spoils"/>
         <card number="1" name="Abrade"/>
         <card number="1" name="Volcanic Torrent"/>
+        <card number="1" name="Visions of Phyrexia"/>
+        <card number="2" name="Reckless Endeavor"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Nalfeshnee"/>
+        <card number="1" name="Urabrask, Heretic Praetor"/>
+        <card number="1" name="Exotic Orchard"/>
     </zone>
 </cockatrice_deck>

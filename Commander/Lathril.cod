@@ -56,11 +56,9 @@
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Leaf-Crowned Visionary"/>
         <card number="1" name="Tear Asunder"/>
-        <card number="1" name="Llanowar Loamspeaker"/>
         <card number="1" name="Kindred Summons"/>
         <card number="1" name="Craterhoof Behemoth"/>
         <card number="1" name="Chord of Calling"/>
-        <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Summoner's Pact"/>
         <card number="1" name="Priest of Titania"/>
@@ -75,7 +73,6 @@
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Shared Summons"/>
         <card number="1" name="Three Visits"/>
-        <card number="1" name="Coat of Arms"/>
         <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Fauna Shaman"/>
         <card number="1" name="Deathcap Glade"/>
@@ -84,8 +81,11 @@
         <card number="1" name="Baleful Mastery"/>
         <card number="1" name="Moldervine Reclamation"/>
         <card number="1" name="Torment of Hailfire"/>
-        <card number="1" name="Status // Statue"/>
         <card number="1" name="Pact of the Serpent"/>
+        <card number="1" name="Elven Ambush"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Paradise Druid"/>
     </zone>
     <zone name="side">
         <card number="2" name="Bojuka Bog"/>
@@ -131,7 +131,7 @@
         <card number="2" name="Deathcap Glade"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Jagged-Scar Archers"/>
-        <card number="2" name="Shamanic Revelation"/>
+        <card number="3" name="Shamanic Revelation"/>
         <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Copperhorn Scout"/>
         <card number="1" name="Ambition's Cost"/>
@@ -181,7 +181,9 @@
         <card number="2" name="Pact of the Serpent"/>
         <card number="1" name="Wrap in Vigor"/>
         <card number="1" name="Demonic Bargain"/>
-        <card number="1" name="Status // Statue"/>
+        <card number="2" name="Status // Statue"/>
         <card number="1" name="Lys Alana Scarblade"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Llanowar Loamspeaker"/>
     </zone>
 </cockatrice_deck>

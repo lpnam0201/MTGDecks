@@ -5,21 +5,15 @@
     <zone name="main">
         <card number="1" name="Jirina Kudro"/>
         <card number="1" name="General's Enforcer"/>
-        <card number="1" name="Odric, Master Tactician"/>
         <card number="1" name="Verge Rangers"/>
         <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Increasing Devotion"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Devout Chaplain"/>
-        <card number="1" name="Adriana, Captain of the Guard"/>
         <card number="1" name="Blade Historian"/>
         <card number="1" name="Riders of Gavony"/>
-        <card number="1" name="Hanweir Garrison"/>
         <card number="1" name="Cathar Commando"/>
-        <card number="1" name="Swiftblade Vindicator"/>
-        <card number="1" name="Avenging Huntbonder"/>
         <card number="1" name="Harmonious Archon"/>
-        <card number="1" name="Dreamstealer"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Despark"/>
@@ -28,9 +22,7 @@
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Painful Truths"/>
-        <card number="1" name="Pact of the Serpent"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Heirloom Blade"/>
         <card number="1" name="Outpost Siege"/>
         <card number="1" name="Etchings of the Chosen"/>
         <card number="1" name="Sol Ring"/>
@@ -42,50 +34,67 @@
         <card number="1" name="Shadowblood Ridge"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Caves of Koilos"/>
-        <card number="1" name="Thriving Heath"/>
-        <card number="1" name="Thriving Bluff"/>
-        <card number="1" name="Thriving Moor"/>
-        <card number="1" name="Temple of Triumph"/>
-        <card number="1" name="Temple of Silence"/>
-        <card number="1" name="Temple of Malice"/>
-        <card number="7" name="Plains"/>
-        <card number="7" name="Mountain"/>
-        <card number="6" name="Swamp"/>
+        <card number="4" name="Plains"/>
+        <card number="3" name="Mountain"/>
+        <card number="4" name="Swamp"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Eerie Interlude"/>
-        <card number="1" name="Semester's End"/>
-        <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Return to Dust"/>
         <card number="1" name="Berserkers' Onslaught"/>
         <card number="1" name="Selfless Glyphweaver"/>
-        <card number="1" name="Soul Shatter"/>
-        <card number="1" name="Crackling Doom"/>
         <card number="1" name="Rage Reflection"/>
-        <card number="1" name="Mother of Runes"/>
-        <card number="1" name="Silverblade Paladin"/>
-        <card number="1" name="Make a Stand"/>
-        <card number="1" name="Fencing Ace"/>
-        <card number="1" name="Boros Swiftblade"/>
-        <card number="1" name="Prophetic Flamespeaker"/>
-        <card number="1" name="Iroas's Champion"/>
-        <card number="1" name="Mirran Crusader"/>
-        <card number="1" name="Lavabrink Venturer"/>
-        <card number="1" name="Ruinous Ultimatum"/>
-        <card number="1" name="Dictate of Heliod"/>
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Talisman of Hierarchy"/>
-        <card number="1" name="Alesha, Who Smiles at Death"/>
         <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Basri's Lieutenant"/>
         <card number="1" name="Rakdos Signet"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Boros Signet"/>
-        <card number="1" name="Ambition's Cost"/>
-        <card number="1" name="Siege Striker"/>
-        <card number="1" name="Adeline, Resplendent Cathar"/>
         <card number="1" name="Shared Animosity"/>
+        <card number="1" name="Teleportation Circle"/>
+        <card number="1" name="Far Traveler"/>
+        <card number="1" name="Inspiring Leader"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Lae'zel's Acrobatics"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Duke Ulder Ravengard"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Gerrard, Weatherlight Hero"/>
+        <card number="1" name="Angel of Condemnation"/>
     </zone>
     <zone name="side">
         <card number="2" name="Judith, the Scourge Diva"/>
@@ -94,9 +103,9 @@
         <card number="2" name="Talisman of Hierarchy"/>
         <card number="1" name="Sunset Revelry"/>
         <card number="1" name="Crippling Fear"/>
-        <card number="1" name="Ruinous Ultimatum"/>
+        <card number="2" name="Ruinous Ultimatum"/>
         <card number="2" name="Haunting Voyage"/>
-        <card number="1" name="Species Specialist"/>
+        <card number="2" name="Species Specialist"/>
         <card number="1" name="Angel of Glory's Rise"/>
         <card number="1" name="Bounty Agent"/>
         <card number="1" name="Captivating Crew"/>
@@ -111,11 +120,11 @@
         <card number="1" name="Gerrard, Weatherlight Hero"/>
         <card number="1" name="General Kudro of Drannith"/>
         <card number="1" name="Giant Killer // Chop Down"/>
-        <card number="1" name="Alesha, Who Smiles at Death"/>
+        <card number="2" name="Alesha, Who Smiles at Death"/>
         <card number="1" name="Outlaws' Merriment"/>
         <card number="1" name="Stensia Uprising"/>
         <card number="1" name="Thraben Doomsayer"/>
-        <card number="1" name="Basri's Lieutenant"/>
+        <card number="2" name="Basri's Lieutenant"/>
         <card number="1" name="Rogue's Gloves"/>
         <card number="1" name="Mask of Memory"/>
         <card number="1" name="Sigrid, God-Favored"/>
@@ -123,9 +132,49 @@
         <card number="3" name="Shared Animosity"/>
         <card number="1" name="Dictate of the Twin Gods"/>
         <card number="1" name="Broken Ambitions"/>
-        <card number="2" name="Adeline, Resplendent Cathar"/>
+        <card number="3" name="Adeline, Resplendent Cathar"/>
         <card number="1" name="Storm Fleet Swashbuckler"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Kwende, Pride of Femeref"/>
+        <card number="1" name="Avenging Huntbonder"/>
+        <card number="1" name="Dictate of Heliod"/>
+        <card number="1" name="Silverblade Paladin"/>
+        <card number="1" name="Swiftblade Vindicator"/>
+        <card number="1" name="Siege Striker"/>
+        <card number="1" name="Prophetic Flamespeaker"/>
+        <card number="1" name="Mirran Crusader"/>
+        <card number="1" name="Lavabrink Venturer"/>
+        <card number="1" name="Iroas's Champion"/>
+        <card number="1" name="Hanweir Garrison"/>
+        <card number="1" name="Dreamstealer"/>
+        <card number="1" name="Fencing Ace"/>
+        <card number="1" name="Boros Swiftblade"/>
+        <card number="1" name="Odric, Master Tactician"/>
+        <card number="1" name="Heirloom Blade"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Crackling Doom"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="3" name="Swamp"/>
+        <card number="3" name="Plains"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Pact of the Serpent"/>
+        <card number="1" name="Make a Stand"/>
+        <card number="1" name="Semester's End"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Ambition's Cost"/>
+        <card number="1" name="Adriana, Captain of the Guard"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Restoration Angel"/>
+        <card number="1" name="Mother of Runes"/>
     </zone>
 </cockatrice_deck>

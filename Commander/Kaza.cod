@@ -8,7 +8,6 @@
         <card number="1" name="Azami, Lady of Scrolls"/>
         <card number="1" name="Archaeomancer"/>
         <card number="1" name="Archmage Emeritus"/>
-        <card number="1" name="Jaya's Immolating Inferno"/>
         <card number="1" name="Comet Storm"/>
         <card number="1" name="Clever Conjurer"/>
         <card number="1" name="Crackle with Power"/>
@@ -67,7 +66,6 @@
         <card number="1" name="Commune with Lava"/>
         <card number="1" name="March of Reckless Joy"/>
         <card number="1" name="Jeska's Will"/>
-        <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Fervent Mastery"/>
@@ -82,6 +80,8 @@
         <card number="1" name="Cackling Counterpart"/>
         <card number="1" name="Quasiduplicate"/>
         <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Double Vision"/>
+        <card number="1" name="Omnispell Adept"/>
     </zone>
     <zone name="side">
         <card number="2" name="Ponder"/>
@@ -168,7 +168,7 @@
         <card number="1" name="Wandering Fumarole"/>
         <card number="1" name="Maelstrom Muse"/>
         <card number="1" name="Thought Vessel"/>
-        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="2" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Arcane Artisan"/>
         <card number="1" name="Pondering Mage"/>
         <card number="1" name="Creative Outburst"/>
@@ -212,5 +212,7 @@
         <card number="1" name="Aether Channeler"/>
         <card number="1" name="Academy Loremaster"/>
         <card number="1" name="Double Vision"/>
+        <card number="1" name="Jaya's Immolating Inferno"/>
+        <card number="1" name="Impact Tremors"/>
     </zone>
 </cockatrice_deck>

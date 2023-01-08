@@ -5,11 +5,8 @@
     <zone name="main">
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Geode Rager"/>
-        <card number="1" name="Phylath, World Sculptor"/>
         <card number="1" name="Rampaging Baloths"/>
-        <card number="1" name="Ob Nixilis, the Fallen"/>
         <card number="1" name="Riveteers Overlook"/>
-        <card number="1" name="Reshape the Earth"/>
         <card number="1" name="Ramunap Excavator"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Myriad Landscape"/>
@@ -28,9 +25,9 @@
         <card number="1" name="Blood Crypt"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Command Tower"/>
-        <card number="6" name="Mountain"/>
-        <card number="7" name="Forest"/>
-        <card number="6" name="Swamp"/>
+        <card number="4" name="Mountain"/>
+        <card number="6" name="Forest"/>
+        <card number="3" name="Swamp"/>
         <card number="1" name="Luxury Suite"/>
         <card number="1" name="Spire Garden"/>
         <card number="1" name="Undergrowth Stadium"/>
@@ -45,68 +42,77 @@
         <card number="1" name="Beast Within"/>
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Putrefy"/>
-        <card number="1" name="Mortality Spear"/>
-        <card number="1" name="Windgrace's Judgment"/>
-        <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Nature's Claim"/>
         <card number="1" name="Bedevil"/>
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Sylvan Scrying"/>
-        <card number="1" name="Vandalblast"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Valakut Exploration"/>
-        <card number="1" name="Omnath, Locus of Rage"/>
-        <card number="1" name="Casualties of War"/>
         <card number="1" name="Soul of Windgrace"/>
-        <card number="1" name="Crackle with Power"/>
-        <card number="1" name="Cut // Ribbons"/>
-        <card number="1" name="The Binding of the Titans"/>
-        <card number="1" name="Ransack the Lab"/>
-        <card number="1" name="Warlock Class"/>
-        <card number="1" name="Bloodstained Mire"/>
-        <card number="1" name="Wooded Foothills"/>
-        <card number="1" name="Verdant Catacombs"/>
         <card number="1" name="Cabaretti Courtyard"/>
-        <card number="1" name="Jund Panorama"/>
-        <card number="1" name="Grapple with the Past"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Nissa's Pilgrimage"/>
-        <card number="1" name="Grisly Salvage"/>
-        <card number="1" name="Nahiri's Lithoforming"/>
         <card number="1" name="Command Beacon"/>
-        <card number="1" name="Nylea's Intervention"/>
-        <card number="1" name="Commander's Plate"/>
         <card number="1" name="Whispersilk Cloak"/>
-        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="1" name="Ancient Greenwarden"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Pir's Whim"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Azusa, Lost but Seeking"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Perennial Behemoth"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Cryptic Caves"/>
+        <card number="1" name="Nurturing Peatland"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Harmonize"/>
         <card number="1" name="The Gitrog Monster"/>
-        <card number="1" name="Discerning Taste"/>
-        <card number="1" name="Baloth Woodcrasher"/>
-        <card number="1" name="Grove Rumbler"/>
-        <card number="1" name="Skyclave Geopede"/>
-        <card number="1" name="Brushfire Elemental"/>
-        <card number="1" name="Kazandu Mammoth"/>
-        <card number="1" name="Territorial Scythecat"/>
-        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Mortality Spear"/>
+        <card number="1" name="Expedition Map"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Ulvenwald Hydra"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="1" name="Ob Nixilis, the Fallen"/>
+        <card number="1" name="Retreat to Hagra"/>
+        <card number="1" name="Titania, Protector of Argoth"/>
     </zone>
     <zone name="side">
         <card number="1" name="Erinis, Gloom Stalker"/>
-        <card number="2" name="Mountain"/>
+        <card number="4" name="Mountain"/>
         <card number="1" name="Bala Ged Sanctuary"/>
         <card number="1" name="Lotus Field"/>
-        <card number="2" name="The Gitrog Monster"/>
-        <card number="1" name="Discerning Taste"/>
-        <card number="1" name="Nylea's Intervention"/>
+        <card number="3" name="The Gitrog Monster"/>
+        <card number="2" name="Discerning Taste"/>
+        <card number="2" name="Nylea's Intervention"/>
         <card number="1" name="Fyndhorn Elves"/>
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Dawntreader Elk"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="2" name="The Mending of Dominaria"/>
-        <card number="2" name="The Binding of the Titans"/>
-        <card number="1" name="Grisly Salvage"/>
+        <card number="3" name="The Binding of the Titans"/>
+        <card number="2" name="Grisly Salvage"/>
         <card number="2" name="Roiling Regrowth"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Cultivate"/>
-        <card number="1" name="Gaze of Granite"/>
+        <card number="3" name="Gaze of Granite"/>
         <card number="4" name="Spitfire Lagac"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="Liege of the Tangle"/>
@@ -119,7 +125,7 @@
         <card number="1" name="Talisman of Indulgence"/>
         <card number="1" name="Talisman of Resilience"/>
         <card number="1" name="Titania, Protector of Argoth"/>
-        <card number="1" name="Forest"/>
+        <card number="2" name="Forest"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Shadowblood Ridge"/>
@@ -142,10 +148,10 @@
         <card number="1" name="The Eldest Reborn"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Memorial to Unity"/>
-        <card number="1" name="Memorial to Folly"/>
+        <card number="2" name="Memorial to Folly"/>
         <card number="1" name="World Shaper"/>
         <card number="1" name="Deathsprout"/>
-        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="2" name="Moraug, Fury of Akoum"/>
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Splendid Reclamation"/>
@@ -156,5 +162,53 @@
         <card number="1" name="Tunneling Geopede"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Blood Money"/>
+        <card number="1" name="Baloth Woodcrasher"/>
+        <card number="1" name="Brushfire Elemental"/>
+        <card number="1" name="Grove Rumbler"/>
+        <card number="1" name="Kazandu Mammoth"/>
+        <card number="1" name="Ransack the Lab"/>
+        <card number="1" name="Nahiri's Lithoforming"/>
+        <card number="1" name="Casualties of War"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Windgrace's Judgment"/>
+        <card number="1" name="Grapple with the Past"/>
+        <card number="1" name="Warlock Class"/>
+        <card number="1" name="Territorial Scythecat"/>
+        <card number="1" name="Skyclave Geopede"/>
+        <card number="1" name="Omnath, Locus of Rage"/>
+        <card number="1" name="Ob Nixilis, the Fallen"/>
+        <card number="1" name="Braids, Arisen Nightmare"/>
+        <card number="1" name="Reshape the Earth"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Kardur, Doomscourge"/>
+        <card number="1" name="Jund Panorama"/>
+        <card number="1" name="Crackle with Power"/>
+        <card number="1" name="Valakut Exploration"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Nurturing Peatland"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Phylath, World Sculptor"/>
+        <card number="1" name="Blast Zone"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="2" name="Deadly Tempest"/>
+        <card number="1" name="Tramway Station"/>
+        <card number="1" name="Racers' Ring"/>
+        <card number="1" name="Mortality Spear"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Timeless Witness"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Gravecrawler"/>
+        <card number="1" name="Reckless Endeavor"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Cut // Ribbons"/>
     </zone>
 </cockatrice_deck>

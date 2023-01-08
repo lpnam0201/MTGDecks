@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Rocco</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Rocco, Cabaretti Caterer"/>
+        <card number="1" name="Imperial Recruiter"/>
+        <card number="1" name="Cloudshift"/>
+        <card number="1" name="Ephemerate"/>
+        <card number="1" name="Dualcaster Mage"/>
+        <card number="1" name="Twinflame"/>
+        <card number="1" name="Coercive Recruiter"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Voldaren Epicure"/>
+        <card number="1" name="Wily Goblin"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Circuit Mender"/>
+        <card number="1" name="Fertilid"/>
+        <card number="1" name="Rumor Gatherer"/>
+        <card number="1" name="Pyretic Ritual"/>
+        <card number="1" name="The Fall of Lord Konda"/>
+        <card number="1" name="Aerial Extortionist"/>
+        <card number="1" name="Palace Jailer"/>
+        <card number="1" name="Angel of Condemnation"/>
+        <card number="1" name="Inquisitor Exarch"/>
+        <card number="1" name="Distinguished Conjurer"/>
+        <card number="1" name="Emiel the Blessed"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Wall of Omens"/>
+        <card number="1" name="Yannik, Scavenging Sentinel"/>
+        <card number="1" name="Abdel Adrian, Gorion's Ward"/>
+        <card number="1" name="Glorious Protector"/>
+        <card number="1" name="Restoration Angel"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Felidar Guardian"/>
+        <card number="1" name="Teleportation Circle"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Relic of Legends"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Llanowar Visionary"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Whitemane Lion"/>
+        <card number="1" name="Rescuer Chwinga"/>
+        <card number="1" name="Timeless Witness"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="4" name="Plains"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="3" name="Mountain"/>
+        <card number="4" name="Forest"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Sungrass Prairie"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Flametongue Kavu"/>
+        <card number="1" name="Pyretic Ritual"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Fertilid"/>
+        <card number="1" name="Plundering Barbarian"/>
+        <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Ardent Elementalist"/>
+        <card number="1" name="Bala Ged Sanctuary"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Path of Ancestry"/>
+    </zone>
+</cockatrice_deck>

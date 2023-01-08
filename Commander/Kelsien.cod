@@ -38,7 +38,6 @@
         <card number="1" name="Talisman of Indulgence"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Forging the Tyrite Sword"/>
-        <card number="1" name="Agent of the Shadow Thieves"/>
         <card number="1" name="Kaya's Ghostform"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Plaza of Heroes"/>
@@ -82,7 +81,6 @@
         <card number="1" name="Profane Tutor"/>
         <card number="1" name="Demonic Bargain"/>
         <card number="1" name="Runeforge Champion"/>
-        <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Inkshield"/>
         <card number="1" name="Hellish Rebuke"/>
         <card number="1" name="Rakdos Charm"/>
@@ -98,6 +96,9 @@
         <card number="1" name="Field of Ruin"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Kardur, Doomscourge"/>
+        <card number="1" name="Ruinous Ultimatum"/>
+        <card number="1" name="Zagras, Thief of Heartbeats"/>
+        <card number="1" name="Drumbellower"/>
     </zone>
     <zone name="side">
         <card number="1" name="Archetype of Finality"/>
@@ -151,7 +152,7 @@
         <card number="1" name="Ruinous Ultimatum"/>
         <card number="1" name="Ambition's Cost"/>
         <card number="1" name="Feed the Swarm"/>
-        <card number="1" name="Blasphemous Act"/>
+        <card number="2" name="Blasphemous Act"/>
         <card number="1" name="Gorgon Flail"/>
         <card number="1" name="Gorgon's Head"/>
         <card number="1" name="Wear // Tear"/>
@@ -198,7 +199,7 @@
         <card number="1" name="General's Enforcer"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Whispersilk Cloak"/>
-        <card number="1" name="Tempered in Solitude"/>
+        <card number="2" name="Tempered in Solitude"/>
         <card number="1" name="Selfless Savior"/>
         <card number="1" name="Benevolent Bodyguard"/>
         <card number="1" name="Teleportation Circle"/>
@@ -206,5 +207,6 @@
         <card number="1" name="Reanimate"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Moon-Blessed Cleric"/>
+        <card number="1" name="Agent of the Shadow Thieves"/>
     </zone>
 </cockatrice_deck>

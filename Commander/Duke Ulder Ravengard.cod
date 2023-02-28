@@ -10,7 +10,6 @@
         <card number="1" name="Priest of Ancient Lore"/>
         <card number="1" name="Karmic Guide"/>
         <card number="1" name="Selfless Spirit"/>
-        <card number="1" name="Rumor Gatherer"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Aerial Extortionist"/>
         <card number="1" name="Inferno Titan"/>
@@ -30,11 +29,8 @@
         <card number="1" name="Skyclave Apparition"/>
         <card number="1" name="Elturel Survivors"/>
         <card number="1" name="Cavalier of Dawn"/>
-        <card number="1" name="Roving Harper"/>
         <card number="1" name="Cathar Commando"/>
-        <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Warstorm Surge"/>
         <card number="1" name="Teleportation Circle"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Coalition Relic"/>
@@ -53,7 +49,6 @@
         <card number="1" name="Disenchant"/>
         <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Eerie Interlude"/>
         <card number="1" name="Bolt Bend"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Prismatic Vista"/>
@@ -77,14 +72,19 @@
         <card number="1" name="Coercive Recruiter"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Strionic Resonator"/>
-        <card number="1" name="Skyscanner"/>
         <card number="1" name="Everflowing Chalice"/>
         <card number="1" name="Sisay's Ring"/>
         <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="Lae'zel's Acrobatics"/>
         <card number="1" name="Sanctuary Warden"/>
         <card number="1" name="Palace Jailer"/>
         <card number="1" name="Swashbuckler Extraordinaire"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Yosei, the Morning Star"/>
+        <card number="1" name="Captain of the Watch"/>
+        <card number="1" name="Response // Resurgence"/>
+        <card number="1" name="Relentless Assault"/>
+        <card number="1" name="Karlach, Fury of Avernus"/>
+        <card number="1" name="Skyscanner"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oreskos Explorer"/>
@@ -108,7 +108,7 @@
         <card number="1" name="Restoration Angel"/>
         <card number="1" name="Unexpected Windfall"/>
         <card number="1" name="Big Score"/>
-        <card number="1" name="Lae'zel's Acrobatics"/>
+        <card number="2" name="Lae'zel's Acrobatics"/>
         <card number="1" name="Destroy Evil"/>
         <card number="1" name="Witty Roastmaster"/>
         <card number="1" name="Plaza of Heroes"/>
@@ -116,5 +116,15 @@
         <card number="1" name="Firbolg Flutist"/>
         <card number="1" name="Pilgrim's Eye"/>
         <card number="1" name="Guild Artisan"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Yosei, the Morning Star"/>
+        <card number="1" name="Ao, the Dawn Sky"/>
+        <card number="1" name="Akroma, Angel of Fury"/>
+        <card number="1" name="Skyscanner"/>
+        <card number="1" name="Rumor Gatherer"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Remorseful Cleric"/>
+        <card number="1" name="Roving Harper"/>
     </zone>
 </cockatrice_deck>

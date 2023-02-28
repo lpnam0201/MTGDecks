@@ -14,7 +14,6 @@
         <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Court of Grace"/>
-        <card number="1" name="Harmonious Archon"/>
         <card number="1" name="Call the Coppercoats"/>
         <card number="1" name="Hour of Reckoning"/>
         <card number="1" name="Awakening Zone"/>
@@ -87,6 +86,7 @@
         <card number="1" name="Imperious Perfect"/>
         <card number="1" name="Verdant Command"/>
         <card number="1" name="Rampage of the Clans"/>
+        <card number="1" name="Leonin Warleader"/>
     </zone>
     <zone name="side">
         <card number="1" name="Halsin, Emerald Archdruid"/>
@@ -113,5 +113,6 @@
         <card number="1" name="Three Visits"/>
         <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Harmonious Archon"/>
     </zone>
 </cockatrice_deck>

@@ -4,5 +4,12 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Nemata, Primeval Warden"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Merciless Executioner"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Demon's Disciple"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Grismold, the Dreadsower"/>
     </zone>
 </cockatrice_deck>

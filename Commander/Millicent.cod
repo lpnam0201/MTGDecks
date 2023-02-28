@@ -62,7 +62,6 @@
         <card number="1" name="Coat of Arms"/>
         <card number="1" name="Mirrorhall Mimic"/>
         <card number="1" name="Disdainful Stroke"/>
-        <card number="1" name="Delay"/>
         <card number="1" name="Brago, King Eternal"/>
         <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Myriad Landscape"/>
@@ -78,7 +77,6 @@
         <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Mausoleum Wanderer"/>
-        <card number="1" name="Curse of Verbosity"/>
         <card number="1" name="Spectral Adversary"/>
         <card number="1" name="Deserted Beach"/>
         <card number="1" name="Sea-Dasher Octopus"/>
@@ -87,7 +85,9 @@
         <card number="1" name="Talisman of Progress"/>
         <card number="1" name="Akroma's Will"/>
         <card number="1" name="Settle the Wreckage"/>
-        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Clever Concealment"/>
     </zone>
     <zone name="side">
         <card number="1" name="Negate"/>
@@ -181,7 +181,7 @@
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Makindi Stampede"/>
         <card number="1" name="Brago, King Eternal"/>
-        <card number="3" name="Aetherspouts"/>
+        <card number="4" name="Aetherspouts"/>
         <card number="2" name="Rescuer Chwinga"/>
         <card number="1" name="Dorothea, Vengeful Victim"/>
         <card number="1" name="Anafenza, Kin-Tree Spirit"/>
@@ -211,7 +211,7 @@
         <card number="1" name="Spirit of the Labyrinth"/>
         <card number="1" name="Radiant Destiny"/>
         <card number="1" name="Moonsilver Key"/>
-        <card number="1" name="Delay"/>
+        <card number="2" name="Delay"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Pongify"/>
@@ -240,5 +240,6 @@
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Lose Focus"/>
         <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Curse of Verbosity"/>
     </zone>
 </cockatrice_deck>

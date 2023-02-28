@@ -41,7 +41,7 @@
         <card number="1" name="Desert of the Mindful"/>
         <card number="1" name="Desert of the True"/>
         <card number="1" name="Desert of the Fervent"/>
-        <card number="3" name="Island"/>
+        <card number="2" name="Island"/>
         <card number="2" name="Mountain"/>
         <card number="2" name="Plains"/>
         <card number="1" name="Rebuild"/>
@@ -84,21 +84,22 @@
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Thought Reflection"/>
         <card number="1" name="Cloud of Faeries"/>
-        <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Raugrin Triome"/>
         <card number="1" name="Shorikai, Genesis Engine"/>
         <card number="1" name="All-Seeing Arbiter"/>
         <card number="1" name="Angelsong"/>
         <card number="1" name="Supreme Verdict"/>
-        <card number="1" name="Violent Impact"/>
         <card number="1" name="Ominous Seas"/>
         <card number="1" name="Coalition Relic"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Fluctuator"/>
-        <card number="1" name="Flood of Tears"/>
         <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Loran of the Third Path"/>
         <card number="1" name="Boon of the Wish-Giver"/>
+        <card number="1" name="Radiant's Judgment"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Myriad Landscape"/>
     </zone>
     <zone name="side">
         <card number="5" name="Niv-Mizzet, the Firemind"/>
@@ -136,7 +137,7 @@
         <card number="2" name="Vizier of Tumbling Sands"/>
         <card number="1" name="Improbable Alliance"/>
         <card number="2" name="Ruin Grinder"/>
-        <card number="3" name="Angel of the Ruins"/>
+        <card number="4" name="Angel of the Ruins"/>
         <card number="3" name="Shabraz, the Skyshark"/>
         <card number="1" name="Spirit Cairn"/>
         <card number="3" name="Brallin, Skyshark Rider"/>
@@ -153,7 +154,7 @@
         <card number="1" name="Mental Journey"/>
         <card number="2" name="Sun Titan"/>
         <card number="1" name="Dusk // Dawn"/>
-        <card number="3" name="Island"/>
+        <card number="4" name="Island"/>
         <card number="5" name="Mountain"/>
         <card number="3" name="Plains"/>
         <card number="1" name="Radiant's Judgment"/>
@@ -172,13 +173,13 @@
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Djeru's Renunciation"/>
         <card number="2" name="Choking Tethers"/>
-        <card number="3" name="Violent Impact"/>
+        <card number="4" name="Violent Impact"/>
         <card number="6" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Abandoned Sarcophagus"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Conspiracy Theorist"/>
         <card number="1" name="Valiant Rescuer"/>
-        <card number="2" name="Nezahal, Primal Tide"/>
+        <card number="3" name="Nezahal, Primal Tide"/>
         <card number="1" name="Stormcarved Coast"/>
         <card number="1" name="Sundown Pass"/>
         <card number="1" name="Deserted Beach"/>
@@ -225,7 +226,7 @@
         <card number="1" name="Ominous Seas"/>
         <card number="1" name="Curator of Mysteries"/>
         <card number="1" name="Escape Protocol"/>
-        <card number="1" name="Flood of Tears"/>
+        <card number="2" name="Flood of Tears"/>
         <card number="1" name="Doomskar"/>
         <card number="1" name="Blasphemous Act"/>
     </zone>

@@ -18,11 +18,8 @@
         <card number="4" name="Swamp"/>
         <card number="3" name="Plains"/>
         <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Gemrazer"/>
         <card number="1" name="Archon of Valor's Reach"/>
-        <card number="1" name="Angel of Condemnation"/>
         <card number="1" name="Nethroi, Apex of Death"/>
-        <card number="1" name="Eerie Ultimatum"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Canopy Vista"/>
@@ -37,8 +34,6 @@
         <card number="1" name="Undergrowth Stadium"/>
         <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Baneslayer Angel"/>
-        <card number="1" name="Despark"/>
-        <card number="1" name="Mortify"/>
         <card number="1" name="Living Death"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Fabled Passage"/>
@@ -57,48 +52,53 @@
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Archon of Coronation"/>
-        <card number="1" name="Battle Angels of Tyr"/>
-        <card number="1" name="Nullpriest of Oblivion"/>
         <card number="1" name="Key to the City"/>
-        <card number="1" name="Oriq Loremage"/>
         <card number="1" name="Vile Entomber"/>
         <card number="1" name="Gravebreaker Lamia"/>
         <card number="1" name="Jarad's Orders"/>
-        <card number="1" name="Final Parting"/>
         <card number="1" name="Discerning Taste"/>
-        <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Timeless Witness"/>
         <card number="1" name="Akroma, Angel of Wrath"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Karametra, God of Harvests"/>
         <card number="1" name="Fauna Shaman"/>
-        <card number="1" name="Moon-Blessed Cleric"/>
-        <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Thriving Moor"/>
-        <card number="1" name="Thriving Grove"/>
-        <card number="1" name="Thriving Heath"/>
         <card number="1" name="Hostile Negotiations"/>
-        <card number="1" name="Sun Titan"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Geier Reach Sanitarium"/>
         <card number="1" name="Smuggler's Copter"/>
         <card number="1" name="Angel of Suffering"/>
-        <card number="1" name="Diabolic Tutor"/>
-        <card number="1" name="Mastermind's Acquisition"/>
-        <card number="1" name="Serra's Emissary"/>
-        <card number="1" name="Druid of Purification"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Mortality Spear"/>
-        <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Scavenged Brawler"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Glissa Sunslayer"/>
+        <card number="1" name="Toski, Bearer of Secrets"/>
+        <card number="1" name="Rhonas the Indomitable"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Carnage Tyrant"/>
+        <card number="1" name="Plated Crusher"/>
+        <card number="1" name="Oketra the True"/>
+        <card number="1" name="Enduring Angel"/>
+        <card number="1" name="Sylvan Caryatid"/>
+        <card number="1" name="Sigarda, Host of Herons"/>
+        <card number="1" name="Dragonlord Dromoka"/>
+        <card number="1" name="Erebos, God of the Dead"/>
+        <card number="1" name="Tear Asunder"/>
     </zone>
     <zone name="side">
         <card number="1" name="Deathsprout"/>
-        <card number="1" name="Despark"/>
+        <card number="2" name="Despark"/>
         <card number="2" name="Void Beckoner"/>
         <card number="2" name="Titanoth Rex"/>
         <card number="1" name="Soul of Innistrad"/>
@@ -129,7 +129,7 @@
         <card number="3" name="Ransack the Lab"/>
         <card number="1" name="Stitch Together"/>
         <card number="2" name="Buried Alive"/>
-        <card number="5" name="Final Parting"/>
+        <card number="6" name="Final Parting"/>
         <card number="3" name="Jarad's Orders"/>
         <card number="2" name="Sakura-Tribe Elder"/>
         <card number="2" name="Farseek"/>
@@ -151,7 +151,7 @@
         <card number="1" name="Harmonize"/>
         <card number="3" name="Cleansing Nova"/>
         <card number="1" name="Nesting Grounds"/>
-        <card number="1" name="Geier Reach Sanitarium"/>
+        <card number="2" name="Geier Reach Sanitarium"/>
         <card number="1" name="Vengeful Reaper"/>
         <card number="1" name="Eradicator Valkyrie"/>
         <card number="1" name="Embodiment of Agonies"/>
@@ -159,7 +159,7 @@
         <card number="1" name="Gifted Aetherborn"/>
         <card number="2" name="Shaile, Dean of Radiance"/>
         <card number="1" name="Battlefield Raptor"/>
-        <card number="1" name="Aerial Responder"/>
+        <card number="2" name="Aerial Responder"/>
         <card number="2" name="Painful Truths"/>
         <card number="1" name="Putrefy"/>
         <card number="2" name="Plaguecrafter"/>
@@ -173,7 +173,7 @@
         <card number="4" name="Swords to Plowshares"/>
         <card number="1" name="Liesa, Shroud of Dusk"/>
         <card number="4" name="Forest"/>
-        <card number="4" name="Plains"/>
+        <card number="5" name="Plains"/>
         <card number="3" name="Swamp"/>
         <card number="2" name="Verge Rangers"/>
         <card number="1" name="Commune with the Gods"/>
@@ -183,7 +183,7 @@
         <card number="1" name="Golgari Rot Farm"/>
         <card number="1" name="Selesnya Sanctuary"/>
         <card number="1" name="Orzhov Basilica"/>
-        <card number="1" name="Eerie Ultimatum"/>
+        <card number="2" name="Eerie Ultimatum"/>
         <card number="1" name="Vampire of the Dire Moon"/>
         <card number="1" name="Demon of Loathing"/>
         <card number="1" name="Predator Ooze"/>
@@ -204,17 +204,17 @@
         <card number="1" name="Old Rutstein"/>
         <card number="1" name="Cataclysmic Gearhulk"/>
         <card number="2" name="Vampire Nighthawk"/>
-        <card number="2" name="Thriving Grove"/>
-        <card number="2" name="Thriving Heath"/>
-        <card number="2" name="Thriving Moor"/>
+        <card number="3" name="Thriving Grove"/>
+        <card number="3" name="Thriving Heath"/>
+        <card number="3" name="Thriving Moor"/>
         <card number="1" name="Woodland Chasm"/>
         <card number="1" name="Watery Grave"/>
         <card number="2" name="Autumn's Veil"/>
         <card number="2" name="Stinkweed Imp"/>
         <card number="1" name="Utter End"/>
         <card number="2" name="Path to Exile"/>
-        <card number="2" name="Eternal Witness"/>
-        <card number="4" name="Oriq Loremage"/>
+        <card number="3" name="Eternal Witness"/>
+        <card number="5" name="Oriq Loremage"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Temple Garden"/>
         <card number="2" name="Overgrown Tomb"/>
@@ -222,7 +222,7 @@
         <card number="1" name="Temple of Malady"/>
         <card number="1" name="Temple of Plenty"/>
         <card number="1" name="Temple of Silence"/>
-        <card number="1" name="Sun Titan"/>
+        <card number="2" name="Sun Titan"/>
         <card number="1" name="Windgrace's Judgment"/>
         <card number="2" name="Cultivate"/>
         <card number="2" name="Kodama's Reach"/>
@@ -230,7 +230,7 @@
         <card number="1" name="Acidic Slime"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Overgrown Farmland"/>
-        <card number="1" name="Shattered Sanctum"/>
+        <card number="2" name="Shattered Sanctum"/>
         <card number="1" name="Deathcap Glade"/>
         <card number="1" name="Necromantic Selection"/>
         <card number="1" name="Unburial Rites"/>
@@ -242,7 +242,7 @@
         <card number="1" name="See the Unwritten"/>
         <card number="1" name="Witherbloom Command"/>
         <card number="1" name="Bitter Revelation"/>
-        <card number="1" name="Nullpriest of Oblivion"/>
+        <card number="2" name="Nullpriest of Oblivion"/>
         <card number="3" name="Vessel of Nascency"/>
         <card number="2" name="Warlock Class"/>
         <card number="2" name="Nyx Weaver"/>
@@ -250,7 +250,7 @@
         <card number="2" name="Thrun, the Last Troll"/>
         <card number="1" name="Jewel Thief"/>
         <card number="3" name="Shigeki, Jukai Visionary"/>
-        <card number="1" name="Crashing Drawbridge"/>
+        <card number="2" name="Crashing Drawbridge"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Krosan Verge"/>
         <card number="1" name="Blink of an Eye"/>
@@ -289,7 +289,7 @@
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Windborn Muse"/>
-        <card number="1" name="Elder Gargaroth"/>
+        <card number="2" name="Elder Gargaroth"/>
         <card number="1" name="Aerial Extortionist"/>
         <card number="1" name="Anguished Unmaking"/>
         <card number="1" name="Junji, the Midnight Sky"/>
@@ -307,7 +307,24 @@
         <card number="1" name="Perpetual Timepiece"/>
         <card number="1" name="Faeburrow Elder"/>
         <card number="1" name="Indatha Triome"/>
-        <card number="1" name="Battle Angels of Tyr"/>
+        <card number="2" name="Battle Angels of Tyr"/>
         <card number="1" name="Vona, Butcher of Magan"/>
+        <card number="1" name="Moon-Blessed Cleric"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Hostile Negotiations"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Serra's Emissary"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Timeless Witness"/>
+        <card number="1" name="Primeval Herald"/>
+        <card number="1" name="Angel of Condemnation"/>
+        <card number="1" name="Sylvan Advocate"/>
+        <card number="1" name="Gemrazer"/>
+        <card number="1" name="Weathered Sentinels"/>
+        <card number="1" name="Mortify"/>
     </zone>
 </cockatrice_deck>

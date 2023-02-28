@@ -76,7 +76,6 @@
         <card number="1" name="Ravenous Squirrel"/>
         <card number="1" name="Baleful Mastery"/>
         <card number="1" name="War Room"/>
-        <card number="1" name="Castle Locthwain"/>
         <card number="1" name="Liliana's Standard Bearer"/>
         <card number="1" name="Reassembling Skeleton"/>
         <card number="1" name="Threats Undetected"/>
@@ -88,6 +87,7 @@
         <card number="1" name="Reanimate"/>
         <card number="1" name="Pitiless Plunderer"/>
         <card number="1" name="Skullclamp"/>
+        <card number="1" name="Myriad Landscape"/>
     </zone>
     <zone name="side">
         <card number="1" name="Killer Service"/>
@@ -114,7 +114,7 @@
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Bolas's Citadel"/>
         <card number="1" name="Command Beacon"/>
-        <card number="3" name="Swamp"/>
+        <card number="4" name="Swamp"/>
         <card number="1" name="Puppeteer Clique"/>
         <card number="1" name="Dockside Chef"/>
         <card number="1" name="Rampage of the Clans"/>
@@ -153,5 +153,6 @@
         <card number="1" name="Beast Whisperer"/>
         <card number="1" name="Silversmote Ghoul"/>
         <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Castle Locthwain"/>
     </zone>
 </cockatrice_deck>

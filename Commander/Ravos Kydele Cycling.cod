@@ -47,7 +47,6 @@
         <card number="1" name="Three Visits"/>
         <card number="1" name="Alhammarret's Archive"/>
         <card number="1" name="Fluctuator"/>
-        <card number="1" name="Thought Vessel"/>
         <card number="1" name="Ominous Seas"/>
         <card number="1" name="Decree of Pain"/>
         <card number="1" name="Angel of the Ruins"/>
@@ -59,11 +58,8 @@
         <card number="1" name="Forsake the Worldly"/>
         <card number="1" name="Wilt"/>
         <card number="1" name="Street Wraith"/>
-        <card number="1" name="Rebuild"/>
         <card number="1" name="Razaketh's Rite"/>
         <card number="1" name="Astral Drift"/>
-        <card number="1" name="Nezahal, Primal Tide"/>
-        <card number="1" name="Sun Titan"/>
         <card number="1" name="Countervailing Winds"/>
         <card number="1" name="Valiant Rescuer"/>
         <card number="1" name="New Perspectives"/>
@@ -74,18 +70,13 @@
         <card number="1" name="Angelsong"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Approach of the Second Sun"/>
-        <card number="1" name="Laboratory Maniac"/>
-        <card number="1" name="Archaeomancer"/>
         <card number="1" name="All-Seeing Arbiter"/>
         <card number="1" name="Lull"/>
         <card number="1" name="Lay Claim"/>
         <card number="1" name="Teferi's Ageless Insight"/>
         <card number="1" name="Astral Slide"/>
-        <card number="1" name="Faith of the Devoted"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Idyllic Tutor"/>
-        <card number="1" name="Solve the Equation"/>
-        <card number="1" name="Bone Miser"/>
         <card number="1" name="Notion Thief"/>
         <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Wilderness Reclamation"/>
@@ -95,14 +86,23 @@
         <card number="1" name="Profane Tutor"/>
         <card number="1" name="Torment of Hailfire"/>
         <card number="1" name="Shorikai, Genesis Engine"/>
-        <card number="1" name="Fabled Passage"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Indatha Triome"/>
         <card number="1" name="Raffine's Tower"/>
         <card number="1" name="Spara's Headquarters"/>
         <card number="1" name="Zagoth Triome"/>
-        <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Archfiend of Ifnir"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Radiant's Judgment"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Thought Reflection"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Bone Miser"/>
+        <card number="1" name="Eternal Witness"/>
     </zone>
     <zone name="side">
         <card number="1" name="Island"/>
@@ -134,5 +134,18 @@
         <card number="1" name="Boon of the Wish-Giver"/>
         <card number="1" name="Memory Leak"/>
         <card number="1" name="Curator of Mysteries"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Rebuild"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Faith of the Devoted"/>
+        <card number="2" name="Solve the Equation"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Bone Miser"/>
+        <card number="1" name="Thought Vessel"/>
     </zone>
 </cockatrice_deck>

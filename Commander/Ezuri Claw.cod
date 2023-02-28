@@ -7,14 +7,11 @@
         <card number="1" name="Fathom Mage"/>
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Cold-Eyed Selkie"/>
-        <card number="1" name="Marwyn, the Nurturer"/>
         <card number="1" name="Simic Ascendancy"/>
-        <card number="1" name="Iridescent Hornbeetle"/>
         <card number="1" name="Cultivator of Blades"/>
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Counterspell"/>
@@ -23,15 +20,11 @@
         <card number="1" name="Thrummingbird"/>
         <card number="1" name="Fertilid"/>
         <card number="1" name="Managorger Hydra"/>
-        <card number="1" name="Duskshell Crawler"/>
-        <card number="1" name="Inspiring Call"/>
         <card number="1" name="Gyre Sage"/>
         <card number="1" name="Kodama of the West Tree"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Arcane Signet"/>
         <card number="1" name="Awakening Zone"/>
         <card number="1" name="Skatewing Spy"/>
-        <card number="1" name="Talisman of Curiosity"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Resculpt"/>
         <card number="1" name="Arcane Denial"/>
@@ -57,10 +50,9 @@
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Hinterland Harbor"/>
         <card number="1" name="Flooded Grove"/>
-        <card number="10" name="Island"/>
-        <card number="10" name="Forest"/>
+        <card number="9" name="Island"/>
+        <card number="9" name="Forest"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Pridemalkin"/>
         <card number="1" name="Augur of Autumn"/>
         <card number="1" name="Siren Stormtamer"/>
         <card number="1" name="Devoted Druid"/>
@@ -72,19 +64,29 @@
         <card number="1" name="Druid of Purification"/>
         <card number="1" name="Forgotten Ancient"/>
         <card number="1" name="Summoner's Pact"/>
-        <card number="1" name="Delay"/>
-        <card number="1" name="Tale's End"/>
         <card number="1" name="Fauna Shaman"/>
-        <card number="1" name="Kiora's Follower"/>
-        <card number="1" name="Commit // Memory"/>
-        <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Beast Whisperer"/>
-        <card number="1" name="Wolverine Riders"/>
-        <card number="1" name="Vorel of the Hull Clade"/>
         <card number="1" name="Runic Armasaur"/>
-        <card number="1" name="Scurry Oak"/>
         <card number="1" name="Zameck Guildmage"/>
-        <card number="1" name="Gnarlid Colony"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Aboleth Spawn"/>
+        <card number="1" name="Malevolent Hermit"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Mystic Snake"/>
+        <card number="1" name="Esior, Wardwing Familiar"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Cemetery Illuminator"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Heronblade Elite"/>
+        <card number="1" name="Marwyn, the Nurturer"/>
+        <card number="1" name="Crafty Cutpurse"/>
     </zone>
     <zone name="side">
         <card number="1" name="Acidic Slime"/>
@@ -94,14 +96,14 @@
         <card number="1" name="Mulldrifter"/>
         <card number="1" name="Evolution Sage"/>
         <card number="1" name="Coiling Oracle"/>
-        <card number="1" name="Vorel of the Hull Clade"/>
-        <card number="1" name="Lightning Greaves"/>
+        <card number="2" name="Vorel of the Hull Clade"/>
+        <card number="2" name="Lightning Greaves"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Simic Charm"/>
         <card number="1" name="Kenrith's Transformation"/>
         <card number="1" name="Mist-Cloaked Herald"/>
-        <card number="1" name="Forest"/>
+        <card number="2" name="Forest"/>
         <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Herald of Secret Streams"/>
         <card number="1" name="Family's Favor"/>
@@ -128,7 +130,7 @@
         <card number="1" name="Bred for the Hunt"/>
         <card number="1" name="Hardened Scales"/>
         <card number="2" name="Scavenging Ooze"/>
-        <card number="1" name="Scurry Oak"/>
+        <card number="2" name="Scurry Oak"/>
         <card number="1" name="Zameck Guildmage"/>
         <card number="1" name="Kira, Great Glass-Spinner"/>
         <card number="1" name="Karn's Temporal Sundering"/>
@@ -150,5 +152,26 @@
         <card number="1" name="Foundation Breaker"/>
         <card number="1" name="Tuskguard Captain"/>
         <card number="1" name="Soulherder"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Duskshell Crawler"/>
+        <card number="1" name="Gnarlid Colony"/>
+        <card number="1" name="Pridemalkin"/>
+        <card number="1" name="Delay"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Tale's End"/>
+        <card number="1" name="Iridescent Hornbeetle"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Wolverine Riders"/>
+        <card number="1" name="Collector Ouphe"/>
+        <card number="1" name="Manglehorn"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Rug of Smothering"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Marwyn, the Nurturer"/>
+        <card number="1" name="Green Slime"/>
+        <card number="1" name="Scarwood Goblins"/>
+        <card number="1" name="Frilled Mystic"/>
     </zone>
 </cockatrice_deck>

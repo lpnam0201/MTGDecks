@@ -18,7 +18,6 @@
         <card number="1" name="The Akroan War"/>
         <card number="1" name="The Long Reach of Night"/>
         <card number="1" name="The Phasing of Zhalfir"/>
-        <card number="1" name="The Trickster-God's Heist"/>
         <card number="1" name="Showdown of the Skalds"/>
         <card number="1" name="The Elder Dragon War"/>
         <card number="1" name="Binding the Old Gods"/>
@@ -26,13 +25,10 @@
         <card number="1" name="Phyrexian Scriptures"/>
         <card number="1" name="The Fall of Lord Konda"/>
         <card number="1" name="The First Iroan Games"/>
-        <card number="1" name="The Dragon-Kami Reborn"/>
         <card number="1" name="The Weatherseed Treaty"/>
-        <card number="1" name="Tymaret Calls the Dead"/>
         <card number="1" name="Fall of the Impostor"/>
         <card number="1" name="Battle for Bretagard"/>
         <card number="1" name="The Binding of the Titans"/>
-        <card number="1" name="Tribute to Horobi"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Emergent Sequence"/>
@@ -64,11 +60,8 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Zur, Eternal Schemer"/>
-        <card number="1" name="Sanctum Weaver"/>
         <card number="1" name="Weaver of Harmony"/>
         <card number="1" name="Destiny Spinner"/>
-        <card number="1" name="Eidolon of Blossoms"/>
-        <card number="1" name="Setessan Champion"/>
         <card number="1" name="Jegantha, the Wellspring"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Negate"/>
@@ -86,7 +79,6 @@
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Idyllic Tutor"/>
         <card number="1" name="Dance of the Manse"/>
-        <card number="1" name="Extinguish All Hope"/>
         <card number="1" name="Open the Vaults"/>
         <card number="1" name="Satsuki, the Living Lore"/>
         <card number="1" name="Thriving Moor"/>
@@ -96,6 +88,13 @@
         <card number="1" name="Thriving Bluff"/>
         <card number="1" name="The World Tree"/>
         <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Zur the Enchanter"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Michiko's Reign of Truth"/>
+        <card number="1" name="Displacer Kitten"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Perpetual Timepiece"/>
     </zone>
     <zone name="side">
         <card number="1" name="Azusa's Many Journeys"/>
@@ -117,5 +116,13 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Sythis, Harvest's Hand"/>
         <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Extinguish All Hope"/>
+        <card number="1" name="The Trickster-God's Heist"/>
+        <card number="1" name="The Dragon-Kami Reborn"/>
+        <card number="1" name="Tribute to Horobi"/>
+        <card number="1" name="Tymaret Calls the Dead"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Sanctum Weaver"/>
+        <card number="1" name="Setessan Champion"/>
     </zone>
 </cockatrice_deck>

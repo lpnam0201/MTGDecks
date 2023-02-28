@@ -5,24 +5,75 @@
     <zone name="main">
         <card number="1" name="Kels, Fight Fixer"/>
         <card number="1" name="Reassembling Skeleton"/>
-        <card number="1" name="Bastion of Remembrance"/>
-        <card number="1" name="Nadir Kraken"/>
         <card number="1" name="Ruthless Deathfang"/>
         <card number="1" name="Plaguecrafter"/>
-        <card number="1" name="Fleshbag Marauder"/>
         <card number="1" name="Carrion Feeder"/>
-        <card number="1" name="Zulaport Cutthroat"/>
-        <card number="1" name="Village Rites"/>
-        <card number="1" name="Weaponcraft Enthusiast"/>
-        <card number="1" name="Sifter of Skulls"/>
-        <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Chittering Witch"/>
-        <card number="1" name="Vindictive Vampire"/>
-        <card number="1" name="Dreadhorde Invasion"/>
-        <card number="1" name="Falkenrath Noble"/>
-        <card number="1" name="Sengir Autocrat"/>
         <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Gravecrawler"/>
+        <card number="1" name="Bloodsoaked Champion"/>
+        <card number="1" name="Ophiomancer"/>
+        <card number="1" name="Dictate of Erebos"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Oriq Loremage"/>
+        <card number="1" name="Vile Entomber"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Woe Strider"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Tale's End"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Ertai Resurrected"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Mind Flayer"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="2" name="Port of Karfell"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Arcane Lighthouse"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="8" name="Island"/>
+        <card number="9" name="Swamp"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Doomed Necromancer"/>
+        <card number="1" name="Apprentice Necromancer"/>
+        <card number="1" name="Ruthless Technomancer"/>
+        <card number="1" name="Phyrexian Delver"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Prowling Geistcatcher"/>
     </zone>
     <zone name="side">
         <card number="1" name="Apprentice Wizard"/>
@@ -43,5 +94,35 @@
         <card number="1" name="Price of Fame"/>
         <card number="1" name="Bankrupt in Blood"/>
         <card number="1" name="Enter the God-Eternals"/>
+        <card number="1" name="Reassembling Skeleton"/>
+        <card number="2" name="Bastion of Remembrance"/>
+        <card number="1" name="Chittering Witch"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Sengir Autocrat"/>
+        <card number="1" name="Weaponcraft Enthusiast"/>
+        <card number="1" name="Vindictive Vampire"/>
+        <card number="1" name="Falkenrath Noble"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Chasm Skulker"/>
+        <card number="1" name="Ethereal Investigator"/>
+        <card number="1" name="Jadar, Ghoulcaller of Nephalia"/>
+        <card number="1" name="Pawn of Ulamog"/>
+        <card number="1" name="Piper of the Swarm"/>
+        <card number="1" name="Sifter of Skulls"/>
+        <card number="1" name="Sower of Temptation"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Control Magic"/>
+        <card number="1" name="Curse of Disturbance"/>
+        <card number="1" name="Curse of the Restless Dead"/>
+        <card number="1" name="Dreadhorde Invasion"/>
+        <card number="1" name="Ghoulish Procession"/>
+        <card number="1" name="Grave Pact"/>
+        <card number="1" name="Grim Haruspex"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Nadir Kraken"/>
     </zone>
 </cockatrice_deck>

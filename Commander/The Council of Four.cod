@@ -81,14 +81,14 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Idyllic Tutor"/>
         <card number="1" name="Winds of Abandon"/>
-        <card number="1" name="Minn, Wily Illusionist"/>
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Dream Trawler"/>
         <card number="1" name="All-Seeing Arbiter"/>
+        <card number="1" name="March of Swirling Mist"/>
     </zone>
     <zone name="side">
         <card number="1" name="Akroma's Will"/>
-        <card number="1" name="Minn, Wily Illusionist"/>
+        <card number="2" name="Minn, Wily Illusionist"/>
         <card number="1" name="Smuggler's Share"/>
         <card number="1" name="Confounding Conundrum"/>
         <card number="1" name="Time Wipe"/>

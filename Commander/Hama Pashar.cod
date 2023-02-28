@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Hama Pashar</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Hama Pashar, Ruin Seeker"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Displacer Beast"/>
+        <card number="1" name="Teleportation Circle"/>
+        <card number="1" name="Displacer Kitten"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Far Traveler"/>
+        <card number="1" name="Eccentric Apprentice"/>
+        <card number="1" name="Nadaar, Selfless Paladin"/>
+        <card number="1" name="Dungeon Delver"/>
+        <card number="1" name="Midnight Pathlighter"/>
+        <card number="1" name="Radiant Solar"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Tomb of Horrors Adventurer"/>
+        <card number="1" name="Veteran Dungeoneer"/>
+        <card number="1" name="Yuan-Ti Malison"/>
+        <card number="1" name="Cloister Gargoyle"/>
+        <card number="1" name="Aarakocra Sneak"/>
+        <card number="1" name="Sarevok's Tome"/>
+        <card number="1" name="Imoen, Mystic Trickster"/>
+        <card number="1" name="Fly"/>
+        <card number="1" name="Feywild Caretaker"/>
+        <card number="1" name="Seasoned Dungeoneer"/>
+        <card number="1" name="White Plume Adventurer"/>
+        <card number="1" name="Soulherder"/>
+        <card number="1" name="Brago, King Eternal"/>
+        <card number="1" name="Yorion, Sky Nomad"/>
+        <card number="1" name="Thassa, Deep-Dwelling"/>
+    </zone>
+</cockatrice_deck>

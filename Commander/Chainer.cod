@@ -23,9 +23,8 @@
         <card number="1" name="Dread Return"/>
         <card number="1" name="Victimize"/>
         <card number="1" name="Thrill of Possibility"/>
-        <card number="1" name="Tormenting Voice"/>
         <card number="10" name="Mountain"/>
-        <card number="10" name="Swamp"/>
+        <card number="9" name="Swamp"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Temple of Malice"/>
         <card number="1" name="Feed the Swarm"/>
@@ -43,9 +42,7 @@
         <card number="1" name="Cathartic Reunion"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Soul Shatter"/>
-        <card number="1" name="Big Game Hunter"/>
         <card number="1" name="Fleshbag Marauder"/>
-        <card number="1" name="Disciple of Bolas"/>
         <card number="1" name="Young Necromancer"/>
         <card number="1" name="Liquimetal Torque"/>
         <card number="1" name="Gravebreaker Lamia"/>
@@ -56,7 +53,6 @@
         <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Phyrexian Delver"/>
         <card number="1" name="Rakdos Carnarium"/>
-        <card number="1" name="Shriekmaw"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Reanimate"/>
         <card number="1" name="Exhume"/>
@@ -71,8 +67,6 @@
         <card number="1" name="Bone Miser"/>
         <card number="1" name="Combustible Gearhulk"/>
         <card number="1" name="Sepulchral Primordial"/>
-        <card number="1" name="Big Score"/>
-        <card number="1" name="Unexpected Windfall"/>
         <card number="1" name="Wyll's Reversal"/>
         <card number="1" name="Blood Money"/>
         <card number="1" name="Rakdos Charm"/>
@@ -81,6 +75,17 @@
         <card number="1" name="Living Death"/>
         <card number="1" name="Stitch Together"/>
         <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Haunted Ridge"/>
     </zone>
     <zone name="side">
         <card number="1" name="Muck Drubb"/>
@@ -122,16 +127,16 @@
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Smoldering Marsh"/>
         <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Disciple of Bolas"/>
+        <card number="2" name="Disciple of Bolas"/>
         <card number="1" name="Bone Miser"/>
-        <card number="2" name="Unexpected Windfall"/>
+        <card number="3" name="Unexpected Windfall"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Pirate's Pillage"/>
         <card number="1" name="Blacklance Paragon"/>
         <card number="1" name="Bolt Bend"/>
         <card number="2" name="Drossforge Bridge"/>
-        <card number="1" name="Rakdos Carnarium"/>
+        <card number="2" name="Rakdos Carnarium"/>
         <card number="2" name="Rogue's Passage"/>
         <card number="2" name="Thought Vessel"/>
         <card number="1" name="Terror of Mount Velus"/>
@@ -157,10 +162,15 @@
         <card number="1" name="Lavaclaw Reaches"/>
         <card number="1" name="Rakdos Guildgate"/>
         <card number="1" name="Sulfurous Mire"/>
-        <card number="2" name="Swamp"/>
+        <card number="3" name="Swamp"/>
         <card number="2" name="Mountain"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Whisper, Blood Liturgist"/>
         <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Big Game Hunter"/>
+        <card number="1" name="Tormenting Voice"/>
     </zone>
 </cockatrice_deck>

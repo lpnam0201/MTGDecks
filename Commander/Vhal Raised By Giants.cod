@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Vhal Raised By Giants</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Vhal, Candlekeep Researcher"/>
+        <card number="1" name="Raised by Giants"/>
+        <card number="1" name="Staff of Domination"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Cascading Cataracts"/>
+        <card number="1" name="The Reality Chip"/>
+        <card number="1" name="Hydra Broodmaster"/>
+        <card number="1" name="Vizier of Tumbling Sands"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Patriar's Seal"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Trophy Mage"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Blast Zone"/>
+        <card number="1" name="Chaos Wand"/>
+        <card number="1" name="Labyrinth of Skophos"/>
+        <card number="1" name="Alrund's Epiphany"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Fabricate"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Guardian Augmenter"/>
+        <card number="1" name="Esior, Wardwing Familiar"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Emerald Dragon // Dissonant Wave"/>
+        <card number="1" name="Sapphire Dragon // Psionic Pulse"/>
+        <card number="1" name="Walk the Aeons"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Part the Waterveil"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Campfire"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Road of Return"/>
+        <card number="1" name="Myth Unbound"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="8" name="Island"/>
+        <card number="8" name="Forest"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Vineglimmer Snarl"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Rune of Might"/>
+        <card number="1" name="Scepter of Celebration"/>
+        <card number="1" name="Talons of Wildwood"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Druid of Purification"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Precognition Field"/>
+        <card number="1" name="Magus of the Future"/>
+        <card number="1" name="Future Sight"/>
+        <card number="1" name="Prismite"/>
+        <card number="1" name="Energy Refractor"/>
+        <card number="1" name="Golem Artisan"/>
+        <card number="1" name="Shore Up"/>
+        <card number="1" name="Magus of the Candelabra"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Vizier of Tumbling Sands"/>
+        <card number="1" name="Audacity"/>
+    </zone>
+</cockatrice_deck>

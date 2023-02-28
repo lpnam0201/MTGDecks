@@ -43,7 +43,6 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Mystic Confluence"/>
         <card number="1" name="Memory Deluge"/>
         <card number="1" name="Drawn from Dreams"/>
         <card number="1" name="Mystic Retrieval"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Thassa, Deep-Dwelling"/>
         <card number="1" name="Frantic Search"/>
         <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="March of Swirling Mist"/>
     </zone>
     <zone name="side">
         <card number="1" name="Saheeli Rai"/>
@@ -126,5 +126,6 @@
         <card number="1" name="Pirate's Prize"/>
         <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Rise and Shine"/>
+        <card number="1" name="Mystic Confluence"/>
     </zone>
 </cockatrice_deck>

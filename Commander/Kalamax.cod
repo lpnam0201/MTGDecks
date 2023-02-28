@@ -10,7 +10,6 @@
         <card number="1" name="Beast Within"/>
         <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Return to Nature"/>
-        <card number="1" name="Twinning Staff"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Talisman of Curiosity"/>
@@ -72,12 +71,10 @@
         <card number="1" name="Soul's Fire"/>
         <card number="1" name="Invert // Invent"/>
         <card number="1" name="Increasing Vengeance"/>
-        <card number="1" name="Dispel"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Unwind"/>
         <card number="1" name="Memory Deluge"/>
         <card number="1" name="Firemind's Foresight"/>
-        <card number="1" name="Miscast"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Gravitic Punch"/>
         <card number="1" name="Solve the Equation"/>
@@ -97,6 +94,9 @@
         <card number="1" name="Plaza of Heroes"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Relic of Legends"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Dispel"/>
     </zone>
     <zone name="side">
         <card number="2" name="Mission Briefing"/>
@@ -195,7 +195,7 @@
         <card number="2" name="Mountain"/>
         <card number="1" name="Slice in Twain"/>
         <card number="1" name="Snakeskin Veil"/>
-        <card number="1" name="Dispel"/>
+        <card number="2" name="Dispel"/>
         <card number="1" name="Blossoming Defense"/>
         <card number="1" name="Dream Fracture"/>
         <card number="1" name="Izzet Charm"/>
@@ -216,5 +216,7 @@
         <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Sphinx of the Second Sun"/>
         <card number="1" name="Jaheira's Respite"/>
+        <card number="1" name="Twinning Staff"/>
+        <card number="1" name="Miscast"/>
     </zone>
 </cockatrice_deck>

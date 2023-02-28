@@ -51,7 +51,6 @@
         <card number="1" name="Awakening Zone"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Gluntch, the Bestower"/>
-        <card number="1" name="Odric, Master Tactician"/>
         <card number="1" name="Loyal Apprentice"/>
         <card number="1" name="Shiny Impetus"/>
         <card number="1" name="Legion Warboss"/>
@@ -95,6 +94,7 @@
         <card number="1" name="Kher Keep"/>
         <card number="1" name="Squirrel Nest"/>
         <card number="1" name="Presence of Gond"/>
+        <card number="1" name="Leonin Warleader"/>
     </zone>
     <zone name="side">
         <card number="1" name="Swords to Plowshares"/>
@@ -124,5 +124,6 @@
         <card number="1" name="Plains"/>
         <card number="1" name="Sticky Fingers"/>
         <card number="1" name="Descent into Avernus"/>
+        <card number="1" name="Odric, Master Tactician"/>
     </zone>
 </cockatrice_deck>

@@ -81,12 +81,12 @@
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Seal of Cleansing"/>
         <card number="1" name="Sevinne's Reclamation"/>
-        <card number="1" name="Esper Sentinel"/>
         <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Archivist of Oghma"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Mandate of Peace"/>
         <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Loran of the Third Path"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Cutthroat"/>
@@ -205,5 +205,7 @@
         <card number="1" name="Giver of Runes"/>
         <card number="1" name="Destroy Evil"/>
         <card number="1" name="Oblation"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Guardian of Faith"/>
     </zone>
 </cockatrice_deck>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Lazav the Multifarious</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Lazav, the Multifarious"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Thassa, Deep-Dwelling"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Thief of Sanity"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Sygg, River Cutthroat"/>
+        <card number="1" name="Ghostly Pilferer"/>
+        <card number="1" name="Necrotic Ooze"/>
+        <card number="1" name="Oriq Loremage"/>
+        <card number="1" name="Vile Entomber"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Vohar, Vodalian Desecrator"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Final Parting"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Asmodeus the Archfiend"/>
+        <card number="1" name="Skirge Familiar"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Angel of Suffering"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Gravebreaker Lamia"/>
+    </zone>
+</cockatrice_deck>

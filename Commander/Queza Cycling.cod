@@ -31,7 +31,6 @@
         <card number="1" name="Razaketh's Rite"/>
         <card number="1" name="Street Wraith"/>
         <card number="1" name="Teferi's Ageless Insight"/>
-        <card number="1" name="Faith of the Devoted"/>
         <card number="1" name="Bone Miser"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sol Ring"/>
@@ -85,13 +84,11 @@
         <card number="1" name="Archaeomancer"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Mulldrifter"/>
         <card number="1" name="Profane Tutor"/>
         <card number="1" name="Countersquall"/>
         <card number="1" name="Shorikai, Genesis Engine"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Raffine's Tower"/>
-        <card number="1" name="Drannith Healer"/>
         <card number="1" name="Peer into the Abyss"/>
         <card number="1" name="Queza, Augur of Agonies"/>
         <card number="1" name="Shadow of the Grave"/>
@@ -100,6 +97,9 @@
         <card number="1" name="Skirge Familiar"/>
         <card number="1" name="Unearth"/>
         <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Archfiend of Ifnir"/>
+        <card number="1" name="Radiant's Judgment"/>
+        <card number="1" name="Windfall"/>
     </zone>
     <zone name="side">
         <card number="1" name="Forsake the Worldly"/>
@@ -148,7 +148,7 @@
         <card number="1" name="Vizier of Tumbling Sands"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Thought Reflection"/>
+        <card number="2" name="Thought Reflection"/>
         <card number="3" name="Escape Protocol"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Propaganda"/>
@@ -171,7 +171,7 @@
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Gray Merchant of Asphodel"/>
         <card number="1" name="Idyllic Tutor"/>
-        <card number="1" name="Mulldrifter"/>
+        <card number="2" name="Mulldrifter"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Inkshield"/>
@@ -193,5 +193,7 @@
         <card number="1" name="Baleful Strix"/>
         <card number="1" name="Ertai Resurrected"/>
         <card number="1" name="Flourishing Fox"/>
+        <card number="1" name="Drannith Healer"/>
+        <card number="1" name="Faith of the Devoted"/>
     </zone>
 </cockatrice_deck>

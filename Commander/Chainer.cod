@@ -12,11 +12,8 @@
         <card number="1" name="Gray Merchant of Asphodel"/>
         <card number="1" name="Etali, Primal Storm"/>
         <card number="1" name="Noxious Gearhulk"/>
-        <card number="1" name="Drakuseth, Maw of Flames"/>
-        <card number="1" name="Inferno Titan"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Command the Dreadhorde"/>
-        <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Rakdos Signet"/>
         <card number="1" name="Arcane Signet"/>
@@ -33,47 +30,28 @@
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Shadowblood Ridge"/>
         <card number="1" name="Vile Entomber"/>
-        <card number="1" name="Incarnation Technique"/>
-        <card number="1" name="Oriq Loremage"/>
         <card number="1" name="Kardur, Doomscourge"/>
         <card number="1" name="Terminate"/>
         <card number="1" name="Gonti, Lord of Luxury"/>
         <card number="1" name="Seize the Spoils"/>
         <card number="1" name="Cathartic Reunion"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Soul Shatter"/>
         <card number="1" name="Fleshbag Marauder"/>
         <card number="1" name="Young Necromancer"/>
         <card number="1" name="Liquimetal Torque"/>
-        <card number="1" name="Gravebreaker Lamia"/>
         <card number="1" name="Vilis, Broker of Blood"/>
         <card number="1" name="Dualcaster Mage"/>
-        <card number="1" name="Bolt Bend"/>
-        <card number="1" name="Tibalt's Trickery"/>
-        <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Phyrexian Delver"/>
         <card number="1" name="Rakdos Carnarium"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Reanimate"/>
-        <card number="1" name="Exhume"/>
         <card number="1" name="From the Catacombs"/>
-        <card number="1" name="Sheoldred, Whispering One"/>
         <card number="1" name="Elder Brain"/>
-        <card number="1" name="Persist"/>
-        <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Bladewing, Deathless Tyrant"/>
         <card number="1" name="Lord of the Forsaken"/>
         <card number="1" name="Bone Miser"/>
         <card number="1" name="Combustible Gearhulk"/>
         <card number="1" name="Sepulchral Primordial"/>
-        <card number="1" name="Wyll's Reversal"/>
-        <card number="1" name="Blood Money"/>
         <card number="1" name="Rakdos Charm"/>
         <card number="1" name="Bedevil"/>
-        <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Living Death"/>
-        <card number="1" name="Stitch Together"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Prismatic Vista"/>
@@ -86,6 +64,28 @@
         <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Blood Crypt"/>
         <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="The Balrog of Moria"/>
+        <card number="1" name="Archpriest of Shadows"/>
+        <card number="1" name="Disciple of Bolas"/>
+        <card number="1" name="Ruthless Technomancer"/>
+        <card number="1" name="Callous Bloodmage"/>
+        <card number="1" name="Kethek, Crucible Goliath"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="1" name="Markov Enforcer"/>
+        <card number="1" name="Anje Falkenrath"/>
+        <card number="1" name="Stitcher's Supplier"/>
+        <card number="1" name="Tormenting Voice"/>
+        <card number="1" name="Terminal Agony"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Too Greedily, Too Deep"/>
+        <card number="1" name="Moria Scavenger"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Pirate's Pillage"/>
+        <card number="1" name="Rampaging War Mammoth"/>
+        <card number="1" name="Ingot Chewer"/>
+        <card number="1" name="Blacklance Paragon"/>
     </zone>
     <zone name="side">
         <card number="1" name="Muck Drubb"/>
@@ -106,12 +106,12 @@
         <card number="1" name="Garna, the Bloodflame"/>
         <card number="1" name="Flayer of the Hatebound"/>
         <card number="1" name="By Force"/>
-        <card number="1" name="Tibalt's Trickery"/>
+        <card number="2" name="Tibalt's Trickery"/>
         <card number="1" name="The Cauldron of Eternity"/>
         <card number="1" name="Rakdos Charm"/>
         <card number="1" name="Hedron Archive"/>
         <card number="2" name="Ingot Chewer"/>
-        <card number="1" name="Persist"/>
+        <card number="2" name="Persist"/>
         <card number="1" name="Rix Maadi Reveler"/>
         <card number="2" name="Dire Fleet Poisoner"/>
         <card number="1" name="Blood for Bones"/>
@@ -134,7 +134,7 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Pirate's Pillage"/>
         <card number="1" name="Blacklance Paragon"/>
-        <card number="1" name="Bolt Bend"/>
+        <card number="2" name="Bolt Bend"/>
         <card number="2" name="Drossforge Bridge"/>
         <card number="2" name="Rakdos Carnarium"/>
         <card number="2" name="Rogue's Passage"/>
@@ -172,5 +172,26 @@
         <card number="1" name="Shadowblood Ridge"/>
         <card number="1" name="Big Game Hunter"/>
         <card number="1" name="Tormenting Voice"/>
+        <card number="1" name="Gravebreaker Lamia"/>
+        <card number="1" name="Oriq Loremage"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Sheoldred, Whispering One"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Exhume"/>
+        <card number="1" name="Incarnation Technique"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Stitch Together"/>
+        <card number="1" name="Cavalier of Flame"/>
+        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Bladewing, Deathless Tyrant"/>
+        <card number="1" name="Lurking Deadeye"/>
+        <card number="1" name="Inferno Titan"/>
     </zone>
 </cockatrice_deck>

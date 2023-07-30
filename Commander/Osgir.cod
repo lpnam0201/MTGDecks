@@ -15,7 +15,6 @@
         <card number="1" name="Osgir, the Reconstructor"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Hedron Archive"/>
-        <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Bronze Guardian"/>
         <card number="1" name="Combustible Gearhulk"/>
         <card number="1" name="Myr Battlesphere"/>
@@ -29,63 +28,57 @@
         <card number="1" name="Sleeper Dart"/>
         <card number="1" name="Inspiring Statuary"/>
         <card number="1" name="Angel of the Ruins"/>
-        <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Blasphemous Act"/>
         <card number="10" name="Mountain"/>
         <card number="9" name="Plains"/>
         <card number="1" name="Boros Garrison"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Soul-Guide Lantern"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Austere Command"/>
         <card number="1" name="Mycosynth Wellspring"/>
         <card number="1" name="Duplicant"/>
         <card number="1" name="Zirda, the Dawnwaker"/>
         <card number="1" name="Rustvale Bridge"/>
-        <card number="1" name="Path to Exile"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Wild Magic Surge"/>
-        <card number="1" name="Basalt Monolith"/>
         <card number="1" name="Oswald Fiddlebender"/>
         <card number="1" name="Key to the City"/>
         <card number="1" name="Ornithopter of Paradise"/>
-        <card number="1" name="Imperial Recruiter"/>
-        <card number="1" name="Wyll's Reversal"/>
-        <card number="1" name="Bolt Bend"/>
-        <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Moonsilver Key"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Dispeller's Capsule"/>
         <card number="1" name="Rings of Brighthearth"/>
-        <card number="1" name="Disenchant"/>
         <card number="1" name="Furycalm Snarl"/>
         <card number="1" name="Rugged Prairie"/>
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Spectator Seating"/>
         <card number="1" name="Contraband Livestock"/>
-        <card number="1" name="Akroma's Will"/>
         <card number="1" name="Patriar's Seal"/>
         <card number="1" name="Bladegriff Prototype"/>
         <card number="1" name="Mirage Mirror"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Staff of Domination"/>
-        <card number="1" name="Thran Spider"/>
-        <card number="1" name="Golem Artisan"/>
         <card number="1" name="Coveted Jewel"/>
         <card number="1" name="Rebbec, Architect of Ascension"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Leonin Abunas"/>
         <card number="1" name="Alchemist's Vial"/>
         <card number="1" name="Rug of Smothering"/>
+        <card number="1" name="Wear // Tear"/>
+        <card number="1" name="Stuffy Doll"/>
+        <card number="1" name="Alibou, Ancient Witness"/>
+        <card number="1" name="Chief of the Foundry"/>
+        <card number="1" name="Ironsoul Enforcer"/>
+        <card number="1" name="Arcbound Shikari"/>
+        <card number="1" name="Scavenged Brawler"/>
+        <card number="1" name="Treasure Keeper"/>
+        <card number="1" name="Cathodion"/>
+        <card number="1" name="Filigree Vector"/>
+        <card number="1" name="Clone Shell"/>
     </zone>
     <zone name="side">
         <card number="1" name="Phyrexia's Core"/>
@@ -145,12 +138,32 @@
         <card number="1" name="Wear // Tear"/>
         <card number="1" name="Audacious Reshapers"/>
         <card number="2" name="Crashing Drawbridge"/>
-        <card number="1" name="Steel Seraph"/>
+        <card number="2" name="Steel Seraph"/>
         <card number="1" name="Rug of Smothering"/>
         <card number="1" name="Darksteel Juggernaut"/>
         <card number="1" name="Cathartic Reunion"/>
         <card number="1" name="Thrilling Discovery"/>
         <card number="1" name="Faithless Looting"/>
         <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Staff of Domination"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Golem Artisan"/>
+        <card number="1" name="Thran Spider"/>
+        <card number="1" name="Imperial Recruiter"/>
+        <card number="1" name="Blitz Automaton"/>
+        <card number="1" name="Combat Thresher"/>
     </zone>
 </cockatrice_deck>

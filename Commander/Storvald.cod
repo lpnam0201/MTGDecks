@@ -7,7 +7,6 @@
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Cold-Eyed Selkie"/>
         <card number="1" name="Wild Beastmaster"/>
-        <card number="1" name="Blighted Agent"/>
         <card number="1" name="Cultivator of Blades"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
@@ -19,13 +18,6 @@
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Fyndhorn Elves"/>
         <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Paradise Druid"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Managorger Hydra"/>
-        <card number="1" name="Ohran Viper"/>
-        <card number="1" name="Oakhame Adversary"/>
-        <card number="1" name="Master Biomancer"/>
-        <card number="1" name="Garruk's Harbinger"/>
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Negate"/>
@@ -33,62 +25,75 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Migration Path"/>
-        <card number="1" name="Emergent Sequence"/>
         <card number="1" name="Circuitous Route"/>
         <card number="1" name="Ilysian Caryatid"/>
         <card number="1" name="Incubation Druid"/>
         <card number="1" name="Search for Tomorrow"/>
-        <card number="1" name="Saw It Coming"/>
         <card number="1" name="Explosive Vegetation"/>
-        <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Return to Dust"/>
-        <card number="1" name="Nature's Claim"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Temple of Plenty"/>
-        <card number="1" name="Temple of Mystery"/>
-        <card number="1" name="Temple of Enlightenment"/>
-        <card number="1" name="Seaside Citadel"/>
-        <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Sungrass Prairie"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Thriving Grove"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Thriving Heath"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="6" name="Island"/>
-        <card number="7" name="Forest"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Forest"/>
         <card number="4" name="Plains"/>
-        <card number="1" name="Austere Command"/>
-        <card number="1" name="Forgotten Ancient"/>
-        <card number="1" name="Overwhelming Stampede"/>
-        <card number="1" name="Keeper of Fables"/>
         <card number="1" name="Springbloom Druid"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Duelist's Heritage"/>
-        <card number="1" name="Dream Fracture"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Canopy Vista"/>
-        <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Yavimaya Dryad"/>
         <card number="1" name="Command Beacon"/>
-        <card number="1" name="Elvish Rejuvenator"/>
-        <card number="1" name="Kiora's Follower"/>
-        <card number="1" name="Somberwald Sage"/>
         <card number="1" name="Marwyn, the Nurturer"/>
-        <card number="1" name="Tanazir Quandrix"/>
-        <card number="1" name="Rishkar's Expertise"/>
-        <card number="1" name="Froghemoth"/>
-        <card number="1" name="Hunter's Insight"/>
-        <card number="1" name="Hunter's Prowess"/>
-        <card number="1" name="Giant Killer // Chop Down"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Viridian Joiner"/>
+        <card number="1" name="Heronblade Elite"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Spara's Headquarters"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Deserted Beach"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Finale of Glory"/>
+        <card number="1" name="Selvala, Heart of the Wilds"/>
+        <card number="1" name="Kami of Whispered Hopes"/>
+        <card number="1" name="Tanuki Transplanter"/>
+        <card number="1" name="Cradle Clearcutter"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Runadi, Behemoth Caller"/>
+        <card number="1" name="Surrak and Goreclaw"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Stroke of Genius"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Selvala, Explorer Returned"/>
+        <card number="1" name="Gwenna, Eyes of Gaea"/>
+        <card number="1" name="Gilanra, Caller of Wirewood"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Vorinclex"/>
+        <card number="1" name="Managorger Hydra"/>
     </zone>
     <zone name="side">
         <card number="1" name="Silverblade Paladin"/>
@@ -97,6 +102,61 @@
         <card number="1" name="Sunscorch Regent"/>
         <card number="1" name="Daxos of Meletis"/>
         <card number="1" name="Realm-Cloaked Giant // Cast Off"/>
-        <card number="1" name="Giant Killer // Chop Down"/>
+        <card number="2" name="Giant Killer // Chop Down"/>
+        <card number="1" name="Master Biomancer"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Garruk's Harbinger"/>
+        <card number="1" name="Froghemoth"/>
+        <card number="1" name="Dream Fracture"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Emergent Sequence"/>
+        <card number="1" name="Hunter's Prowess"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Ohran Viper"/>
+        <card number="2" name="Island"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Forgotten Ancient"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Legion Loyalty"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Tanazir Quandrix"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Biomass Mutation"/>
+        <card number="1" name="Selvala, Heart of the Wilds"/>
+        <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Pull from Eternity"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Toski, Bearer of Secrets"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Elvish Rejuvenator"/>
+        <card number="1" name="Blighted Agent"/>
+        <card number="1" name="Deep Gnome Terramancer"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Somberwald Sage"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Jin-Gitaxias, Core Augur"/>
     </zone>
 </cockatrice_deck>

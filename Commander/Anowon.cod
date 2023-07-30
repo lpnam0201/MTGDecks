@@ -7,7 +7,7 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Command Tower"/>
         <card number="9" name="Island"/>
-        <card number="9" name="Swamp"/>
+        <card number="8" name="Swamp"/>
         <card number="1" name="Soaring Thought-Thief"/>
         <card number="1" name="Merfolk Windrobber"/>
         <card number="1" name="Ghostly Pilferer"/>
@@ -27,11 +27,9 @@
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Anowon, the Ruin Thief"/>
-        <card number="1" name="Enigma Thief"/>
         <card number="1" name="Faerie Vandal"/>
         <card number="1" name="Slither Blade"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Pongify"/>
         <card number="1" name="Countersquall"/>
         <card number="1" name="Blighted Agent"/>
         <card number="1" name="Memory Lapse"/>
@@ -39,11 +37,8 @@
         <card number="1" name="Nighthawk Scavenger"/>
         <card number="1" name="Thieves' Guild Enforcer"/>
         <card number="1" name="Mask of Memory"/>
-        <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Vedalken Infiltrator"/>
-        <card number="1" name="Soul Shatter"/>
-        <card number="1" name="Disdainful Stroke"/>
         <card number="1" name="Dimir Aqueduct"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Infernal Grasp"/>
@@ -56,37 +51,43 @@
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Sunken Ruins"/>
         <card number="1" name="Watery Grave"/>
-        <card number="1" name="Tainted Isle"/>
         <card number="1" name="Temple of Deceit"/>
         <card number="1" name="Solve the Equation"/>
-        <card number="1" name="Diabolic Tutor"/>
-        <card number="1" name="Mastermind's Acquisition"/>
-        <card number="1" name="Demonic Bargain"/>
         <card number="1" name="Grim Hireling"/>
         <card number="1" name="Duskmantle Guildmage"/>
         <card number="1" name="Profane Tutor"/>
         <card number="1" name="Sygg, River Cutthroat"/>
         <card number="1" name="Prying Blade"/>
-        <card number="1" name="Hellish Rebuke"/>
         <card number="1" name="Prickly Boggart"/>
         <card number="1" name="Nightshade Stinger"/>
         <card number="1" name="Goldvein Pick"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Network Disruptor"/>
         <card number="1" name="Faerie Miscreant"/>
-        <card number="1" name="Delay"/>
-        <card number="1" name="Expedition Skulker"/>
-        <card number="1" name="Combat Research"/>
         <card number="1" name="Curiosity"/>
-        <card number="1" name="Resculpt"/>
-        <card number="1" name="Walk the Aeons"/>
-        <card number="1" name="Lose Focus"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Underground River"/>
-        <card number="1" name="Part the Waterveil"/>
-        <card number="1" name="Coveted Prize"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Mindcrank"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Dissipation Field"/>
+        <card number="1" name="Mercurial Spelldancer"/>
+        <card number="1" name="Cephalid Facetaker"/>
+        <card number="1" name="Beacon of Unrest"/>
+        <card number="1" name="Mission Briefing"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Scheming Symmetry"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Familiar's Ruse"/>
+        <card number="1" name="Combat Research"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -129,7 +130,7 @@
         <card number="1" name="Surveilling Sprite"/>
         <card number="1" name="Faerie Miscreant"/>
         <card number="1" name="Whisper Agent"/>
-        <card number="2" name="Rapid Hybridization"/>
+        <card number="3" name="Rapid Hybridization"/>
         <card number="1" name="Pestermite"/>
         <card number="3" name="Windfall"/>
         <card number="1" name="Propaganda"/>
@@ -163,9 +164,9 @@
         <card number="1" name="Drag to the Underworld"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="2" name="Path of Ancestry"/>
-        <card number="1" name="Disdainful Stroke"/>
+        <card number="3" name="Disdainful Stroke"/>
         <card number="4" name="Island"/>
-        <card number="4" name="Swamp"/>
+        <card number="5" name="Swamp"/>
         <card number="1" name="Barren Moor"/>
         <card number="1" name="Lonely Sandbar"/>
         <card number="2" name="Silundi Vision"/>
@@ -190,15 +191,15 @@
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Sol Ring"/>
-        <card number="2" name="Coveted Prize"/>
-        <card number="1" name="Diabolic Tutor"/>
+        <card number="3" name="Coveted Prize"/>
+        <card number="2" name="Diabolic Tutor"/>
         <card number="1" name="Poison the Cup"/>
         <card number="1" name="Sygg, River Cutthroat"/>
         <card number="1" name="Dimir Guildgate"/>
         <card number="1" name="Curse of the Swine"/>
         <card number="1" name="Dismal Backwater"/>
         <card number="1" name="Jwar Isle Refuge"/>
-        <card number="1" name="Tainted Isle"/>
+        <card number="2" name="Tainted Isle"/>
         <card number="2" name="Mistvault Bridge"/>
         <card number="1" name="Drowned Catacomb"/>
         <card number="2" name="Waterfront District"/>
@@ -217,7 +218,7 @@
         <card number="1" name="Temple of Deceit"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Confounding Conundrum"/>
-        <card number="1" name="Demonic Bargain"/>
+        <card number="2" name="Demonic Bargain"/>
         <card number="1" name="Thought Vessel"/>
         <card number="2" name="Memory Plunder"/>
         <card number="1" name="Sepulchral Primordial"/>
@@ -229,7 +230,7 @@
         <card number="1" name="Blackbloom Rogue"/>
         <card number="1" name="Bident of Thassa"/>
         <card number="1" name="Orzhov Enforcer"/>
-        <card number="1" name="Expedition Skulker"/>
+        <card number="2" name="Expedition Skulker"/>
         <card number="1" name="Aetherspouts"/>
         <card number="1" name="Cephalid Facetaker"/>
         <card number="2" name="Reconnaissance Mission"/>
@@ -240,5 +241,22 @@
         <card number="1" name="Familiar's Ruse"/>
         <card number="1" name="Polluted Delta"/>
         <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Hellish Rebuke"/>
+        <card number="1" name="Lose Focus"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Alrund's Epiphany"/>
+        <card number="1" name="Walk the Aeons"/>
+        <card number="1" name="Part the Waterveil"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Enigma Thief"/>
+        <card number="1" name="Park Heights Maverick"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Dauthi Voidwalker"/>
+        <card number="1" name="Delay"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Combat Research"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Phyrexian Arena"/>
     </zone>
 </cockatrice_deck>

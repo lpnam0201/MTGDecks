@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Stangg</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sticky Fingers"/>
+        <card number="1" name="Rune of Speed"/>
+        <card number="1" name="Rune of Might"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Audacity"/>
+        <card number="1" name="Fruit of the First Tree"/>
+        <card number="1" name="One with the Kami"/>
+        <card number="1" name="Ancestral Mask"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Nylea's Colossus"/>
+        <card number="1" name="Nessian Wanderer"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Cartouche of Strength"/>
+        <card number="1" name="Cartouche of Zeal"/>
+        <card number="1" name="Karametra's Favor"/>
+        <card number="1" name="Dragon Mantle"/>
+        <card number="1" name="Setessan Training"/>
+        <card number="1" name="Warbriar Blessing"/>
+        <card number="1" name="Sheltering Boughs"/>
+        <card number="1" name="Stangg, Echo Warrior"/>
+        <card number="1" name="Mantle of the Wolf"/>
+        <card number="1" name="Chishiro, the Shattered Blade"/>
+        <card number="1" name="Most Wanted"/>
+        <card number="1" name="Pattern of Rebirth"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Enchantress's Presence"/>
+        <card number="9" name="Forest"/>
+        <card number="9" name="Mountain"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Kessig Wolf Run"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Karlach, Fury of Avernus"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Tyvar's Stand"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Akki Battle Squad"/>
+        <card number="1" name="Wulfgar of Icewind Dale"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Draconic Destiny"/>
+        <card number="1" name="Jaheira, Friend of the Forest"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Raised by Wolves"/>
+        <card number="1" name="Season of Growth"/>
+        <card number="1" name="Spider Umbra"/>
+        <card number="1" name="Elephant Guide"/>
+        <card number="1" name="Hammerhand"/>
+        <card number="1" name="Boar Umbra"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Garruk's Uprising"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Mantle of the Wolf"/>
+        <card number="4" name="Forest"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Ancestral Mask"/>
+        <card number="1" name="Setessan Training"/>
+        <card number="1" name="Warbriar Blessing"/>
+    </zone>
+</cockatrice_deck>

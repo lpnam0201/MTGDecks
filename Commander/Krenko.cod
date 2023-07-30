@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Krenko</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Hero's Blade"/>
+        <card number="1" name="Bloodsworn Steward"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Tempered in Solitude"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Cavalcade of Calamity"/>
+        <card number="1" name="Hellrider"/>
+        <card number="1" name="Torbran, Thane of Red Fell"/>
+        <card number="1" name="Mechanized Warfare"/>
+        <card number="1" name="Skirk Prospector"/>
+        <card number="1" name="Hobgoblin Bandit Lord"/>
+        <card number="1" name="Krenko, Mob Boss"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Pashalik Mons"/>
+        <card number="1" name="Stoneforge Masterwork"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Witty Roastmaster"/>
+        <card number="1" name="Siege-Gang Commander"/>
+        <card number="1" name="Dark-Dweller Oracle"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Shared Animosity"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Karlach, Fury of Avernus"/>
+        <card number="1" name="Relentless Assault"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Mask of Avacyn"/>
+        <card number="1" name="Mirror Shield"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Heirloom Blade"/>
+        <card number="1" name="Bloodforged Battle-Axe"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Akki Battle Squad"/>
+        <card number="1" name="Stoke the Flames"/>
+        <card number="1" name="Cliffhaven Kitesail"/>
+        <card number="1" name="Cloak of the Bat"/>
+        <card number="1" name="Grafted Wargear"/>
+        <card number="1" name="Tome of Legends"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="30" name="Mountain"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Access Tunnel"/>
+        <card number="1" name="Castle Embereth"/>
+        <card number="1" name="Thran Power Suit"/>
+        <card number="1" name="You Find Some Prisoners"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Tenza, Godo's Maul"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Javelin of Lightning"/>
+        <card number="1" name="Word of Seizing"/>
+        <card number="1" name="Act of Aggression"/>
+        <card number="1" name="Fleetfeather Sandals"/>
+        <card number="1" name="Idol of Oblivion"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Conspicuous Snoop"/>
+        <card number="1" name="Goblin Warchief"/>
+        <card number="1" name="Legion Warboss"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Rundvelt Hordemaster"/>
+        <card number="1" name="Boots of Speed"/>
+        <card number="1" name="Rabbit Battery"/>
+        <card number="1" name="Symmetry Matrix"/>
+        <card number="1" name="Hero's Heirloom"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Brazen Cannonade"/>
+        <card number="1" name="Goro-Goro, Disciple of Ryusei"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Chef's Kiss"/>
+        <card number="1" name="Goblin Chieftain"/>
+        <card number="1" name="Goblin Trashmaster"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Light Up the Stage"/>
+    </zone>
+</cockatrice_deck>

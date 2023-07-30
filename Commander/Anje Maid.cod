@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Anje Maid</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Anje, Maid of Dishonor"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Strefan, Maurer Progenitor"/>
+        <card number="1" name="Voldaren Bloodcaster"/>
+        <card number="1" name="Falkenrath Forebear"/>
+        <card number="1" name="Cordial Vampire"/>
+        <card number="1" name="Florian, Voldaren Scion"/>
+        <card number="1" name="Sanctum Seeker"/>
+        <card number="1" name="Stromkirk Captain"/>
+        <card number="1" name="Malakir Bloodwitch"/>
+        <card number="1" name="Champion of Dusk"/>
+        <card number="1" name="Patron of the Vein"/>
+        <card number="1" name="Anowon, the Ruin Sage"/>
+        <card number="1" name="Nullpriest of Oblivion"/>
+        <card number="1" name="Bloodline Necromancer"/>
+        <card number="1" name="Callous Bloodmage"/>
+        <card number="1" name="Crossway Troublemakers"/>
+        <card number="1" name="Silversmote Ghoul"/>
+        <card number="1" name="Vraan, Executioner Thane"/>
+        <card number="1" name="Markov Enforcer"/>
+        <card number="1" name="Scion of Opulence"/>
+        <card number="1" name="Restless Bloodseeker"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Bloodtithe Harvester"/>
+        <card number="1" name="Glass-Cast Heart"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Descent into Avernus"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="9" name="Mountain"/>
+        <card number="8" name="Swamp"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Oathsworn Vampire"/>
+        <card number="1" name="Twilight Prophet"/>
+        <card number="1" name="Anje's Ravager"/>
+        <card number="1" name="Falkenrath Gorger"/>
+        <card number="1" name="Mari, the Killing Quill"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Exsanguinator Cavalry"/>
+        <card number="1" name="Midnight Arsonist"/>
+        <card number="1" name="Dominating Vampire"/>
+        <card number="1" name="Blood Petal Celebrant"/>
+        <card number="1" name="Voldaren Epicure"/>
+        <card number="1" name="Curtains' Call"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Drana, the Last Bloodchief"/>
+        <card number="1" name="Markov Baron"/>
+        <card number="1" name="Veinwitch Coven"/>
+        <card number="1" name="Stromkirk Occultist"/>
+        <card number="1" name="Captivating Vampire"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Falkenrath Celebrants"/>
+        <card number="1" name="Vampire of the Dire Moon"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Falkenrath Aristocrat"/>
+        <card number="1" name="Olivia, Crimson Bride"/>
+        <card number="1" name="Haunted One"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Honor-Worn Shaku"/>
+        <card number="1" name="Nighthawk Scavenger"/>
+        <card number="1" name="Vampire Nighthawk"/>
+        <card number="1" name="Veinwitch Coven"/>
+        <card number="1" name="Kamber, the Plunderer"/>
+        <card number="1" name="Marauding Blight-Priest"/>
+        <card number="1" name="Determined Iteration"/>
+        <card number="1" name="Olivia's Attendants"/>
+        <card number="1" name="Bloodghast"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Midnight Arsonist"/>
+        <card number="1" name="Relic of Legends"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Inspiring Statuary"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Voldaren Epicure"/>
+        <card number="1" name="Drana, Liberator of Malakir"/>
+        <card number="1" name="Stromkirk Occultist"/>
+        <card number="1" name="Creeping Bloodsucker"/>
+        <card number="1" name="Pile On"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Markov Baron"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Orthion, Hero of Lavabrink"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+    </zone>
+</cockatrice_deck>

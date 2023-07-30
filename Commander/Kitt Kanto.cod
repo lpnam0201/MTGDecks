@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Kitt Kanto</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Kitt Kanto, Mayhem Diva"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Bothersome Quasit"/>
+        <card number="1" name="Goblin Assault"/>
+        <card number="1" name="Goblin Rabblemaster"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Cabaretti Ascendancy"/>
+        <card number="1" name="Teleportation Circle"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Strionic Resonator"/>
+    </zone>
+</cockatrice_deck>

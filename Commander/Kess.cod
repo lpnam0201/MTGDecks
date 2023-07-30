@@ -25,11 +25,9 @@
         <card number="1" name="Crumbling Necropolis"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Darkwater Catacombs"/>
-        <card number="5" name="Island"/>
+        <card number="4" name="Island"/>
         <card number="4" name="Mountain"/>
         <card number="4" name="Swamp"/>
-        <card number="1" name="Talisman of Creativity"/>
-        <card number="1" name="Propaganda"/>
         <card number="1" name="Necromantic Selection"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Pongify"/>
@@ -43,68 +41,71 @@
         <card number="1" name="Dark Ritual"/>
         <card number="1" name="Mana Geyser"/>
         <card number="1" name="Seething Song"/>
-        <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Cut // Ribbons"/>
         <card number="1" name="Crackle with Power"/>
-        <card number="1" name="Expansion // Explosion"/>
         <card number="1" name="Expressive Iteration"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Ponder"/>
         <card number="1" name="Preordain"/>
         <card number="1" name="Volcanic Torrent"/>
-        <card number="1" name="Soul Shatter"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Behold the Multiverse"/>
         <card number="1" name="Thirst for Discovery"/>
         <card number="1" name="Shadowblood Ridge"/>
-        <card number="1" name="Profane Transfusion"/>
         <card number="1" name="Fevered Suspicion"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Dig Through Time"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Maestros Charm"/>
-        <card number="1" name="Talisman of Indulgence"/>
-        <card number="1" name="Disrupt Decorum"/>
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Smoldering Marsh"/>
         <card number="1" name="Training Center"/>
         <card number="1" name="Morphic Pool"/>
         <card number="1" name="Luxury Suite"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Shipwreck Marsh"/>
-        <card number="1" name="Swarm Intelligence"/>
-        <card number="1" name="Blood Money"/>
         <card number="1" name="Reckless Endeavor"/>
         <card number="1" name="Sulfurous Springs"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Steam Vents"/>
         <card number="1" name="Watery Grave"/>
         <card number="1" name="Blood Crypt"/>
-        <card number="1" name="Polluted Delta"/>
-        <card number="1" name="Bloodstained Mire"/>
-        <card number="1" name="Scalding Tarn"/>
-        <card number="1" name="Invert // Invent"/>
-        <card number="1" name="Solve the Equation"/>
-        <card number="1" name="Mastermind's Acquisition"/>
-        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Languish"/>
+        <card number="1" name="Yahenni's Expertise"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Cryptic Pursuit"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Borne Upon a Wind"/>
+        <card number="1" name="Quicken"/>
+        <card number="1" name="Dualcaster Mage"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Bloodfell Caves"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Howl of the Horde"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Anticipate"/>
+        <card number="1" name="Mindsplice Apparatus"/>
+        <card number="1" name="Ignite the Future"/>
+        <card number="1" name="Deliberate"/>
+        <card number="1" name="Thousand-Year Storm"/>
+        <card number="1" name="Flood of Tears"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Talisman of Creativity"/>
-        <card number="1" name="Talisman of Dominance"/>
-        <card number="1" name="Talisman of Indulgence"/>
+        <card number="2" name="Talisman of Creativity"/>
+        <card number="2" name="Talisman of Dominance"/>
+        <card number="2" name="Talisman of Indulgence"/>
         <card number="2" name="Corrupted Grafstone"/>
         <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Archaeomancer"/>
         <card number="2" name="Cathartic Reunion"/>
         <card number="2" name="Jace's Sanctum"/>
         <card number="1" name="Star Compass"/>
-        <card number="1" name="Swiftfoot Boots"/>
+        <card number="2" name="Swiftfoot Boots"/>
         <card number="1" name="Tomebound Lich"/>
         <card number="1" name="God-Eternal Kefnet"/>
         <card number="1" name="Vodalian Arcanist"/>
@@ -169,7 +170,7 @@
         <card number="2" name="Ignite the Future"/>
         <card number="2" name="In Garruk's Wake"/>
         <card number="2" name="Comet Storm"/>
-        <card number="1" name="Expansion // Explosion"/>
+        <card number="2" name="Expansion // Explosion"/>
         <card number="1" name="Ransack the Lab"/>
         <card number="1" name="Forbidden Alchemy"/>
         <card number="1" name="Increasing Vengeance"/>
@@ -180,9 +181,9 @@
         <card number="3" name="Thriving Moor"/>
         <card number="3" name="Thriving Isle"/>
         <card number="3" name="Thriving Bluff"/>
-        <card number="1" name="Exotic Orchard"/>
+        <card number="2" name="Exotic Orchard"/>
         <card number="1" name="Command Tower"/>
-        <card number="4" name="Island"/>
+        <card number="5" name="Island"/>
         <card number="5" name="Swamp"/>
         <card number="1" name="Darkwater Catacombs"/>
         <card number="1" name="Flood of Tears"/>
@@ -209,13 +210,13 @@
         <card number="1" name="Commit // Memory"/>
         <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Smoldering Marsh"/>
-        <card number="1" name="Swarm Intelligence"/>
+        <card number="2" name="Swarm Intelligence"/>
         <card number="1" name="Rakdos Carnarium"/>
         <card number="1" name="Izzet Boilerworks"/>
         <card number="1" name="Dimir Aqueduct"/>
         <card number="1" name="Earthquake"/>
         <card number="1" name="Razaketh's Rite"/>
-        <card number="2" name="Diabolic Tutor"/>
+        <card number="3" name="Diabolic Tutor"/>
         <card number="2" name="Demonic Bargain"/>
         <card number="1" name="Coveted Prize"/>
         <card number="2" name="Final Parting"/>
@@ -230,7 +231,7 @@
         <card number="1" name="Worn Powerstone"/>
         <card number="2" name="Peer into the Abyss"/>
         <card number="1" name="Flame Sweep"/>
-        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="2" name="Mastermind's Acquisition"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Mind Stone"/>
@@ -248,9 +249,25 @@
         <card number="1" name="Haunted Ridge"/>
         <card number="1" name="Necrotic Hex"/>
         <card number="1" name="Torment of Hailfire"/>
-        <card number="1" name="Blood Money"/>
+        <card number="2" name="Blood Money"/>
         <card number="2" name="Mountain"/>
         <card number="1" name="Make an Example"/>
         <card number="1" name="Tormenting Voice"/>
+        <card number="1" name="Disrupt Decorum"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Profane Transfusion"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Invert // Invent"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mindsplice Apparatus"/>
     </zone>
 </cockatrice_deck>

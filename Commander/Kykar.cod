@@ -48,14 +48,12 @@
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Ponder"/>
         <card number="1" name="Renegade Tactics"/>
-        <card number="1" name="Empty the Warrens"/>
         <card number="1" name="Thrill of Possibility"/>
         <card number="1" name="Cathartic Reunion"/>
         <card number="1" name="Magmatic Insight"/>
         <card number="1" name="Rile"/>
         <card number="1" name="Deep Analysis"/>
         <card number="1" name="Guttersnipe"/>
-        <card number="1" name="Izzet Charm"/>
         <card number="1" name="Spark of Creativity"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Impulse"/>
@@ -64,9 +62,7 @@
         <card number="1" name="Sulfur Falls"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Creative Technique"/>
-        <card number="1" name="Spreading Insurrection"/>
         <card number="1" name="Ral, Storm Conduit"/>
-        <card number="1" name="Mind Stone"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Spectator Seating"/>
         <card number="1" name="Sea of Clouds"/>
@@ -75,8 +71,6 @@
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Rugged Prairie"/>
         <card number="1" name="Lorehold Apprentice"/>
-        <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Swarm Intelligence"/>
         <card number="1" name="Ancestral Anger"/>
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Dig Through Time"/>
@@ -87,10 +81,14 @@
         <card number="1" name="Flooded Strand"/>
         <card number="1" name="Surge to Victory"/>
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Vandalblast"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Negate"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Shorikai, Genesis Engine"/>
+        <card number="1" name="Candlekeep Inspiration"/>
     </zone>
     <zone name="side">
         <card number="2" name="Silundi Vision"/>
@@ -106,12 +104,12 @@
         <card number="1" name="Pramikon, Sky Rampart"/>
         <card number="1" name="Fireball"/>
         <card number="2" name="Bonus Round"/>
-        <card number="1" name="Mind Stone"/>
+        <card number="2" name="Mind Stone"/>
         <card number="2" name="Narset of the Ancient Way"/>
         <card number="1" name="Spell Pierce"/>
         <card number="2" name="Thrill of Possibility"/>
         <card number="1" name="Keep Safe"/>
-        <card number="1" name="Izzet Charm"/>
+        <card number="2" name="Izzet Charm"/>
         <card number="2" name="Jace's Sanctum"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Irrigated Farmland"/>
@@ -139,7 +137,7 @@
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Unsummon"/>
-        <card number="1" name="Swarm Intelligence"/>
+        <card number="2" name="Swarm Intelligence"/>
         <card number="1" name="Darksteel Ingot"/>
         <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Chain Lightning"/>
@@ -219,5 +217,9 @@
         <card number="1" name="Dragon Mantle"/>
         <card number="1" name="Archmage Emeritus"/>
         <card number="1" name="Disrupt Decorum"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Empty the Warrens"/>
+        <card number="1" name="Spreading Insurrection"/>
+        <card number="1" name="Vandalblast"/>
     </zone>
 </cockatrice_deck>

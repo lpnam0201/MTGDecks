@@ -20,8 +20,6 @@
         <card number="1" name="Unearth"/>
         <card number="1" name="Laboratory Maniac"/>
         <card number="1" name="Decree of Pain"/>
-        <card number="1" name="Toxic Deluge"/>
-        <card number="1" name="Damnation"/>
         <card number="1" name="Archfiend of Ifnir"/>
         <card number="1" name="Cloud of Faeries"/>
         <card number="1" name="Vizier of Tumbling Sands"/>
@@ -49,7 +47,6 @@
         <card number="1" name="Zagoth Crystal"/>
         <card number="1" name="Lay Claim"/>
         <card number="1" name="Without Weakness"/>
-        <card number="1" name="Scarab Feast"/>
         <card number="1" name="Memory Leak"/>
         <card number="1" name="Torment of Hailfire"/>
         <card number="1" name="Farseek"/>
@@ -100,6 +97,9 @@
         <card number="1" name="Step Through"/>
         <card number="1" name="Dark Ritual"/>
         <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Viridian Longbow"/>
     </zone>
     <zone name="side">
         <card number="1" name="Blasted Landscape"/>
@@ -119,5 +119,8 @@
         <card number="1" name="Migration Path"/>
         <card number="1" name="Drake Haven"/>
         <card number="1" name="Abandoned Sarcophagus"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Scarab Feast"/>
     </zone>
 </cockatrice_deck>

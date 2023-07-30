@@ -17,7 +17,6 @@
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Boros Charm"/>
-        <card number="1" name="Sun Titan"/>
         <card number="1" name="Cathar Commando"/>
         <card number="1" name="Seal of Cleansing"/>
         <card number="1" name="Soul Snare"/>
@@ -26,7 +25,6 @@
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Key to the City"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Relic Vial"/>
         <card number="1" name="Divine Visitation"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Alseid of Life's Bounty"/>
@@ -58,7 +56,6 @@
         <card number="10" name="Plains"/>
         <card number="8" name="Mountain"/>
         <card number="1" name="Selfless Spirit"/>
-        <card number="1" name="Kami of False Hope"/>
         <card number="1" name="Lion Sash"/>
         <card number="1" name="Solitary Confinement"/>
         <card number="1" name="Blasphemous Act"/>
@@ -87,6 +84,9 @@
         <card number="1" name="Court Street Denizen"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Guardian Scalelord"/>
     </zone>
     <zone name="side">
         <card number="1" name="Slash the Ranks"/>
@@ -95,7 +95,7 @@
         <card number="1" name="Reconstruct History"/>
         <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Welcoming Vampire"/>
-        <card number="1" name="Rumor Gatherer"/>
+        <card number="2" name="Rumor Gatherer"/>
         <card number="1" name="Loyal Apprentice"/>
         <card number="1" name="Commander Liara Portyr"/>
         <card number="1" name="Ellyn Harbreeze, Busybody"/>
@@ -183,5 +183,8 @@
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Nevinyrral's Disk"/>
         <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Kami of False Hope"/>
+        <card number="1" name="Relic Vial"/>
     </zone>
 </cockatrice_deck>

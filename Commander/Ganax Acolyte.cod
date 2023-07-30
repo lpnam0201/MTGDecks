@@ -8,7 +8,6 @@
         <card number="1" name="Earthquake Dragon"/>
         <card number="1" name="Goldspan Dragon"/>
         <card number="1" name="Drakuseth, Maw of Flames"/>
-        <card number="1" name="Rhythm of the Wild"/>
         <card number="1" name="Fires of Yavimaya"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
@@ -88,11 +87,15 @@
         <card number="8" name="Mountain"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Dream Pillager"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Sylvan Library"/>
     </zone>
     <zone name="side">
         <card number="1" name="Jade Orb of Dragonkind"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Rhythm of the Wild"/>
     </zone>
 </cockatrice_deck>

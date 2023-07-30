@@ -2,4 +2,113 @@
 <cockatrice_deck version="1">
     <deckname>Jodah Unifier</deckname>
     <comments></comments>
+    <zone name="main">
+        <card number="1" name="Jodah, the Unifier"/>
+        <card number="1" name="Saryth, the Viper's Fang"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Sigarda, Font of Blessings"/>
+        <card number="1" name="Inga and Esika"/>
+        <card number="1" name="Linvala, Shield of Sea Gate"/>
+        <card number="1" name="Melira, the Living Cure"/>
+        <card number="1" name="Gerrard, Weatherlight Hero"/>
+        <card number="1" name="Raff Capashen, Ship's Mage"/>
+        <card number="1" name="Surrak Dragonclaw"/>
+        <card number="1" name="Ertai Resurrected"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Kyodai, Soul of Kamigawa"/>
+        <card number="1" name="Ratadrabik of Urborg"/>
+        <card number="1" name="Hajar, Loyal Bodyguard"/>
+        <card number="1" name="Teshar, Ancestor's Apostle"/>
+        <card number="1" name="Moira and Teshar"/>
+        <card number="1" name="Saffi Eriksdotter"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Jirina, Dauntless General"/>
+        <card number="1" name="Sigarda, Heron's Grace"/>
+        <card number="1" name="Anara, Wolvid Familiar"/>
+        <card number="1" name="Jhoira, Weatherlight Captain"/>
+        <card number="1" name="The World Tree"/>
+        <card number="1" name="Esika, God of the Tree"/>
+        <card number="1" name="Kolvori, God of Kinship"/>
+        <card number="1" name="Selvala, Heart of the Wilds"/>
+        <card number="1" name="Gwenna, Eyes of Gaea"/>
+        <card number="1" name="Ashaya, Soul of the Wild"/>
+        <card number="1" name="Selvala, Explorer Returned"/>
+        <card number="1" name="Jegantha, the Wellspring"/>
+        <card number="1" name="Shanid, Sleepers' Scourge"/>
+        <card number="1" name="Djeru and Hazoret"/>
+        <card number="1" name="Honor-Worn Shaku"/>
+        <card number="1" name="Relic of Legends"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Great Hall of the Citadel"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Urza's Ruinous Blast"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Raugrin Triome"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Spara's Headquarters"/>
+        <card number="1" name="Raffine's Tower"/>
+        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="4" name="Forest"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Void Rend"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Esior, Wardwing Familiar"/>
+        <card number="1" name="Storvald, Frost Giant Jarl"/>
+        <card number="1" name="Reidane, God of the Worthy"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sigarda, Host of Herons"/>
+        <card number="1" name="Othelm, Sigardian Outcast"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Niambi, Esteemed Speaker"/>
+        <card number="1" name="Odric, Lunarch Marshal"/>
+        <card number="1" name="Odric, Master Tactician"/>
+        <card number="1" name="Arvad the Cursed"/>
+    </zone>
 </cockatrice_deck>

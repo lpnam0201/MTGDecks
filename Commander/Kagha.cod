@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Kagha</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Rise of the Dark Realms"/>
+        <card number="1" name="Phyrexian Delver"/>
+        <card number="1" name="Cankerbloom"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Lord of the Forsaken"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Gravebreaker Lamia"/>
+        <card number="1" name="Fauna Shaman"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Caustic Caterpillar"/>
+        <card number="1" name="Foundation Breaker"/>
+        <card number="1" name="Outland Liberator"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Noxious Gearhulk"/>
+        <card number="1" name="Conduit of Worlds"/>
+        <card number="1" name="Skull Prophet"/>
+        <card number="1" name="World Shaper"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Tear Asunder"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Apprentice Necromancer"/>
+        <card number="1" name="Doomed Necromancer"/>
+        <card number="1" name="Deathbloom Ritualist"/>
+        <card number="1" name="Tormod, the Desecrator"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Skyfisher Spider"/>
+        <card number="1" name="Doom Whisperer"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Agent of the Shadow Thieves"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Incarnation Technique"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Sheoldred, Whispering One"/>
+        <card number="1" name="Vilis, Broker of Blood"/>
+        <card number="1" name="Kogla, the Titan Ape"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Blight Titan"/>
+        <card number="1" name="Vigor"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Culling Ritual"/>
+        <card number="1" name="Dawntreader Elk"/>
+        <card number="8" name="Swamp"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Access Tunnel"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="9" name="Forest"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Necroblossom Snarl"/>
+        <card number="1" name="Deathcap Glade"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Nyx Weaver"/>
+        <card number="1" name="Kagha, Shadow Archdruid"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Scheming Symmetry"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Seal of Primordium"/>
+        <card number="1" name="Haywire Mite"/>
+        <card number="1" name="Erinis, Gloom Stalker"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Millikin"/>
+        <card number="1" name="Culling Ritual"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Timeless Witness"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="3" name="Swamp"/>
+        <card number="1" name="Nyx Weaver"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Anara, Wolvid Familiar"/>
+        <card number="1" name="Manifold Key"/>
+        <card number="1" name="Binding the Old Gods"/>
+    </zone>
+</cockatrice_deck>

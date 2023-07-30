@@ -15,7 +15,6 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Gala Greeters"/>
         <card number="1" name="Teleportation Circle"/>
-        <card number="1" name="Panharmonicon"/>
         <card number="1" name="Conjurer's Closet"/>
         <card number="1" name="Restoration Angel"/>
         <card number="1" name="Felidar Guardian"/>
@@ -29,9 +28,6 @@
         <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Diabolic Tutor"/>
         <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Summoner's Pact"/>
-        <card number="1" name="Shared Summons"/>
-        <card number="1" name="Mastermind's Acquisition"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
@@ -92,11 +88,15 @@
         <card number="1" name="Aerial Extortionist"/>
         <card number="1" name="The Fall of Lord Konda"/>
         <card number="1" name="Vampire Spawn"/>
-        <card number="1" name="Idyllic Tutor"/>
         <card number="1" name="Angel of Condemnation"/>
         <card number="1" name="Llanowar Visionary"/>
         <card number="1" name="Temur Sabertooth"/>
         <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="1" name="Honor-Worn Shaku"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Worldly Tutor"/>
     </zone>
     <zone name="side">
         <card number="1" name="Eternal Witness"/>
@@ -139,5 +139,10 @@
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Noxious Gearhulk"/>
         <card number="1" name="Callous Bloodmage"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Mastermind's Acquisition"/>
     </zone>
 </cockatrice_deck>

@@ -9,15 +9,8 @@
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Rampaging Baloths"/>
         <card number="1" name="Beast Whisperer"/>
-        <card number="1" name="Chord of Calling"/>
-        <card number="1" name="Green Sun's Zenith"/>
-        <card number="1" name="Magus of the Order"/>
-        <card number="1" name="Summoner's Pact"/>
-        <card number="1" name="Shared Summons"/>
         <card number="1" name="Verdant Force"/>
         <card number="1" name="Wolverine Riders"/>
-        <card number="1" name="Regal Force"/>
-        <card number="1" name="Shigeki, Jukai Visionary"/>
         <card number="1" name="Toski, Bearer of Secrets"/>
         <card number="1" name="Keeper of Fables"/>
         <card number="1" name="Cultivate"/>
@@ -31,26 +24,15 @@
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Wrap in Vigor"/>
         <card number="1" name="Ram Through"/>
-        <card number="1" name="Ezuri's Predation"/>
-        <card number="1" name="Mouth // Feed"/>
-        <card number="1" name="Return of the Wildspeaker"/>
-        <card number="1" name="Autumn's Veil"/>
-        <card number="1" name="Rishkar's Expertise"/>
-        <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Harmonize"/>
-        <card number="1" name="Threats Undetected"/>
         <card number="1" name="War Room"/>
-        <card number="1" name="Kenrith's Transformation"/>
         <card number="1" name="Leatherback Baloth"/>
         <card number="1" name="Kalonian Tusker"/>
         <card number="1" name="Alpine Grizzly"/>
         <card number="1" name="Elemental Bond"/>
-        <card number="1" name="Fog"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Return to Nature"/>
-        <card number="1" name="Eternal Witness"/>
         <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Druid of Purification"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Tail Swipe"/>
         <card number="1" name="Inscription of Abundance"/>
@@ -58,11 +40,8 @@
         <card number="1" name="Swordwise Centaur"/>
         <card number="1" name="Orazca Frillback"/>
         <card number="1" name="Anara, Wolvid Familiar"/>
-        <card number="1" name="Guardian Augmenter"/>
-        <card number="1" name="Sandwurm Convergence"/>
         <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Howling Moon"/>
-        <card number="1" name="Crash the Party"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Rampant Growth"/>
@@ -74,6 +53,27 @@
         <card number="1" name="Hollowhenge Overlord"/>
         <card number="1" name="Bonders' Enclave"/>
         <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Invasion of Muraganda"/>
+        <card number="1" name="Tovolar's Huntmaster"/>
+        <card number="1" name="Zopandrel, Hunger Dominus"/>
+        <card number="1" name="Elder Gargaroth"/>
+        <card number="1" name="Chitterspitter"/>
+        <card number="1" name="Squirrel Nest"/>
+        <card number="1" name="Presence of Gond"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Journey to the Lost City"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Master's Rebuke"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Unnatural Growth"/>
+        <card number="1" name="Primeval Bounty"/>
+        <card number="1" name="Garruk, Unleashed"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Tendershoot Dryad"/>
+        <card number="1" name="Fade from History"/>
+        <card number="1" name="Rampage of the Clans"/>
     </zone>
     <zone name="side">
         <card number="1" name="Veil of Summer"/>
@@ -82,7 +82,6 @@
         <card number="1" name="Gigantosaurus"/>
         <card number="1" name="Tuinvale Treefolk // Oaken Boon"/>
         <card number="1" name="Staff of Domination"/>
-        <card number="1" name="Scepter of Celebration"/>
         <card number="1" name="Greater Sandwurm"/>
         <card number="2" name="Concordant Crossroads"/>
         <card number="1" name="Unnatural Growth"/>
@@ -91,6 +90,35 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Garruk's Gorehorn"/>
         <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Sandwurm Convergence"/>
+        <card number="1" name="Autumn's Veil"/>
+        <card number="1" name="Fog"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Crash the Party"/>
+        <card number="1" name="Hollowhenge Overlord"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Magus of the Order"/>
+        <card number="1" name="Regal Force"/>
+        <card number="1" name="Shigeki, Jukai Visionary"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Threats Undetected"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Mouth // Feed"/>
+        <card number="1" name="Curious Herd"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Bite Down"/>
+        <card number="1" name="Sylvan Smite"/>
         <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Scepter of Celebration"/>
+        <card number="1" name="Guardian Augmenter"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Currency Converter"/>
+        <card number="1" name="Rishkar's Expertise"/>
     </zone>
 </cockatrice_deck>

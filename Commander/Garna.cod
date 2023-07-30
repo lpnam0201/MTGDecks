@@ -4,46 +4,24 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Lagomos, Hand of Hatred"/>
-        <card number="1" name="Rekindling Phoenix"/>
-        <card number="1" name="Kardur, Doomscourge"/>
-        <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Midnight Reaper"/>
-        <card number="1" name="Grim Haruspex"/>
         <card number="1" name="Morbid Opportunist"/>
-        <card number="1" name="Cult Conscript"/>
-        <card number="1" name="Tenacious Dead"/>
         <card number="1" name="Reassembling Skeleton"/>
         <card number="1" name="Phoenix of Ash"/>
         <card number="1" name="Flamewake Phoenix"/>
-        <card number="1" name="Lightning Phoenix"/>
-        <card number="1" name="Vermin Gorger"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Bloodsoaked Champion"/>
         <card number="1" name="Command the Dreadhorde"/>
-        <card number="1" name="Ambition's Cost"/>
-        <card number="1" name="Ancient Craving"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Living Death"/>
         <card number="1" name="Skullclamp"/>
-        <card number="1" name="Chainer, Nightmare Adept"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Bedevil"/>
         <card number="1" name="Terminate"/>
-        <card number="1" name="Soul Shatter"/>
         <card number="1" name="Feed the Swarm"/>
-        <card number="1" name="Dreadhorde Butcher"/>
-        <card number="1" name="Merciless Executioner"/>
-        <card number="1" name="Plaguecrafter"/>
-        <card number="1" name="Demon's Disciple"/>
-        <card number="1" name="Fleshbag Marauder"/>
-        <card number="1" name="Anax, Hardened in the Forge"/>
-        <card number="11" name="Mountain"/>
-        <card number="10" name="Swamp"/>
+        <card number="9" name="Mountain"/>
+        <card number="9" name="Swamp"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Command Tower"/>
@@ -56,8 +34,6 @@
         <card number="1" name="Sulfurous Springs"/>
         <card number="1" name="Temple of Malice"/>
         <card number="1" name="Rakdos Carnarium"/>
-        <card number="1" name="Bloodstained Mire"/>
-        <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Talisman of Indulgence"/>
         <card number="1" name="Rakdos Signet"/>
@@ -65,25 +41,52 @@
         <card number="1" name="Viscera Seer"/>
         <card number="1" name="Carrion Feeder"/>
         <card number="1" name="Goblin Bombardment"/>
-        <card number="1" name="Eradicator Valkyrie"/>
-        <card number="1" name="Falkenrath Aristocrat"/>
         <card number="1" name="Gut, True Soul Zealot"/>
-        <card number="1" name="Feldon of the Third Path"/>
-        <card number="1" name="Raphael, Fiendish Savior"/>
         <card number="1" name="Krenko, Tin Street Kingpin"/>
         <card number="1" name="Loyal Apprentice"/>
         <card number="1" name="Legion Warboss"/>
-        <card number="1" name="Jadar, Ghoulcaller of Nephalia"/>
-        <card number="1" name="Curse of the Restless Dead"/>
-        <card number="1" name="Curse of Disturbance"/>
-        <card number="1" name="Doomed Dissenter"/>
-        <card number="1" name="Nested Shambler"/>
         <card number="1" name="Goblin Assault"/>
-        <card number="1" name="Mahadi, Emporium Master"/>
-        <card number="1" name="Price of Fame"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
         <card number="1" name="Garna, Bloodfist of Keld"/>
         <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Ophiomancer"/>
+        <card number="1" name="Elemental Mastery"/>
+        <card number="1" name="Dreadhorde Invasion"/>
+        <card number="1" name="Daring Piracy"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Kher Keep"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Torbran, Thane of Red Fell"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Goblin Rabblemaster"/>
+        <card number="1" name="Immersturm Predator"/>
+        <card number="1" name="Falkenrath Aristocrat"/>
+        <card number="1" name="Urabrask's Forge"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Kardur, Doomscourge"/>
+        <card number="1" name="Army of the Damned"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Mahadi, Emporium Master"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Piper of the Swarm"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="1" name="Krenko, Mob Boss"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Orthion, Hero of Lavabrink"/>
     </zone>
     <zone name="side">
         <card number="1" name="Glass-Cast Heart"/>
@@ -92,20 +95,18 @@
         <card number="1" name="Spark Elemental"/>
         <card number="1" name="Chandra, Acolyte of Flame"/>
         <card number="1" name="The Bloodsky Massacre"/>
-        <card number="1" name="Stensia Uprising"/>
         <card number="1" name="Apprentice Necromancer"/>
         <card number="1" name="Balduvian Atrocity"/>
-        <card number="1" name="Feldon of the Third Path"/>
-        <card number="1" name="Piper of the Swarm"/>
+        <card number="2" name="Feldon of the Third Path"/>
         <card number="1" name="Zurzoth, Chaos Rider"/>
         <card number="1" name="Make an Example"/>
-        <card number="1" name="Jadar, Ghoulcaller of Nephalia"/>
+        <card number="2" name="Jadar, Ghoulcaller of Nephalia"/>
         <card number="1" name="Despoiler of Souls"/>
         <card number="1" name="Rite of the Raging Storm"/>
-        <card number="1" name="Curse of the Restless Dead"/>
-        <card number="1" name="Ghoulish Procession"/>
-        <card number="2" name="Swamp"/>
-        <card number="1" name="Mountain"/>
+        <card number="2" name="Curse of the Restless Dead"/>
+        <card number="2" name="Ghoulish Procession"/>
+        <card number="4" name="Swamp"/>
+        <card number="3" name="Mountain"/>
         <card number="1" name="Voldaren Epicure"/>
         <card number="1" name="Victimize"/>
         <card number="1" name="Blood Artist"/>
@@ -124,7 +125,7 @@
         <card number="1" name="Mardu Shadowspear"/>
         <card number="1" name="Night Market Lookout"/>
         <card number="1" name="Pulse Tracker"/>
-        <card number="1" name="Raphael, Fiendish Savior"/>
+        <card number="2" name="Raphael, Fiendish Savior"/>
         <card number="1" name="Serrated Scorpion"/>
         <card number="1" name="Spirit of Malevolence"/>
         <card number="1" name="Tattered Mummy"/>
@@ -133,7 +134,53 @@
         <card number="1" name="Lampad of Death's Vigil"/>
         <card number="1" name="Altar's Reap"/>
         <card number="1" name="Vampiric Rites"/>
-        <card number="1" name="Village Rites"/>
-        <card number="1" name="&quot;Garna, Aggro Champ&quot;"/>
+        <card number="2" name="Village Rites"/>
+        <card number="1" name="Nested Shambler"/>
+        <card number="1" name="Vermin Gorger"/>
+        <card number="1" name="Mahadi, Emporium Master"/>
+        <card number="1" name="Demon's Disciple"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Bloodsoaked Champion"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Tenacious Dead"/>
+        <card number="1" name="Ambition's Cost"/>
+        <card number="1" name="Ancient Craving"/>
+        <card number="1" name="Eradicator Valkyrie"/>
+        <card number="1" name="Falkenrath Aristocrat"/>
+        <card number="1" name="Dreadhorde Butcher"/>
+        <card number="1" name="Merciless Executioner"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Doomed Dissenter"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Lightning Phoenix"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Curse of Disturbance"/>
+        <card number="1" name="Flamewake Phoenix"/>
+        <card number="1" name="Light Up the Stage"/>
+        <card number="1" name="Chainer, Nightmare Adept"/>
+        <card number="1" name="Cult Conscript"/>
+        <card number="1" name="Death Tyrant"/>
+        <card number="1" name="Kher Keep"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Grim Haruspex"/>
+        <card number="1" name="Squee, the Immortal"/>
+        <card number="1" name="Kardur, Doomscourge"/>
+        <card number="1" name="Stensia Uprising"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Embermaw Hellion"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Elturel Survivors"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Anax, Hardened in the Forge"/>
+        <card number="1" name="Squee, Dubious Monarch"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Impulsive Pilferer"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Rekindling Phoenix"/>
+        <card number="1" name="Jeska's Will"/>
     </zone>
 </cockatrice_deck>

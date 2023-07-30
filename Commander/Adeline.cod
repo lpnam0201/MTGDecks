@@ -8,72 +8,72 @@
         <card number="1" name="Goldnight Commander"/>
         <card number="1" name="Court Street Denizen"/>
         <card number="1" name="Mentor of the Meek"/>
-        <card number="1" name="Odric, Master Tactician"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Skullclamp"/>
-        <card number="1" name="Knight of the White Orchid"/>
-        <card number="1" name="Verge Rangers"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Commander's Plate"/>
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Loyal Warhound"/>
         <card number="1" name="Tome of Legends"/>
         <card number="1" name="Prava of the Steel Legion"/>
-        <card number="1" name="Frontline Medic"/>
         <card number="1" name="Mirror Entity"/>
-        <card number="1" name="Reverent Hoplite"/>
-        <card number="1" name="Evangel of Heliod"/>
-        <card number="1" name="Captain of the Watch"/>
         <card number="1" name="Geist-Honored Monk"/>
         <card number="1" name="Bastion Protector"/>
         <card number="1" name="Bounty Agent"/>
-        <card number="1" name="Harmonious Archon"/>
         <card number="1" name="Jazal Goldmane"/>
-        <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Sejiri Shelter"/>
-        <card number="1" name="Thorough Investigation"/>
-        <card number="1" name="Return to Dust"/>
-        <card number="1" name="Rootborn Defenses"/>
-        <card number="1" name="Make a Stand"/>
         <card number="1" name="Brave the Elements"/>
-        <card number="1" name="Crib Swap"/>
-        <card number="1" name="Unexpectedly Absent"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Cleansing Nova"/>
-        <card number="1" name="Increasing Devotion"/>
-        <card number="1" name="Martial Coup"/>
-        <card number="1" name="Gift of Estates"/>
-        <card number="1" name="Makindi Stampede"/>
-        <card number="1" name="Mask of Memory"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Valor in Akros"/>
         <card number="1" name="Blacksmith's Skill"/>
         <card number="1" name="Selfless Savior"/>
-        <card number="1" name="Windbrisk Heights"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="30" name="Plains"/>
         <card number="1" name="Emerge Unscathed"/>
         <card number="1" name="Benevolent Bodyguard"/>
-        <card number="1" name="Investigator's Journal"/>
-        <card number="1" name="Eerie Interlude"/>
         <card number="1" name="Cliffside Rescuer"/>
         <card number="1" name="Fey Steed"/>
-        <card number="1" name="Oreskos Explorer"/>
-        <card number="1" name="Cartographer's Hawk"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Valorous Stance"/>
         <card number="1" name="Cavalry Pegasus"/>
-        <card number="1" name="Disenchant"/>
         <card number="1" name="Keeper of the Accord"/>
-        <card number="1" name="Wingmate Roc"/>
-        <card number="1" name="Cloudgoat Ranger"/>
         <card number="1" name="Stalwart Pathlighter"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Divine Visitation"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Loran's Escape"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Guardian Scalelord"/>
+        <card number="1" name="Veteran Soldier"/>
+        <card number="1" name="Ellyn Harbreeze, Busybody"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Wand of the Worldsoul"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Rabble Rousing"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Inspiring Leader"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Verge Rangers"/>
     </zone>
     <zone name="side">
         <card number="1" name="Thalia's Lieutenant"/>
@@ -88,7 +88,7 @@
         <card number="1" name="Daxos, Blessed by the Sun"/>
         <card number="1" name="Soul Warden"/>
         <card number="1" name="Savior of Ollenbock"/>
-        <card number="1" name="Disenchant"/>
+        <card number="2" name="Disenchant"/>
         <card number="1" name="Lapse of Certainty"/>
         <card number="1" name="Sigarda's Splendor"/>
         <card number="1" name="Secret Rendezvous"/>
@@ -103,5 +103,37 @@
         <card number="1" name="Force of Virtue"/>
         <card number="1" name="Stalwart Pathlighter"/>
         <card number="1" name="Nomads' Assembly"/>
+        <card number="1" name="Investigator's Journal"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Captain of the Watch"/>
+        <card number="1" name="Cartographer's Hawk"/>
+        <card number="1" name="Cloudgoat Ranger"/>
+        <card number="1" name="Evangel of Heliod"/>
+        <card number="1" name="Harmonious Archon"/>
+        <card number="1" name="Oreskos Explorer"/>
+        <card number="1" name="Wingmate Roc"/>
+        <card number="1" name="Thorough Investigation"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Unexpectedly Absent"/>
+        <card number="1" name="Windbrisk Heights"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Gift of Estates"/>
+        <card number="1" name="Increasing Devotion"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Makindi Stampede"/>
+        <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Odric, Master Tactician"/>
+        <card number="1" name="Reverent Hoplite"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Make a Stand"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Verge Rangers"/>
+        <card number="1" name="Frontline Medic"/>
     </zone>
 </cockatrice_deck>

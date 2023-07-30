@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Kasla</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Kasla, the Broken Halo"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Monastery Mentor"/>
+        <card number="1" name="Kykar, Wind's Fury"/>
+        <card number="1" name="Wildfire Awakener"/>
+        <card number="1" name="Jeskai Ascendancy"/>
+        <card number="1" name="Flockchaser Phantom"/>
+        <card number="1" name="Saint Traft and Rem Karolus"/>
+        <card number="1" name="Skrelv's Hive"/>
+        <card number="1" name="Wand of the Worldsoul"/>
+        <card number="1" name="Invasion of Segovia"/>
+        <card number="1" name="Meeting of Minds"/>
+        <card number="1" name="Conclave Tribunal"/>
+        <card number="1" name="Stoke the Flames"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Chaos Wrap"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Artistic Refusal"/>
+        <card number="1" name="Temporal Cleansing"/>
+        <card number="1" name="Whirlwind of Thought"/>
+        <card number="1" name="City on Fire"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Chant of Vitu-Ghazi"/>
+        <card number="1" name="Complete the Circuit"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Magda, Brazen Outlaw"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Third Path Iconoclast"/>
+        <card number="1" name="Transcendent Message"/>
+        <card number="1" name="Prosperous Partnership"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Triplicate Spirits"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Divine Visitation"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Court of Grace"/>
+        <card number="1" name="Saheeli, Sublime Artificer"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Kher Keep"/>
+        <card number="1" name="Halo Fountain"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="Increasing Devotion"/>
+        <card number="1" name="Ghostly Pilferer"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Castle Ardenvale"/>
+        <card number="3" name="Mountain"/>
+        <card number="4" name="Island"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Deserted Beach"/>
+        <card number="1" name="Sundown Pass"/>
+        <card number="1" name="Stormcarved Coast"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Raugrin Triome"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Faerie Mastermind"/>
+        <card number="1" name="Archivist of Oghma"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="The Reality Chip"/>
+        <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Cathar Commando"/>
+        <card number="1" name="Loyal Apprentice"/>
+        <card number="1" name="Deep Gnome Terramancer"/>
+        <card number="1" name="Wicked Slumber"/>
+        <card number="1" name="Shatter the Source"/>
+        <card number="1" name="Hour of Reckoning"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Emeria Angel"/>
+        <card number="1" name="Knight-Errant of Eos"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Bennie Bracks, Zoologist"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Witty Roastmaster"/>
+        <card number="1" name="Ghostly Pilferer"/>
+        <card number="1" name="Scaretiller"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="White Plume Adventurer"/>
+        <card number="1" name="Interdisciplinary Mascot"/>
+        <card number="1" name="Zephyr Singer"/>
+        <card number="1" name="Fallowsage"/>
+        <card number="1" name="Devouring Light"/>
+        <card number="1" name="Drumbellower"/>
+        <card number="1" name="Augusta, Dean of Order"/>
+        <card number="1" name="Village Bell-Ringer"/>
+        <card number="1" name="Hour of Reckoning"/>
+    </zone>
+</cockatrice_deck>

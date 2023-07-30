@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Urza Chief Artificer</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Urza, Chief Artificer"/>
+        <card number="1" name="Losheel, Clockwork Scholar"/>
+        <card number="1" name="Thopter Spy Network"/>
+        <card number="1" name="Digsite Engineer"/>
+        <card number="1" name="March of Progress"/>
+        <card number="1" name="Etherium Sculptor"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Bronze Guardian"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Steel Overseer"/>
+        <card number="1" name="Master of Etherium"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Chief of the Foundry"/>
+        <card number="1" name="Sharding Sphinx"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Millikin"/>
+        <card number="1" name="Hedron Crawler"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Noxious Gearhulk"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Silver Myr"/>
+        <card number="1" name="Gold Myr"/>
+        <card number="1" name="Leaden Myr"/>
+        <card number="1" name="Ethersworn Adjudicator"/>
+        <card number="1" name="Angel of the Ruins"/>
+        <card number="1" name="Cyberdrive Awakener"/>
+        <card number="1" name="Research Thief"/>
+        <card number="1" name="The Reality Chip"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Shimmer Myr"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Junk Winder"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Void Rend"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="4" name="Plains"/>
+        <card number="4" name="Swamp"/>
+        <card number="4" name="Island"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Deserted Beach"/>
+        <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Inspiring Statuary"/>
+        <card number="1" name="Manakin"/>
+        <card number="1" name="Rite of Replication"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Shimmer Dragon"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="Sanwell, Avenger Ace"/>
+        <card number="1" name="Sai, Master Thopterist"/>
+        <card number="1" name="Urza, Prince of Kroog"/>
+        <card number="1" name="Thopter Shop"/>
+        <card number="1" name="Steel Hellkite"/>
+    </zone>
+</cockatrice_deck>

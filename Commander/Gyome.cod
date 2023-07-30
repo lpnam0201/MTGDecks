@@ -11,11 +11,9 @@
         <card number="1" name="Gilded Goose"/>
         <card number="1" name="Assassin's Trophy"/>
         <card number="1" name="Marionette Master"/>
-        <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Druid of Purification"/>
         <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Mortality Spear"/>
@@ -23,30 +21,14 @@
         <card number="1" name="Golgari Charm"/>
         <card number="1" name="Meren of Clan Nel Toth"/>
         <card number="1" name="Morbid Opportunist"/>
-        <card number="1" name="Farseek"/>
-        <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Three Visits"/>
-        <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Diabolic Tutor"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Mastermind's Acquisition"/>
         <card number="1" name="Bonders' Enclave"/>
-        <card number="1" name="Vile Entomber"/>
-        <card number="1" name="Oriq Loremage"/>
         <card number="1" name="Chord of Calling"/>
         <card number="1" name="Shared Summons"/>
         <card number="1" name="Summoner's Pact"/>
-        <card number="1" name="Green Sun's Zenith"/>
-        <card number="1" name="Search for Tomorrow"/>
-        <card number="1" name="Fauna Shaman"/>
         <card number="1" name="Viscera Seer"/>
         <card number="1" name="Carrion Feeder"/>
-        <card number="1" name="Bojuka Bog"/>
         <card number="9" name="Forest"/>
         <card number="8" name="Swamp"/>
         <card number="1" name="Command Tower"/>
@@ -69,7 +51,6 @@
         <card number="1" name="Village Rites"/>
         <card number="1" name="Rampage of the Clans"/>
         <card number="1" name="Shizo, Death's Storehouse"/>
-        <card number="1" name="Evolutionary Leap"/>
         <card number="1" name="Gravecrawler"/>
         <card number="1" name="Blood Artist"/>
         <card number="1" name="Culling Ritual"/>
@@ -78,16 +59,35 @@
         <card number="1" name="War Room"/>
         <card number="1" name="Liliana's Standard Bearer"/>
         <card number="1" name="Reassembling Skeleton"/>
-        <card number="1" name="Threats Undetected"/>
-        <card number="1" name="Ecological Appreciation"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
         <card number="1" name="Dockside Chef"/>
         <card number="1" name="Deadly Tempest"/>
         <card number="1" name="Woe Strider"/>
-        <card number="1" name="Reanimate"/>
         <card number="1" name="Pitiless Plunderer"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Peregrin Took"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Armored Scrapgorger"/>
+        <card number="1" name="Reclusive Taxidermist"/>
+        <card number="1" name="Elanor Gardner"/>
+        <card number="1" name="Pippin, Warden of Isengard"/>
+        <card number="1" name="Rapacious Guest"/>
+        <card number="1" name="The Shire"/>
+        <card number="1" name="Mirkwood Bats"/>
+        <card number="1" name="Jaheira, Friend of the Forest"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="1" name="Corrupted Conviction"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Dig Up"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Rushed Rebirth"/>
     </zone>
     <zone name="side">
         <card number="1" name="Killer Service"/>
@@ -96,14 +96,14 @@
         <card number="2" name="Gluttonous Troll"/>
         <card number="2" name="Feasting Troll King"/>
         <card number="2" name="Savvy Hunter"/>
-        <card number="2" name="Reanimate"/>
+        <card number="3" name="Reanimate"/>
         <card number="1" name="Well of Lost Dreams"/>
         <card number="1" name="Inspiring Statuary"/>
         <card number="2" name="Moldervine Reclamation"/>
         <card number="1" name="Deathreap Ritual"/>
         <card number="1" name="Demon's Disciple"/>
         <card number="3" name="Culling Ritual"/>
-        <card number="1" name="Rushed Rebirth"/>
+        <card number="2" name="Rushed Rebirth"/>
         <card number="1" name="Grim Haruspex"/>
         <card number="1" name="Fleshbag Marauder"/>
         <card number="1" name="Haywire Mite"/>
@@ -154,5 +154,28 @@
         <card number="1" name="Silversmote Ghoul"/>
         <card number="1" name="Pitiless Plunderer"/>
         <card number="1" name="Castle Locthwain"/>
+        <card number="2" name="Green Sun's Zenith"/>
+        <card number="1" name="Threats Undetected"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Fauna Shaman"/>
+        <card number="1" name="Evolutionary Leap"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Oriq Loremage"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Ecological Appreciation"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Vile Entomber"/>
+        <card number="1" name="Rise of the Witch-king"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Wayfarer's Bauble"/>
     </zone>
 </cockatrice_deck>

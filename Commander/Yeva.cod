@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Yeva</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Yeva, Nature's Herald"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Emerald Medallion"/>
+        <card number="1" name="Kogla, the Titan Ape"/>
+        <card number="1" name="Thorn Mammoth"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Collector Ouphe"/>
+        <card number="1" name="Ulvenwald Hydra"/>
+        <card number="1" name="God-Eternal Rhonas"/>
+        <card number="1" name="Skullwinder"/>
+        <card number="1" name="Bramble Sovereign"/>
+        <card number="1" name="Whiptongue Hydra"/>
+        <card number="1" name="Cemetery Prowler"/>
+        <card number="1" name="Nylea, Keen-Eyed"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Wickerbough Elder"/>
+        <card number="1" name="Halana, Kessig Ranger"/>
+        <card number="1" name="Loaming Shaman"/>
+        <card number="1" name="Vorinclex"/>
+        <card number="1" name="Timbermare"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Elder Gargaroth"/>
+        <card number="1" name="Ulvenwald Tracker"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Spore Frog"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Vizier of the Menagerie"/>
+        <card number="1" name="Augur of Autumn"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Kamahl, Heart of Krosa"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Vigor"/>
+        <card number="1" name="Fauna Shaman"/>
+        <card number="1" name="Silverback Elder"/>
+        <card number="1" name="Defiler of Vigor"/>
+        <card number="1" name="Zopandrel, Hunger Dominus"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Wrap in Vigor"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Inscription of Abundance"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Stampeding Wildebeests"/>
+        <card number="1" name="First Responder"/>
+        <card number="1" name="Roaring Primadox"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="25" name="Forest"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Demolition Field"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Fierce Empath"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Champion of Lambholt"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Regal Force"/>
+        <card number="1" name="Primeval Protector"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Nylea, Keen-Eyed"/>
+        <card number="2" name="Cankerbloom"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Runic Armasaur"/>
+        <card number="1" name="Thornweald Archer"/>
+        <card number="1" name="Circle of Dreams Druid"/>
+        <card number="1" name="Ashaya, Soul of the Wild"/>
+        <card number="1" name="Howlpack Piper"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Heartwood Storyteller"/>
+        <card number="1" name="Manglehorn"/>
+        <card number="1" name="Song of the Worldsoul"/>
+    </zone>
+</cockatrice_deck>

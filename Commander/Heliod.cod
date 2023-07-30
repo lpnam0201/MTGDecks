@@ -5,30 +5,101 @@
     <zone name="main">
         <card number="1" name="Heliod, Sun-Crowned"/>
         <card number="1" name="Cleric Class"/>
-        <card number="1" name="Sigarda's Splendor"/>
         <card number="1" name="Linden, the Steadfast Queen"/>
         <card number="1" name="Soul Warden"/>
         <card number="1" name="Ajani's Pridemate"/>
         <card number="1" name="Sunscorch Regent"/>
-        <card number="1" name="Fey Steed"/>
         <card number="1" name="Soul's Attendant"/>
         <card number="1" name="Well of Lost Dreams"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Felidar Sovereign"/>
-        <card number="1" name="Angel of Vitality"/>
-        <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Abzan Falconer"/>
-        <card number="1" name="Abzan Battle Priest"/>
         <card number="1" name="Mother of Runes"/>
         <card number="1" name="Nykthos Paragon"/>
         <card number="1" name="Alseid of Life's Bounty"/>
         <card number="1" name="Healer's Hawk"/>
-        <card number="1" name="Healer's Flock"/>
-        <card number="1" name="Twinblade Paladin"/>
-        <card number="1" name="Rhox Faithmender"/>
-        <card number="1" name="Emeria Shepherd"/>
+        <card number="1" name="Ajani's Welcome"/>
+        <card number="1" name="Sun Droplet"/>
+        <card number="1" name="Pristine Talisman"/>
+        <card number="1" name="Archivist of Oghma"/>
+        <card number="1" name="Voice of the Blessed"/>
+        <card number="1" name="Auriok Champion"/>
+        <card number="1" name="Dusk Legion Duelist"/>
+        <card number="1" name="Daxos, Blessed by the Sun"/>
+        <card number="1" name="Authority of the Consuls"/>
+        <card number="1" name="Blind Obedience"/>
+        <card number="1" name="Suture Priest"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Archangel of Thune"/>
+        <card number="1" name="Distinguished Conjurer"/>
+        <card number="1" name="Lunarch Veteran"/>
+        <card number="1" name="Impassioned Orator"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Hopeful Initiate"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Brave the Elements"/>
+        <card number="30" name="Plains"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Blacksmith's Skill"/>
+        <card number="1" name="Together Forever"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Altar of the Pantheon"/>
+        <card number="1" name="Paradise Plume"/>
+        <card number="1" name="Abiding Grace"/>
+        <card number="1" name="Righteous Cause"/>
+        <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Spectrum Sentinel"/>
+        <card number="1" name="Soulmender"/>
+        <card number="1" name="Answered Prayers"/>
+        <card number="1" name="Ashes of the Abhorrent"/>
+        <card number="1" name="Traveling Minister"/>
+        <card number="1" name="Soldier of the Pantheon"/>
+        <card number="1" name="Leonin Elder"/>
+        <card number="1" name="Kor Celebrant"/>
+        <card number="1" name="Court of Grace"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Lae'zel, Vlaakith's Champion"/>
+        <card number="1" name="Esper Sentinel"/>
+    </zone>
+    <zone name="side">
         <card number="1" name="Skullclamp"/>
+        <card number="1" name="Abzan Battle Priest"/>
+        <card number="1" name="Emeria Shepherd"/>
+        <card number="1" name="Fey Steed"/>
+        <card number="1" name="Healer's Flock"/>
+        <card number="2" name="Sigarda's Splendor"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Ajani, Strength of the Pride"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Angel of Vitality"/>
+        <card number="1" name="Rhox Faithmender"/>
+        <card number="1" name="Twinblade Paladin"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Ashes of the Abhorrent"/>
+        <card number="1" name="Deep Gnome Terramancer"/>
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Soulmender"/>
+        <card number="1" name="Cut a Deal"/>
+        <card number="1" name="Fountain of Renewal"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Staff of the Sun Magus"/>
     </zone>
 </cockatrice_deck>

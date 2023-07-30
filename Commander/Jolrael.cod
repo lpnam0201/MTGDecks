@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Jolrael</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Jolrael, Mwonvuli Recluse"/>
+        <card number="1" name="Feline Sovereign"/>
+        <card number="1" name="Llanowar Visionary"/>
+        <card number="1" name="Wilt"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Runic Armasaur"/>
+        <card number="1" name="Barrier Breach"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Toski, Bearer of Secrets"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Bonds of Mortality"/>
+        <card number="1" name="Ground Seal"/>
+        <card number="1" name="Soul-Guide Lantern"/>
+        <card number="1" name="Karametra's Favor"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Sleeper Dart"/>
+        <card number="1" name="Alchemist's Vial"/>
+        <card number="1" name="Tireless Tracker"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Regal Force"/>
+        <card number="1" name="Elder Gargaroth"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Krosan Tusker"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Circle of Dreams Druid"/>
+        <card number="1" name="Jaheira, Friend of the Forest"/>
+        <card number="1" name="Heartwood Storyteller"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Owlbear Shepherd"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Kamahl, Heart of Krosa"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Zenith Chronicler"/>
+        <card number="1" name="Lull"/>
+        <card number="1" name="Wrap in Vigor"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Dissenter's Deliverance"/>
+        <card number="1" name="Verdant Rebirth"/>
+        <card number="1" name="Poison the Blade"/>
+        <card number="1" name="Haze of Pollen"/>
+        <card number="1" name="Slice in Twain"/>
+        <card number="1" name="Alhammarret's Archive"/>
+        <card number="1" name="Thornado"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Beneath the Sands"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Gaea's Blessing"/>
+        <card number="1" name="Bag of Holding"/>
+        <card number="1" name="Currency Converter"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Fade from History"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Slippery Karst"/>
+        <card number="1" name="Desert of the Indomitable"/>
+        <card number="1" name="Tranquil Thicket"/>
+        <card number="1" name="Blasted Landscape"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="24" name="Forest"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Geier Reach Sanitarium"/>
+        <card number="1" name="Decanter of Endless Water"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Symmetry Matrix"/>
+        <card number="1" name="Season of Growth"/>
+        <card number="1" name="Charge Through"/>
+        <card number="1" name="Endless Atlas"/>
+        <card number="4" name="Forest (a)"/>
+        <card number="1" name="Sapseep Forest"/>
+        <card number="1" name="Rampage of the Clans"/>
+        <card number="1" name="Geier Reach Sanitarium"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Tribute to the World Tree"/>
+    </zone>
+</cockatrice_deck>

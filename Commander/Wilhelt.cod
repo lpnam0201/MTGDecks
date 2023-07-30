@@ -3,14 +3,12 @@
     <deckname>Wilhelt</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Agent of the Iron Throne"/>
         <card number="1" name="Wilhelt, the Rotcleaver"/>
         <card number="1" name="Bastion of Remembrance"/>
         <card number="1" name="Diregraf Captain"/>
         <card number="1" name="Diregraf Colossus"/>
         <card number="1" name="Death Baron"/>
         <card number="1" name="Undead Augur"/>
-        <card number="1" name="Cleaver Skaab"/>
         <card number="1" name="Cemetery Reaper"/>
         <card number="1" name="Empty the Laboratory"/>
         <card number="1" name="Hordewing Skaab"/>
@@ -28,7 +26,6 @@
         <card number="1" name="Gray Merchant of Asphodel"/>
         <card number="1" name="Dreadhorde Invasion"/>
         <card number="1" name="Carrion Feeder"/>
-        <card number="1" name="Gleaming Overseer"/>
         <card number="1" name="Ravenous Rotbelly"/>
         <card number="1" name="Plague Belcher"/>
         <card number="1" name="Archghoul of Thraben"/>
@@ -39,14 +36,8 @@
         <card number="1" name="Liliana's Standard Bearer"/>
         <card number="1" name="Master of Death"/>
         <card number="1" name="Fell Stinger"/>
-        <card number="1" name="Noosegraf Mob"/>
         <card number="1" name="Vizier of the Scorpion"/>
-        <card number="1" name="Jadar, Ghoulcaller of Nephalia"/>
-        <card number="1" name="Army of the Damned"/>
         <card number="1" name="Pact of the Serpent"/>
-        <card number="1" name="Necrotic Hex"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Counterspell"/>
@@ -55,9 +46,6 @@
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Pongify"/>
-        <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Thought Vessel"/>
@@ -66,7 +54,6 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Darkwater Catacombs"/>
         <card number="1" name="Dimir Aqueduct"/>
-        <card number="1" name="Haunting Voyage"/>
         <card number="1" name="Drowned Catacomb"/>
         <card number="10" name="Island"/>
         <card number="10" name="Swamp"/>
@@ -82,9 +69,22 @@
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Pyre of Heroes"/>
         <card number="1" name="Open the Graves"/>
-        <card number="1" name="Liliana's Mastery"/>
-        <card number="1" name="Lazotep Reaver"/>
         <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Synthetic Destiny"/>
+        <card number="1" name="Curse of Disturbance"/>
+        <card number="1" name="Gravecrawler"/>
+        <card number="1" name="Rooftop Storm"/>
+        <card number="1" name="Cryptbreaker"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Ruthless Deathfang"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Army of the Damned"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Ashnod's Altar"/>
     </zone>
     <zone name="side">
         <card number="1" name="Wand of Orcus"/>
@@ -92,7 +92,22 @@
         <card number="1" name="Village Rites"/>
         <card number="1" name="Eternal Skylord"/>
         <card number="1" name="Liliana, Death's Majesty"/>
-        <card number="2" name="Windfall"/>
+        <card number="1" name="Windfall"/>
         <card number="1" name="Distant Melody"/>
+        <card number="1" name="Necrotic Hex"/>
+        <card number="2" name="Haunting Voyage"/>
+        <card number="1" name="Noosegraf Mob"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Gleaming Overseer"/>
+        <card number="1" name="Necromaster Dragon"/>
+        <card number="1" name="Jadar, Ghoulcaller of Nephalia"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Cleaver Skaab"/>
+        <card number="1" name="Lazotep Reaver"/>
+        <card number="1" name="Liliana's Mastery"/>
+        <card number="1" name="Agent of the Iron Throne"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
     </zone>
 </cockatrice_deck>

@@ -20,16 +20,11 @@
         <card number="1" name="Starstorm"/>
         <card number="1" name="Shredded Sails"/>
         <card number="1" name="Deem Worthy"/>
-        <card number="1" name="Lay Claim"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Azorius Signet"/>
-        <card number="1" name="Izzet Signet"/>
         <card number="1" name="Boros Signet"/>
-        <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Shivan Reef"/>
-        <card number="1" name="Prairie Stream"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Secluded Steppe"/>
@@ -48,25 +43,19 @@
         <card number="1" name="Nimble Obstructionist"/>
         <card number="1" name="Slice and Dice"/>
         <card number="1" name="Rielle, the Everwise"/>
-        <card number="1" name="Arcane Denial"/>
         <card number="1" name="Irrigated Farmland"/>
         <card number="1" name="Alhammarret's Archive"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Training Center"/>
         <card number="1" name="Sea of Clouds"/>
         <card number="1" name="Spectator Seating"/>
-        <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Rugged Prairie"/>
         <card number="1" name="Astral Slide"/>
         <card number="1" name="Idyllic Tutor"/>
         <card number="1" name="Talisman of Progress"/>
         <card number="1" name="Warden of the Eye"/>
-        <card number="1" name="Steam Vents"/>
         <card number="1" name="Adarkar Wastes"/>
         <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Solve the Equation"/>
         <card number="1" name="Archaeomancer"/>
         <card number="1" name="Step Through"/>
         <card number="1" name="Austere Command"/>
@@ -74,14 +63,10 @@
         <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Imperial Recruiter"/>
         <card number="1" name="Approach of the Second Sun"/>
-        <card number="1" name="Dig Through Time"/>
-        <card number="1" name="Invert // Invent"/>
         <card number="1" name="Thought Vessel"/>
-        <card number="1" name="Reliquary Tower"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Laboratory Maniac"/>
         <card number="1" name="Mana Geyser"/>
-        <card number="1" name="Sun Titan"/>
         <card number="1" name="Thought Reflection"/>
         <card number="1" name="Cloud of Faeries"/>
         <card number="1" name="Raugrin Triome"/>
@@ -91,15 +76,30 @@
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Ominous Seas"/>
         <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Counterspell"/>
         <card number="1" name="Fluctuator"/>
-        <card number="1" name="Settle the Wreckage"/>
-        <card number="1" name="Loran of the Third Path"/>
         <card number="1" name="Boon of the Wish-Giver"/>
         <card number="1" name="Radiant's Judgment"/>
-        <card number="1" name="Sphinx of the Second Sun"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Wand of the Worldsoul"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Alandra, Sky Dreamer"/>
+        <card number="1" name="Minn, Wily Illusionist"/>
+        <card number="1" name="Containment Construct"/>
+        <card number="1" name="The Council of Four"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Shivan Reef"/>
     </zone>
     <zone name="side">
         <card number="5" name="Niv-Mizzet, the Firemind"/>
@@ -133,7 +133,7 @@
         <card number="2" name="Zirda, the Dawnwaker"/>
         <card number="2" name="Zenith Flare"/>
         <card number="1" name="Descend upon the Sinful"/>
-        <card number="1" name="Commander's Sphere"/>
+        <card number="2" name="Commander's Sphere"/>
         <card number="2" name="Vizier of Tumbling Sands"/>
         <card number="1" name="Improbable Alliance"/>
         <card number="2" name="Ruin Grinder"/>
@@ -152,7 +152,7 @@
         <card number="1" name="Fiery Fall"/>
         <card number="2" name="Traumatic Visions"/>
         <card number="1" name="Mental Journey"/>
-        <card number="2" name="Sun Titan"/>
+        <card number="4" name="Sun Titan"/>
         <card number="1" name="Dusk // Dawn"/>
         <card number="4" name="Island"/>
         <card number="5" name="Mountain"/>
@@ -176,16 +176,16 @@
         <card number="4" name="Violent Impact"/>
         <card number="6" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Abandoned Sarcophagus"/>
-        <card number="1" name="Worn Powerstone"/>
+        <card number="2" name="Worn Powerstone"/>
         <card number="1" name="Conspiracy Theorist"/>
         <card number="1" name="Valiant Rescuer"/>
         <card number="3" name="Nezahal, Primal Tide"/>
         <card number="1" name="Stormcarved Coast"/>
         <card number="1" name="Sundown Pass"/>
         <card number="1" name="Deserted Beach"/>
-        <card number="1" name="Shivan Reef"/>
-        <card number="1" name="Cascade Bluffs"/>
-        <card number="1" name="Prairie Stream"/>
+        <card number="2" name="Shivan Reef"/>
+        <card number="2" name="Cascade Bluffs"/>
+        <card number="2" name="Prairie Stream"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Battlefield Forge"/>
@@ -203,10 +203,10 @@
         <card number="2" name="Raugrin Triome"/>
         <card number="1" name="Fell the Mighty"/>
         <card number="1" name="Limits of Solidarity"/>
-        <card number="1" name="Arcane Denial"/>
+        <card number="2" name="Arcane Denial"/>
         <card number="1" name="Sevinne's Reclamation"/>
         <card number="1" name="Fervent Mastery"/>
-        <card number="1" name="Dig Through Time"/>
+        <card number="2" name="Dig Through Time"/>
         <card number="2" name="Crystalline Resonance"/>
         <card number="1" name="The Council of Four"/>
         <card number="2" name="Auramancer"/>
@@ -229,5 +229,22 @@
         <card number="2" name="Flood of Tears"/>
         <card number="1" name="Doomskar"/>
         <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Invert // Invent"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Body of Knowledge"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Lay Claim"/>
+        <card number="1" name="Decanter of Endless Water"/>
     </zone>
 </cockatrice_deck>

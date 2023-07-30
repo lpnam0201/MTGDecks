@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname></deckname>
+    <deckname>Zaxara</deckname>
     <comments></comments>
     <zone name="main">
         <card number="1" name="Zaxara, the Exemplary"/>
@@ -8,8 +8,6 @@
         <card number="1" name="Voracious Hydra"/>
         <card number="1" name="Steelbane Hydra"/>
         <card number="1" name="Villainous Wealth"/>
-        <card number="1" name="Curse of the Swine"/>
-        <card number="1" name="Profane Command"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Sakura-Tribe Elder"/>
@@ -19,60 +17,36 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Mass Manipulation"/>
         <card number="1" name="Kiora's Follower"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Opulent Palace"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Llanowar Wastes"/>
-        <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Sunken Hollow"/>
-        <card number="6" name="Forest"/>
-        <card number="5" name="Island"/>
-        <card number="5" name="Swamp"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Island"/>
+        <card number="3" name="Swamp"/>
         <card number="1" name="Epiphany at the Drownyard"/>
         <card number="1" name="Commander's Insight"/>
         <card number="1" name="Icy Blast"/>
-        <card number="1" name="Gelatinous Genesis"/>
         <card number="1" name="Golgari Signet"/>
         <card number="1" name="Dimir Signet"/>
         <card number="1" name="Simic Signet"/>
         <card number="1" name="Talisman of Curiosity"/>
         <card number="1" name="Talisman of Resilience"/>
-        <card number="1" name="Mind Stone"/>
-        <card number="1" name="Nature's Claim"/>
         <card number="1" name="Darkwater Catacombs"/>
-        <card number="1" name="Paradise Druid"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Stonecoil Serpent"/>
-        <card number="1" name="Ingenious Mastery"/>
         <card number="1" name="Dispel"/>
         <card number="1" name="Garruk's Uprising"/>
-        <card number="1" name="Miscast"/>
-        <card number="1" name="Spell Pierce"/>
         <card number="1" name="Blue Sun's Zenith"/>
-        <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Diviner's Portent"/>
         <card number="1" name="Neverwinter Hydra"/>
-        <card number="1" name="Stubborn Denial"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Entrancing Melody"/>
         <card number="1" name="Gadwick, the Wizened"/>
-        <card number="1" name="Damnable Pact"/>
-        <card number="1" name="Mind Spring"/>
-        <card number="1" name="Wildest Dreams"/>
-        <card number="1" name="Open into Wonder"/>
-        <card number="1" name="Overwhelming Stampede"/>
-        <card number="1" name="Hooded Hydra"/>
-        <card number="1" name="Fertile Ground"/>
-        <card number="1" name="Emergent Sequence"/>
-        <card number="1" name="Road of Return"/>
-        <card number="1" name="Nissa, Steward of Elements"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Nimbus Swimmer"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="March of Swirling Mist"/>
         <card number="1" name="Twilight Mire"/>
@@ -84,12 +58,43 @@
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Shipwreck Marsh"/>
-        <card number="1" name="Thriving Moor"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Thriving Grove"/>
-        <card number="1" name="Nylea's Intervention"/>
         <card number="1" name="Hydroid Krasis"/>
         <card number="1" name="Three Visits"/>
+        <card number="1" name="Exsanguinate"/>
+        <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Primordial Hydra"/>
+        <card number="1" name="Elementalist's Palette"/>
+        <card number="1" name="Benevolent Hydra"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Selvala, Heart of the Wilds"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="1" name="Stroke of Genius"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Deathcap Glade"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="March of Wretched Sorrow"/>
+        <card number="1" name="Erebos's Intervention"/>
+        <card number="1" name="Even the Score"/>
+        <card number="1" name="Transcendent Message"/>
+        <card number="1" name="Pest Infestation"/>
+        <card number="1" name="Illithid Harvester // Plant Tadpoles"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Tear Asunder"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Culling Ritual"/>
     </zone>
     <zone name="side">
         <card number="1" name="Elemental Bond"/>
@@ -103,15 +108,15 @@
         <card number="2" name="Biomass Mutation"/>
         <card number="3" name="Finale of Revelation"/>
         <card number="1" name="Kruphix, God of Horizons"/>
-        <card number="2" name="Wildest Dreams"/>
+        <card number="3" name="Wildest Dreams"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Castle Garenbrig"/>
         <card number="1" name="Colossal Majesty"/>
         <card number="1" name="Plasm Capture"/>
-        <card number="2" name="Entrancing Melody"/>
+        <card number="3" name="Entrancing Melody"/>
         <card number="1" name="Polukranos, Unchained"/>
         <card number="1" name="Spell Burst"/>
-        <card number="2" name="Damnable Pact"/>
+        <card number="3" name="Damnable Pact"/>
         <card number="2" name="Clash of Wills"/>
         <card number="1" name="Rhonas's Monument"/>
         <card number="1" name="Invigorating Surge"/>
@@ -120,7 +125,7 @@
         <card number="1" name="Wrap in Vigor"/>
         <card number="1" name="Inspiring Call"/>
         <card number="1" name="Mana Bloom"/>
-        <card number="2" name="Paradise Druid"/>
+        <card number="3" name="Paradise Druid"/>
         <card number="1" name="Protean Hydra"/>
         <card number="1" name="Greater Good"/>
         <card number="1" name="Thran Dynamo"/>
@@ -130,13 +135,13 @@
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Overgrowth"/>
         <card number="1" name="Worn Powerstone"/>
-        <card number="1" name="Nissa, Steward of Elements"/>
+        <card number="2" name="Nissa, Steward of Elements"/>
         <card number="1" name="The Ozolith"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="2" name="Hydroid Krasis"/>
         <card number="2" name="Primordial Hydra"/>
         <card number="1" name="Herald of Secret Streams"/>
-        <card number="1" name="Stonecoil Serpent"/>
+        <card number="2" name="Stonecoil Serpent"/>
         <card number="1" name="Freed from the Real"/>
         <card number="1" name="Wild Growth"/>
         <card number="1" name="Simic Ascendancy"/>
@@ -153,7 +158,7 @@
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Blue Sun's Zenith"/>
-        <card number="2" name="Nylea's Intervention"/>
+        <card number="3" name="Nylea's Intervention"/>
         <card number="3" name="Torment of Hailfire"/>
         <card number="1" name="Steelbane Hydra"/>
         <card number="1" name="Epiphany at the Drownyard"/>
@@ -176,10 +181,10 @@
         <card number="2" name="Vastwood Hydra"/>
         <card number="1" name="Managorger Hydra"/>
         <card number="1" name="Garruk's Uprising"/>
-        <card number="2" name="Gaze of Granite"/>
+        <card number="3" name="Gaze of Granite"/>
         <card number="1" name="Countersquall"/>
         <card number="1" name="Killing Glare"/>
-        <card number="1" name="Open into Wonder"/>
+        <card number="2" name="Open into Wonder"/>
         <card number="1" name="Vorel of the Hull Clade"/>
         <card number="1" name="Gadwick, the Wizened"/>
         <card number="2" name="Everflowing Chalice"/>
@@ -187,10 +192,10 @@
         <card number="1" name="Multiple Choice"/>
         <card number="1" name="Dominate"/>
         <card number="1" name="Death Wind"/>
-        <card number="1" name="Nimbus Swimmer"/>
+        <card number="2" name="Nimbus Swimmer"/>
         <card number="1" name="Mistcutter Hydra"/>
         <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Mind Spring"/>
+        <card number="2" name="Mind Spring"/>
         <card number="1" name="Zendikar Resurgent"/>
         <card number="1" name="Rancor"/>
         <card number="1" name="Lullmage's Domination"/>
@@ -205,10 +210,10 @@
         <card number="2" name="Drown in Dreams"/>
         <card number="1" name="Horizon Stone"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Elementalist's Palette"/>
-        <card number="1" name="Thriving Grove"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Thriving Moor"/>
+        <card number="2" name="Elementalist's Palette"/>
+        <card number="2" name="Thriving Grove"/>
+        <card number="2" name="Thriving Isle"/>
+        <card number="2" name="Thriving Moor"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Breeding Pool"/>
@@ -219,5 +224,26 @@
         <card number="1" name="Temple of Malady"/>
         <card number="1" name="Temple of Mystery"/>
         <card number="1" name="Wren's Run Hydra"/>
+        <card number="1" name="Profane Command"/>
+        <card number="1" name="Hooded Hydra"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Road of Return"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Mass Manipulation"/>
+        <card number="1" name="Emergent Sequence"/>
+        <card number="2" name="March of Swirling Mist"/>
+        <card number="2" name="Miscast"/>
+        <card number="1" name="Stubborn Denial"/>
+        <card number="1" name="Island"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Gelatinous Genesis"/>
+        <card number="1" name="Ingenious Mastery"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Mind Stone"/>
     </zone>
 </cockatrice_deck>

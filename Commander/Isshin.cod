@@ -12,13 +12,11 @@
         <card number="1" name="Mardu Ascendancy"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Skyknight Vanguard"/>
-        <card number="1" name="Skullclamp"/>
         <card number="1" name="Karazikar, the Eye Tyrant"/>
         <card number="1" name="Hellrider"/>
         <card number="1" name="Adriana, Captain of the Guard"/>
         <card number="1" name="Laelia, the Blade Reforged"/>
         <card number="1" name="Hammers of Moradin"/>
-        <card number="1" name="Triumphant Adventurer"/>
         <card number="1" name="Ankle Shanker"/>
         <card number="1" name="Mardu Strike Leader"/>
         <card number="1" name="Commander Liara Portyr"/>
@@ -36,16 +34,9 @@
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Soul Shatter"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Despark"/>
-        <card number="1" name="Ruinous Ultimatum"/>
-        <card number="1" name="Terminate"/>
         <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Bedevil"/>
-        <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Greatsword of Tyr"/>
-        <card number="1" name="Campaign of Vengeance"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Response // Resurgence"/>
         <card number="1" name="Swords to Plowshares"/>
@@ -74,24 +65,33 @@
         <card number="1" name="Spectator Seating"/>
         <card number="1" name="Vault of Champions"/>
         <card number="1" name="Wild Magic Surge"/>
-        <card number="1" name="Dire Tactics"/>
         <card number="1" name="Clamor Shaman"/>
-        <card number="1" name="Nadaar, Selfless Paladin"/>
-        <card number="1" name="Mardu Roughrider"/>
         <card number="1" name="Galepowder Mage"/>
-        <card number="1" name="Territorial Hammerskull"/>
-        <card number="1" name="Niblis of the Urn"/>
-        <card number="1" name="Master of Diversion"/>
         <card number="1" name="Tectonic Giant"/>
-        <card number="1" name="Audacious Thief"/>
         <card number="1" name="Chaos Channeler"/>
-        <card number="1" name="Hanweir Garrison"/>
         <card number="1" name="Fireflux Squad"/>
-        <card number="1" name="Captain's Claws"/>
         <card number="1" name="Adeline, Resplendent Cathar"/>
         <card number="1" name="Karlach, Fury of Avernus"/>
-        <card number="1" name="Winota, Joiner of Forces"/>
         <card number="1" name="Cavalcade of Calamity"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Skyhunter Strike Force"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Captain Lannery Storm"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Breena, the Demagogue"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Coastline Marauders"/>
+        <card number="1" name="Guardian Scalelord"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Curse of Opulence"/>
+        <card number="1" name="Curse of Disturbance"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Shiny Impetus"/>
     </zone>
     <zone name="side">
         <card number="1" name="Inkshield"/>
@@ -100,7 +100,7 @@
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Wear // Tear"/>
         <card number="1" name="Tibalt's Trickery"/>
-        <card number="1" name="Audacious Thief"/>
+        <card number="2" name="Audacious Thief"/>
         <card number="2" name="Coastline Marauders"/>
         <card number="1" name="Raiyuu, Storm's Edge"/>
         <card number="1" name="Unquenchable Fury"/>
@@ -115,7 +115,7 @@
         <card number="1" name="Hooded Blightfang"/>
         <card number="1" name="Kazuul, Tyrant of the Cliffs"/>
         <card number="1" name="Herald of the Host"/>
-        <card number="1" name="Thundering Raiju"/>
+        <card number="2" name="Thundering Raiju"/>
         <card number="2" name="Karlach, Fury of Avernus"/>
         <card number="1" name="Breena, the Demagogue"/>
         <card number="1" name="Firefist Striker"/>
@@ -128,5 +128,25 @@
         <card number="1" name="Roc Charger"/>
         <card number="1" name="Trusted Pegasus"/>
         <card number="1" name="General's Enforcer"/>
+        <card number="1" name="Nadaar, Selfless Paladin"/>
+        <card number="1" name="Hanweir Garrison"/>
+        <card number="1" name="Ruinous Ultimatum"/>
+        <card number="1" name="Greatsword of Tyr"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Niblis of the Urn"/>
+        <card number="1" name="Hammers of Moradin"/>
+        <card number="1" name="Mardu Roughrider"/>
+        <card number="1" name="Master of Diversion"/>
+        <card number="1" name="Triumphant Adventurer"/>
+        <card number="1" name="Captain's Claws"/>
+        <card number="1" name="Winota, Joiner of Forces"/>
+        <card number="1" name="Campaign of Vengeance"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Dire Tactics"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Territorial Hammerskull"/>
     </zone>
 </cockatrice_deck>

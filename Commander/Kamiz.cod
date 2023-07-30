@@ -11,7 +11,6 @@
         <card number="1" name="Thief of Sanity"/>
         <card number="1" name="Fallen Shinobi"/>
         <card number="1" name="Silent-Blade Oni"/>
-        <card number="1" name="Wrexial, the Risen Deep"/>
         <card number="1" name="Dragonlord Ojutai"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Fellwar Stone"/>
@@ -41,12 +40,10 @@
         <card number="1" name="Negate"/>
         <card number="1" name="Countersquall"/>
         <card number="1" name="Inkshield"/>
-        <card number="1" name="Return to Dust"/>
         <card number="1" name="Teferi's Ageless Insight"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Saw It Coming"/>
-        <card number="1" name="Mana Leak"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Grazilaxx, Illithid Scholar"/>
         <card number="1" name="Command Tower"/>
@@ -93,6 +90,9 @@
         <card number="1" name="Flooded Strand"/>
         <card number="1" name="Marsh Flats"/>
         <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Scytheclaw"/>
+        <card number="1" name="Mandate of Peace"/>
+        <card number="1" name="Talisman of Progress"/>
     </zone>
     <zone name="side">
         <card number="1" name="Whispering Madness"/>
@@ -136,5 +136,8 @@
         <card number="1" name="Island"/>
         <card number="1" name="Plains"/>
         <card number="2" name="Swamp"/>
+        <card number="1" name="Wrexial, the Risen Deep"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Return to Dust"/>
     </zone>
 </cockatrice_deck>

@@ -21,55 +21,34 @@
         <card number="1" name="Circuitous Route"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Atarka, World Render"/>
         <card number="1" name="Savage Ventmaw"/>
-        <card number="1" name="Steel Hellkite"/>
-        <card number="1" name="Deathbringer Regent"/>
         <card number="1" name="Drakuseth, Maw of Flames"/>
         <card number="1" name="Silumgar, the Drifting Death"/>
-        <card number="1" name="Dromoka, the Eternal"/>
         <card number="1" name="Ojutai, Soul of Winter"/>
         <card number="1" name="Kolaghan, the Storm's Fury"/>
         <card number="1" name="Hellkite Charger"/>
-        <card number="1" name="Vaevictis Asmadi, the Dire"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Verdant Mastery"/>
-        <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Explosive Vegetation"/>
-        <card number="1" name="Temur Ascendancy"/>
         <card number="1" name="Fires of Yavimaya"/>
         <card number="1" name="Vastwood Surge"/>
-        <card number="1" name="Gruul Signet"/>
-        <card number="1" name="Selesnya Signet"/>
-        <card number="1" name="Simic Signet"/>
-        <card number="1" name="Golgari Signet"/>
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Terror of Mount Velus"/>
-        <card number="1" name="Fires of Invention"/>
-        <card number="1" name="Footfall Crater"/>
-        <card number="1" name="Dispel"/>
-        <card number="1" name="Ondu Inversion"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Stubborn Denial"/>
         <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Emergent Sequence"/>
         <card number="1" name="Thrakkus the Butcher"/>
         <card number="1" name="Wrathful Red Dragon"/>
         <card number="1" name="Firkraag, Cunning Instigator"/>
         <card number="1" name="Miirym, Sentinel Wyrm"/>
-        <card number="1" name="Brainstealer Dragon"/>
         <card number="1" name="Carnelian Orb of Dragonkind"/>
         <card number="1" name="Invigorating Hot Spring"/>
         <card number="1" name="Rhythm of the Wild"/>
         <card number="1" name="Terramorph"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Teneb, the Harvester"/>
-        <card number="1" name="Intet, the Dreamer"/>
         <card number="1" name="Blood Crypt"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Stomping Ground"/>
@@ -82,26 +61,44 @@
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Flooded Strand"/>
-        <card number="1" name="Scalding Tarn"/>
-        <card number="1" name="Windswept Heath"/>
-        <card number="1" name="Wooded Foothills"/>
-        <card number="1" name="Arid Mesa"/>
-        <card number="1" name="Misty Rainforest"/>
-        <card number="1" name="Marsh Flats"/>
-        <card number="1" name="Verdant Catacombs"/>
-        <card number="1" name="Polluted Delta"/>
-        <card number="1" name="Bloodstained Mire"/>
-        <card number="1" name="Shadrix Silverquill"/>
-        <card number="1" name="Dragonlord Ojutai"/>
-        <card number="1" name="Iymrith, Desert Doom"/>
-        <card number="1" name="Crux of Fate"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Zurgo and Ojutai"/>
+        <card number="1" name="Lathliss, Dragon Queen"/>
+        <card number="1" name="Rith, Liberated Primeval"/>
+        <card number="1" name="Ancient Bronze Dragon"/>
+        <card number="1" name="Dragon's Hoard"/>
+        <card number="1" name="Scourge of Valkas"/>
+        <card number="1" name="Renari, Merchant of Marvels"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Austere Command"/>
         <card number="1" name="Cleansing Nova"/>
-        <card number="1" name="Fumigate"/>
-        <card number="1" name="Sublime Exhalation"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Raugrin Triome"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Spara's Headquarters"/>
+        <card number="1" name="Raffine's Tower"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Ancient Gold Dragon"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Lozhan, Dragons' Legacy"/>
+        <card number="1" name="Scalelord Reckoner"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Grow from the Ashes"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Dragonlord Ojutai"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Dragonlord Ojutai"/>
+        <card number="2" name="Dragonlord Ojutai"/>
         <card number="1" name="Niv-Mizzet, Dracogenius"/>
         <card number="1" name="Dragonborn Champion"/>
         <card number="1" name="Icefall Regent"/>
@@ -113,12 +110,12 @@
         <card number="2" name="Return to Nature"/>
         <card number="1" name="Binding the Old Gods"/>
         <card number="2" name="Chromium, the Mutable"/>
-        <card number="1" name="Intet, the Dreamer"/>
+        <card number="2" name="Intet, the Dreamer"/>
         <card number="1" name="Crosis, the Purger"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Mortality Spear"/>
-        <card number="1" name="Ondu Inversion"/>
+        <card number="2" name="Ondu Inversion"/>
         <card number="1" name="Jegantha, the Wellspring"/>
         <card number="2" name="Palladia-Mors, the Ruiner"/>
         <card number="2" name="Vastwood Surge"/>
@@ -134,7 +131,7 @@
         <card number="1" name="Ilysian Caryatid"/>
         <card number="1" name="Paradise Druid"/>
         <card number="1" name="Bolt Bend"/>
-        <card number="1" name="Arcane Denial"/>
+        <card number="2" name="Arcane Denial"/>
         <card number="1" name="Dragon Mage"/>
         <card number="2" name="Garruk's Uprising"/>
         <card number="1" name="Dragon Tempest"/>
@@ -142,7 +139,7 @@
         <card number="1" name="Piru, the Volatile"/>
         <card number="2" name="Nicol Bolas"/>
         <card number="1" name="Lozhan, Dragons' Legacy"/>
-        <card number="1" name="Coalition Relic"/>
+        <card number="2" name="Coalition Relic"/>
         <card number="1" name="Skyline Despot"/>
         <card number="1" name="Bladewing the Risen"/>
         <card number="1" name="Thriving Bluff"/>
@@ -167,8 +164,51 @@
         <card number="4" name="Forest"/>
         <card number="1" name="Steam Vents"/>
         <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Earthquake Dragon"/>
+        <card number="2" name="Earthquake Dragon"/>
         <card number="1" name="Skanos Dragonheart"/>
         <card number="1" name="Austere Command"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Sublime Exhalation"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Footfall Crater"/>
+        <card number="1" name="Fires of Invention"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Gruul Signet"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Brainstealer Dragon"/>
+        <card number="1" name="Teneb, the Harvester"/>
+        <card number="1" name="Crux of Fate"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Deathbringer Regent"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Emergent Sequence"/>
+        <card number="1" name="Dromoka, the Eternal"/>
+        <card number="1" name="Iymrith, Desert Doom"/>
+        <card number="1" name="Klauth, Unrivaled Ancient"/>
+        <card number="1" name="Renari, Merchant of Marvels"/>
+        <card number="1" name="Shadrix Silverquill"/>
+        <card number="1" name="Vaevictis Asmadi, the Dire"/>
+        <card number="1" name="Kyodai, Soul of Kamigawa"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Korlessa, Scale Singer"/>
+        <card number="1" name="Stubborn Denial"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Temur Ascendancy"/>
+        <card number="1" name="Ganax, Astral Hunter"/>
+        <card number="1" name="Kura, the Boundless Sky"/>
     </zone>
 </cockatrice_deck>

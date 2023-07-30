@@ -20,15 +20,8 @@
         <card number="1" name="Open the Vaults"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Demonic Embrace"/>
-        <card number="1" name="General's Enforcer"/>
-        <card number="1" name="Silent Arbiter"/>
-        <card number="1" name="Armored Skyhunter"/>
-        <card number="1" name="Mother of Runes"/>
         <card number="1" name="Shelter"/>
         <card number="1" name="Sejiri Shelter"/>
-        <card number="1" name="Despark"/>
-        <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Tome of Legends"/>
         <card number="1" name="Spectra Ward"/>
         <card number="1" name="Benevolent Blessing"/>
         <card number="1" name="Holy Mantle"/>
@@ -38,7 +31,6 @@
         <card number="1" name="Mammoth Umbra"/>
         <card number="1" name="Indestructibility"/>
         <card number="1" name="Duelist's Heritage"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Orzhov Basilica"/>
@@ -46,21 +38,11 @@
         <card number="1" name="Rogue's Passage"/>
         <card number="10" name="Plains"/>
         <card number="10" name="Swamp"/>
-        <card number="1" name="Mask of Memory"/>
-        <card number="1" name="Austere Command"/>
-        <card number="1" name="Cliffside Rescuer"/>
-        <card number="1" name="Selfless Savior"/>
-        <card number="1" name="Benevolent Bodyguard"/>
         <card number="1" name="Inner Demon"/>
-        <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Arcane Lighthouse"/>
         <card number="1" name="Caves of Koilos"/>
-        <card number="1" name="Bastion Protector"/>
         <card number="1" name="Gift of Doom"/>
-        <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Path to Exile"/>
         <card number="1" name="Disenchant"/>
-        <card number="1" name="Fateful Absence"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Vault of Champions"/>
         <card number="1" name="Marsh Flats"/>
@@ -74,17 +56,35 @@
         <card number="1" name="Hyena Umbra"/>
         <card number="1" name="Edge of the Divinity"/>
         <card number="1" name="Demonic Bargain"/>
-        <card number="1" name="Diabolic Tutor"/>
-        <card number="1" name="Mastermind's Acquisition"/>
-        <card number="1" name="Inkshield"/>
         <card number="1" name="Blacksmith's Skill"/>
         <card number="1" name="Blessing of Leeches"/>
         <card number="1" name="Emerge Unscathed"/>
-        <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Candlelight Vigil"/>
         <card number="1" name="Serra's Embrace"/>
         <card number="1" name="Crystal Dragon // Rob the Hoard"/>
         <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Hateful Eidolon"/>
+        <card number="1" name="Brilliant Restoration"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Chains of Custody"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Kor Spiritdancer"/>
+        <card number="1" name="Winds of Rath"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Heliod's Pilgrim"/>
+        <card number="1" name="Light-Paws, Emperor's Voice"/>
+        <card number="1" name="Starfield of Nyx"/>
+        <card number="1" name="Hex"/>
+        <card number="1" name="Rise to Glory"/>
+        <card number="1" name="Sevinne's Reclamation"/>
+        <card number="1" name="Twisted Embrace"/>
+        <card number="1" name="Necrogen Communion"/>
+        <card number="1" name="Spectral Steel"/>
+        <card number="1" name="Blood Pact"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Read the Bones"/>
     </zone>
     <zone name="side">
         <card number="1" name="Demonic Gifts"/>
@@ -151,5 +151,29 @@
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Slash the Ranks"/>
         <card number="1" name="Winds of Rath"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Armored Skyhunter"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="General's Enforcer"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Keen Duelist"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Astarion's Thirst"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Tome of Legends"/>
     </zone>
 </cockatrice_deck>

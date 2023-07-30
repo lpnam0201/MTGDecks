@@ -6,7 +6,6 @@
         <card number="1" name="Lagrella, the Magpie"/>
         <card number="1" name="Ephemerate"/>
         <card number="1" name="Cloudshift"/>
-        <card number="1" name="Panharmonicon"/>
         <card number="1" name="Venser, Shaper Savant"/>
         <card number="1" name="Mystic Snake"/>
         <card number="1" name="Frilled Mystic"/>
@@ -20,7 +19,6 @@
         <card number="1" name="Reflector Mage"/>
         <card number="1" name="Ghostly Flicker"/>
         <card number="1" name="Peregrine Drake"/>
-        <card number="1" name="Deadeye Navigator"/>
         <card number="1" name="Felidar Guardian"/>
         <card number="1" name="Abdel Adrian, Gorion's Ward"/>
         <card number="1" name="Yannik, Scavenging Sentinel"/>
@@ -41,7 +39,6 @@
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Lumbering Battlement"/>
         <card number="1" name="Summoner's Pact"/>
-        <card number="1" name="Shared Summons"/>
         <card number="1" name="Chord of Calling"/>
         <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Path to Exile"/>
@@ -60,11 +57,9 @@
         <card number="1" name="Wall of Blossoms"/>
         <card number="1" name="Angel of Condemnation"/>
         <card number="1" name="The Fall of Lord Konda"/>
-        <card number="1" name="Lavinia, Azorius Renegade"/>
         <card number="1" name="Prosperous Innkeeper"/>
         <card number="1" name="Distinguished Conjurer"/>
         <card number="1" name="Teleportation Circle"/>
-        <card number="1" name="Idyllic Tutor"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Palace Jailer"/>
         <card number="1" name="Bala Ged Recovery"/>
@@ -97,6 +92,11 @@
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Panharmonicon"/>
     </zone>
     <zone name="side">
         <card number="1" name="Essence Flux"/>
@@ -131,5 +131,10 @@
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Cloudblazer"/>
         <card number="1" name="Timeless Witness"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Lavinia, Azorius Renegade"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Panharmonicon"/>
     </zone>
 </cockatrice_deck>

@@ -7,41 +7,22 @@
         <card number="1" name="Satyr Wayfinder"/>
         <card number="1" name="Cathar Commando"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Vilis, Broker of Blood"/>
-        <card number="1" name="Baleful Force"/>
-        <card number="1" name="Bane of Progress"/>
-        <card number="1" name="Serra's Emissary"/>
-        <card number="1" name="Zetalpa, Primal Dawn"/>
-        <card number="1" name="Archfiend of Depravity"/>
-        <card number="1" name="Gravebreaker Lamia"/>
         <card number="1" name="Vile Entomber"/>
-        <card number="1" name="Key to the City"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Paradise Druid"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Three Visits"/>
-        <card number="1" name="Sheoldred, Whispering One"/>
         <card number="1" name="Avacyn's Pilgrim"/>
         <card number="1" name="Elves of Deep Shadow"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Migration Path"/>
-        <card number="1" name="Circuitous Route"/>
-        <card number="1" name="Explosive Vegetation"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Netherborn Altar"/>
-        <card number="1" name="Relentless Pursuit"/>
-        <card number="1" name="Ransack the Lab"/>
         <card number="1" name="Grisly Salvage"/>
-        <card number="1" name="Wasteful Harvest"/>
-        <card number="1" name="Grapple with the Past"/>
-        <card number="1" name="The Binding of the Titans"/>
         <card number="1" name="Skull Prophet"/>
-        <card number="1" name="Scout the Borders"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Eerie Ultimatum"/>
         <card number="1" name="Living Death"/>
@@ -57,12 +38,6 @@
         <card number="1" name="Ravenous Chupacabra"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Fauna Shaman"/>
-        <card number="1" name="Despark"/>
-        <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Angel of Serenity"/>
-        <card number="1" name="Mulch"/>
-        <card number="1" name="Winding Way"/>
-        <card number="1" name="Warlock Class"/>
         <card number="1" name="Windswept Heath"/>
         <card number="1" name="Marsh Flats"/>
         <card number="1" name="Verdant Catacombs"/>
@@ -91,17 +66,43 @@
         <card number="5" name="Forest"/>
         <card number="3" name="Swamp"/>
         <card number="2" name="Plains"/>
-        <card number="1" name="Archon of Valor's Reach"/>
-        <card number="1" name="Archon of Coronation"/>
         <card number="1" name="Temur Sabertooth"/>
-        <card number="1" name="Rescuer Chwinga"/>
-        <card number="1" name="Whitemane Lion"/>
+        <card number="1" name="Stitcher's Supplier"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Toski, Bearer of Secrets"/>
+        <card number="1" name="Rhonas the Indomitable"/>
+        <card number="1" name="Circle of the Land Druid"/>
+        <card number="1" name="Cemetery Tampering"/>
+        <card number="1" name="Fell Stinger"/>
+        <card number="1" name="Gemrazer"/>
+        <card number="1" name="Sanguine Spy"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Cruel Celebrant"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Carrion Feeder"/>
+        <card number="1" name="Corpse Knight"/>
+        <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Guardian Scalelord"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Dogged Detective"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Nyx Weaver"/>
     </zone>
     <zone name="side">
         <card number="1" name="Kodama of the East Tree"/>
         <card number="1" name="Sheoldred, the Apocalypse"/>
         <card number="1" name="Syr Konrad, the Grim"/>
-        <card number="1" name="Angel of Serenity"/>
+        <card number="2" name="Angel of Serenity"/>
         <card number="1" name="Boneyard Lurker"/>
         <card number="1" name="Gemrazer"/>
         <card number="1" name="Migratory Greathorn"/>
@@ -123,5 +124,42 @@
         <card number="1" name="Fell Stinger"/>
         <card number="1" name="Nyx Weaver"/>
         <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Baleful Force"/>
+        <card number="1" name="Fauna Shaman"/>
+        <card number="1" name="Gravebreaker Lamia"/>
+        <card number="1" name="Archfiend of Depravity"/>
+        <card number="1" name="Archon of Valor's Reach"/>
+        <card number="1" name="Archon of Coronation"/>
+        <card number="1" name="Serra's Emissary"/>
+        <card number="1" name="Sheoldred, Whispering One"/>
+        <card number="1" name="Zetalpa, Primal Dawn"/>
+        <card number="1" name="Warlock Class"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Ransack the Lab"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Mulch"/>
+        <card number="1" name="Relentless Pursuit"/>
+        <card number="1" name="Scout the Borders"/>
+        <card number="1" name="Winding Way"/>
+        <card number="1" name="Vilis, Broker of Blood"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Whitemane Lion"/>
+        <card number="1" name="Rescuer Chwinga"/>
+        <card number="1" name="The Binding of the Titans"/>
+        <card number="1" name="Grapple with the Past"/>
+        <card number="1" name="Wasteful Harvest"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Old Stickfingers"/>
+        <card number="1" name="Sweet-Gum Recluse"/>
+        <card number="1" name="Ascend from Avernus"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="1" name="Underrealm Lich"/>
+        <card number="1" name="Wall of Omens"/>
+        <card number="1" name="Wall of Blossoms"/>
     </zone>
 </cockatrice_deck>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Plargg Nassari</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Plargg and Nassari"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Seething Song"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Mirror Shield"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Wyll's Reversal"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Myrkul</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Myrkul, Lord of Bones"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Sanctum Weaver"/>
+        <card number="1" name="Weaver of Harmony"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Sterling Grove"/>
+        <card number="1" name="Verduran Enchantress"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Enchantress's Presence"/>
+        <card number="1" name="Argothian Enchantress"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Cosmic Intervention"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Mirage Mirror"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Sythis, Harvest's Hand"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Satyr Enchanter"/>
+        <card number="1" name="Archon of Sun's Grace"/>
+        <card number="1" name="Herald of the Pantheon"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Starfield Mystic"/>
+        <card number="1" name="Nylea's Colossus"/>
+        <card number="1" name="Doomwake Giant"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Jukai Naturalist"/>
+        <card number="1" name="Starnheim Courser"/>
+        <card number="1" name="Grim Guardian"/>
+        <card number="1" name="Painful Quandary"/>
+        <card number="1" name="Starfield of Nyx"/>
+        <card number="1" name="Michiko's Reign of Truth"/>
+        <card number="1" name="Nessian Wanderer"/>
+        <card number="1" name="Underworld Coinsmith"/>
+    </zone>
+</cockatrice_deck>

@@ -4,23 +4,17 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Gargos, Vicious Watcher"/>
-        <card number="1" name="Blossoming Defense"/>
-        <card number="1" name="Vines of Vastwood"/>
-        <card number="1" name="Arcane Lighthouse"/>
-        <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="30" name="Forest"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Ram Through"/>
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Hunter's Insight"/>
-        <card number="1" name="Withstand Death"/>
         <card number="1" name="Once and Future"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Castle Garenbrig"/>
         <card number="1" name="Harmonize"/>
-        <card number="1" name="Rancor"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Migration Path"/>
@@ -29,33 +23,19 @@
         <card number="1" name="Cultivate"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Inscription of Abundance"/>
-        <card number="1" name="Soul's Majesty"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Snakeskin Veil"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Indomitable Might"/>
-        <card number="1" name="Anara, Wolvid Familiar"/>
         <card number="1" name="Colossal Majesty"/>
-        <card number="1" name="Irresistible Prey"/>
-        <card number="1" name="Hunter's Prowess"/>
-        <card number="1" name="Kenrith's Transformation"/>
-        <card number="1" name="Spearbreaker Behemoth"/>
-        <card number="1" name="Molting Skin"/>
         <card number="1" name="Krosan Grip"/>
-        <card number="1" name="Road of Return"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Tamiyo's Safekeeping"/>
-        <card number="1" name="Ranger's Guile"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Regeneration"/>
-        <card number="1" name="Family's Favor"/>
         <card number="1" name="Steelbane Hydra"/>
         <card number="1" name="Neverwinter Hydra"/>
         <card number="1" name="Lifeblood Hydra"/>
         <card number="1" name="Managorger Hydra"/>
         <card number="1" name="Hydra Omnivore"/>
         <card number="1" name="Whiptongue Hydra"/>
-        <card number="1" name="Asceticism"/>
         <card number="1" name="Hungering Hydra"/>
         <card number="1" name="Primordial Hydra"/>
         <card number="1" name="Ulvenwald Hydra"/>
@@ -68,12 +48,32 @@
         <card number="1" name="Gaea's Gift"/>
         <card number="1" name="Kalonian Hydra"/>
         <card number="1" name="Fade from History"/>
-        <card number="1" name="Rampage of the Clans"/>
-        <card number="1" name="Bane of Progress"/>
-        <card number="1" name="Vigor"/>
-        <card number="1" name="Gemrazer"/>
-        <card number="1" name="Benevolent Hydra"/>
         <card number="1" name="Tyvar's Stand"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Heroes' Bane"/>
+        <card number="1" name="Hydra Broodmaster"/>
+        <card number="1" name="Apex Devastator"/>
+        <card number="1" name="Wren's Run Hydra"/>
+        <card number="1" name="Ironscale Hydra"/>
+        <card number="1" name="Mistcutter Hydra"/>
+        <card number="1" name="Runadi, Behemoth Caller"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Briar Hydra"/>
+        <card number="1" name="Oran-Rief Hydra"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Garruk's Packleader"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Augur of Autumn"/>
+        <card number="1" name="Verdant Mastery"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Nessian Wilds Ravager"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Vastwood Surge"/>
+        <card number="1" name="Grow from the Ashes"/>
     </zone>
     <zone name="side">
         <card number="1" name="Prowling Serpopard"/>
@@ -92,18 +92,18 @@
         <card number="1" name="Thriving Heath"/>
         <card number="1" name="Thriving Bluff"/>
         <card number="5" name="Nissa, Who Shakes the World"/>
-        <card number="1" name="Rancor"/>
+        <card number="2" name="Rancor"/>
         <card number="1" name="Memorial to Unity"/>
         <card number="1" name="Steelbane Hydra"/>
         <card number="1" name="Setessan Tactics"/>
         <card number="3" name="Return to Nature"/>
         <card number="3" name="Heroes' Bane"/>
-        <card number="1" name="Irresistible Prey"/>
+        <card number="2" name="Irresistible Prey"/>
         <card number="2" name="Krosan Grip"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Bag of Holding"/>
         <card number="1" name="Tangled Florahedron"/>
-        <card number="2" name="Regeneration"/>
+        <card number="3" name="Regeneration"/>
         <card number="2" name="Verdant Rebirth"/>
         <card number="1" name="All Is Dust"/>
         <card number="1" name="Cultivate"/>
@@ -114,7 +114,7 @@
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Invigorate"/>
-        <card number="4" name="Ranger's Guile"/>
+        <card number="5" name="Ranger's Guile"/>
         <card number="5" name="Mortal's Resolve"/>
         <card number="3" name="Snake Umbra"/>
         <card number="1" name="Slippery Karst"/>
@@ -125,45 +125,45 @@
         <card number="1" name="Autumn's Veil"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
         <card number="3" name="Greater Good"/>
-        <card number="2" name="Soul's Majesty"/>
+        <card number="3" name="Soul's Majesty"/>
         <card number="2" name="Zendikar Resurgent"/>
         <card number="1" name="Whiptongue Hydra"/>
         <card number="1" name="Momentous Fall"/>
         <card number="1" name="Hurricane"/>
         <card number="2" name="Reliquary Tower"/>
-        <card number="2" name="Spearbreaker Behemoth"/>
+        <card number="3" name="Spearbreaker Behemoth"/>
         <card number="1" name="Garruk's Packleader"/>
         <card number="1" name="Hapatra's Mark"/>
         <card number="1" name="Karametra's Acolyte"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Mistcutter Hydra"/>
-        <card number="2" name="Vigor"/>
+        <card number="3" name="Vigor"/>
         <card number="1" name="Sheltering Word"/>
         <card number="3" name="Whisperer of the Wilds"/>
         <card number="2" name="Ilysian Caryatid"/>
         <card number="4" name="Apex Devastator"/>
-        <card number="2" name="Gemrazer"/>
+        <card number="3" name="Gemrazer"/>
         <card number="2" name="Sawtusk Demolisher"/>
         <card number="1" name="Arboreal Grazer"/>
         <card number="1" name="Explore"/>
         <card number="1" name="Fertile Ground"/>
         <card number="1" name="Wolfwillow Haven"/>
-        <card number="1" name="Kenrith's Transformation"/>
+        <card number="2" name="Kenrith's Transformation"/>
         <card number="1" name="Destiny Spinner"/>
         <card number="2" name="Prey Upon"/>
         <card number="2" name="Oakhame Adversary"/>
         <card number="2" name="Khalni Ambush"/>
-        <card number="1" name="Hunter's Prowess"/>
+        <card number="2" name="Hunter's Prowess"/>
         <card number="1" name="Season of Growth"/>
         <card number="2" name="Canopy Cover"/>
         <card number="2" name="Overgrowth"/>
         <card number="2" name="Wild Growth"/>
         <card number="2" name="Ohran Viper"/>
-        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="2" name="Lifecrafter's Bestiary"/>
         <card number="1" name="Capricopian"/>
         <card number="1" name="Nylea, Keen-Eyed"/>
-        <card number="1" name="Asceticism"/>
+        <card number="2" name="Asceticism"/>
         <card number="2" name="Overwhelming Stampede"/>
         <card number="1" name="Bonds of Mortality"/>
         <card number="1" name="Explosive Vegetation"/>
@@ -175,7 +175,7 @@
         <card number="1" name="Battlemage's Bracers"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Circuitous Route"/>
-        <card number="1" name="Colossal Majesty"/>
+        <card number="2" name="Colossal Majesty"/>
         <card number="2" name="Rune of Might"/>
         <card number="1" name="Wren's Run Hydra"/>
         <card number="2" name="Talons of Wildwood"/>
@@ -185,7 +185,7 @@
         <card number="1" name="Detection Tower"/>
         <card number="1" name="Roar of Challenge"/>
         <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
-        <card number="1" name="Llanowar Tribe"/>
+        <card number="2" name="Llanowar Tribe"/>
         <card number="1" name="Emerald Medallion"/>
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Caged Sun"/>
@@ -195,5 +195,27 @@
         <card number="1" name="Arbor Elf"/>
         <card number="1" name="Fyndhorn Elves"/>
         <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Tyvar's Stand"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Family's Favor"/>
+        <card number="1" name="Indomitable Might"/>
+        <card number="1" name="Molting Skin"/>
+        <card number="2" name="Rampage of the Clans"/>
+        <card number="1" name="Blossoming Defense"/>
+        <card number="1" name="Snakeskin Veil"/>
+        <card number="1" name="Road of Return"/>
+        <card number="1" name="Anara, Wolvid Familiar"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Kodama of the West Tree"/>
+        <card number="1" name="Withstand Death"/>
+        <card number="1" name="Benevolent Hydra"/>
+        <card number="1" name="Heirloom Blade"/>
+        <card number="1" name="Vines of Vastwood"/>
+        <card number="1" name="Vastwood Surge"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Arcane Lighthouse"/>
+        <card number="1" name="Selvala, Heart of the Wilds"/>
     </zone>
 </cockatrice_deck>

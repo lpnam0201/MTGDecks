@@ -44,7 +44,6 @@
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Patriar's Seal"/>
         <card number="1" name="Keeper of the Accord"/>
-        <card number="1" name="Archivist of Oghma"/>
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Myriad Landscape"/>
@@ -63,7 +62,6 @@
         <card number="1" name="Luxury Suite"/>
         <card number="1" name="Smoldering Marsh"/>
         <card number="1" name="Blood Crypt"/>
-        <card number="1" name="Outpost Siege"/>
         <card number="1" name="Karlach, Fury of Avernus"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Mari, the Killing Quill"/>
@@ -84,21 +82,22 @@
         <card number="1" name="Inkshield"/>
         <card number="1" name="Hellish Rebuke"/>
         <card number="1" name="Rakdos Charm"/>
-        <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Wyll's Reversal"/>
         <card number="1" name="Quietus Spike"/>
-        <card number="1" name="Mastermind's Acquisition"/>
-        <card number="1" name="Diabolic Tutor"/>
         <card number="1" name="Aerial Extortionist"/>
         <card number="1" name="Teleportation Circle"/>
         <card number="1" name="Skyclave Apparition"/>
-        <card number="1" name="Battle Angels of Tyr"/>
         <card number="1" name="Field of Ruin"/>
         <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Kardur, Doomscourge"/>
         <card number="1" name="Ruinous Ultimatum"/>
         <card number="1" name="Zagras, Thief of Heartbeats"/>
         <card number="1" name="Drumbellower"/>
+        <card number="1" name="Termination Facilitator"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="White Plume Adventurer"/>
+        <card number="1" name="Otharri, Suns' Glory"/>
+        <card number="1" name="Norn's Choirmaster"/>
+        <card number="1" name="Staff of Compleation"/>
     </zone>
     <zone name="side">
         <card number="1" name="Archetype of Finality"/>
@@ -122,7 +121,7 @@
         <card number="1" name="Rebuff the Wicked"/>
         <card number="1" name="Underworld Connections"/>
         <card number="1" name="Phyresis"/>
-        <card number="2" name="Outpost Siege"/>
+        <card number="3" name="Outpost Siege"/>
         <card number="1" name="Gift of Doom"/>
         <card number="1" name="Torbran, Thane of Red Fell"/>
         <card number="1" name="Obosh, the Preypiercer"/>
@@ -208,5 +207,11 @@
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Moon-Blessed Cleric"/>
         <card number="1" name="Agent of the Shadow Thieves"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Battle Angels of Tyr"/>
+        <card number="1" name="Archivist of Oghma"/>
+        <card number="1" name="Kardur, Doomscourge"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Diabolic Tutor"/>
     </zone>
 </cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname></deckname>
+    <deckname>Burakos Folk Hero</deckname>
     <comments></comments>
     <zone name="main">
         <card number="1" name="Burakos, Party Leader"/>
@@ -12,7 +12,6 @@
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Frontline Medic"/>
         <card number="1" name="Nighthawk Scavenger"/>
         <card number="1" name="Glorious Protector"/>
         <card number="1" name="High Priest of Penance"/>
@@ -21,7 +20,6 @@
         <card number="1" name="Fiend Hunter"/>
         <card number="1" name="Banisher Priest"/>
         <card number="1" name="Dire Fleet Ravager"/>
-        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Fellwar Stone"/>
         <card number="1" name="Lightning Greaves"/>
@@ -36,7 +34,6 @@
         <card number="1" name="Disenchant"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Inkshield"/>
-        <card number="1" name="Dawn Charm"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Marsh Flats"/>
         <card number="1" name="Command Tower"/>
@@ -58,33 +55,36 @@
         <card number="1" name="Debt to the Deathless"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Dark Ritual"/>
-        <card number="1" name="Coveted Prize"/>
         <card number="1" name="Demonic Bargain"/>
         <card number="1" name="Aven Mindcensor"/>
         <card number="1" name="Nadier's Nightblade"/>
-        <card number="1" name="Vizkopa Guildmage"/>
-        <card number="1" name="Orzhov Enforcer"/>
         <card number="1" name="Benevolent Bodyguard"/>
-        <card number="1" name="Diabolic Tutor"/>
-        <card number="1" name="Mastermind's Acquisition"/>
-        <card number="1" name="Ayli, Eternal Pilgrim"/>
         <card number="1" name="Demon's Disciple"/>
         <card number="1" name="Merciless Executioner"/>
         <card number="1" name="Hammers of Moradin"/>
         <card number="1" name="Mage's Attendant"/>
-        <card number="1" name="Commander's Plate"/>
         <card number="1" name="Gonti, Lord of Luxury"/>
         <card number="1" name="Isareth the Awakener"/>
-        <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
         <card number="1" name="Bishop of Binding"/>
         <card number="1" name="Marionette Master"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Mangara of Corondor"/>
-        <card number="1" name="Sivriss, Nightmare Speaker"/>
-        <card number="1" name="Darksteel Plate"/>
         <card number="1" name="Morbid Opportunist"/>
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Solemn Doomguide"/>
+        <card number="1" name="Stick Together"/>
+        <card number="1" name="Coveted Prize"/>
+        <card number="1" name="Scheming Symmetry"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Seasoned Dungeoneer"/>
+        <card number="1" name="Archivist of Oghma"/>
+        <card number="1" name="Order of Whiteclay"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Sivriss, Nightmare Speaker"/>
+        <card number="1" name="Giver of Runes"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Nighthawk"/>
@@ -137,5 +137,18 @@
         <card number="1" name="Blot Out the Sky"/>
         <card number="1" name="Venomous Changeling"/>
         <card number="1" name="Leonin Relic-Warder"/>
+        <card number="1" name="Coveted Prize"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="1" name="Commander's Plate"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Ayli, Eternal Pilgrim"/>
+        <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
+        <card number="1" name="Orzhov Enforcer"/>
+        <card number="1" name="Sivriss, Nightmare Speaker"/>
+        <card number="1" name="Vizkopa Guildmage"/>
+        <card number="1" name="Frontline Medic"/>
     </zone>
 </cockatrice_deck>

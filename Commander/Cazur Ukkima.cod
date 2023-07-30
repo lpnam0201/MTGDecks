@@ -6,11 +6,7 @@
         <card number="1" name="Blighted Agent"/>
         <card number="1" name="Cazur, Ruthless Stalker"/>
         <card number="1" name="Ukkima, Stalking Shadow"/>
-        <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Reconnaissance Mission"/>
-        <card number="1" name="Bident of Thassa"/>
-        <card number="1" name="Bred for the Hunt"/>
-        <card number="1" name="Curiosity"/>
         <card number="1" name="Talisman of Curiosity"/>
         <card number="1" name="Winding Constrictor"/>
         <card number="1" name="Arcane Denial"/>
@@ -21,73 +17,86 @@
         <card number="1" name="Prying Blade"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Sultai Charm"/>
-        <card number="1" name="Simic Charm"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
-        <card number="1" name="Inquisitor's Flail"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Golgari Signet"/>
-        <card number="1" name="Dimir Signet"/>
-        <card number="1" name="Simic Signet"/>
         <card number="1" name="Talisman of Resilience"/>
         <card number="1" name="Putrefy"/>
-        <card number="1" name="Hunter's Insight"/>
-        <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Countersquall"/>
-        <card number="1" name="Pongify"/>
-        <card number="1" name="Snake Umbra"/>
         <card number="1" name="Mask of Memory"/>
-        <card number="1" name="Aetherize"/>
-        <card number="1" name="Curse of the Swine"/>
-        <card number="1" name="Poison the Cup"/>
-        <card number="1" name="Aetherspouts"/>
-        <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Colossification"/>
-        <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Thriving Grove"/>
-        <card number="1" name="Thriving Moor"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Opulent Palace"/>
         <card number="1" name="Llanowar Wastes"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Sunken Hollow"/>
-        <card number="1" name="Temple of Malady"/>
-        <card number="1" name="Temple of Mystery"/>
-        <card number="1" name="Temple of Deceit"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Darkwater Catacombs"/>
-        <card number="6" name="Forest"/>
-        <card number="6" name="Island"/>
-        <card number="6" name="Swamp"/>
-        <card number="1" name="Anara, Wolvid Familiar"/>
-        <card number="1" name="Falthis, Shadowcat Familiar"/>
-        <card number="1" name="Esior, Wardwing Familiar"/>
-        <card number="1" name="Plaxcaster Frogling"/>
-        <card number="1" name="Phyresis"/>
-        <card number="1" name="Hydra's Growth"/>
-        <card number="1" name="Sea-Dasher Octopus"/>
+        <card number="3" name="Forest"/>
+        <card number="3" name="Island"/>
+        <card number="3" name="Swamp"/>
         <card number="1" name="Fireshrieker"/>
-        <card number="1" name="Gemrazer"/>
-        <card number="1" name="Sawtusk Demolisher"/>
-        <card number="1" name="Necromantic Selection"/>
-        <card number="1" name="Windfall"/>
-        <card number="1" name="Mindleecher"/>
-        <card number="1" name="Pouncing Shoreshark"/>
-        <card number="1" name="Archipelagore"/>
-        <card number="1" name="Chittering Harvester"/>
-        <card number="1" name="Cavern Whisperer"/>
-        <card number="1" name="Brokkos, Apex of Forever"/>
-        <card number="1" name="Glowstone Recluse"/>
         <card number="1" name="Tome of Legends"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Kalonian Hydra"/>
+        <card number="1" name="Kami of Whispered Hopes"/>
+        <card number="1" name="Cold-Eyed Selkie"/>
+        <card number="1" name="Thief of Sanity"/>
+        <card number="1" name="Shadowmage Infiltrator"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Forgotten Ancient"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Tear Asunder"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Toski, Bearer of Secrets"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Kodama of the West Tree"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Grazilaxx, Illithid Scholar"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Choose Your Weapon"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Deathcap Glade"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Agent of the Shadow Thieves"/>
+        <card number="1" name="Hardy Outlander"/>
+        <card number="1" name="Raised by Giants"/>
+        <card number="1" name="Grim Hireling"/>
+        <card number="1" name="Guardian Augmenter"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Haunted One"/>
+        <card number="1" name="Oona's Blackguard"/>
+        <card number="1" name="Ozolith, the Shattered Spire"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="God-Eternal Rhonas"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Beastmaster Ascension"/>
     </zone>
     <zone name="side">
         <card number="1" name="Zareth San, the Trickster"/>
@@ -107,21 +116,80 @@
         <card number="1" name="Volrath, the Shapestealer"/>
         <card number="1" name="Golgari Charm"/>
         <card number="1" name="Glistening Oil"/>
-        <card number="1" name="Sawtusk Demolisher"/>
-        <card number="1" name="Gemrazer"/>
+        <card number="2" name="Sawtusk Demolisher"/>
+        <card number="2" name="Gemrazer"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="2" name="Nightveil Specter"/>
         <card number="1" name="Goldvein Pick"/>
         <card number="1" name="Far // Away"/>
         <card number="1" name="Shadowmage Infiltrator"/>
         <card number="1" name="Thief of Sanity"/>
-        <card number="2" name="Mindleecher"/>
-        <card number="1" name="Pouncing Shoreshark"/>
+        <card number="3" name="Mindleecher"/>
+        <card number="2" name="Pouncing Shoreshark"/>
         <card number="1" name="Siren Stormtamer"/>
         <card number="1" name="Thrummingbird"/>
         <card number="1" name="Boneyard Lurker"/>
         <card number="1" name="Souvenir Snatcher"/>
-        <card number="1" name="Trygon Predator"/>
+        <card number="2" name="Trygon Predator"/>
         <card number="1" name="Cold-Eyed Selkie"/>
+        <card number="1" name="Inquisitor's Flail"/>
+        <card number="1" name="Anara, Wolvid Familiar"/>
+        <card number="1" name="Archipelagore"/>
+        <card number="1" name="Cavern Whisperer"/>
+        <card number="1" name="Chittering Harvester"/>
+        <card number="1" name="Falthis, Shadowcat Familiar"/>
+        <card number="1" name="Glowstone Recluse"/>
+        <card number="1" name="Sea-Dasher Octopus"/>
+        <card number="1" name="Bred for the Hunt"/>
+        <card number="1" name="Colossification"/>
+        <card number="1" name="Hydra's Growth"/>
+        <card number="1" name="Phyresis"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Poison the Cup"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Sultai Charm"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="3" name="Swamp"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Necromantic Selection"/>
+        <card number="3" name="Forest"/>
+        <card number="3" name="Island"/>
+        <card number="1" name="The Ozolith"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Simic Charm"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Corrupted Conviction"/>
+        <card number="1" name="Curiosity"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Brokkos, Apex of Forever"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Doomskar Warrior"/>
+        <card number="1" name="Conclave Sledge-Captain"/>
+        <card number="1" name="Esior, Wardwing Familiar"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Plaxcaster Frogling"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Edric, Spymaster of Trest"/>
+        <card number="1" name="Rishkar, Peema Renegade"/>
     </zone>
 </cockatrice_deck>

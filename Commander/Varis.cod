@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Varis</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Varis, Silverymoon Ranger"/>
+        <card number="1" name="Explore the Underdark"/>
+        <card number="1" name="Dungeon Map"/>
+        <card number="1" name="Sarevok's Tome"/>
+        <card number="1" name="Ellywick Tumblestrum"/>
+        <card number="1" name="Undermountain Adventurer"/>
+        <card number="1" name="Wandering Troubadour"/>
+        <card number="1" name="Avenging Hunter"/>
+        <card number="1" name="Intrepid Outlander"/>
+    </zone>
+</cockatrice_deck>

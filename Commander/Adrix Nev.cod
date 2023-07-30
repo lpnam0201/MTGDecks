@@ -4,87 +4,88 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Adrix and Nev, Twincasters"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Esix, Fractal Bloom"/>
         <card number="1" name="Littjara Mirrorlake"/>
         <card number="1" name="Stolen Identity"/>
         <card number="1" name="Rite of Replication"/>
         <card number="1" name="Quasiduplicate"/>
         <card number="1" name="Spitting Image"/>
         <card number="1" name="Ezuri's Predation"/>
-        <card number="1" name="Garruk, Primal Hunter"/>
         <card number="1" name="Replication Technique"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
-        <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Emergent Sequence"/>
-        <card number="1" name="Body of Research"/>
-        <card number="1" name="Scute Swarm"/>
-        <card number="1" name="Avenger of Zendikar"/>
-        <card number="1" name="Shamanic Revelation"/>
-        <card number="1" name="Awakening Zone"/>
-        <card number="1" name="Irenicus's Vile Duplication"/>
-        <card number="1" name="Progenitor Mimic"/>
         <card number="1" name="Coiling Oracle"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Ornithopter of Paradise"/>
-        <card number="1" name="Biovisionary"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Timeless Witness"/>
         <card number="1" name="Biowaste Blob"/>
         <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Arcane Denial"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Cackling Counterpart"/>
         <card number="1" name="Elminster's Simulacrum"/>
-        <card number="1" name="Sublime Epiphany"/>
-        <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Cultivate"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Resculpt"/>
-        <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Croaking Counterpart"/>
         <card number="1" name="Repudiate // Replicate"/>
         <card number="1" name="Search for Tomorrow"/>
-        <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Mulldrifter"/>
         <card number="1" name="Llanowar Visionary"/>
-        <card number="1" name="Gala Greeters"/>
         <card number="10" name="Island"/>
         <card number="10" name="Forest"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Breeding Pool"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple of Mystery"/>
-        <card number="1" name="Rejuvenating Springs"/>
         <card number="1" name="Vineglimmer Snarl"/>
         <card number="1" name="Simic Growth Chamber"/>
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Hinterland Harbor"/>
-        <card number="1" name="Flooded Grove"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Mystic Sanctuary"/>
         <card number="1" name="Augmenter Pugilist"/>
         <card number="1" name="Saw It Coming"/>
-        <card number="1" name="Aether Channeler"/>
         <card number="1" name="Saheeli's Artistry"/>
-        <card number="1" name="Agent of Treachery"/>
         <card number="1" name="Risen Reef"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="See Double"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Mind Flayer"/>
+        <card number="1" name="Titan of Industry"/>
+        <card number="1" name="Rimewood Falls"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Mirage Mockery"/>
+        <card number="1" name="Wash Away"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Tangled Islet"/>
+        <card number="1" name="Lumbering Falls"/>
+        <card number="1" name="Quandrix Campus"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Phantom Steed"/>
+        <card number="1" name="Schema Thief"/>
+        <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Progenitor Mimic"/>
+        <card number="1" name="Incubation // Incongruity"/>
+        <card number="1" name="Scholar of the Lost Trove"/>
+        <card number="1" name="Supplant Form"/>
+        <card number="1" name="Hornet Queen"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Awakening Zone"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Astral Dragon"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Spark Double"/>
-        <card number="1" name="Amphin Mutineer"/>
-        <card number="1" name="Test of Talents"/>
-        <card number="1" name="Disdainful Stroke"/>
-        <card number="1" name="Lose Focus"/>
-        <card number="1" name="Sandwurm Convergence"/>
-        <card number="1" name="Perplexing Test"/>
-        <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Irenicus's Vile Duplication"/>
+        <card number="1" name="Esix, Fractal Bloom"/>
+        <card number="1" name="Somberwald Beastmaster"/>
     </zone>
     <zone name="side">
         <card number="1" name="Fractal Harness"/>
@@ -98,10 +99,10 @@
         <card number="2" name="Idol of Oblivion"/>
         <card number="1" name="Regal Force"/>
         <card number="1" name="Tireless Provisioner"/>
-        <card number="2" name="Extravagant Replication"/>
+        <card number="3" name="Extravagant Replication"/>
         <card number="1" name="Dawntreader Elk"/>
-        <card number="1" name="Crashing Drawbridge"/>
-        <card number="1" name="Theoretical Duplication"/>
+        <card number="2" name="Crashing Drawbridge"/>
+        <card number="2" name="Theoretical Duplication"/>
         <card number="1" name="Echoing Equation"/>
         <card number="1" name="Phyrexian Metamorph"/>
         <card number="1" name="Phantasmal Image"/>
@@ -110,25 +111,89 @@
         <card number="1" name="Terastodon"/>
         <card number="1" name="Paradox Zone"/>
         <card number="2" name="Reality Shift"/>
-        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="2" name="Return of the Wildspeaker"/>
         <card number="1" name="Endless Evil"/>
-        <card number="2" name="Spark Double"/>
+        <card number="3" name="Spark Double"/>
         <card number="1" name="Rampaging Baloths"/>
         <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
         <card number="1" name="Wall of Blossoms"/>
-        <card number="1" name="Amphin Mutineer"/>
+        <card number="4" name="Amphin Mutineer"/>
         <card number="1" name="Combine Chrysalis"/>
         <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Shamanic Revelation"/>
+        <card number="2" name="Shamanic Revelation"/>
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Delay"/>
         <card number="2" name="Familiar's Ruse"/>
-        <card number="1" name="Nature's Claim"/>
+        <card number="2" name="Nature's Claim"/>
         <card number="1" name="Defabricate"/>
         <card number="1" name="Pouncing Shoreshark"/>
         <card number="1" name="Migratory Greathorn"/>
         <card number="1" name="Gemrazer"/>
         <card number="1" name="Sawtusk Demolisher"/>
-        <card number="1" name="Mirrorhall Mimic"/>
+        <card number="2" name="Mirrorhall Mimic"/>
+        <card number="1" name="Test of Talents"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="2" name="Aether Channeler"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Lose Focus"/>
+        <card number="2" name="Perplexing Test"/>
+        <card number="1" name="Agent of Treachery"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="3" name="Sandwurm Convergence"/>
+        <card number="1" name="Awakening Zone"/>
+        <card number="1" name="Esix, Fractal Bloom"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="2" name="Topiary Stomper"/>
+        <card number="1" name="Champion of Wits"/>
+        <card number="1" name="Littjara Mirrorlake"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Schema Thief"/>
+        <card number="1" name="Body of Research"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="1" name="Yavimaya Dryad"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Mystic Sanctuary"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Alchemist's Refuge"/>
+        <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Progenitor Mimic"/>
+        <card number="1" name="Sea Gate Oracle"/>
+        <card number="1" name="Tomb of Horrors Adventurer"/>
+        <card number="1" name="Undermountain Adventurer"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Biovisionary"/>
+        <card number="1" name="Vesuvan Duplimancy"/>
+        <card number="1" name="Clone Legion"/>
+        <card number="1" name="Invasion of Segovia"/>
+        <card number="1" name="Emergent Sequence"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Irenicus's Vile Duplication"/>
+        <card number="1" name="Reclusive Taxidermist"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Pest Infestation"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Killer Service"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="1" name="Koma, Cosmos Serpent"/>
+        <card number="1" name="Hollowhenge Overlord"/>
     </zone>
 </cockatrice_deck>

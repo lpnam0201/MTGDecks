@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Tazri Activated</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Tazri, Stalwart Survivor"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Orthion, Hero of Lavabrink"/>
+        <card number="1" name="Faerie Mastermind"/>
+        <card number="1" name="Biomancer's Familiar"/>
+        <card number="1" name="Kenrith, the Returned King"/>
+        <card number="1" name="Dynaheir, Invoker Adept"/>
+        <card number="1" name="The Peregrine Dynamo"/>
+        <card number="1" name="Kinnan, Bonder Prodigy"/>
+        <card number="1" name="Svella, Ice Shaper"/>
+        <card number="1" name="Gretchen Titchwillow"/>
+        <card number="1" name="Chainer, Nightmare Adept"/>
+        <card number="1" name="Zirda, the Dawnwaker"/>
+        <card number="1" name="Zimone, Quandrix Prodigy"/>
+        <card number="1" name="Training Grounds"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Triskaidekaphile"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Chulane, Teller of Tales"/>
+        <card number="1" name="Saryth, the Viper's Fang"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Plargg, Dean of Chaos"/>
+        <card number="1" name="Captivating Crew"/>
+        <card number="1" name="Fauna Shaman"/>
+        <card number="1" name="Spectral Sailor"/>
+        <card number="1" name="Faerie Formation"/>
+        <card number="1" name="Dark Impostor"/>
+        <card number="1" name="Yisan, the Wanderer Bard"/>
+        <card number="1" name="Drumbellower"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Rona, Herald of Invasion"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+    </zone>
+</cockatrice_deck>

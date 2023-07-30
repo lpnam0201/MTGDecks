@@ -74,19 +74,19 @@
         <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Forgotten Ancient"/>
-        <card number="1" name="Jeska's Will"/>
         <card number="1" name="Red Dragon"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Skyline Despot"/>
         <card number="1" name="Druid of Purification"/>
         <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Outpost Siege"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Vastwood Surge"/>
         <card number="1" name="Wulfgar of Icewind Dale"/>
         <card number="1" name="Bonders' Enclave"/>
         <card number="1" name="Emergence Zone"/>
         <card number="1" name="Three Visits"/>
+        <card number="1" name="Toski, Bearer of Secrets"/>
+        <card number="1" name="Gelatinous Genesis"/>
     </zone>
     <zone name="side">
         <card number="2" name="Dream Pillager"/>
@@ -103,7 +103,7 @@
         <card number="1" name="Voracious Hydra"/>
         <card number="1" name="Whisperer of the Wilds"/>
         <card number="1" name="Wild Growth"/>
-        <card number="1" name="Outpost Siege"/>
+        <card number="2" name="Outpost Siege"/>
         <card number="1" name="Magmaquake"/>
         <card number="1" name="Timber Gorge"/>
         <card number="1" name="Slagwoods Bridge"/>
@@ -175,5 +175,6 @@
         <card number="1" name="Urabrask the Hidden"/>
         <card number="1" name="Mountain"/>
         <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Jeska's Will"/>
     </zone>
 </cockatrice_deck>

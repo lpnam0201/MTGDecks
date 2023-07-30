@@ -5,62 +5,31 @@
     <zone name="main">
         <card number="1" name="Trostani, Selesnya's Voice"/>
         <card number="1" name="Garruk, Primal Hunter"/>
-        <card number="1" name="Sandwurm Convergence"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Sundering Growth"/>
-        <card number="1" name="Growing Ranks"/>
-        <card number="1" name="Rootborn Defenses"/>
-        <card number="1" name="Hour of Reckoning"/>
         <card number="1" name="Advent of the Wurm"/>
-        <card number="1" name="Giant Adephage"/>
-        <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Three Visits"/>
-        <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Elemental Bond"/>
-        <card number="1" name="Avacyn's Pilgrim"/>
         <card number="1" name="Timeless Witness"/>
-        <card number="1" name="Timeless Dragon"/>
-        <card number="1" name="Trostani's Summoner"/>
-        <card number="1" name="Somberwald Beastmaster"/>
-        <card number="1" name="Druid's Deliverance"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Song of the Worldsoul"/>
-        <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Sylvan Reclamation"/>
-        <card number="1" name="Phyrexian Rebirth"/>
-        <card number="1" name="Ezuri's Predation"/>
         <card number="1" name="Harmonize"/>
-        <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Migration Path"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Starnheim Unleashed"/>
-        <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Talisman of Unity"/>
-        <card number="1" name="Selesnya Signet"/>
-        <card number="1" name="Circuitous Route"/>
-        <card number="1" name="Explosive Vegetation"/>
-        <card number="1" name="Regrowth"/>
-        <card number="1" name="Arctic Treeline"/>
-        <card number="1" name="Blossoming Sands"/>
-        <card number="1" name="Botanical Plaza"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Command Tower"/>
-        <card number="10" name="Plains"/>
+        <card number="9" name="Plains"/>
         <card number="10" name="Forest"/>
-        <card number="1" name="Graypelt Refuge"/>
         <card number="1" name="Fortified Village"/>
         <card number="1" name="Krosan Verge"/>
         <card number="1" name="Myriad Landscape"/>
@@ -68,44 +37,134 @@
         <card number="1" name="Selesnya Sanctuary"/>
         <card number="1" name="Sungrass Prairie"/>
         <card number="1" name="Temple of Plenty"/>
-        <card number="1" name="Tranquil Expanse"/>
-        <card number="1" name="Thornglint Bridge"/>
-        <card number="1" name="Selesnya Guildgate"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Herald of the Host"/>
-        <card number="1" name="Blossoming Bogbeast"/>
-        <card number="1" name="Rampaging Baloths"/>
-        <card number="1" name="Selesnya Eulogist"/>
-        <card number="1" name="Decree of Justice"/>
-        <card number="1" name="Entreat the Angels"/>
         <card number="1" name="Valkyrie Harbinger"/>
         <card number="1" name="Trudge Garden"/>
-        <card number="1" name="Killer Service"/>
-        <card number="1" name="Rhonas's Last Stand"/>
-        <card number="1" name="Angel of Sanctions"/>
         <card number="1" name="Nissa's Pilgrimage"/>
-        <card number="1" name="Harrow"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="White Plume Adventurer"/>
+        <card number="1" name="Drumbellower"/>
+        <card number="1" name="Hammers of Moradin"/>
+        <card number="1" name="Tabaxi Toucaneers"/>
+        <card number="1" name="Blossoming Bogbeast"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Fade from History"/>
+        <card number="1" name="Rampage of the Clans"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Elder Gargaroth"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Court of Grace"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Crested Sunmare"/>
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Phyrexian Rebirth"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Patriar's Seal"/>
+        <card number="1" name="Speaker of the Heavens"/>
+        <card number="1" name="Divine Visitation"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Finale of Glory"/>
+        <card number="1" name="Angelic Ascension"/>
+        <card number="1" name="The Birth of Meletis"/>
+        <card number="1" name="Blade Splicer"/>
+        <card number="1" name="Biowaste Blob"/>
+        <card number="1" name="Doomed Artisan"/>
+        <card number="1" name="Shadowbeast Sighting"/>
+        <card number="1" name="Trial of Strength"/>
     </zone>
     <zone name="side">
         <card number="2" name="Crested Sunmare"/>
         <card number="1" name="Return to Dust"/>
-        <card number="1" name="Decree of Justice"/>
+        <card number="2" name="Decree of Justice"/>
         <card number="1" name="Trudge Garden"/>
         <card number="1" name="Crash the Party"/>
         <card number="1" name="Invoke the Ancients"/>
         <card number="1" name="Soul's Majesty"/>
         <card number="1" name="Caller of the Pack"/>
         <card number="2" name="Armada Wurm"/>
-        <card number="1" name="Rampaging Baloths"/>
-        <card number="1" name="Starnheim Unleashed"/>
+        <card number="2" name="Rampaging Baloths"/>
+        <card number="2" name="Starnheim Unleashed"/>
         <card number="1" name="Life's Legacy"/>
         <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Empyrial Storm"/>
         <card number="1" name="Rishkar's Expertise"/>
         <card number="1" name="Momentous Fall"/>
-        <card number="1" name="Mouth // Feed"/>
+        <card number="2" name="Mouth // Feed"/>
         <card number="1" name="Angelic Ascension"/>
         <card number="1" name="Shadowbeast Sighting"/>
         <card number="1" name="Urbis Protector"/>
+        <card number="1" name="Song of the Worldsoul"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Arctic Treeline"/>
+        <card number="1" name="Blossoming Sands"/>
+        <card number="1" name="Botanical Plaza"/>
+        <card number="1" name="Graypelt Refuge"/>
+        <card number="1" name="Selesnya Guildgate"/>
+        <card number="1" name="Thornglint Bridge"/>
+        <card number="1" name="Tranquil Expanse"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="2" name="Entreat the Angels"/>
+        <card number="1" name="Blossoming Bogbeast"/>
+        <card number="1" name="Giant Adephage"/>
+        <card number="1" name="Growing Ranks"/>
+        <card number="1" name="Legion Loyalty"/>
+        <card number="1" name="Druid's Deliverance"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Sundering Growth"/>
+        <card number="1" name="Sylvan Reclamation"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Rhonas's Last Stand"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Phyrexian Rebirth"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Sandwurm Convergence"/>
+        <card number="1" name="Fade from Memory"/>
+        <card number="1" name="Angel of Sanctions"/>
+        <card number="1" name="Timeless Dragon"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Selesnya Eulogist"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Wild Endeavor"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Titan of Industry"/>
+        <card number="1" name="Valiant Endeavor"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Killer Service"/>
+        <card number="1" name="Skrelv's Hive"/>
+        <card number="1" name="Curious Herd"/>
+        <card number="1" name="Trostani's Summoner"/>
+        <card number="1" name="Somberwald Beastmaster"/>
+        <card number="1" name="Resplendent Angel"/>
+        <card number="1" name="The Book of Exalted Deeds"/>
+        <card number="1" name="Angelic Accord"/>
+        <card number="1" name="Serra the Benevolent"/>
+        <card number="1" name="Viral Spawning"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Bala Ged Recovery"/>
     </zone>
 </cockatrice_deck>

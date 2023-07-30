@@ -19,7 +19,6 @@
         <card number="1" name="Crop Rotation"/>
         <card number="1" name="Three Visits"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Blood Money"/>
         <card number="1" name="Thran Portal"/>
         <card number="1" name="Sea Gate"/>
         <card number="1" name="Simic Guildgate"/>
@@ -42,7 +41,6 @@
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Tear Asunder"/>
         <card number="1" name="Hour of Promise"/>
-        <card number="1" name="In Garruk's Wake"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Command Tower"/>
@@ -79,7 +77,6 @@
         <card number="1" name="Tolaria West"/>
         <card number="1" name="Delay"/>
         <card number="1" name="Mortality Spear"/>
-        <card number="1" name="Nature's Claim"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Thespian's Stage"/>
         <card number="1" name="Pir's Whim"/>
@@ -101,6 +98,9 @@
         <card number="1" name="Omniscience"/>
         <card number="1" name="Silent Arbiter"/>
         <card number="1" name="Saryth, the Viper's Fang"/>
+        <card number="1" name="Invasion of Fiora"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Manifold Key"/>
     </zone>
     <zone name="side">
         <card number="2" name="Tireless Tracker"/>
@@ -174,5 +174,8 @@
         <card number="1" name="Tempt with Discovery"/>
         <card number="1" name="Behold the Beyond"/>
         <card number="1" name="Kelpie Guide"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Nature's Claim"/>
     </zone>
 </cockatrice_deck>

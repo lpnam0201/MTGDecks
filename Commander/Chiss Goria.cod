@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Chiss Goria</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Chiss-Goria, Forge Tyrant"/>
+        <card number="30" name="Mountain"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Reckless Endeavor"/>
+        <card number="1" name="Captain Lannery Storm"/>
+        <card number="1" name="Karlach, Fury of Avernus"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Sculpting Steel"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Scrap Trawler"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Triplicate Titan"/>
+        <card number="1" name="Shimmer Myr"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Phyrexian Triniform"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Skitterbeam Battalion"/>
+        <card number="1" name="Soul of New Phyrexia"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Nettlecyst"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Stonespeaker Crystal"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Spine of Ish Sah"/>
+        <card number="1" name="Mirrorworks"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Wondrous Crucible"/>
+        <card number="1" name="Inspiring Statuary"/>
+        <card number="1" name="Descent into Avernus"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Slagstone Refinery"/>
+        <card number="1" name="Skyclave Relic"/>
+        <card number="1" name="Noble's Purse"/>
+        <card number="1" name="Weatherlight"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Geode Golem"/>
+        <card number="1" name="Wand of Wonder"/>
+        <card number="1" name="Chaos Wand"/>
+        <card number="1" name="Thran Temporal Gateway"/>
+        <card number="1" name="Ancient Stone Idol"/>
+        <card number="1" name="Currency Converter"/>
+        <card number="1" name="Coalition Relic"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Nahiri's Lithoforming"/>
+        <card number="1" name="Traxos, Scourge of Kroog"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Liberator, Urza's Battlethopter"/>
+        <card number="1" name="Tome of Legends"/>
+        <card number="2" name="Cityscape Leveler"/>
+        <card number="1" name="Scavenged Brawler"/>
+        <card number="1" name="Planar Bridge"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Sandstone Oracle"/>
+        <card number="1" name="Metalwork Colossus"/>
+        <card number="1" name="Myr Retriever"/>
+    </zone>
+</cockatrice_deck>

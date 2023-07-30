@@ -8,11 +8,6 @@
         <card number="1" name="Zagoth Crystal"/>
         <card number="1" name="Indatha Crystal"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Talisman of Curiosity"/>
-        <card number="1" name="Talisman of Dominance"/>
-        <card number="1" name="Talisman of Progress"/>
-        <card number="1" name="Talisman of Resilience"/>
-        <card number="1" name="Talisman of Unity"/>
         <card number="1" name="Barren Moor"/>
         <card number="1" name="Drifting Meadow"/>
         <card number="1" name="Fetid Pools"/>
@@ -63,28 +58,19 @@
         <card number="1" name="Countervailing Winds"/>
         <card number="1" name="Valiant Rescuer"/>
         <card number="1" name="New Perspectives"/>
-        <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Arcane Denial"/>
-        <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Angelsong"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Approach of the Second Sun"/>
         <card number="1" name="All-Seeing Arbiter"/>
         <card number="1" name="Lull"/>
-        <card number="1" name="Lay Claim"/>
         <card number="1" name="Teferi's Ageless Insight"/>
         <card number="1" name="Astral Slide"/>
-        <card number="1" name="Austere Command"/>
         <card number="1" name="Idyllic Tutor"/>
-        <card number="1" name="Notion Thief"/>
-        <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Wilderness Reclamation"/>
         <card number="1" name="Drannith Healer"/>
         <card number="1" name="Flourishing Fox"/>
         <card number="1" name="Vizier of Tumbling Sands"/>
-        <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Torment of Hailfire"/>
         <card number="1" name="Shorikai, Genesis Engine"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Indatha Triome"/>
@@ -93,16 +79,21 @@
         <card number="1" name="Zagoth Triome"/>
         <card number="1" name="Archfiend of Ifnir"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Radiant's Judgment"/>
-        <card number="1" name="Sphinx of the Second Sun"/>
         <card number="1" name="Laboratory Maniac"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Thought Reflection"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Bone Miser"/>
         <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Decanter of Endless Water"/>
+        <card number="1" name="Patriar's Seal"/>
+        <card number="1" name="Staff of Domination"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Shadow of the Grave"/>
     </zone>
     <zone name="side">
         <card number="1" name="Island"/>
@@ -147,5 +138,23 @@
         <card number="1" name="Archaeomancer"/>
         <card number="1" name="Bone Miser"/>
         <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Lay Claim"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Settle the Wreckage"/>
     </zone>
 </cockatrice_deck>

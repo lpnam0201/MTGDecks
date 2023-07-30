@@ -10,7 +10,6 @@
         <card number="1" name="Blackblade Reforged"/>
         <card number="1" name="Key to the City"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Strionic Resonator"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Search for Tomorrow"/>
@@ -18,8 +17,6 @@
         <card number="1" name="Three Visits"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Bastion Protector"/>
         <card number="1" name="Goldnight Commander"/>
@@ -37,35 +34,21 @@
         <card number="1" name="Divine Visitation"/>
         <card number="1" name="Timely Ward"/>
         <card number="1" name="Maze of Ith"/>
-        <card number="1" name="Dusk // Dawn"/>
-        <card number="1" name="Hour of Reckoning"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Idol of Oblivion"/>
         <card number="1" name="Craterhoof Behemoth"/>
         <card number="1" name="Welcoming Vampire"/>
         <card number="1" name="Lion Sash"/>
-        <card number="1" name="Bess, Soul Nourisher"/>
         <card number="1" name="Court Street Denizen"/>
-        <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Summoner's Pact"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Court of Grace"/>
         <card number="1" name="Rite of Harmony"/>
         <card number="1" name="Anara, Wolvid Familiar"/>
-        <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Cultivate"/>
-        <card number="1" name="Selfless Savior"/>
         <card number="1" name="Dauntless Escort"/>
-        <card number="1" name="Saffi Eriksdotter"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Tyrite Sanctum"/>
-        <card number="1" name="Lena, Selfless Champion"/>
         <card number="8" name="Forest"/>
         <card number="8" name="Plains"/>
         <card number="1" name="Command Beacon"/>
@@ -86,16 +69,56 @@
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Overgrown Farmland"/>
-        <card number="1" name="Eternal Witness"/>
         <card number="1" name="Champion of Lambholt"/>
-        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Cosmic Intervention"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Glare of Subdual"/>
+        <card number="1" name="Vigor"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Awakening Zone"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Toski, Bearer of Secrets"/>
+        <card number="1" name="Guardian Augmenter"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Selvala, Explorer Returned"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
     </zone>
     <zone name="side">
         <card number="1" name="Willowdusk, Essence Seer"/>
-        <card number="1" name="Lightning Greaves"/>
+        <card number="2" name="Lightning Greaves"/>
         <card number="2" name="Forest"/>
         <card number="2" name="Plains"/>
         <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Jaheira, Friend of the Forest"/>
+        <card number="1" name="Bess, Soul Nourisher"/>
+        <card number="1" name="Saffi Eriksdotter"/>
+        <card number="1" name="Court of Grace"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Fell the Mighty"/>
+        <card number="1" name="Rumor Gatherer"/>
+        <card number="1" name="Lena, Selfless Champion"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="1" name="Loyal Unicorn"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Swiftfoot Boots"/>
     </zone>
 </cockatrice_deck>

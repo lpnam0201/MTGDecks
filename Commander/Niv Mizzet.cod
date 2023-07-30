@@ -8,16 +8,14 @@
         <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Izzet Signet"/>
-        <card number="1" name="Mizzium Mortars"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Izzet Boilerworks"/>
         <card number="1" name="Temple of Epiphany"/>
         <card number="1" name="Shivan Reef"/>
-        <card number="12" name="Island"/>
-        <card number="12" name="Mountain"/>
+        <card number="10" name="Island"/>
+        <card number="10" name="Mountain"/>
         <card number="1" name="Dispel"/>
-        <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Arcane Denial"/>
@@ -40,25 +38,17 @@
         <card number="1" name="Frostboil Snarl"/>
         <card number="1" name="Sulfur Falls"/>
         <card number="1" name="Misdirection"/>
-        <card number="1" name="Storm's Wrath"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Reckless Endeavor"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Disrupt Decorum"/>
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Unsubstantiate"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Unsummon"/>
-        <card number="1" name="Curiosity"/>
         <card number="1" name="Dig Through Time"/>
-        <card number="1" name="Ophidian Eye"/>
-        <card number="1" name="Memory Deluge"/>
-        <card number="1" name="Drawn from Dreams"/>
         <card number="1" name="Into the Roil"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="You See a Guard Approach"/>
@@ -67,20 +57,34 @@
         <card number="1" name="Unexpected Windfall"/>
         <card number="1" name="Seize the Spoils"/>
         <card number="1" name="Pirate's Pillage"/>
-        <card number="1" name="Strike It Rich"/>
         <card number="1" name="Stubborn Denial"/>
-        <card number="1" name="Inspired Tinkering"/>
-        <card number="1" name="String of Disappearances"/>
         <card number="1" name="Training Center"/>
         <card number="1" name="Steam Vents"/>
-        <card number="1" name="Scalding Tarn"/>
         <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
         <card number="1" name="Storm-Kiln Artist"/>
-        <card number="1" name="Noble's Purse"/>
         <card number="1" name="Starstorm"/>
-        <card number="1" name="Hour of Devastation"/>
-        <card number="1" name="Sweltering Suns"/>
+        <card number="1" name="Fateful Showdown"/>
+        <card number="1" name="Stormcarved Coast"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Teferi's Ageless Insight"/>
+        <card number="1" name="Alhammarret's Archive"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Mechanized Warfare"/>
+        <card number="1" name="Torbran, Thane of Red Fell"/>
+        <card number="1" name="Harmonic Prodigy"/>
+        <card number="1" name="Dissipation Field"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Blink of an Eye"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Firemind Vessel"/>
+        <card number="1" name="Moonsilver Key"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Descent into Avernus"/>
     </zone>
     <zone name="side">
         <card number="1" name="Izzet Cluestone"/>
@@ -107,7 +111,7 @@
         <card number="2" name="Devastation Tide"/>
         <card number="2" name="Ponder"/>
         <card number="1" name="Preordain"/>
-        <card number="2" name="Curiosity"/>
+        <card number="3" name="Curiosity"/>
         <card number="2" name="Mystic Retrieval"/>
         <card number="1" name="Starstorm"/>
         <card number="1" name="Tandem Lookout"/>
@@ -116,14 +120,14 @@
         <card number="3" name="Frantic Search"/>
         <card number="1" name="Clear the Mind"/>
         <card number="2" name="Deep Analysis"/>
-        <card number="2" name="Storm's Wrath"/>
+        <card number="3" name="Storm's Wrath"/>
         <card number="1" name="Aether Gale"/>
         <card number="1" name="Spelltwine"/>
-        <card number="1" name="Treasure Cruise"/>
+        <card number="2" name="Treasure Cruise"/>
         <card number="2" name="Prismatic Lens"/>
         <card number="3" name="Anticipate"/>
         <card number="2" name="Fact or Fiction"/>
-        <card number="1" name="Drawn from Dreams"/>
+        <card number="2" name="Drawn from Dreams"/>
         <card number="3" name="Impulse"/>
         <card number="1" name="Murmuring Mystic"/>
         <card number="1" name="Niv-Mizzet, Dracogenius"/>
@@ -142,7 +146,7 @@
         <card number="1" name="The Mirari Conjecture"/>
         <card number="2" name="Reverberate"/>
         <card number="2" name="Repeated Reverberation"/>
-        <card number="1" name="Valakut Awakening"/>
+        <card number="2" name="Valakut Awakening"/>
         <card number="1" name="Bolt Bend"/>
         <card number="2" name="Abrade"/>
         <card number="1" name="Jori En, Ruin Diver"/>
@@ -154,18 +158,18 @@
         <card number="1" name="The Flame of Keld"/>
         <card number="2" name="Thought Reflection"/>
         <card number="1" name="Diminishing Returns"/>
-        <card number="1" name="Unsubstantiate"/>
+        <card number="2" name="Unsubstantiate"/>
         <card number="2" name="Comet Storm"/>
         <card number="1" name="Flood of Tears"/>
         <card number="1" name="Kaza, Roil Chaser"/>
         <card number="1" name="Magus of the Wheel"/>
-        <card number="1" name="Mindmoil"/>
+        <card number="2" name="Mindmoil"/>
         <card number="1" name="Spell Pierce"/>
         <card number="2" name="Thriving Bluff"/>
         <card number="2" name="Thriving Isle"/>
         <card number="1" name="Game Plan"/>
         <card number="1" name="Manascape Refractor"/>
-        <card number="3" name="Embermaw Hellion"/>
+        <card number="4" name="Embermaw Hellion"/>
         <card number="4" name="Torbran, Thane of Red Fell"/>
         <card number="1" name="Jace's Sanctum"/>
         <card number="2" name="Keep Safe"/>
@@ -193,18 +197,18 @@
         <card number="1" name="Gadrak, the Crown-Scourge"/>
         <card number="1" name="Sailor of Means"/>
         <card number="2" name="Darksteel Ingot"/>
-        <card number="2" name="Malcolm, Keen-Eyed Navigator"/>
+        <card number="3" name="Malcolm, Keen-Eyed Navigator"/>
         <card number="1" name="Depths of Desire"/>
         <card number="1" name="Fiendish Duo"/>
         <card number="2" name="Supreme Will"/>
         <card number="1" name="Hornswoggle"/>
         <card number="1" name="Peek"/>
         <card number="1" name="Sphere of the Suns"/>
-        <card number="2" name="Fateful Showdown"/>
+        <card number="3" name="Fateful Showdown"/>
         <card number="2" name="Angrath's Marauders"/>
         <card number="1" name="Niv-Mizzet, the Firemind"/>
         <card number="2" name="Mass Diminish"/>
-        <card number="3" name="Sweltering Suns"/>
+        <card number="4" name="Sweltering Suns"/>
         <card number="2" name="Teferi's Ageless Insight"/>
         <card number="1" name="Star of Extinction"/>
         <card number="1" name="Impulsive Pilferer"/>
@@ -215,7 +219,7 @@
         <card number="1" name="Turn Aside"/>
         <card number="2" name="Dive Down"/>
         <card number="2" name="Shattering Spree"/>
-        <card number="1" name="Hour of Devastation"/>
+        <card number="2" name="Hour of Devastation"/>
         <card number="1" name="Aetherize"/>
         <card number="1" name="Shredded Sails"/>
         <card number="2" name="Thrill of Possibility"/>
@@ -254,7 +258,7 @@
         <card number="1" name="Compulsive Research"/>
         <card number="1" name="Misdirection"/>
         <card number="1" name="Neutralize"/>
-        <card number="2" name="Island"/>
+        <card number="4" name="Island"/>
         <card number="1" name="Lazotep Chancellor"/>
         <card number="1" name="All Is Dust"/>
         <card number="1" name="Commander's Sphere"/>
@@ -297,5 +301,20 @@
         <card number="1" name="Pyretic Ritual"/>
         <card number="1" name="Descent into Avernus"/>
         <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Ophidian Eye"/>
+        <card number="1" name="Memory Deluge"/>
+        <card number="1" name="Inspired Tinkering"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Strike It Rich"/>
+        <card number="1" name="Arjun, the Shifting Flame"/>
+        <card number="1" name="Reckless Endeavor"/>
+        <card number="1" name="String of Disappearances"/>
+        <card number="1" name="Day's Undoing"/>
+        <card number="1" name="Disrupt Decorum"/>
+        <card number="1" name="Mizzium Mortars"/>
+        <card number="1" name="Noble's Purse"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Armillary Sphere"/>
     </zone>
 </cockatrice_deck>

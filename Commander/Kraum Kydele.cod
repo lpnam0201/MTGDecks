@@ -72,7 +72,6 @@
         <card number="1" name="Treacherous Terrain"/>
         <card number="1" name="New Perspectives"/>
         <card number="1" name="Drannith Stinger"/>
-        <card number="1" name="Abandoned Sarcophagus"/>
         <card number="1" name="Slice and Dice"/>
         <card number="1" name="Shredded Sails"/>
         <card number="1" name="Blasphemous Act"/>
@@ -100,6 +99,7 @@
         <card number="1" name="Sphinx of the Second Sun"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Bala Ged Recovery"/>
     </zone>
     <zone name="side">
         <card number="1" name="Steam Vents"/>
@@ -110,5 +110,6 @@
         <card number="1" name="Footfall Crater"/>
         <card number="1" name="Escape Protocol"/>
         <card number="1" name="Traumatic Visions"/>
+        <card number="1" name="Abandoned Sarcophagus"/>
     </zone>
 </cockatrice_deck>

@@ -5,7 +5,6 @@
     <zone name="main">
         <card number="1" name="Tajic, Blade of the Legion"/>
         <card number="1" name="Skyknight Vanguard"/>
-        <card number="1" name="Aurelia, Exemplar of Justice"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Sol Ring"/>
@@ -14,7 +13,6 @@
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Fellwar Stone"/>
         <card number="1" name="Ornithopter of Paradise"/>
-        <card number="1" name="Rabble Rousing"/>
         <card number="1" name="Outlaws' Merriment"/>
         <card number="1" name="Assemble the Legion"/>
         <card number="1" name="Goblin Rabblemaster"/>
@@ -25,34 +23,21 @@
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Leonin Warleader"/>
         <card number="1" name="Krenko, Tin Street Kingpin"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Captain Lannery Storm"/>
         <card number="1" name="Laelia, the Blade Reforged"/>
         <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Battle Angels of Tyr"/>
-        <card number="1" name="Karlach, Fury of Avernus"/>
-        <card number="1" name="Relentless Assault"/>
-        <card number="1" name="Moraug, Fury of Akoum"/>
         <card number="1" name="Response // Resurgence"/>
-        <card number="1" name="Idol of Oblivion"/>
         <card number="1" name="Tome of Legends"/>
         <card number="1" name="Castle Ardenvale"/>
         <card number="1" name="Aerial Extortionist"/>
         <card number="1" name="Call the Coppercoats"/>
-        <card number="1" name="Dusk // Dawn"/>
         <card number="1" name="Kher Keep"/>
-        <card number="1" name="Divine Visitation"/>
         <card number="1" name="Needle Spires"/>
-        <card number="1" name="Monastery Mentor"/>
-        <card number="1" name="Tocasia's Welcome"/>
         <card number="1" name="Odric, Master Tactician"/>
-        <card number="1" name="Prosperous Partnership"/>
         <card number="1" name="Sunhome, Fortress of the Legion"/>
         <card number="1" name="Slayers' Stronghold"/>
-        <card number="1" name="Master of Ceremonies"/>
-        <card number="1" name="Key to the City"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Wild Magic Surge"/>
@@ -61,20 +46,11 @@
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Cleansing Nova"/>
-        <card number="1" name="Flaming Fist"/>
-        <card number="1" name="Duelist's Heritage"/>
-        <card number="1" name="Blood Mist"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Access Tunnel"/>
-        <card number="1" name="Blade Historian"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Footfall Crater"/>
-        <card number="1" name="Welcoming Vampire"/>
-        <card number="1" name="Temur Battle Rage"/>
-        <card number="1" name="Crash Through"/>
-        <card number="1" name="Fists of Flame"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Fabled Passage"/>
         <card number="7" name="Mountain"/>
@@ -88,9 +64,33 @@
         <card number="1" name="Furycalm Snarl"/>
         <card number="1" name="Sundown Pass"/>
         <card number="1" name="Stalwart Pathlighter"/>
-        <card number="1" name="Thraben Doomsayer"/>
-        <card number="1" name="Battle Screech"/>
         <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Truefire Captain"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Star of Extinction"/>
+        <card number="1" name="Solar Blaze"/>
+        <card number="1" name="Brash Taunter"/>
+        <card number="1" name="Stuffy Doll"/>
+        <card number="1" name="Arcbond"/>
+        <card number="1" name="Blazing Sunsteel"/>
+        <card number="1" name="Ill-Tempered Loner"/>
+        <card number="1" name="Wrathful Red Dragon"/>
+        <card number="1" name="Boros Reckoner"/>
+        <card number="1" name="Spitemare"/>
+        <card number="1" name="Adanto Vanguard"/>
+        <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Frontline Medic"/>
+        <card number="1" name="Darksteel Myr"/>
+        <card number="1" name="Fey Steed"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Toralf, God of Fury"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Spiteful Sliver"/>
+        <card number="1" name="Gideon's Sacrifice"/>
+        <card number="1" name="Pariah"/>
+        <card number="1" name="Saving Grace"/>
+        <card number="1" name="Reckless Endeavor"/>
     </zone>
     <zone name="side">
         <card number="1" name="Gideon's Sacrifice"/>
@@ -102,5 +102,33 @@
         <card number="1" name="Campfire"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Skyclave Apparition"/>
+        <card number="1" name="Blade Historian"/>
+        <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Monastery Mentor"/>
+        <card number="1" name="Master of Ceremonies"/>
+        <card number="1" name="Thraben Doomsayer"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Blood Mist"/>
+        <card number="1" name="Divine Visitation"/>
+        <card number="1" name="Flaming Fist"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Relentless Assault"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Crash Through"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Star of Extinction"/>
+        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="1" name="Riders of Gavony"/>
+        <card number="1" name="Aurelia, Exemplar of Justice"/>
+        <card number="1" name="Battle Screech"/>
+        <card number="1" name="Prosperous Partnership"/>
+        <card number="1" name="Footfall Crater"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Fists of Flame"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Captain Lannery Storm"/>
+        <card number="1" name="Karlach, Fury of Avernus"/>
+        <card number="1" name="Rabble Rousing"/>
     </zone>
 </cockatrice_deck>

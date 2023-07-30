@@ -12,7 +12,6 @@
         <card number="1" name="Cruel Celebrant"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Vindictive Vampire"/>
         <card number="1" name="Syr Konrad, the Grim"/>
@@ -61,7 +60,6 @@
         <card number="1" name="Altar's Reap"/>
         <card number="1" name="Hallowed Spiritkeeper"/>
         <card number="1" name="Palace Siege"/>
-        <card number="1" name="Bishop of Rebirth"/>
         <card number="1" name="Xathrid Necromancer"/>
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Smothering Abomination"/>
@@ -70,7 +68,6 @@
         <card number="1" name="Bastion of Remembrance"/>
         <card number="1" name="Carrion Feeder"/>
         <card number="1" name="Carrier Thrall"/>
-        <card number="1" name="Heirloom Blade"/>
         <card number="1" name="Pitiless Plunderer"/>
         <card number="1" name="Woe Strider"/>
         <card number="1" name="Reckoner's Bargain"/>
@@ -181,5 +178,8 @@
         <card number="1" name="Victimize"/>
         <card number="1" name="Overseer of the Damned"/>
         <card number="1" name="Pyre of Heroes"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Heirloom Blade"/>
+        <card number="1" name="Bishop of Rebirth"/>
     </zone>
 </cockatrice_deck>

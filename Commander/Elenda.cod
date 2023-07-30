@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Elenda</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Elenda, the Dusk Rose"/>
+        <card number="1" name="Massacre Girl"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Blade of the Bloodchief"/>
+        <card number="1" name="Cruel Celebrant"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Heirloom Blade"/>
+        <card number="1" name="Corrupted Conviction"/>
+        <card number="1" name="Plumb the Forbidden"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Carrion Feeder"/>
+        <card number="1" name="Woe Strider"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Corpse Knight"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Sanctum Seeker"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Slash the Ranks"/>
+        <card number="1" name="Tragic Arrogance"/>
+        <card number="1" name="Single Combat"/>
+        <card number="1" name="Divine Reckoning"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="Ghost Lantern // Bind Spirit"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Luminarch Aspirant"/>
+        <card number="1" name="Together Forever"/>
+        <card number="1" name="Animation Module"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Fracture"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Noble Heritage"/>
+        <card number="1" name="Nils, Discipline Enforcer"/>
+        <card number="1" name="Orzhov Advokist"/>
+        <card number="1" name="Breena, the Demagogue"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="9" name="Swamp"/>
+        <card number="1" name="High Market"/>
+        <card number="9" name="Plains"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="Lae'zel, Vlaakith's Champion"/>
+        <card number="1" name="Resourceful Defense"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Reveillark"/>
+        <card number="1" name="Bolas's Citadel"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Massacre Girl"/>
+        <card number="1" name="Skrelv's Hive"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Scholar of New Horizons"/>
+        <card number="1" name="Felisa, Fang of Silverquill"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Hellish Rebuke"/>
+        <card number="1" name="Promise of Loyalty"/>
+        <card number="1" name="Campaign of Vengeance"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Siege Veteran"/>
+        <card number="1" name="Cordial Vampire"/>
+        <card number="1" name="Smuggler's Share"/>
+        <card number="1" name="Cataclysmic Gearhulk"/>
+    </zone>
+</cockatrice_deck>

@@ -33,27 +33,21 @@
         <card number="1" name="Dark-Dweller Oracle"/>
         <card number="1" name="Demon Bolt"/>
         <card number="1" name="Natural Reclamation"/>
-        <card number="1" name="Faithless Salvaging"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="You Find Some Prisoners"/>
         <card number="1" name="March of Reckless Joy"/>
-        <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Creative Technique"/>
         <card number="1" name="Volcanic Torrent"/>
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Venture Forth"/>
-        <card number="1" name="Reckless Impulse"/>
         <card number="1" name="Experimental Frenzy"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Inspired Tinkering"/>
-        <card number="1" name="Soulfire Eruption"/>
         <card number="1" name="Valakut Exploration"/>
         <card number="1" name="Journey to the Lost City"/>
-        <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Tavern Brawler"/>
         <card number="1" name="Vivien, Champion of the Wilds"/>
-        <card number="1" name="Chandra, Fire Artisan"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Spinerock Knoll"/>
         <card number="1" name="Sol Ring"/>
@@ -85,10 +79,22 @@
         <card number="1" name="Spire Garden"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Beast Within"/>
+        <card number="1" name="Apex Devastator"/>
+        <card number="1" name="Terramorph"/>
+        <card number="1" name="Tribute to the World Tree"/>
+        <card number="1" name="Grumgully, the Generous"/>
+        <card number="1" name="City on Fire"/>
+        <card number="1" name="End-Raze Forerunners"/>
     </zone>
     <zone name="side">
         <card number="1" name="Izzet Chemister"/>
         <card number="1" name="Chandra, Heart of Fire"/>
         <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Faithless Salvaging"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Chandra, Fire Artisan"/>
+        <card number="1" name="Reckless Impulse"/>
+        <card number="1" name="Beastmaster Ascension"/>
     </zone>
 </cockatrice_deck>

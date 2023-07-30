@@ -20,20 +20,15 @@
         <card number="1" name="Inkshield"/>
         <card number="1" name="Soul Snare"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Sejiri Shelter"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Command Tower"/>
         <card number="10" name="Plains"/>
         <card number="8" name="Swamp"/>
         <card number="1" name="Settle the Wreckage"/>
-        <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Bounty Agent"/>
         <card number="1" name="Retribution of the Ancients"/>
-        <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Disenchant"/>
         <card number="1" name="Forsworn Paladin"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Orzhov Basilica"/>
         <card number="1" name="Hopeful Initiate"/>
         <card number="1" name="Lurrus of the Dream-Den"/>
@@ -44,15 +39,8 @@
         <card number="1" name="Fetid Heath"/>
         <card number="1" name="Shineshadow Snarl"/>
         <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Battlefield Raptor"/>
         <card number="1" name="Godless Shrine"/>
-        <card number="1" name="Marsh Flats"/>
         <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Winds of Abandon"/>
-        <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Demonic Bargain"/>
         <card number="1" name="Cliffside Rescuer"/>
         <card number="1" name="Aven Mindcensor"/>
         <card number="1" name="Kinjalli's Sunwing"/>
@@ -60,33 +48,45 @@
         <card number="1" name="Strict Proctor"/>
         <card number="1" name="Hushbringer"/>
         <card number="1" name="Remorseful Cleric"/>
-        <card number="1" name="Thalia, Guardian of Thraben"/>
-        <card number="1" name="Vryn Wingmare"/>
         <card number="1" name="Imposing Sovereign"/>
-        <card number="1" name="Segovian Angel"/>
         <card number="1" name="Isolated Chapel"/>
         <card number="1" name="Cathar Commando"/>
-        <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Selfless Spirit"/>
         <card number="1" name="Plaza of Heroes"/>
         <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Hellish Rebuke"/>
-        <card number="1" name="Reidane, God of the Worthy"/>
-        <card number="1" name="Archon of Coronation"/>
         <card number="1" name="Selfless Samurai"/>
         <card number="1" name="Selfless Glyphweaver"/>
-        <card number="1" name="Aerial Extortionist"/>
-        <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Seal of Cleansing"/>
         <card number="1" name="Sevinne's Reclamation"/>
-        <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Archivist of Oghma"/>
         <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Mandate of Peace"/>
         <card number="1" name="Shizo, Death's Storehouse"/>
-        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Guardian of Faith"/>
+        <card number="1" name="Guardian Scalelord"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Invasion of Gobakhan"/>
+        <card number="1" name="Deep Gnome Terramancer"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Curtains' Call"/>
+        <card number="1" name="Lotho, Corrupt Shirriff"/>
+        <card number="1" name="Ayara's Oathsworn"/>
+        <card number="1" name="Children of Korlis"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="High Priest of Penance"/>
+        <card number="1" name="Lion Sash"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Giant Killer // Chop Down"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Scholar of New Horizons"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Cutthroat"/>
@@ -98,12 +98,12 @@
         <card number="2" name="Containment Priest"/>
         <card number="1" name="Hushwing Gryff"/>
         <card number="1" name="Tocatli Honor Guard"/>
-        <card number="1" name="Battlefield Raptor"/>
+        <card number="2" name="Battlefield Raptor"/>
         <card number="3" name="Deafening Silence"/>
         <card number="1" name="Doom Blade"/>
         <card number="1" name="Custodi Lich"/>
         <card number="1" name="Speaker of the Heavens"/>
-        <card number="1" name="Cleansing Nova"/>
+        <card number="2" name="Cleansing Nova"/>
         <card number="1" name="Baleful Mastery"/>
         <card number="2" name="Necropolis Regent"/>
         <card number="1" name="Shambling Vent"/>
@@ -127,14 +127,14 @@
         <card number="1" name="Fey Steed"/>
         <card number="1" name="Guardian Archon"/>
         <card number="1" name="Stalking Leonin"/>
-        <card number="1" name="Command Beacon"/>
+        <card number="2" name="Command Beacon"/>
         <card number="1" name="Selfless Glyphweaver"/>
         <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Basri's Lieutenant"/>
         <card number="1" name="Orzhov Advokist"/>
         <card number="1" name="High Priest of Penance"/>
         <card number="1" name="Crib Swap"/>
-        <card number="2" name="Giant Killer // Chop Down"/>
+        <card number="3" name="Giant Killer // Chop Down"/>
         <card number="1" name="Snowfield Sinkhole"/>
         <card number="2" name="Whispersilk Cloak"/>
         <card number="3" name="Emerge Unscathed"/>
@@ -144,7 +144,7 @@
         <card number="2" name="Scoured Barrens"/>
         <card number="1" name="Goldmire Bridge"/>
         <card number="2" name="Arcane Signet"/>
-        <card number="1" name="Sol Ring"/>
+        <card number="2" name="Sol Ring"/>
         <card number="1" name="Godless Shrine"/>
         <card number="3" name="Utter End"/>
         <card number="1" name="Isolated Chapel"/>
@@ -152,18 +152,18 @@
         <card number="1" name="Silverquill Campus"/>
         <card number="1" name="Brave the Elements"/>
         <card number="1" name="Gods Willing"/>
-        <card number="2" name="Archon of Coronation"/>
+        <card number="3" name="Archon of Coronation"/>
         <card number="1" name="Anguished Unmaking"/>
         <card number="1" name="Dire Tactics"/>
         <card number="1" name="Blacksmith's Skill"/>
-        <card number="4" name="Plains"/>
+        <card number="5" name="Plains"/>
         <card number="5" name="Swamp"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Tainted Field"/>
         <card number="1" name="Knight of the Ebon Legion"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Segovian Angel"/>
+        <card number="2" name="Sun Titan"/>
+        <card number="2" name="Segovian Angel"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Selfless Squire"/>
         <card number="1" name="Commander's Plate"/>
@@ -193,19 +193,42 @@
         <card number="1" name="Archon of Emeria"/>
         <card number="1" name="Eidolon of Rhetoric"/>
         <card number="1" name="Battle Angels of Tyr"/>
-        <card number="1" name="Rug of Smothering"/>
+        <card number="2" name="Rug of Smothering"/>
         <card number="1" name="Shadrix Silverquill"/>
         <card number="1" name="Dauntless Bodyguard"/>
         <card number="2" name="Angel of the Dire Hour"/>
-        <card number="2" name="Mandate of Peace"/>
-        <card number="1" name="Bastion Protector"/>
+        <card number="3" name="Mandate of Peace"/>
+        <card number="2" name="Bastion Protector"/>
         <card number="1" name="Ondu Inversion"/>
         <card number="1" name="Beloved Princess"/>
         <card number="1" name="Dawn Charm"/>
         <card number="1" name="Giver of Runes"/>
         <card number="1" name="Destroy Evil"/>
         <card number="1" name="Oblation"/>
-        <card number="1" name="Esper Sentinel"/>
+        <card number="2" name="Esper Sentinel"/>
         <card number="1" name="Guardian of Faith"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Aerial Extortionist"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Winds of Abandon"/>
+        <card number="1" name="Thalia, Guardian of Thraben"/>
+        <card number="1" name="Vryn Wingmare"/>
+        <card number="1" name="Opposition Agent"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Hellish Rebuke"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="White Plume Adventurer"/>
+        <card number="1" name="Dusk Legion Duelist"/>
+        <card number="1" name="Sejiri Shelter"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Skyfisher Spider"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Drumbellower"/>
+        <card number="1" name="Reidane, God of the Worthy"/>
+        <card number="1" name="Rogue's Passage"/>
     </zone>
 </cockatrice_deck>

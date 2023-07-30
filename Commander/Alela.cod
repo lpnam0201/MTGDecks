@@ -8,7 +8,6 @@
         <card number="1" name="Reconnaissance Mission"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Propaganda"/>
-        <card number="1" name="Confounding Conundrum"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Dimir Signet"/>
@@ -17,23 +16,15 @@
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Thought Vessel"/>
-        <card number="1" name="All That Glitters"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Citywide Bust"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Spear of Heliod"/>
-        <card number="1" name="Darksteel Mutation"/>
-        <card number="1" name="Banishing Light"/>
         <card number="1" name="Rogue's Gloves"/>
         <card number="1" name="Mask of Memory"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Timely Ward"/>
-        <card number="1" name="Unquestioned Authority"/>
-        <card number="1" name="Confiscate"/>
         <card number="1" name="Coalition Relic"/>
         <card number="1" name="Military Intelligence"/>
         <card number="1" name="Reliquary Tower"/>
@@ -54,39 +45,48 @@
         <card number="7" name="Plains"/>
         <card number="6" name="Island"/>
         <card number="6" name="Swamp"/>
-        <card number="1" name="Cast Out"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Seal of Cleansing"/>
-        <card number="1" name="Conclave Tribunal"/>
-        <card number="1" name="Stasis Snare"/>
-        <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Countersquall"/>
-        <card number="1" name="Rootborn Defenses"/>
         <card number="1" name="Inspiring Statuary"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Quarantine Field"/>
-        <card number="1" name="Dance of the Manse"/>
-        <card number="1" name="Thopter Assembly"/>
-        <card number="1" name="Thopter Spy Network"/>
-        <card number="1" name="True Conviction"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Imprisoned in the Moon"/>
-        <card number="1" name="Minimus Containment"/>
         <card number="1" name="Windfall"/>
-        <card number="1" name="Make a Stand"/>
-        <card number="1" name="Coastal Piracy"/>
         <card number="1" name="Curiosity"/>
         <card number="1" name="Curious Obsession"/>
         <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Soul Snare"/>
-        <card number="1" name="Steel Hellkite"/>
-        <card number="1" name="Debtors' Knell"/>
         <card number="1" name="Etchings of the Chosen"/>
-        <card number="1" name="Frogify"/>
-        <card number="1" name="Lawmage's Binding"/>
         <card number="1" name="Staggering Insight"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="The Reality Chip"/>
+        <card number="1" name="Lion Sash"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Tome of Legends"/>
+        <card number="1" name="Void Rend"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Shorikai, Genesis Engine"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="Court of Grace"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Divine Visitation"/>
     </zone>
     <zone name="side">
         <card number="2" name="Sephara, Sky's Blade"/>
@@ -106,14 +106,14 @@
         <card number="1" name="Arcanist's Owl"/>
         <card number="2" name="Mentor of the Meek"/>
         <card number="1" name="Windreader Sphinx"/>
-        <card number="1" name="Conclave Tribunal"/>
+        <card number="2" name="Conclave Tribunal"/>
         <card number="1" name="Faerie Formation"/>
         <card number="1" name="Court of Grace"/>
         <card number="2" name="Generous Gift"/>
         <card number="1" name="Baffling End"/>
-        <card number="1" name="Oblivion Ring"/>
+        <card number="2" name="Oblivion Ring"/>
         <card number="1" name="Mana Leak"/>
-        <card number="1" name="Lawmage's Binding"/>
+        <card number="2" name="Lawmage's Binding"/>
         <card number="1" name="Ixalan's Binding"/>
         <card number="1" name="Prison Realm"/>
         <card number="1" name="Empyrean Eagle"/>
@@ -123,7 +123,7 @@
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Burnished Hart"/>
         <card number="1" name="Skullclamp"/>
-        <card number="1" name="Quarantine Field"/>
+        <card number="2" name="Quarantine Field"/>
         <card number="1" name="Unwind"/>
         <card number="1" name="Benevolent Blessing"/>
         <card number="1" name="Saw It Coming"/>
@@ -132,5 +132,27 @@
         <card number="1" name="Dictate of Heliod"/>
         <card number="1" name="Inniaz, the Gale Force"/>
         <card number="1" name="Staggering Insight"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Thopter Assembly"/>
+        <card number="1" name="Banishing Light"/>
+        <card number="1" name="Cast Out"/>
+        <card number="1" name="Confiscate"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Debtors' Knell"/>
+        <card number="1" name="Frogify"/>
+        <card number="1" name="Minimus Containment"/>
+        <card number="1" name="Stasis Snare"/>
+        <card number="1" name="Thopter Spy Network"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Make a Stand"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Dance of the Manse"/>
+        <card number="1" name="Spear of Heliod"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Confounding Conundrum"/>
+        <card number="1" name="Coastal Piracy"/>
     </zone>
 </cockatrice_deck>

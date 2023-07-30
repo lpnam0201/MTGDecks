@@ -4,36 +4,136 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Jori En, Ruin Diver"/>
-        <card number="1" name="Discover the Impossible"/>
         <card number="1" name="Expressive Iteration"/>
         <card number="1" name="Guttersnipe"/>
-        <card number="1" name="Treasure Cruise"/>
-        <card number="1" name="Jeska's Will"/>
-        <card number="1" name="Rousing Refrain"/>
-        <card number="1" name="Inspiring Refrain"/>
-        <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Candlekeep Inspiration"/>
         <card number="1" name="Surge to Victory"/>
         <card number="1" name="Third Path Iconoclast"/>
         <card number="1" name="Young Pyromancer"/>
         <card number="1" name="Saheeli, Sublime Artificer"/>
-        <card number="1" name="Metallurgic Summonings"/>
         <card number="1" name="Talrand, Sky Summoner"/>
         <card number="1" name="Alandra, Sky Dreamer"/>
         <card number="1" name="Murmuring Mystic"/>
-        <card number="1" name="Storm-Kiln Artist"/>
-        <card number="1" name="Archmage Emeritus"/>
         <card number="1" name="Birgi, God of Storytelling"/>
-        <card number="1" name="Solve the Equation"/>
-        <card number="1" name="Step Through"/>
-        <card number="1" name="Deekah, Fractal Theorist"/>
-        <card number="1" name="Manaform Hellkite"/>
-        <card number="1" name="Poppet Stitcher"/>
-        <card number="1" name="Whispering Wizard"/>
+        <card number="1" name="Minn, Wily Illusionist"/>
+        <card number="1" name="Improbable Alliance"/>
+        <card number="1" name="Mad Ratter"/>
+        <card number="1" name="Cryptic Pursuit"/>
+        <card number="1" name="Harmonic Prodigy"/>
+        <card number="1" name="Loyal Apprentice"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Expedite"/>
+        <card number="1" name="Crash Through"/>
+        <card number="1" name="Thought Scour"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Renegade Tactics"/>
+        <card number="1" name="Portent"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Blink of an Eye"/>
+        <card number="1" name="Rile"/>
+        <card number="1" name="Warlord's Fury"/>
+        <card number="1" name="Ancestral Anger"/>
+        <card number="1" name="Quicken"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Dragonshift"/>
+        <card number="1" name="Descent of the Dragons"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="10" name="Mountain"/>
+        <card number="10" name="Island"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Stormcarved Coast"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Izzet Charm"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Sorcerer Class"/>
+        <card number="1" name="Consider"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Fiery Inscription"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Keldon Flamesage"/>
+        <card number="1" name="Chasm Skulker"/>
+        <card number="1" name="Borne Upon a Wind"/>
+        <card number="1" name="Unsubstantiate"/>
+        <card number="1" name="Radical Idea"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Aria of Flame"/>
+        <card number="1" name="Smoldering Egg"/>
+        <card number="1" name="Sprite Dragon"/>
+        <card number="1" name="Mizzium Mortars"/>
+        <card number="1" name="Day of the Dragons"/>
+        <card number="1" name="Invasion of Segovia"/>
     </zone>
     <zone name="side">
         <card number="1" name="Alandra, Sky Dreamer"/>
         <card number="1" name="Surge to Victory"/>
         <card number="1" name="Haughty Djinn"/>
+        <card number="2" name="Whispering Wizard"/>
+        <card number="2" name="Metallurgic Summonings"/>
+        <card number="1" name="Inspiring Refrain"/>
+        <card number="1" name="Deekah, Fractal Theorist"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Occult Epiphany"/>
+        <card number="1" name="Discover the Impossible"/>
+        <card number="1" name="Currency Converter"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Irenicus's Vile Duplication"/>
+        <card number="1" name="Balmor, Battlemage Captain"/>
+        <card number="1" name="Cathartic Pyre"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Manaform Hellkite"/>
+        <card number="1" name="Consider"/>
+        <card number="1" name="Synthetic Destiny"/>
+        <card number="1" name="Rousing Refrain"/>
+        <card number="1" name="Poppet Stitcher"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Ethereal Investigator"/>
+        <card number="2" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Step Through"/>
+        <card number="1" name="Shared Animosity"/>
+        <card number="1" name="Goblin Assault"/>
+        <card number="1" name="Day of the Dragons"/>
+        <card number="1" name="Krenko, Mob Boss"/>
+        <card number="1" name="Legion Warboss"/>
+        <card number="1" name="Goblin Rabblemaster"/>
+        <card number="1" name="The Locust God"/>
+        <card number="1" name="The Reality Chip"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Kobolds of Kher Keep (Token)"/>
     </zone>
 </cockatrice_deck>

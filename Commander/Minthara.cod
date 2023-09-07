@@ -4,91 +4,87 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Minthara, Merciless Soul"/>
-        <card number="1" name="Staff of Compleation"/>
         <card number="1" name="Karn's Bastion"/>
-        <card number="1" name="Grateful Apparition"/>
-        <card number="1" name="Lae'zel, Vlaakith's Champion"/>
-        <card number="1" name="Battle Angels of Tyr"/>
-        <card number="1" name="Deadly Dispute"/>
-        <card number="1" name="Grim Hireling"/>
         <card number="1" name="Ruthless Technomancer"/>
         <card number="1" name="Disciple of Bolas"/>
         <card number="1" name="Master of Ceremonies"/>
         <card number="1" name="Skullport Merchant"/>
         <card number="1" name="Forsworn Paladin"/>
-        <card number="1" name="Archivist of Oghma"/>
-        <card number="1" name="Selfless Spirit"/>
-        <card number="1" name="Selfless Savior"/>
-        <card number="1" name="Selfless Samurai"/>
-        <card number="1" name="Selfless Glyphweaver"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Loran of the Third Path"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Inkshield"/>
-        <card number="1" name="Corrupted Conviction"/>
-        <card number="1" name="Village Rites"/>
         <card number="1" name="Reckoner's Bargain"/>
-        <card number="1" name="Smuggler's Share"/>
-        <card number="1" name="Monologue Tax"/>
         <card number="1" name="Cathar Commando"/>
-        <card number="1" name="Cliffside Rescuer"/>
-        <card number="1" name="Alseid of Life's Bounty"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Guardian Scalelord"/>
-        <card number="1" name="Guardian of Faith"/>
-        <card number="1" name="Bounty Agent"/>
-        <card number="1" name="Benevolent Bodyguard"/>
-        <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Demonic Bargain"/>
-        <card number="1" name="Diabolic Intent"/>
-        <card number="1" name="Settle the Wreckage"/>
-        <card number="1" name="Path to Exile"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Anguished Unmaking"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Remorseful Cleric"/>
-        <card number="1" name="Esper Sentinel"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Karmic Guide"/>
-        <card number="1" name="Netherborn Altar"/>
-        <card number="1" name="Reveillark"/>
-        <card number="1" name="Morbid Opportunist"/>
-        <card number="1" name="Priest of Fell Rites"/>
-        <card number="1" name="Akroma's Will"/>
-        <card number="1" name="Clever Concealment"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Fabled Passage"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Evolving Wilds"/>
-        <card number="8" name="Plains"/>
-        <card number="8" name="Swamp"/>
+        <card number="10" name="Plains"/>
+        <card number="10" name="Swamp"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Orzhov Basilica"/>
         <card number="1" name="Fetid Heath"/>
         <card number="1" name="Temple of Silence"/>
-        <card number="1" name="Vault of Champions"/>
         <card number="1" name="Isolated Chapel"/>
-        <card number="1" name="Godless Shrine"/>
         <card number="1" name="Shineshadow Snarl"/>
         <card number="1" name="Shattered Sanctum"/>
-        <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Fell Stinger"/>
-        <card number="1" name="Ashnod's Altar"/>
-        <card number="1" name="Sevinne's Reclamation"/>
         <card number="1" name="Victimize"/>
-        <card number="1" name="Prying Blade"/>
-        <card number="1" name="Goldvein Pick"/>
+        <card number="1" name="Rosie Cotton of South Lane"/>
+        <card number="1" name="Hoard Robber"/>
+        <card number="1" name="Zhentarim Bandit"/>
+        <card number="1" name="Marching Duodrone"/>
+        <card number="1" name="Bill the Pony"/>
+        <card number="1" name="Eastfarthing Farmer"/>
+        <card number="1" name="Thorough Investigation"/>
+        <card number="1" name="Noble's Purse"/>
+        <card number="1" name="Of Herbs and Stewed Rabbit"/>
+        <card number="1" name="Oath of the Grey Host"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Trading Post"/>
+        <card number="1" name="Pointed Discussion"/>
+        <card number="1" name="Exsanguinator Cavalry"/>
+        <card number="1" name="Falkenrath Forebear"/>
+        <card number="1" name="Hammers of Moradin"/>
+        <card number="1" name="Wyrm's Crossing Patrol"/>
+        <card number="1" name="Rite of Oblivion"/>
+        <card number="1" name="Final Payment"/>
+        <card number="1" name="Bygone Bishop"/>
+        <card number="1" name="Thraben Inspector"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Westfold Rider"/>
+        <card number="1" name="Dockside Chef"/>
+        <card number="1" name="Fain, the Broker"/>
+        <card number="1" name="Shadowheart, Dark Justiciar"/>
+        <card number="1" name="Rapacious Guest"/>
+        <card number="1" name="Selfless Glyphweaver"/>
+        <card number="1" name="Selfless Samurai"/>
+        <card number="1" name="Stalwart Pathlighter"/>
+        <card number="1" name="Frontline Medic"/>
+        <card number="1" name="Archetype of Courage"/>
+        <card number="1" name="Banisher Priest"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Court of Grace"/>
+        <card number="1" name="Pegasus Guardian // Rescue the Foal"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Costly Plunder"/>
+        <card number="1" name="Obscura Storefront"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Darksteel Splicer"/>
+        <card number="1" name="Blade Splicer"/>
+        <card number="1" name="Lotho, Corrupt Shirriff"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Nadaar, Selfless Paladin"/>
+        <card number="1" name="Triumphant Adventurer"/>
     </zone>
     <zone name="side">
         <card number="1" name="Glistening Sphere"/>
@@ -102,5 +98,76 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Breena, the Demagogue"/>
         <card number="1" name="Austere Command"/>
+        <card number="1" name="Archivist of Oghma"/>
+        <card number="1" name="Battle Angels of Tyr"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Goldvein Pick"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Prying Blade"/>
+        <card number="1" name="Staff of Compleation"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Bounty Agent"/>
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Grateful Apparition"/>
+        <card number="1" name="Grim Hireling"/>
+        <card number="1" name="Guardian Scalelord"/>
+        <card number="1" name="Guardian of Faith"/>
+        <card number="1" name="Lae'zel, Vlaakith's Champion"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Remorseful Cleric"/>
+        <card number="1" name="Reveillark"/>
+        <card number="1" name="Selfless Glyphweaver"/>
+        <card number="1" name="Selfless Samurai"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="2" name="Selfless Spirit"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Bucknard's Everfull Purse"/>
+        <card number="1" name="Argivian Cavalier"/>
+        <card number="1" name="Benalish Faithbonder"/>
+        <card number="1" name="Banshee of the Dread Choir"/>
+        <card number="1" name="Guardian of New Benalia"/>
+        <card number="1" name="Herald of the Host"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Priest of Fell Rites"/>
+        <card number="1" name="Tabaxi Toucaneers"/>
+        <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Smuggler's Share"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Late to Dinner"/>
+        <card number="1" name="Fell Stinger"/>
+        <card number="1" name="Corrupted Conviction"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Can't Stay Away"/>
+        <card number="1" name="Ruthless Knave"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Deadly Dispute"/>
+        <card number="1" name="Currency Converter"/>
+        <card number="1" name="Deadly Derision"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Invasion of New Capenna"/>
+        <card number="1" name="Predators' Hour"/>
+        <card number="1" name="Coalition Skyknight"/>
+        <card number="1" name="Weathered Sentinels"/>
+        <card number="1" name="Odric, Lunarch Marshal"/>
+        <card number="1" name="Sevinne's Reclamation"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Duelist's Heritage"/>
     </zone>
 </cockatrice_deck>

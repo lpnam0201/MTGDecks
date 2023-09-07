@@ -16,13 +16,10 @@
         <card number="1" name="Nadaar, Selfless Paladin"/>
         <card number="1" name="Karmic Guide"/>
         <card number="1" name="Triumphant Adventurer"/>
-        <card number="1" name="Mulldrifter"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Obsessive Stitcher"/>
-        <card number="1" name="Phantasmal Image"/>
         <card number="1" name="Angel of the Ruins"/>
         <card number="1" name="Ghostly Pilferer"/>
-        <card number="1" name="Jirina, Dauntless General"/>
         <card number="1" name="Master of Death"/>
         <card number="1" name="Notion Thief"/>
         <card number="1" name="Gray Merchant of Asphodel"/>
@@ -35,7 +32,6 @@
         <card number="1" name="Serra's Emissary"/>
         <card number="1" name="Rona, Herald of Invasion"/>
         <card number="1" name="Merfolk Looter"/>
-        <card number="1" name="Plaguecrafter"/>
         <card number="1" name="Ertai Resurrected"/>
         <card number="1" name="Overcharged Amalgam"/>
         <card number="1" name="Barrowin of Clan Undurr"/>
@@ -47,24 +43,10 @@
         <card number="1" name="Hullbreaker Horror"/>
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Obscura Charm"/>
-        <card number="1" name="Deadly Dispute"/>
-        <card number="1" name="Corrupted Conviction"/>
-        <card number="1" name="Village Rites"/>
         <card number="1" name="Yuan-Ti Malison"/>
-        <card number="1" name="Vohar, Vodalian Desecrator"/>
-        <card number="1" name="Archon of Coronation"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Watery Grave"/>
-        <card number="1" name="Godless Shrine"/>
-        <card number="1" name="Hallowed Fountain"/>
-        <card number="1" name="Vault of Champions"/>
-        <card number="1" name="Sea of Clouds"/>
-        <card number="1" name="Morphic Pool"/>
         <card number="1" name="Caves of Koilos"/>
-        <card number="1" name="Underground River"/>
         <card number="1" name="Adarkar Wastes"/>
         <card number="1" name="Darkwater Catacombs"/>
         <card number="1" name="Sunken Hollow"/>
@@ -74,9 +56,6 @@
         <card number="4" name="Swamp"/>
         <card number="4" name="Plains"/>
         <card number="4" name="Island"/>
-        <card number="1" name="Deserted Beach"/>
-        <card number="1" name="Shipwreck Marsh"/>
-        <card number="1" name="Shattered Sanctum"/>
         <card number="1" name="Raffine's Tower"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Enclave Cryptologist"/>
@@ -87,13 +66,34 @@
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Dimir Signet"/>
-        <card number="1" name="Monstrosity of the Lake"/>
         <card number="1" name="Seasoned Dungeoneer"/>
         <card number="1" name="Cataclysmic Gearhulk"/>
-        <card number="1" name="Razaketh, the Foulblooded"/>
         <card number="1" name="Ravenous Chupacabra"/>
-        <card number="1" name="Sunblast Angel"/>
         <card number="1" name="Phyrexian Delver"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Vile Entomber"/>
+        <card number="1" name="Evil Twin"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Great Hall of the Citadel"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Port of Karfell"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Phantasmal Image"/>
+        <card number="1" name="Razaketh, the Foulblooded"/>
+        <card number="1" name="Vohar, Vodalian Desecrator"/>
+        <card number="1" name="Athreos, Shroud-Veiled"/>
+        <card number="1" name="Monstrosity of the Lake"/>
+        <card number="1" name="Sarevok's Tome"/>
+        <card number="1" name="Vicious Battlerager"/>
     </zone>
     <zone name="side">
         <card number="1" name="From the Catacombs"/>
@@ -117,5 +117,39 @@
         <card number="1" name="Baleful Strix"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Clever Impersonator"/>
+        <card number="1" name="Corrupted Conviction"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Deadly Dispute"/>
+        <card number="1" name="Sunblast Angel"/>
+        <card number="1" name="Wash Away"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Deserted Beach"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Phantasmal Image"/>
+        <card number="1" name="Razaketh, the Foulblooded"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="2" name="Hulking Metamorph"/>
+        <card number="1" name="Jirina, Dauntless General"/>
+        <card number="1" name="Vohar, Vodalian Desecrator"/>
+        <card number="1" name="Archon of Coronation"/>
+        <card number="1" name="Monstrosity of the Lake"/>
+        <card number="1" name="Jailbreak"/>
+        <card number="1" name="Plaguecrafter"/>
     </zone>
 </cockatrice_deck>

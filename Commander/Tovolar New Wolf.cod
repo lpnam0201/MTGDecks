@@ -22,10 +22,8 @@
         <card number="1" name="Burly Breaker"/>
         <card number="1" name="Fangblade Brigand"/>
         <card number="1" name="Anara, Wolvid Familiar"/>
-        <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Return to Nature"/>
-        <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Temple of Abandon"/>
         <card number="1" name="Mossfire Valley"/>
@@ -36,9 +34,7 @@
         <card number="10" name="Forest"/>
         <card number="1" name="Tireless Hauler"/>
         <card number="1" name="Fearful Villager"/>
-        <card number="1" name="Wrap in Vigor"/>
         <card number="1" name="Command Beacon"/>
-        <card number="1" name="Gruul Signet"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Sakura-Tribe Elder"/>
@@ -49,7 +45,6 @@
         <card number="1" name="Game Trail"/>
         <card number="1" name="Spire Garden"/>
         <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Realmwalker"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Primal Adversary"/>
         <card number="1" name="Cemetery Prowler"/>
@@ -59,20 +54,15 @@
         <card number="1" name="Karplusan Forest"/>
         <card number="1" name="Gruul Turf"/>
         <card number="1" name="Chain Reaction"/>
-        <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Ferocious Pup"/>
-        <card number="1" name="Key to the City"/>
         <card number="1" name="Three Visits"/>
         <card number="1" name="Search for Tomorrow"/>
-        <card number="1" name="Talisman of Impulse"/>
         <card number="1" name="Immerwolf"/>
         <card number="1" name="Taurean Mauler"/>
         <card number="1" name="Spirit of the Hunt"/>
         <card number="1" name="Bounding Wolf"/>
         <card number="1" name="Pack Guardian"/>
         <card number="1" name="Briarpack Alpha"/>
-        <card number="1" name="Guardian Project"/>
-        <card number="1" name="Sylvan Library"/>
         <card number="1" name="Oakshade Stalker"/>
         <card number="1" name="Ram Through"/>
         <card number="1" name="Moonlight Hunt"/>
@@ -80,16 +70,26 @@
         <card number="1" name="Inscription of Abundance"/>
         <card number="1" name="Master's Rebuke"/>
         <card number="1" name="Wyll's Reversal"/>
-        <card number="1" name="Bite Down"/>
         <card number="1" name="Howling Moon"/>
         <card number="1" name="Choose Your Weapon"/>
-        <card number="1" name="Summoner's Pact"/>
-        <card number="1" name="Worldly Tutor"/>
         <card number="1" name="Ballista Watcher"/>
+        <card number="1" name="Full Moon's Rise"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Friendly Rivalry"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Berserkers' Onslaught"/>
+        <card number="1" name="Blood Mist"/>
+        <card number="1" name="Rage Reflection"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Volatile Arsonist"/>
     </zone>
     <zone name="side">
         <card number="2" name="Overwhelming Stampede"/>
-        <card number="1" name="Dire-Strain Rampage"/>
+        <card number="2" name="Dire-Strain Rampage"/>
         <card number="2" name="Swiftfoot Boots"/>
         <card number="2" name="Lightning Greaves"/>
         <card number="3" name="Daybreak Ranger"/>
@@ -106,7 +106,7 @@
         <card number="1" name="Kruin Outlaw"/>
         <card number="1" name="Mayor of Avabruck"/>
         <card number="1" name="Huntmaster of the Fells"/>
-        <card number="1" name="Realmwalker"/>
+        <card number="2" name="Realmwalker"/>
         <card number="3" name="Sage of Ancient Lore"/>
         <card number="2" name="Scorned Villager"/>
         <card number="1" name="Silverfur Partisan"/>
@@ -118,7 +118,7 @@
         <card number="1" name="Ranger Class"/>
         <card number="1" name="Howlpack Resurgence"/>
         <card number="2" name="Full Moon's Rise"/>
-        <card number="3" name="Gruul Signet"/>
+        <card number="4" name="Gruul Signet"/>
         <card number="2" name="Rampant Growth"/>
         <card number="2" name="Farseek"/>
         <card number="1" name="Afflicted Deserter"/>
@@ -137,7 +137,7 @@
         <card number="1" name="Lambholt Raconteur"/>
         <card number="2" name="Vivien, Champion of the Wilds"/>
         <card number="2" name="Bird Admirer"/>
-        <card number="1" name="Wrap in Vigor"/>
+        <card number="2" name="Wrap in Vigor"/>
         <card number="2" name="Kessig Wolf Run"/>
         <card number="2" name="Mind Stone"/>
         <card number="2" name="Prismatic Lens"/>
@@ -191,7 +191,7 @@
         <card number="2" name="Forest"/>
         <card number="1" name="Wooded Foothills"/>
         <card number="1" name="Withstand Death"/>
-        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="3" name="Return of the Wildspeaker"/>
         <card number="1" name="Road of Return"/>
         <card number="1" name="Tamiyo's Safekeeping"/>
         <card number="1" name="Ballista Watcher"/>
@@ -221,6 +221,18 @@
         <card number="1" name="Bolt Bend"/>
         <card number="1" name="Packsong Pup"/>
         <card number="1" name="Harvesttide Infiltrator"/>
-        <card number="1" name="Tribute to the World Tree"/>
+        <card number="2" name="Tribute to the World Tree"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Bite Down"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Audacious Swap"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Shared Animosity"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Talisman of Impulse"/>
     </zone>
 </cockatrice_deck>

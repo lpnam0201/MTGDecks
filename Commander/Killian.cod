@@ -85,6 +85,7 @@
         <card number="1" name="Sign in Blood"/>
         <card number="1" name="Night's Whisper"/>
         <card number="1" name="Read the Bones"/>
+        <card number="1" name="Master of Ceremonies"/>
     </zone>
     <zone name="side">
         <card number="1" name="Demonic Gifts"/>
@@ -175,5 +176,6 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Tome of Legends"/>
+        <card number="1" name="Call of the Ring"/>
     </zone>
 </cockatrice_deck>

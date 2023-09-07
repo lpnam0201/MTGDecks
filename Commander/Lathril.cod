@@ -39,7 +39,6 @@
         <card number="1" name="Undergrowth Stadium"/>
         <card number="1" name="Necroblossom Snarl"/>
         <card number="1" name="Twilight Mire"/>
-        <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Gala Greeters"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Lifecrafter's Bestiary"/>
@@ -84,7 +83,8 @@
         <card number="1" name="Farseek"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Trailblazer's Boots"/>
-        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Graaz, Unstoppable Juggernaut"/>
+        <card number="1" name="Pact of the Serpent"/>
     </zone>
     <zone name="side">
         <card number="2" name="Bojuka Bog"/>
@@ -142,7 +142,7 @@
         <card number="1" name="Harald Unites the Elves"/>
         <card number="1" name="Shaman of the Pack"/>
         <card number="1" name="Kindred Summons"/>
-        <card number="2" name="Halsin, Emerald Archdruid"/>
+        <card number="3" name="Halsin, Emerald Archdruid"/>
         <card number="2" name="Abomination of Llanowar"/>
         <card number="1" name="Miara, Thorn of the Glade"/>
         <card number="2" name="Nature's Claim"/>
@@ -156,7 +156,7 @@
         <card number="3" name="Moldervine Reclamation"/>
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Obelisk of Urd"/>
-        <card number="1" name="Scale Up"/>
+        <card number="2" name="Scale Up"/>
         <card number="1" name="Read the Bones"/>
         <card number="1" name="Cultist of the Absolute"/>
         <card number="1" name="Gnarlroot Trapper"/>
@@ -217,5 +217,7 @@
         <card number="1" name="Herald's Horn"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Oracle of Mul Daya"/>
     </zone>
 </cockatrice_deck>

@@ -37,10 +37,8 @@
         <card number="1" name="Nighthawk Scavenger"/>
         <card number="1" name="Thieves' Guild Enforcer"/>
         <card number="1" name="Mask of Memory"/>
-        <card number="1" name="Propaganda"/>
         <card number="1" name="Vedalken Infiltrator"/>
         <card number="1" name="Dimir Aqueduct"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Morphic Pool"/>
@@ -75,7 +73,6 @@
         <card number="1" name="Mindcrank"/>
         <card number="1" name="Diabolic Intent"/>
         <card number="1" name="Syr Konrad, the Grim"/>
-        <card number="1" name="Dissipation Field"/>
         <card number="1" name="Mercurial Spelldancer"/>
         <card number="1" name="Cephalid Facetaker"/>
         <card number="1" name="Beacon of Unrest"/>
@@ -83,11 +80,14 @@
         <card number="1" name="Resculpt"/>
         <card number="1" name="Scheming Symmetry"/>
         <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Maze of Ith"/>
         <card number="1" name="Shizo, Death's Storehouse"/>
-        <card number="1" name="Familiar's Ruse"/>
         <card number="1" name="Combat Research"/>
+        <card number="1" name="Ringsight"/>
+        <card number="1" name="Faerie Mastermind"/>
+        <card number="1" name="Charcoal Diamond"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Tale's End"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -133,7 +133,7 @@
         <card number="3" name="Rapid Hybridization"/>
         <card number="1" name="Pestermite"/>
         <card number="3" name="Windfall"/>
-        <card number="1" name="Propaganda"/>
+        <card number="2" name="Propaganda"/>
         <card number="2" name="Soul Manipulation"/>
         <card number="1" name="Mystic Confluence"/>
         <card number="1" name="Agent of Treachery"/>
@@ -190,7 +190,7 @@
         <card number="2" name="Scavenger Grounds"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Netherborn Altar"/>
-        <card number="1" name="Sol Ring"/>
+        <card number="2" name="Sol Ring"/>
         <card number="3" name="Coveted Prize"/>
         <card number="2" name="Diabolic Tutor"/>
         <card number="1" name="Poison the Cup"/>
@@ -238,7 +238,7 @@
         <card number="1" name="Flood of Recollection"/>
         <card number="1" name="Said // Done"/>
         <card number="1" name="Mana Leak"/>
-        <card number="1" name="Familiar's Ruse"/>
+        <card number="2" name="Familiar's Ruse"/>
         <card number="1" name="Polluted Delta"/>
         <card number="1" name="Karn's Temporal Sundering"/>
         <card number="1" name="Hellish Rebuke"/>
@@ -258,5 +258,7 @@
         <card number="1" name="Combat Research"/>
         <card number="1" name="Mystical Tutor"/>
         <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Dissipation Field"/>
+        <card number="1" name="Sword of the Animist"/>
     </zone>
 </cockatrice_deck>

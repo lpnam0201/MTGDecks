@@ -60,7 +60,6 @@
         <card number="1" name="Rootbound Crag"/>
         <card number="1" name="Death-Greeter's Champion"/>
         <card number="1" name="Balor"/>
-        <card number="1" name="Kenrith's Transformation"/>
         <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Sakura-Tribe Elder"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Raised by Giants"/>
         <card number="1" name="Cradle Clearcutter"/>
         <card number="1" name="Steelbane Hydra"/>
+        <card number="1" name="Mirror-Style Master"/>
     </zone>
     <zone name="side">
         <card number="2" name="Thundering Raiju"/>
@@ -138,5 +138,6 @@
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Yavimaya Dryad"/>
         <card number="1" name="Agitator Ant"/>
+        <card number="1" name="Kenrith's Transformation"/>
     </zone>
 </cockatrice_deck>

@@ -73,7 +73,6 @@
         <card number="1" name="Adeline, Resplendent Cathar"/>
         <card number="1" name="Karlach, Fury of Avernus"/>
         <card number="1" name="Cavalcade of Calamity"/>
-        <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Skyhunter Strike Force"/>
         <card number="1" name="Grave Titan"/>
         <card number="1" name="Captain Lannery Storm"/>
@@ -92,6 +91,7 @@
         <card number="1" name="Akroma's Will"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Shiny Impetus"/>
+        <card number="1" name="Myrel, Shield of Argive"/>
     </zone>
     <zone name="side">
         <card number="1" name="Inkshield"/>
@@ -148,5 +148,6 @@
         <card number="1" name="Despark"/>
         <card number="1" name="Terminate"/>
         <card number="1" name="Territorial Hammerskull"/>
+        <card number="1" name="Sword of the Animist"/>
     </zone>
 </cockatrice_deck>

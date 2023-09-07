@@ -57,32 +57,23 @@
         <card number="1" name="All That Glitters"/>
         <card number="1" name="Halimar Depths"/>
         <card number="1" name="Indomitable Might"/>
-        <card number="1" name="Avacyn's Pilgrim"/>
         <card number="1" name="Sram, Senior Edificer"/>
         <card number="1" name="Aqueous Form"/>
         <card number="1" name="Ethereal Armor"/>
         <card number="1" name="Holy Mantle"/>
         <card number="1" name="Rivendell"/>
-        <card number="1" name="Leyline of Anticipation"/>
-        <card number="1" name="Tidal Barracuda"/>
         <card number="1" name="Emergence Zone"/>
         <card number="1" name="Alchemist's Refuge"/>
         <card number="1" name="Abundant Growth"/>
         <card number="1" name="Swift Reconfiguration"/>
         <card number="1" name="Ossification"/>
-        <card number="1" name="Audacity"/>
         <card number="1" name="Weirding Wood"/>
         <card number="1" name="Chains of Custody"/>
         <card number="1" name="Overgrowth"/>
-        <card number="1" name="Wolfwillow Haven"/>
         <card number="1" name="Blighted Burgeoning"/>
         <card number="1" name="Sanctum Weaver"/>
         <card number="1" name="New Horizons"/>
         <card number="1" name="Gift of Paradise"/>
-        <card number="1" name="Tanuki Transplanter"/>
-        <card number="1" name="Kiora's Follower"/>
-        <card number="1" name="Voyaging Satyr"/>
-        <card number="1" name="Shatter the Sky"/>
         <card number="1" name="Selesnya Sanctuary"/>
         <card number="1" name="Azorius Chancery"/>
         <card number="1" name="Simic Growth Chamber"/>
@@ -90,11 +81,20 @@
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Brushland"/>
         <card number="1" name="Adarkar Wastes"/>
-        <card number="1" name="Portent Tracker"/>
-        <card number="1" name="Brokers Charm"/>
-        <card number="1" name="Krosan Grip"/>
-        <card number="1" name="Return to Nature"/>
-        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="The Reality Chip"/>
+        <card number="1" name="Danitha Capashen, Paragon"/>
+        <card number="1" name="Hero of Iroas"/>
+        <card number="1" name="Transcendent Envoy"/>
+        <card number="1" name="Jukai Naturalist"/>
+        <card number="1" name="Starfield Mystic"/>
+        <card number="1" name="Herald of the Pantheon"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Tuvasa the Sunlit"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Enchantress's Presence"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Satyr Enchanter"/>
+        <card number="1" name="Sol Ring"/>
     </zone>
     <zone name="side">
         <card number="2" name="Starnheim Courser"/>
@@ -134,7 +134,7 @@
         <card number="1" name="Weirding Wood"/>
         <card number="1" name="Overgrowth"/>
         <card number="2" name="Island"/>
-        <card number="1" name="Wolfwillow Haven"/>
+        <card number="2" name="Wolfwillow Haven"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Mirari's Wake"/>
         <card number="4" name="Forest"/>
@@ -193,5 +193,19 @@
         <card number="1" name="Minimus Containment"/>
         <card number="1" name="Light-Paws, Emperor's Voice"/>
         <card number="1" name="Curse of Verbosity"/>
+        <card number="1" name="Portent Tracker"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Voyaging Satyr"/>
+        <card number="1" name="Tidal Barracuda"/>
+        <card number="1" name="Tanuki Transplanter"/>
+        <card number="1" name="Brokers Charm"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Shatter the Sky"/>
+        <card number="1" name="Audacity"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Mantle of the Ancients"/>
     </zone>
 </cockatrice_deck>

@@ -40,7 +40,6 @@
         <card number="1" name="Dawnglade Regent"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Defiler of Vigor"/>
-        <card number="1" name="Guardian Project"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Rishkar's Expertise"/>
         <card number="1" name="Runadi, Behemoth Caller"/>
@@ -49,7 +48,6 @@
         <card number="1" name="Temur Sabertooth"/>
         <card number="1" name="Vizier of the Menagerie"/>
         <card number="1" name="Augur of Autumn"/>
-        <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Loyal Guardian"/>
         <card number="1" name="Thunderfoot Baloth"/>
@@ -74,6 +72,8 @@
         <card number="1" name="Ilysian Caryatid"/>
         <card number="1" name="Whisperer of the Wilds"/>
         <card number="1" name="Selvala, Heart of the Wilds"/>
+        <card number="1" name="Silverback Elder"/>
+        <card number="1" name="Greater Good"/>
     </zone>
     <zone name="side">
         <card number="1" name="Eternal Witness"/>
@@ -111,7 +111,7 @@
         <card number="1" name="Ilysian Caryatid"/>
         <card number="1" name="Rampant Elephant"/>
         <card number="1" name="Elemental Bond"/>
-        <card number="2" name="Guardian Project"/>
+        <card number="3" name="Guardian Project"/>
         <card number="1" name="Bonders' Enclave"/>
         <card number="3" name="Fyndhorn Elves"/>
         <card number="2" name="Ulvenwald Tracker"/>
@@ -178,5 +178,6 @@
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Cultivate"/>
+        <card number="1" name="Oracle of Mul Daya"/>
     </zone>
 </cockatrice_deck>

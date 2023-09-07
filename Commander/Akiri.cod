@@ -47,13 +47,11 @@
         <card number="1" name="Nahiri, Forged in Fury"/>
         <card number="1" name="Puresteel Paladin"/>
         <card number="1" name="Koll, the Forgemaster"/>
-        <card number="1" name="Relic Seeker"/>
         <card number="1" name="Professional Face-Breaker"/>
         <card number="1" name="Raiyuu, Storm's Edge"/>
         <card number="1" name="Éowyn, Lady of Rohan"/>
         <card number="1" name="Forge Anew"/>
         <card number="1" name="Sting, the Glinting Dagger"/>
-        <card number="1" name="White Plume Adventurer"/>
         <card number="1" name="Sword of Once and Future"/>
         <card number="1" name="Sword of Forge and Frontier"/>
         <card number="1" name="Sword of Hearth and Home"/>
@@ -77,14 +75,17 @@
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Open the Armory"/>
-        <card number="1" name="Reckless Handling"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Response // Resurgence"/>
         <card number="1" name="Wear // Tear"/>
         <card number="1" name="Wyleth, Soul of Steel"/>
         <card number="1" name="Sanctuary Blade"/>
         <card number="1" name="Barrow-Blade"/>
+        <card number="1" name="Fervent Champion"/>
+        <card number="1" name="Brass Squire"/>
+        <card number="1" name="Balan, Wandering Knight"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Sublime Exhalation"/>
     </zone>
     <zone name="side">
         <card number="1" name="Auriok Steelshaper"/>
@@ -165,7 +166,7 @@
         <card number="1" name="Knight of the White Orchid"/>
         <card number="2" name="Loyal Warhound"/>
         <card number="2" name="Rabbit Battery"/>
-        <card number="2" name="Relic Seeker"/>
+        <card number="3" name="Relic Seeker"/>
         <card number="1" name="Sram, Senior Edificer"/>
         <card number="2" name="Fighter Class"/>
         <card number="1" name="Imperial Recruiter"/>
@@ -241,7 +242,7 @@
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Maze of Ith"/>
-        <card number="1" name="Open the Armory"/>
+        <card number="2" name="Open the Armory"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Path to Exile"/>
@@ -264,5 +265,7 @@
         <card number="1" name="Blade Historian"/>
         <card number="1" name="Éowyn, Lady of Rohan"/>
         <card number="1" name="Brass Knuckles"/>
+        <card number="1" name="White Plume Adventurer"/>
+        <card number="1" name="Reckless Handling"/>
     </zone>
 </cockatrice_deck>

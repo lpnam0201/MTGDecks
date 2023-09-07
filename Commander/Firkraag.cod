@@ -16,33 +16,21 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Izzet Signet"/>
         <card number="1" name="Talisman of Creativity"/>
-        <card number="1" name="Disrupt Decorum"/>
-        <card number="1" name="Aetherize"/>
-        <card number="1" name="Aetherspouts"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Dispel"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Wild Magic Surge"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Fellwar Stone"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Thought Vessel"/>
-        <card number="1" name="Propaganda"/>
-        <card number="1" name="Bloodthirsty Blade"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Windfall"/>
-        <card number="1" name="Bolt Bend"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Frostboil Snarl"/>
         <card number="10" name="Island"/>
-        <card number="9" name="Mountain"/>
+        <card number="10" name="Mountain"/>
         <card number="1" name="Izzet Boilerworks"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Shivan Reef"/>
@@ -52,40 +40,51 @@
         <card number="1" name="Steel Hellkite"/>
         <card number="1" name="Skyline Despot"/>
         <card number="1" name="Niv-Mizzet, Parun"/>
-        <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Mob Rule"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Command Beacon"/>
-        <card number="1" name="Perplexing Test"/>
-        <card number="1" name="Wyll's Reversal"/>
         <card number="1" name="Bothersome Quasit"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Stormcarved Coast"/>
         <card number="1" name="Steam Vents"/>
         <card number="1" name="Worn Powerstone"/>
-        <card number="1" name="Mocking Doppelganger"/>
         <card number="1" name="Keiga, the Tide Star"/>
-        <card number="1" name="Change of Plans"/>
-        <card number="1" name="March of Swirling Mist"/>
         <card number="1" name="Wrathful Red Dragon"/>
         <card number="1" name="Goldspan Dragon"/>
-        <card number="1" name="Spectacular Showdown"/>
         <card number="1" name="Popular Entertainer"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Maze of Ith"/>
-        <card number="1" name="Geode Rager"/>
-        <card number="1" name="Strionic Resonator"/>
-        <card number="1" name="Lithoform Engine"/>
-        <card number="1" name="Dissipation Field"/>
-        <card number="1" name="Stuffy Doll"/>
-        <card number="1" name="Brash Taunter"/>
-        <card number="1" name="Chain Reaction"/>
-        <card number="1" name="Sly Instigator"/>
-        <card number="1" name="Shiny Impetus"/>
-        <card number="1" name="Psychic Impetus"/>
-        <card number="1" name="Agitator Ant"/>
         <card number="1" name="Territorial Hellkite"/>
+        <card number="1" name="Scourge of the Throne"/>
+        <card number="1" name="Sarkhan the Masterless"/>
+        <card number="1" name="Niv-Mizzet, the Firemind"/>
+        <card number="1" name="Scourge of Valkas"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Lozhan, Dragons' Legacy"/>
+        <card number="1" name="Lathliss, Dragon Queen"/>
+        <card number="1" name="Carnelian Orb of Dragonkind"/>
+        <card number="1" name="Dragon's Hoard"/>
+        <card number="1" name="Sarevok's Tome"/>
+        <card number="1" name="Karlach, Fury of Avernus"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Wash Away"/>
+        <card number="1" name="Stonespeaker Crystal"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Irenicus's Vile Duplication"/>
+        <card number="1" name="See Double"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Hoard-Smelter Dragon"/>
+        <card number="1" name="Sapphire Dragon // Psionic Pulse"/>
+        <card number="1" name="Juvenile Mist Dragon"/>
+        <card number="1" name="Oceanus Dragon"/>
+        <card number="1" name="Tiamat's Fanatics"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="1" name="Spectacular Showdown"/>
+        <card number="1" name="Warmonger Hellkite"/>
+        <card number="1" name="Blood Mist"/>
+        <card number="1" name="Rage Reflection"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Goro-Goro, Disciple of Ryusei"/>
+        <card number="1" name="Dragonkin Berserker"/>
     </zone>
     <zone name="side">
         <card number="1" name="Amethyst Dragon // Explosive Crystal"/>
@@ -123,26 +122,66 @@
         <card number="1" name="Confounding Conundrum"/>
         <card number="1" name="You See a Guard Approach"/>
         <card number="1" name="Flood of Tears"/>
-        <card number="1" name="Chain Reaction"/>
-        <card number="1" name="Psychic Impetus"/>
-        <card number="1" name="Shiny Impetus"/>
+        <card number="2" name="Chain Reaction"/>
+        <card number="2" name="Psychic Impetus"/>
+        <card number="2" name="Shiny Impetus"/>
         <card number="1" name="Komainu Battle Armor"/>
         <card number="1" name="Life of the Party"/>
         <card number="1" name="Territorial Hellkite"/>
-        <card number="1" name="Agitator Ant"/>
+        <card number="2" name="Agitator Ant"/>
         <card number="1" name="Brainstorm"/>
-        <card number="1" name="Dissipation Field"/>
+        <card number="2" name="Dissipation Field"/>
         <card number="2" name="Death Kiss"/>
-        <card number="1" name="Sly Instigator"/>
+        <card number="2" name="Sly Instigator"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Alrund's Epiphany"/>
-        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="2" name="Karn's Temporal Sundering"/>
         <card number="1" name="Part the Waterveil"/>
-        <card number="1" name="Walk the Aeons"/>
+        <card number="2" name="Walk the Aeons"/>
         <card number="1" name="Baeloth Barrityl, Entertainer"/>
         <card number="1" name="Ganax, Astral Hunter"/>
         <card number="1" name="Bloodboil Sorcerer"/>
         <card number="1" name="Maeve, Insidious Singer"/>
+        <card number="1" name="Brash Taunter"/>
+        <card number="1" name="Stuffy Doll"/>
+        <card number="1" name="Geode Rager"/>
+        <card number="2" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Bloodthirsty Blade"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="1" name="Disrupt Decorum"/>
+        <card number="1" name="Spectacular Showdown"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Bothersome Quasit"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="2" name="Shore Up"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="2" name="Windfall"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Mocking Doppelganger"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Alchemist's Gambit"/>
+        <card number="1" name="Stubborn Denial"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Leyline Tyrant"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Supplant Form"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Berserkers' Onslaught"/>
+        <card number="1" name="Spit Flame"/>
+        <card number="1" name="Astral Dragon"/>
     </zone>
 </cockatrice_deck>

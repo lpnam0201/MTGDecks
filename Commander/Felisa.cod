@@ -18,9 +18,7 @@
         <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
         <card number="1" name="Shadewing Laureate"/>
         <card number="1" name="Village Rites"/>
-        <card number="1" name="Skullclamp"/>
         <card number="1" name="Resourceful Defense"/>
-        <card number="1" name="Despark"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Blood Artist"/>
@@ -60,7 +58,6 @@
         <card number="1" name="Spiteful Squad"/>
         <card number="1" name="Rite of Oblivion"/>
         <card number="1" name="Phyrexian Reclamation"/>
-        <card number="1" name="Sun Titan"/>
         <card number="1" name="Ravos, Soultender"/>
         <card number="1" name="Woe Strider"/>
         <card number="1" name="Mirkwood Bats"/>
@@ -68,7 +65,6 @@
         <card number="1" name="Fain, the Broker"/>
         <card number="1" name="Elenda, the Dusk Rose"/>
         <card number="1" name="Twilight Drover"/>
-        <card number="1" name="Shaile, Dean of Radiance"/>
         <card number="1" name="Krav, the Unredeemed"/>
         <card number="1" name="Ravenous Chupacabra"/>
         <card number="1" name="Sengir, the Dark Baron"/>
@@ -80,12 +76,15 @@
         <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Ghost Lantern // Bind Spirit"/>
         <card number="1" name="Vish Kal, Blood Arbiter"/>
-        <card number="1" name="Pitiless Plunderer"/>
         <card number="1" name="Odric's Outrider"/>
-        <card number="1" name="Celebrity Fencer"/>
         <card number="1" name="Flaming Fist Officer"/>
-        <card number="1" name="Gavony Unhallowed"/>
-        <card number="1" name="Guardian Kirin"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Zeriam, Golden Wind"/>
+        <card number="1" name="Myrel, Shield of Argive"/>
+        <card number="1" name="Oblation"/>
     </zone>
     <zone name="side">
         <card number="3" name="Sparring Regimen"/>
@@ -112,16 +111,16 @@
         <card number="1" name="Scheming Symmetry"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Aron, Benalia's Ruin"/>
-        <card number="2" name="Shaile, Dean of Radiance"/>
+        <card number="3" name="Shaile, Dean of Radiance"/>
         <card number="1" name="Anguished Unmaking"/>
         <card number="1" name="Shadrix Silverquill"/>
         <card number="1" name="Breena, the Demagogue"/>
         <card number="1" name="Hopeful Initiate"/>
         <card number="1" name="Inkshield"/>
         <card number="1" name="Retribution of the Ancients"/>
-        <card number="1" name="Diabolic Intent"/>
+        <card number="2" name="Diabolic Intent"/>
         <card number="1" name="Demonic Bargain"/>
-        <card number="1" name="Profane Tutor"/>
+        <card number="2" name="Profane Tutor"/>
         <card number="1" name="Sign in Blood"/>
         <card number="1" name="Read the Bones"/>
         <card number="1" name="Night's Whisper"/>
@@ -151,7 +150,7 @@
         <card number="1" name="Dread Return"/>
         <card number="1" name="Blood Pact"/>
         <card number="1" name="Tome of Legends"/>
-        <card number="2" name="Pitiless Plunderer"/>
+        <card number="3" name="Pitiless Plunderer"/>
         <card number="1" name="Skyclave Shadowcat"/>
         <card number="2" name="Selfless Squire"/>
         <card number="2" name="Liesa, Forgotten Archangel"/>
@@ -187,8 +186,17 @@
         <card number="1" name="Sevinne's Reclamation"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Plaguecrafter"/>
-        <card number="1" name="Celebrity Fencer"/>
+        <card number="2" name="Celebrity Fencer"/>
         <card number="1" name="Together Forever"/>
         <card number="1" name="Liliana's Standard Bearer"/>
+        <card number="2" name="Sun Titan"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Guardian Kirin"/>
+        <card number="1" name="Gavony Unhallowed"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Ophiomancer"/>
+        <card number="1" name="Athreos, Shroud-Veiled"/>
+        <card number="1" name="Ria Ivor, Bane of Bladehold"/>
+        <card number="1" name="Despark"/>
     </zone>
 </cockatrice_deck>

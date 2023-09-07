@@ -25,24 +25,19 @@
         <card number="1" name="Stormfist Crusader"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Terminate"/>
-        <card number="1" name="Read the Bones"/>
-        <card number="1" name="Sign in Blood"/>
-        <card number="1" name="Mind Stone"/>
         <card number="1" name="Liquimetal Torque"/>
         <card number="1" name="Ramunap Ruins"/>
         <card number="1" name="Ifnir Deadlands"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple of Malice"/>
         <card number="9" name="Swamp"/>
-        <card number="10" name="Mountain"/>
+        <card number="9" name="Mountain"/>
         <card number="1" name="Marshland Bloodcaster"/>
         <card number="1" name="Blood Pact"/>
         <card number="1" name="Crushing Disappointment"/>
-        <card number="1" name="Timothar, Baron of Bats"/>
         <card number="1" name="Rakdos Carnarium"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Talisman of Indulgence"/>
-        <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Bedevil"/>
         <card number="1" name="Westgate Regent"/>
         <card number="1" name="Foreboding Ruins"/>
@@ -59,33 +54,40 @@
         <card number="1" name="Dark Bargain"/>
         <card number="1" name="Vito, Thorn of the Dusk Rose"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Nirkana Revenant"/>
         <card number="1" name="Fiend of the Shadows"/>
         <card number="1" name="Victimize"/>
         <card number="1" name="Night's Whisper"/>
         <card number="1" name="Cordial Vampire"/>
         <card number="1" name="Twilight Prophet"/>
-        <card number="1" name="Olivia, Crimson Bride"/>
-        <card number="1" name="Nullpriest of Oblivion"/>
-        <card number="1" name="Sengir, the Dark Baron"/>
         <card number="1" name="Falkenrath Gorger"/>
         <card number="1" name="Midnight Arsonist"/>
-        <card number="1" name="Blade of Selves"/>
         <card number="1" name="Gray Merchant of Asphodel"/>
-        <card number="1" name="Go for the Throat"/>
         <card number="1" name="Markov Baron"/>
         <card number="1" name="Kinzu of the Bleak Coven"/>
-        <card number="1" name="Haunting Voyage"/>
-        <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Edgar's Awakening"/>
         <card number="1" name="Falkenrath Forebear"/>
-        <card number="1" name="Archfiend of Ifnir"/>
         <card number="1" name="Terminal Agony"/>
-        <card number="1" name="Yahenni, Undying Partisan"/>
         <card number="1" name="Voldaren Estate"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Haunted Ridge"/>
         <card number="1" name="Leechridden Swamp"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Cryptolith Fragment"/>
+        <card number="1" name="Hostile Negotiations"/>
+        <card number="1" name="Protection Racket"/>
+        <card number="1" name="Pointed Discussion"/>
+        <card number="1" name="Curtains' Call"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Olivia, Crimson Bride"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Dominating Vampire"/>
+        <card number="1" name="Immersturm Predator"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Twinflame"/>
+        <card number="1" name="Moonlight Bargain"/>
+        <card number="1" name="Shivan Gorge"/>
+        <card number="1" name="Bloodsworn Steward"/>
+        <card number="1" name="Alhammarret's Archive"/>
     </zone>
     <zone name="side">
         <card number="1" name="Anger"/>
@@ -104,19 +106,19 @@
         <card number="3" name="Anje's Ravager"/>
         <card number="1" name="Scion of Opulence"/>
         <card number="1" name="Inspiring Statuary"/>
-        <card number="1" name="Timothar, Baron of Bats"/>
+        <card number="2" name="Timothar, Baron of Bats"/>
         <card number="1" name="Voldaren Bloodcaster"/>
         <card number="1" name="Coldsteel Heart"/>
         <card number="1" name="Talisman of Indulgence"/>
-        <card number="2" name="Infernal Grasp"/>
+        <card number="3" name="Infernal Grasp"/>
         <card number="1" name="Bedevil"/>
         <card number="1" name="Court of Ambition"/>
-        <card number="1" name="Phyrexian Arena"/>
+        <card number="2" name="Phyrexian Arena"/>
         <card number="1" name="Night's Whisper"/>
         <card number="1" name="Leechridden Swamp"/>
         <card number="1" name="Cordial Vampire"/>
-        <card number="1" name="Nirkana Revenant"/>
-        <card number="1" name="Olivia, Crimson Bride"/>
+        <card number="2" name="Nirkana Revenant"/>
+        <card number="2" name="Olivia, Crimson Bride"/>
         <card number="1" name="Twilight Prophet"/>
         <card number="1" name="Westgate Regent"/>
         <card number="1" name="Kindred Dominance"/>
@@ -166,7 +168,7 @@
         <card number="1" name="Tramway Station"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Scavenger Grounds"/>
-        <card number="2" name="Mountain"/>
+        <card number="3" name="Mountain"/>
         <card number="3" name="Swamp"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Necromantic Selection"/>
@@ -184,20 +186,20 @@
         <card number="1" name="Abrade"/>
         <card number="2" name="Midnight Arsonist"/>
         <card number="2" name="Pact of the Serpent"/>
-        <card number="1" name="Blasphemous Act"/>
+        <card number="2" name="Blasphemous Act"/>
         <card number="1" name="Damnable Pact"/>
         <card number="1" name="Mask of Memory"/>
-        <card number="1" name="Sengir, the Dark Baron"/>
+        <card number="2" name="Sengir, the Dark Baron"/>
         <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Disrupt Decorum"/>
-        <card number="1" name="Haunting Voyage"/>
+        <card number="2" name="Haunting Voyage"/>
         <card number="1" name="Vampire Nighthawk"/>
         <card number="1" name="Nighthawk Scavenger"/>
         <card number="1" name="Wedding Security"/>
         <card number="1" name="Thermo-Alchemist"/>
         <card number="1" name="Soul Shatter"/>
-        <card number="1" name="Mob Rule"/>
+        <card number="2" name="Mob Rule"/>
         <card number="1" name="Spear Spewer"/>
         <card number="1" name="Ambition's Cost"/>
         <card number="1" name="Living Death"/>
@@ -206,5 +208,19 @@
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Call to the Netherworld"/>
         <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Edgar's Awakening"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Archfiend of Ifnir"/>
+        <card number="1" name="Nullpriest of Oblivion"/>
+        <card number="1" name="Voldaren Estate"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Uncivil Unrest"/>
+        <card number="1" name="Treasonous Ogre"/>
+        <card number="1" name="Olivia Voldaren"/>
+        <card number="1" name="Kheru Mind-Eater"/>
+        <card number="1" name="Blade of Selves"/>
     </zone>
 </cockatrice_deck>

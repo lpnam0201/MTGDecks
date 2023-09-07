@@ -14,7 +14,6 @@
         <card number="1" name="Beast Within"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
-        <card number="1" name="Coiling Oracle"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Timeless Witness"/>
@@ -50,7 +49,6 @@
         <card number="1" name="Peregrine Drake"/>
         <card number="1" name="Terastodon"/>
         <card number="1" name="Duplicant"/>
-        <card number="1" name="Mind Flayer"/>
         <card number="1" name="Titan of Industry"/>
         <card number="1" name="Rimewood Falls"/>
         <card number="1" name="Thornwood Falls"/>
@@ -81,11 +79,12 @@
         <card number="1" name="Astral Dragon"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Spark Double"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Irenicus's Vile Duplication"/>
         <card number="1" name="Esix, Fractal Bloom"/>
         <card number="1" name="Somberwald Beastmaster"/>
+        <card number="1" name="Esika's Chariot"/>
+        <card number="1" name="Sublime Epiphany"/>
     </zone>
     <zone name="side">
         <card number="1" name="Fractal Harness"/>
@@ -113,7 +112,7 @@
         <card number="2" name="Reality Shift"/>
         <card number="2" name="Return of the Wildspeaker"/>
         <card number="1" name="Endless Evil"/>
-        <card number="3" name="Spark Double"/>
+        <card number="4" name="Spark Double"/>
         <card number="1" name="Rampaging Baloths"/>
         <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
         <card number="1" name="Wall of Blossoms"/>
@@ -173,7 +172,7 @@
         <card number="1" name="Tomb of Horrors Adventurer"/>
         <card number="1" name="Undermountain Adventurer"/>
         <card number="1" name="Ornithopter of Paradise"/>
-        <card number="1" name="Hullbreaker Horror"/>
+        <card number="2" name="Hullbreaker Horror"/>
         <card number="1" name="Biovisionary"/>
         <card number="1" name="Vesuvan Duplimancy"/>
         <card number="1" name="Clone Legion"/>
@@ -185,7 +184,7 @@
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Irenicus's Vile Duplication"/>
         <card number="1" name="Reclusive Taxidermist"/>
-        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="2" name="Venser, Shaper Savant"/>
         <card number="1" name="Pest Infestation"/>
         <card number="1" name="Archaeomancer"/>
         <card number="1" name="Killer Service"/>
@@ -195,5 +194,12 @@
         <card number="1" name="Torrential Gearhulk"/>
         <card number="1" name="Koma, Cosmos Serpent"/>
         <card number="1" name="Hollowhenge Overlord"/>
+        <card number="1" name="Mind Flayer"/>
+        <card number="1" name="Coiling Oracle"/>
+        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="1" name="Thryx, the Sudden Storm"/>
+        <card number="1" name="Tidal Barracuda"/>
+        <card number="1" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" name="Gadwick, the Wizened"/>
     </zone>
 </cockatrice_deck>

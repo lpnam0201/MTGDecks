@@ -25,10 +25,9 @@
         <card number="1" name="Temple of Epiphany"/>
         <card number="1" name="Sulfur Falls"/>
         <card number="1" name="Shivan Reef"/>
-        <card number="12" name="Island"/>
+        <card number="11" name="Island"/>
         <card number="11" name="Mountain"/>
         <card number="1" name="Behold the Multiverse"/>
-        <card number="1" name="Sea Gate Oracle"/>
         <card number="1" name="Izzet Boilerworks"/>
         <card number="1" name="Mystic Retrieval"/>
         <card number="1" name="Dispel"/>
@@ -36,7 +35,6 @@
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Fatestitcher"/>
         <card number="1" name="Drawn from Dreams"/>
-        <card number="1" name="Silundi Vision"/>
         <card number="1" name="Nimbleclaw Adept"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Steam Vents"/>
@@ -50,38 +48,41 @@
         <card number="1" name="Reverberate"/>
         <card number="1" name="Increasing Vengeance"/>
         <card number="1" name="Past in Flames"/>
-        <card number="1" name="Reality Shift"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Wizards of Thay"/>
         <card number="1" name="Apex of Power"/>
         <card number="1" name="Soulfire Eruption"/>
         <card number="1" name="Cascade Bluffs"/>
-        <card number="1" name="Rite of Replication"/>
         <card number="1" name="Thassa's Intervention"/>
         <card number="1" name="Rionya, Fire Dancer"/>
-        <card number="1" name="Sublime Epiphany"/>
         <card number="1" name="Irenicus's Vile Duplication"/>
         <card number="1" name="Step Through"/>
         <card number="1" name="Twinflame"/>
-        <card number="1" name="Commune with Lava"/>
-        <card number="1" name="March of Reckless Joy"/>
         <card number="1" name="Jeska's Will"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Fervent Mastery"/>
         <card number="1" name="Venser, Shaper Savant"/>
         <card number="1" name="Shipwreck Dowser"/>
-        <card number="1" name="Stolen Identity"/>
         <card number="1" name="Emergence Zone"/>
         <card number="1" name="Quicken"/>
         <card number="1" name="Malevolent Hermit"/>
-        <card number="1" name="Augur of Bolas"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Cackling Counterpart"/>
-        <card number="1" name="Quasiduplicate"/>
         <card number="1" name="Leyline of Anticipation"/>
         <card number="1" name="Double Vision"/>
-        <card number="1" name="Omnispell Adept"/>
+        <card number="1" name="Johann, Apprentice Sorcerer"/>
+        <card number="1" name="Borne Upon a Wind"/>
+        <card number="1" name="Dramatic Reversal"/>
+        <card number="1" name="Vadrik, Astral Archmage"/>
+        <card number="1" name="Mizzix of the Izmagnus"/>
+        <card number="1" name="Mnemonic Deluge"/>
+        <card number="1" name="Goblin Electromancer"/>
+        <card number="1" name="Izzet Charm"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Lier, Disciple of the Drowned"/>
+        <card number="1" name="Teferi, Mage of Zhalfir"/>
     </zone>
     <zone name="side">
         <card number="2" name="Ponder"/>
@@ -113,15 +114,15 @@
         <card number="1" name="Blue Sun's Zenith"/>
         <card number="1" name="Stroke of Genius"/>
         <card number="2" name="Mystic Confluence"/>
-        <card number="4" name="Sublime Epiphany"/>
+        <card number="5" name="Sublime Epiphany"/>
         <card number="2" name="Mind Spring"/>
         <card number="2" name="Dig Through Time"/>
         <card number="4" name="Shipwreck Dowser"/>
-        <card number="1" name="Omnispell Adept"/>
+        <card number="2" name="Omnispell Adept"/>
         <card number="1" name="Izzet Chronarch"/>
         <card number="1" name="Cyclone Summoner"/>
         <card number="1" name="Arcanis the Omnipotent"/>
-        <card number="1" name="Sea Gate Oracle"/>
+        <card number="2" name="Sea Gate Oracle"/>
         <card number="1" name="Pull from Tomorrow"/>
         <card number="1" name="Jori En, Ruin Diver"/>
         <card number="1" name="Frantic Search"/>
@@ -137,7 +138,7 @@
         <card number="1" name="Abrade"/>
         <card number="1" name="Flood of Tears"/>
         <card number="1" name="Apex of Power"/>
-        <card number="1" name="Reality Shift"/>
+        <card number="2" name="Reality Shift"/>
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Disdainful Stroke"/>
@@ -174,11 +175,11 @@
         <card number="1" name="Creative Outburst"/>
         <card number="1" name="Ral's Outburst"/>
         <card number="1" name="Thirst for Discovery"/>
-        <card number="3" name="Island"/>
+        <card number="4" name="Island"/>
         <card number="1" name="Highland Lake"/>
         <card number="2" name="Mountain"/>
-        <card number="1" name="Stolen Identity"/>
-        <card number="1" name="Rite of Replication"/>
+        <card number="2" name="Stolen Identity"/>
+        <card number="2" name="Rite of Replication"/>
         <card number="1" name="Crackle with Power"/>
         <card number="1" name="Vodalian Arcanist"/>
         <card number="2" name="Reliquary Tower"/>
@@ -193,7 +194,7 @@
         <card number="1" name="Mass Manipulation"/>
         <card number="1" name="Serum Visions"/>
         <card number="1" name="Melek, Izzet Paragon"/>
-        <card number="1" name="Quasiduplicate"/>
+        <card number="2" name="Quasiduplicate"/>
         <card number="1" name="Apprentice Wizard"/>
         <card number="1" name="Prophetic Bolt"/>
         <card number="1" name="Repeated Reverberation"/>
@@ -204,7 +205,7 @@
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Vizier of Tumbling Sands"/>
         <card number="1" name="Windfall"/>
-        <card number="2" name="Augur of Bolas"/>
+        <card number="3" name="Augur of Bolas"/>
         <card number="1" name="Disrupt Decorum"/>
         <card number="1" name="Expansion // Explosion"/>
         <card number="1" name="Arcane Signet"/>
@@ -214,5 +215,9 @@
         <card number="1" name="Double Vision"/>
         <card number="1" name="Jaya's Immolating Inferno"/>
         <card number="1" name="Impact Tremors"/>
+        <card number="1" name="March of Reckless Joy"/>
+        <card number="1" name="Meeting of Minds"/>
+        <card number="1" name="Commune with Lava"/>
+        <card number="1" name="Silundi Vision"/>
     </zone>
 </cockatrice_deck>

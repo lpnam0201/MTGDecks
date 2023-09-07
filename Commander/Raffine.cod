@@ -10,23 +10,16 @@
         <card number="1" name="Dimir Signet"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Archfiend of Ifnir"/>
-        <card number="1" name="Change of Plans"/>
         <card number="1" name="Teferi's Ageless Insight"/>
-        <card number="1" name="Alhammarret's Archive"/>
         <card number="1" name="Hammers of Moradin"/>
         <card number="1" name="Wyrm's Crossing Patrol"/>
         <card number="1" name="Chasm Skulker"/>
-        <card number="1" name="Notion Thief"/>
         <card number="1" name="Bone Miser"/>
         <card number="1" name="Oskar, Rubbish Reclaimer"/>
         <card number="1" name="Containment Construct"/>
-        <card number="1" name="Baleful Strix"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Sevinne's Reclamation"/>
-        <card number="1" name="Austere Command"/>
         <card number="1" name="Drake Haven"/>
-        <card number="1" name="Path to Exile"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Negate"/>
@@ -41,16 +34,12 @@
         <card number="4" name="Plains"/>
         <card number="4" name="Swamp"/>
         <card number="1" name="Raffine's Tower"/>
-        <card number="1" name="Underground River"/>
         <card number="1" name="Adarkar Wastes"/>
         <card number="1" name="Caves of Koilos"/>
-        <card number="1" name="Shipwreck Marsh"/>
-        <card number="1" name="Fetid Heath"/>
         <card number="1" name="Darkwater Catacombs"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Sunken Hollow"/>
         <card number="1" name="Rabble Rousing"/>
-        <card number="1" name="Geist of Saint Traft"/>
         <card number="1" name="Linvala, Shield of Sea Gate"/>
         <card number="1" name="Hero of Bladehold"/>
         <card number="1" name="Leonin Warleader"/>
@@ -72,20 +61,42 @@
         <card number="1" name="Cathar Commando"/>
         <card number="1" name="Sigrid, God-Favored"/>
         <card number="1" name="Utter End"/>
-        <card number="1" name="Thriving Heath"/>
-        <card number="1" name="Thriving Moor"/>
-        <card number="1" name="Thriving Isle"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Temple of Enlightenment"/>
         <card number="1" name="Temple of Deceit"/>
         <card number="1" name="Temple of Silence"/>
-        <card number="1" name="Citadel Gate"/>
-        <card number="1" name="Black Dragon Gate"/>
-        <card number="1" name="Sea Gate"/>
+        <card number="1" name="Ertai Resurrected"/>
+        <card number="1" name="Adeline, Resplendent Cathar"/>
+        <card number="1" name="Myrel, Shield of Argive"/>
+        <card number="1" name="Priest of Fell Rites"/>
+        <card number="1" name="Archpriest of Shadows"/>
+        <card number="1" name="Kamiz, Obscura Oculus"/>
+        <card number="1" name="Thief of Sanity"/>
+        <card number="1" name="Shadowmage Infiltrator"/>
+        <card number="1" name="Daxos of Meletis"/>
+        <card number="1" name="Obscura Interceptor"/>
+        <card number="1" name="All-Seeing Arbiter"/>
+        <card number="1" name="Prince Imrahil the Fair"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Great Hall of the Citadel"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Midnight Pathlighter"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Change of Plans"/>
+        <card number="2" name="Change of Plans"/>
         <card number="1" name="Blade of Selves"/>
         <card number="1" name="Victimize"/>
         <card number="1" name="Priest of Fell Rites"/>
@@ -154,5 +165,25 @@
         <card number="1" name="Morphic Pool"/>
         <card number="1" name="Shizo, Death's Storehouse"/>
         <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Alhammarret's Archive"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Obscura Confluence"/>
+        <card number="1" name="Ayara's Oathsworn"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Serra Paragon"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Black Dragon Gate"/>
+        <card number="1" name="Citadel Gate"/>
+        <card number="1" name="Sea Gate"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Geist of Saint Traft"/>
     </zone>
 </cockatrice_deck>

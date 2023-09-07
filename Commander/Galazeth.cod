@@ -66,7 +66,6 @@
         <card number="1" name="Lightning Strike"/>
         <card number="1" name="Howl of the Horde"/>
         <card number="1" name="Lightning Bolt"/>
-        <card number="1" name="Storm King's Thunder"/>
         <card number="1" name="Quicken"/>
         <card number="1" name="Borne Upon a Wind"/>
         <card number="1" name="Increasing Vengeance"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Mines of Moria"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Descent into Avernus"/>
+        <card number="1" name="Mnemonic Deluge"/>
     </zone>
     <zone name="side">
         <card number="1" name="Saheeli Rai"/>
@@ -173,5 +173,6 @@
         <card number="1" name="Mizzium Mortars"/>
         <card number="2" name="Guttersnipe"/>
         <card number="2" name="Fiery Inscription"/>
+        <card number="1" name="Storm King's Thunder"/>
     </zone>
 </cockatrice_deck>

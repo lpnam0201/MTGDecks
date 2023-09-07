@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Hylda</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Hylda of the Icy Crown"/>
+        <card number="1" name="Timin, Youthful Geist"/>
+        <card number="1" name="Rhoda, Geist Avenger"/>
+        <card number="1" name="Citadel Siege"/>
+        <card number="1" name="Verity Circle"/>
+        <card number="1" name="Scroll of Isildur"/>
+        <card number="1" name="Lossarnach Captain"/>
+        <card number="1" name="Blustersquall"/>
+        <card number="1" name="Dreamshackle Geist"/>
+        <card number="1" name="Topplegeist"/>
+        <card number="1" name="Cone of Cold"/>
+        <card number="1" name="Bond of Discipline"/>
+        <card number="1" name="Githzerai Monk"/>
+        <card number="1" name="Sleep of the Dead"/>
+        <card number="1" name="Tempest Caller"/>
+        <card number="1" name="Sleep"/>
+        <card number="1" name="Urza's Rebuff"/>
+        <card number="1" name="Illithid Harvester // Plant Tadpoles"/>
+        <card number="1" name="Niblis of the Urn"/>
+        <card number="1" name="Giant Killer // Chop Down"/>
+        <card number="1" name="Court Street Denizen"/>
+        <card number="1" name="Minister of Impediments"/>
+        <card number="1" name="Hammers of Moradin"/>
+        <card number="1" name="Icy Blast"/>
+        <card number="1" name="You See a Guard Approach"/>
+        <card number="1" name="Choking Tethers"/>
+        <card number="1" name="Hidden Strings"/>
+        <card number="1" name="Piercing Rays"/>
+        <card number="1" name="Icy Manipulator"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Staff of Domination"/>
+        <card number="1" name="Junk Winder"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Wash Away"/>
+        <card number="1" name="Puppeteer"/>
+        <card number="1" name="Distracting Geist"/>
+        <card number="1" name="Gideon's Lawkeeper"/>
+        <card number="1" name="Sentinel of the Eternal Watch"/>
+        <card number="1" name="Rhox Veteran"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Law-Rune Enforcer"/>
+        <card number="1" name="Akroan Mastiff"/>
+        <card number="1" name="Scepter of Dominance"/>
+        <card number="1" name="Blinding Mage"/>
+        <card number="1" name="Checkpoint Officer"/>
+        <card number="1" name="Skaab Wrangler"/>
+        <card number="1" name="Snow Day"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Sunblast Angel"/>
+        <card number="1" name="Bola Slinger"/>
+    </zone>
+</cockatrice_deck>

@@ -8,38 +8,27 @@
         <card number="1" name="Nalia de'Arnise"/>
         <card number="1" name="Harper Recruiter"/>
         <card number="1" name="Grim Hireling"/>
-        <card number="1" name="Mother of Runes"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Nighthawk Scavenger"/>
         <card number="1" name="Glorious Protector"/>
         <card number="1" name="High Priest of Penance"/>
         <card number="1" name="Sigrid, God-Favored"/>
         <card number="1" name="Selfless Glyphweaver"/>
         <card number="1" name="Fiend Hunter"/>
         <card number="1" name="Banisher Priest"/>
-        <card number="1" name="Dire Fleet Ravager"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Path to Exile"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Fateful Absence"/>
-        <card number="1" name="Disenchant"/>
         <card number="1" name="Despark"/>
-        <card number="1" name="Inkshield"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Marsh Flats"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Orzhov Basilica"/>
-        <card number="1" name="Tainted Field"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Caves of Koilos"/>
@@ -53,12 +42,8 @@
         <card number="10" name="Swamp"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Debt to the Deathless"/>
-        <card number="1" name="Netherborn Altar"/>
-        <card number="1" name="Dark Ritual"/>
-        <card number="1" name="Demonic Bargain"/>
         <card number="1" name="Aven Mindcensor"/>
         <card number="1" name="Nadier's Nightblade"/>
-        <card number="1" name="Benevolent Bodyguard"/>
         <card number="1" name="Demon's Disciple"/>
         <card number="1" name="Merciless Executioner"/>
         <card number="1" name="Hammers of Moradin"/>
@@ -66,25 +51,40 @@
         <card number="1" name="Gonti, Lord of Luxury"/>
         <card number="1" name="Isareth the Awakener"/>
         <card number="1" name="Bishop of Binding"/>
-        <card number="1" name="Marionette Master"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Mangara of Corondor"/>
-        <card number="1" name="Morbid Opportunist"/>
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Selfless Spirit"/>
         <card number="1" name="Solemn Doomguide"/>
         <card number="1" name="Stick Together"/>
         <card number="1" name="Coveted Prize"/>
-        <card number="1" name="Scheming Symmetry"/>
-        <card number="1" name="Diabolic Intent"/>
-        <card number="1" name="Anguished Unmaking"/>
         <card number="1" name="Trailblazer's Boots"/>
         <card number="1" name="Seasoned Dungeoneer"/>
-        <card number="1" name="Archivist of Oghma"/>
-        <card number="1" name="Order of Whiteclay"/>
-        <card number="1" name="Clever Concealment"/>
         <card number="1" name="Sivriss, Nightmare Speaker"/>
-        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Finale of Glory"/>
+        <card number="1" name="White Sun's Twilight"/>
+        <card number="1" name="Thwart the Grave"/>
+        <card number="1" name="Squad Commander"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Mithril Coat"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Malakir Blood-Priest"/>
+        <card number="1" name="Twilight Prophet"/>
+        <card number="1" name="Ruthless Technomancer"/>
+        <card number="1" name="Jazal Goldmane"/>
+        <card number="1" name="Alms Collector"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Pile On"/>
+        <card number="1" name="Leonin Arbiter"/>
+        <card number="1" name="Eight-and-a-Half-Tails"/>
+        <card number="1" name="Containment Priest"/>
+        <card number="1" name="Vexilus Praetor"/>
+        <card number="1" name="Multiclass Baldric"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Access Tunnel"/>
+        <card number="1" name="Minthara, Merciless Soul"/>
+        <card number="1" name="Lotho, Corrupt Shirriff"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Nighthawk"/>
@@ -100,7 +100,7 @@
         <card number="1" name="Vindicate"/>
         <card number="1" name="Irregular Cohort"/>
         <card number="1" name="Magus of the Balance"/>
-        <card number="1" name="Order of Whiteclay"/>
+        <card number="2" name="Order of Whiteclay"/>
         <card number="1" name="Pontiff of Blight"/>
         <card number="1" name="Tenacious Underdog"/>
         <card number="1" name="Galepowder Mage"/>
@@ -116,7 +116,7 @@
         <card number="1" name="Drana, the Last Bloodchief"/>
         <card number="1" name="Eight-and-a-Half-Tails"/>
         <card number="1" name="Malakir Blood-Priest"/>
-        <card number="1" name="Morbid Opportunist"/>
+        <card number="2" name="Morbid Opportunist"/>
         <card number="1" name="Grim Haruspex"/>
         <card number="1" name="Squad Commander"/>
         <card number="1" name="Shakedown Heavy"/>
@@ -150,5 +150,31 @@
         <card number="1" name="Sivriss, Nightmare Speaker"/>
         <card number="1" name="Vizkopa Guildmage"/>
         <card number="1" name="Frontline Medic"/>
+        <card number="1" name="Burakos, Party Leader"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Scheming Symmetry"/>
+        <card number="1" name="Archivist of Oghma"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Marionette Master"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Nighthawk Scavenger"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Dire Fleet Ravager"/>
+        <card number="1" name="Varragoth, Bloodsky Sire"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="2" name="Utter End"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Tainted Field"/>
     </zone>
 </cockatrice_deck>

@@ -59,7 +59,6 @@
         <card number="1" name="Leinore, Autumn Sovereign"/>
         <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Tribute to the World Tree"/>
-        <card number="1" name="Bastion Protector"/>
         <card number="1" name="Mikaeus, the Lunarch"/>
         <card number="1" name="Beregond of the Guard"/>
         <card number="1" name="Contraband Livestock"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Join Shields"/>
         <card number="1" name="Summoner's Pact"/>
         <card number="1" name="White Sun's Twilight"/>
+        <card number="1" name="Myrel, Shield of Argive"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sigarda, Heron's Grace"/>
@@ -210,7 +210,7 @@
         <card number="1" name="Your Temple Is Under Attack"/>
         <card number="1" name="Fog"/>
         <card number="2" name="Lifecrafter's Bestiary"/>
-        <card number="1" name="Bastion Protector"/>
+        <card number="2" name="Bastion Protector"/>
         <card number="1" name="Reverent Hoplite"/>
         <card number="2" name="Magus of the Disk"/>
         <card number="2" name="Heron's Grace Champion"/>

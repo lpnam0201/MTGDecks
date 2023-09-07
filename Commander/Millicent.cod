@@ -59,16 +59,12 @@
         <card number="1" name="Spectral Adversary"/>
         <card number="1" name="Deserted Beach"/>
         <card number="1" name="Kira, Great Glass-Spinner"/>
-        <card number="1" name="Synthetic Destiny"/>
         <card number="1" name="Talisman of Progress"/>
         <card number="1" name="Akroma's Will"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Drumbellower"/>
         <card number="1" name="Wand of the Worldsoul"/>
         <card number="1" name="Flockchaser Phantom"/>
         <card number="1" name="Horn of the Mark"/>
-        <card number="1" name="Winged Words"/>
-        <card number="1" name="Chart a Course"/>
         <card number="1" name="Eerie Interlude"/>
         <card number="1" name="Herald's Horn"/>
         <card number="1" name="Staggering Insight"/>
@@ -85,6 +81,10 @@
         <card number="1" name="Reconnaissance Mission"/>
         <card number="1" name="Twilight Drover"/>
         <card number="1" name="Spectral Sailor"/>
+        <card number="1" name="Curiosity"/>
+        <card number="1" name="Combat Research"/>
+        <card number="1" name="Moonshaker Cavalry"/>
+        <card number="1" name="True Conviction"/>
     </zone>
     <zone name="side">
         <card number="1" name="Negate"/>
@@ -128,7 +128,7 @@
         <card number="2" name="Sea of Clouds"/>
         <card number="1" name="Seachrome Coast"/>
         <card number="2" name="Dissolve"/>
-        <card number="3" name="Sol Ring"/>
+        <card number="4" name="Sol Ring"/>
         <card number="1" name="Niblis of the Mist"/>
         <card number="1" name="Twinblade Geist"/>
         <card number="2" name="Unbreakable Formation"/>
@@ -194,9 +194,9 @@
         <card number="2" name="Windfall"/>
         <card number="1" name="Obelisk of Urd"/>
         <card number="2" name="Ethereal Valkyrie"/>
-        <card number="1" name="Chart a Course"/>
+        <card number="2" name="Chart a Course"/>
         <card number="2" name="Behold the Multiverse"/>
-        <card number="1" name="Winged Words"/>
+        <card number="2" name="Winged Words"/>
         <card number="1" name="Departed Deckhand"/>
         <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Rule of Law"/>
@@ -269,5 +269,6 @@
         <card number="1" name="Chemister's Insight"/>
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Spectral Sailor"/>
+        <card number="1" name="Synthetic Destiny"/>
     </zone>
 </cockatrice_deck>

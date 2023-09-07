@@ -5,7 +5,6 @@
     <zone name="main">
         <card number="1" name="Tatyova, Steward of Tides"/>
         <card number="1" name="Tatyova, Benthic Druid"/>
-        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Nature's Lore"/>
@@ -16,17 +15,10 @@
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Cultivate"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Migration Path"/>
-        <card number="1" name="Skyshroud Claim"/>
-        <card number="1" name="Summoner's Pact"/>
-        <card number="1" name="Shared Summons"/>
-        <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Splendid Reclamation"/>
-        <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Azusa, Lost but Seeking"/>
-        <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Ramunap Excavator"/>
         <card number="1" name="Ancient Greenwarden"/>
@@ -50,41 +42,50 @@
         <card number="1" name="Dreamroot Cascade"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Avenger of Zendikar"/>
-        <card number="1" name="Arcane Denial"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Eternal Witness"/>
-        <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Harrow"/>
-        <card number="1" name="Crop Rotation"/>
-        <card number="1" name="Sylvan Scrying"/>
-        <card number="1" name="Druid of Purification"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Scute Swarm"/>
         <card number="1" name="Rampaging Baloths"/>
-        <card number="1" name="Augur of Autumn"/>
-        <card number="1" name="Brainstorm"/>
         <card number="1" name="Tireless Tracker"/>
-        <card number="1" name="Sphinx of the Second Sun"/>
-        <card number="1" name="Seedborn Muse"/>
-        <card number="1" name="Wilderness Reclamation"/>
         <card number="1" name="Search for Tomorrow"/>
-        <card number="1" name="Green Sun's Zenith"/>
-        <card number="1" name="Craterhoof Behemoth"/>
         <card number="1" name="Yedora, Grave Gardener"/>
-        <card number="1" name="Chord of Calling"/>
-        <card number="1" name="Windfall"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Kamahl, Heart of Krosa"/>
         <card number="1" name="Misty Rainforest"/>
-        <card number="1" name="March of Swirling Mist"/>
         <card number="1" name="Vastwood Surge"/>
         <card number="1" name="Conduit of Worlds"/>
         <card number="1" name="Brokers Hideout"/>
-        <card number="1" name="Change of Plans"/>
         <card number="1" name="Embodiment of Insight"/>
-        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="End-Raze Forerunners"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Jolrael, Voice of Zhalfir"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Inga and Esika"/>
+        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="1" name="Invasion of Zendikar"/>
+        <card number="1" name="Wash Away"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Ashaya, Soul of the Wild"/>
+        <card number="1" name="Jaheira's Respite"/>
+        <card number="1" name="Winged Portent"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Military Intelligence"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Exploration"/>
+        <card number="1" name="Ohran Frostfang"/>
+        <card number="1" name="Grazilaxx, Illithid Scholar"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Court of Bounty"/>
+        <card number="1" name="Verdant Mastery"/>
+        <card number="1" name="Familiar's Ruse"/>
+        <card number="1" name="Reshape the Earth"/>
+        <card number="1" name="Pest Infestation"/>
+        <card number="1" name="Filter Out"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="The Reality Chip"/>
     </zone>
     <zone name="side">
         <card number="1" name="Hurkyl's Final Meditation"/>
@@ -92,12 +93,12 @@
         <card number="1" name="Coastal Breach"/>
         <card number="1" name="Conduit of Worlds"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Sylvan Advocate"/>
+        <card number="2" name="Sylvan Advocate"/>
         <card number="2" name="Exploration"/>
         <card number="1" name="Bident of Thassa"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Reconnaissance Mission"/>
+        <card number="3" name="Reconnaissance Mission"/>
         <card number="2" name="Explosive Vegetation"/>
         <card number="1" name="Emergent Sequence"/>
         <card number="1" name="Courser of Kruphix"/>
@@ -109,5 +110,36 @@
         <card number="1" name="Roiling Regrowth"/>
         <card number="1" name="Primal Command"/>
         <card number="1" name="Reshape the Earth"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="1" name="Kamahl, Heart of Krosa"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Augur of Autumn"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Urban Evolution"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Titania, Protector of Argoth"/>
+        <card number="1" name="Curse of Verbosity"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Sylvan Scrying"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Bala Ged Recovery"/>
     </zone>
 </cockatrice_deck>

@@ -64,7 +64,6 @@
         <card number="5" name="Plains"/>
         <card number="6" name="Forest"/>
         <card number="6" name="Island"/>
-        <card number="1" name="Approach of the Second Sun"/>
         <card number="1" name="Wall of Roots"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Flooded Strand"/>
@@ -81,9 +80,6 @@
         <card number="1" name="Glacial Wall"/>
         <card number="1" name="Fell the Mighty"/>
         <card number="1" name="Unsummon"/>
-        <card number="1" name="Jace, Unraveler of Secrets"/>
-        <card number="1" name="Teferi, Who Slows the Sunset"/>
-        <card number="1" name="Vivien Reid"/>
         <card number="1" name="Talisman of Unity"/>
         <card number="1" name="Blacksmith's Skill"/>
         <card number="1" name="Tamiyo's Safekeeping"/>
@@ -115,5 +111,9 @@
         <card number="1" name="Semester's End"/>
         <card number="1" name="Asceticism"/>
         <card number="1" name="Towering Titan"/>
+        <card number="1" name="Jace, Unraveler of Secrets"/>
+        <card number="1" name="Teferi, Who Slows the Sunset"/>
+        <card number="1" name="Vivien Reid"/>
+        <card number="1" name="Approach of the Second Sun"/>
     </zone>
 </cockatrice_deck>

@@ -19,7 +19,6 @@
         <card number="1" name="Containment Construct"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Sevinne's Reclamation"/>
-        <card number="1" name="Drake Haven"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Negate"/>
@@ -70,14 +69,12 @@
         <card number="1" name="Adeline, Resplendent Cathar"/>
         <card number="1" name="Myrel, Shield of Argive"/>
         <card number="1" name="Priest of Fell Rites"/>
-        <card number="1" name="Archpriest of Shadows"/>
         <card number="1" name="Kamiz, Obscura Oculus"/>
         <card number="1" name="Thief of Sanity"/>
         <card number="1" name="Shadowmage Infiltrator"/>
         <card number="1" name="Daxos of Meletis"/>
         <card number="1" name="Obscura Interceptor"/>
         <card number="1" name="All-Seeing Arbiter"/>
-        <card number="1" name="Prince Imrahil the Fair"/>
         <card number="1" name="Karmic Guide"/>
         <card number="1" name="Victimize"/>
         <card number="1" name="Treasure Cruise"/>
@@ -93,7 +90,10 @@
         <card number="1" name="Port Town"/>
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Shineshadow Snarl"/>
-        <card number="1" name="Midnight Pathlighter"/>
+        <card number="1" name="Lavinia, Azorius Renegade"/>
+        <card number="1" name="Doomed Necromancer"/>
+        <card number="1" name="Wizards of Thay"/>
+        <card number="1" name="Phantom Steed"/>
     </zone>
     <zone name="side">
         <card number="2" name="Change of Plans"/>
@@ -185,5 +185,10 @@
         <card number="1" name="Underground River"/>
         <card number="1" name="Fetid Heath"/>
         <card number="1" name="Geist of Saint Traft"/>
+        <card number="1" name="Midnight Pathlighter"/>
+        <card number="1" name="Prince Imrahil the Fair"/>
+        <card number="1" name="Archpriest of Shadows"/>
+        <card number="1" name="Drake Haven"/>
+        <card number="1" name="Ria Ivor, Bane of Bladehold"/>
     </zone>
 </cockatrice_deck>

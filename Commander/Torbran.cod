@@ -8,29 +8,20 @@
         <card number="1" name="Spinerock Knoll"/>
         <card number="30" name="Mountain"/>
         <card number="1" name="Torbran, Thane of Red Fell"/>
-        <card number="1" name="Experimental Frenzy"/>
-        <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Outpost Siege"/>
         <card number="1" name="Light Up the Stage"/>
-        <card number="1" name="Commune with Lava"/>
         <card number="1" name="Magus of the Wheel"/>
-        <card number="1" name="Inferno Titan"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Devils' Playground"/>
         <card number="1" name="Dance with Devils"/>
-        <card number="1" name="By Force"/>
         <card number="1" name="Ramunap Ruins"/>
         <card number="1" name="Burn Down the House"/>
         <card number="1" name="Zurzoth, Chaos Rider"/>
         <card number="1" name="Tectonic Giant"/>
-        <card number="1" name="Valakut Exploration"/>
         <card number="1" name="Chaos Channeler"/>
         <card number="1" name="Abrade"/>
         <card number="1" name="Hellrider"/>
         <card number="1" name="Siege-Gang Commander"/>
-        <card number="1" name="Tibalt's Trickery"/>
-        <card number="1" name="Prophetic Flamespeaker"/>
         <card number="1" name="Embermaw Hellion"/>
         <card number="1" name="Arcane Lighthouse"/>
         <card number="1" name="Liquimetal Torque"/>
@@ -38,42 +29,51 @@
         <card number="1" name="Krenko, Tin Street Kingpin"/>
         <card number="1" name="Legion Warboss"/>
         <card number="1" name="Sin Prodder"/>
-        <card number="1" name="Berserkers' Onslaught"/>
-        <card number="1" name="Rage Reflection"/>
         <card number="1" name="Subira, Tulzidi Caravanner"/>
-        <card number="1" name="Coastline Marauders"/>
         <card number="1" name="Grotag Night-Runner"/>
-        <card number="1" name="Mob Rule"/>
-        <card number="1" name="Drakuseth, Maw of Flames"/>
         <card number="1" name="Goblin Assault"/>
         <card number="1" name="Krenko, Mob Boss"/>
         <card number="1" name="Goblin Traprunner"/>
-        <card number="1" name="Lizard Blades"/>
-        <card number="1" name="Markov Blademaster"/>
-        <card number="1" name="Raging Redcap"/>
-        <card number="1" name="Twinscroll Shaman"/>
-        <card number="1" name="Hound of Griselbrand"/>
-        <card number="1" name="Efreet Flamepainter"/>
-        <card number="1" name="Momentum Rumbler"/>
-        <card number="1" name="Scrapper Champion"/>
-        <card number="1" name="Dragon-Style Twins"/>
         <card number="1" name="Tempered in Solitude"/>
-        <card number="1" name="March of Reckless Joy"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Star Compass"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Heat Shimmer"/>
-        <card number="1" name="You See a Pair of Goblins"/>
-        <card number="1" name="Vance's Blasting Cannons"/>
-        <card number="1" name="Ferocity of the Wilds"/>
-        <card number="1" name="Iron Myr"/>
         <card number="1" name="Raze the Effigy"/>
         <card number="1" name="Embereth Shieldbreaker // Battle Display"/>
         <card number="1" name="Destructive Tampering"/>
-        <card number="1" name="Etali, Primal Storm"/>
-        <card number="1" name="Stromkirk Occultist"/>
-        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Goblin Rabblemaster"/>
+        <card number="1" name="Pugnacious Pugilist"/>
+        <card number="1" name="Visions of Phyrexia"/>
+        <card number="1" name="Urabrask's Forge"/>
+        <card number="1" name="Fiery Confluence"/>
+        <card number="1" name="Mechanized Warfare"/>
+        <card number="1" name="City on Fire"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Orthion, Hero of Lavabrink"/>
+        <card number="1" name="Pashalik Mons"/>
+        <card number="1" name="Squee, Dubious Monarch"/>
+        <card number="1" name="Goblin Chainwhirler"/>
+        <card number="1" name="Moria Marauder"/>
+        <card number="1" name="Hobgoblin Bandit Lord"/>
+        <card number="1" name="Rundvelt Hordemaster"/>
+        <card number="1" name="Cavalcade of Calamity"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Stoke the Flames"/>
+        <card number="1" name="Kari Zev, Skyship Raider"/>
+        <card number="1" name="Tilonalli's Summoner"/>
+        <card number="1" name="Elemental Mastery"/>
+        <card number="1" name="Stensia Uprising"/>
+        <card number="1" name="Rakka Mar"/>
+        <card number="1" name="Court of Embereth"/>
+        <card number="1" name="Raid Bombardment"/>
+        <card number="1" name="Witty Roastmaster"/>
+        <card number="1" name="Koth, Fire of Resistance"/>
+        <card number="1" name="Chandra, Torch of Defiance"/>
+        <card number="1" name="Stolen Strategy"/>
+        <card number="1" name="Zariel, Archduke of Avernus"/>
     </zone>
     <zone name="side">
         <card number="1" name="Aligned Hedron Network"/>
@@ -82,7 +82,7 @@
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Burnished Hart"/>
         <card number="1" name="Chandra, Fire of Kaladesh"/>
-        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="2" name="Drakuseth, Maw of Flames"/>
         <card number="3" name="Embermaw Hellion"/>
         <card number="1" name="Harsh Mentor"/>
         <card number="1" name="Krenko, Mob Boss"/>
@@ -113,20 +113,20 @@
         <card number="1" name="Fanatic of Mogis"/>
         <card number="1" name="Ardent Dustspeaker"/>
         <card number="1" name="Tuskeri Firewalker"/>
-        <card number="1" name="Iron Myr"/>
+        <card number="2" name="Iron Myr"/>
         <card number="1" name="Brash Taunter"/>
         <card number="1" name="Geistflame Reservoir"/>
         <card number="2" name="Burning Earth"/>
         <card number="1" name="Dagger Caster"/>
         <card number="1" name="Gratuitous Violence"/>
         <card number="1" name="Magic Missile"/>
-        <card number="1" name="Vance's Blasting Cannons"/>
+        <card number="2" name="Vance's Blasting Cannons"/>
         <card number="1" name="Sulfuric Vortex"/>
         <card number="1" name="Quakebringer"/>
         <card number="1" name="Scab-Clan Berserker"/>
         <card number="2" name="Roiling Vortex"/>
         <card number="1" name="Wildfire Devils"/>
-        <card number="1" name="Blasphemous Act"/>
+        <card number="2" name="Blasphemous Act"/>
         <card number="1" name="Fire Diamond"/>
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Sundering Stroke"/>
@@ -146,7 +146,7 @@
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Star Compass"/>
         <card number="1" name="Storm Fleet Swashbuckler"/>
-        <card number="1" name="Valakut Exploration"/>
+        <card number="2" name="Valakut Exploration"/>
         <card number="1" name="Cavalcade of Calamity"/>
         <card number="1" name="Fiery Confluence"/>
         <card number="1" name="Sweltering Suns"/>
@@ -165,5 +165,37 @@
         <card number="1" name="Slaying Fire"/>
         <card number="1" name="Syr Carah, the Bold"/>
         <card number="1" name="Mizzium Mortars"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Coastline Marauders"/>
+        <card number="1" name="Dragon-Style Twins"/>
+        <card number="1" name="Inferno Titan"/>
+        <card number="1" name="Momentum Rumbler"/>
+        <card number="1" name="Goblin Assault"/>
+        <card number="1" name="Rage Reflection"/>
+        <card number="1" name="Berserkers' Onslaught"/>
+        <card number="1" name="Commune with Lava"/>
+        <card number="1" name="March of Reckless Joy"/>
+        <card number="1" name="Zurzoth, Chaos Rider"/>
+        <card number="1" name="Ferocity of the Wilds"/>
+        <card number="1" name="Devils' Playground"/>
+        <card number="1" name="Burn Down the House"/>
+        <card number="1" name="By Force"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="1" name="Markov Blademaster"/>
+        <card number="1" name="Raging Redcap"/>
+        <card number="1" name="Scrapper Champion"/>
+        <card number="1" name="Stromkirk Occultist"/>
+        <card number="1" name="Twinscroll Shaman"/>
+        <card number="1" name="Lizard Blades"/>
+        <card number="1" name="Hound of Griselbrand"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Scampering Scorcher"/>
+        <card number="1" name="You See a Pair of Goblins"/>
+        <card number="1" name="Heat Shimmer"/>
+        <card number="1" name="Efreet Flamepainter"/>
+        <card number="1" name="Prophetic Flamespeaker"/>
+        <card number="1" name="Experimental Frenzy"/>
     </zone>
 </cockatrice_deck>

@@ -11,7 +11,6 @@
         <card number="1" name="Three Visits"/>
         <card number="1" name="Consuming Tide"/>
         <card number="1" name="Flood of Tears"/>
-        <card number="1" name="Devastation Tide"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Cultivate"/>
@@ -27,8 +26,6 @@
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="10" name="Forest"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Prismatic Vista"/>
         <card number="10" name="Island"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Yavimaya Coast"/>
@@ -53,23 +50,19 @@
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Yedora, Grave Gardener"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Vastwood Surge"/>
         <card number="1" name="Conduit of Worlds"/>
         <card number="1" name="Brokers Hideout"/>
         <card number="1" name="Embodiment of Insight"/>
-        <card number="1" name="End-Raze Forerunners"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Jolrael, Voice of Zhalfir"/>
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Inga and Esika"/>
-        <card number="1" name="Rashmi, Eternities Crafter"/>
         <card number="1" name="Invasion of Zendikar"/>
         <card number="1" name="Wash Away"/>
         <card number="1" name="Return to Nature"/>
         <card number="1" name="Resculpt"/>
         <card number="1" name="Ashaya, Soul of the Wild"/>
-        <card number="1" name="Jaheira's Respite"/>
         <card number="1" name="Winged Portent"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Military Intelligence"/>
@@ -80,12 +73,18 @@
         <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Court of Bounty"/>
         <card number="1" name="Verdant Mastery"/>
-        <card number="1" name="Familiar's Ruse"/>
-        <card number="1" name="Reshape the Earth"/>
         <card number="1" name="Pest Infestation"/>
-        <card number="1" name="Filter Out"/>
         <card number="1" name="Explosive Vegetation"/>
         <card number="1" name="The Reality Chip"/>
+        <card number="1" name="Familiar's Ruse"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Zimone, Quandrix Prodigy"/>
+        <card number="1" name="Tanglepool Bridge"/>
+        <card number="1" name="Cascading Cataracts"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Wayward Swordtooth"/>
+        <card number="1" name="Ulvenwald Hydra"/>
     </zone>
     <zone name="side">
         <card number="1" name="Hurkyl's Final Meditation"/>
@@ -109,7 +108,7 @@
         <card number="2" name="Rites of Flourishing"/>
         <card number="1" name="Roiling Regrowth"/>
         <card number="1" name="Primal Command"/>
-        <card number="1" name="Reshape the Earth"/>
+        <card number="2" name="Reshape the Earth"/>
         <card number="1" name="Sphinx of the Second Sun"/>
         <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
@@ -141,5 +140,16 @@
         <card number="1" name="Sylvan Scrying"/>
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="1" name="Devastation Tide"/>
+        <card number="2" name="Tiller Engine"/>
+        <card number="1" name="Familiar's Ruse"/>
+        <card number="1" name="Jaheira's Respite"/>
+        <card number="1" name="End-Raze Forerunners"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Filter Out"/>
+        <card number="1" name="Thunderfoot Baloth"/>
     </zone>
 </cockatrice_deck>

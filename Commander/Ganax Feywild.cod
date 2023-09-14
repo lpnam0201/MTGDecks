@@ -16,7 +16,6 @@
         <card number="1" name="Dragon Tempest"/>
         <card number="1" name="Goldspan Dragon"/>
         <card number="1" name="Scourge of Valkas"/>
-        <card number="1" name="Berserkers' Onslaught"/>
         <card number="1" name="Blood Mist"/>
         <card number="1" name="Rage Reflection"/>
         <card number="1" name="Shared Animosity"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Sarkhan the Masterless"/>
         <card number="1" name="Skyline Despot"/>
         <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Rain of Riches"/>
     </zone>
     <zone name="side">
         <card number="1" name="Drawn from Dreams"/>
@@ -116,5 +116,6 @@
         <card number="1" name="Magda, Brazen Outlaw"/>
         <card number="1" name="Bloodboil Sorcerer"/>
         <card number="1" name="Sarevok's Tome"/>
+        <card number="1" name="Berserkers' Onslaught"/>
     </zone>
 </cockatrice_deck>

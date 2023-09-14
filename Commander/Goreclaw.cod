@@ -49,7 +49,6 @@
         <card number="1" name="Vizier of the Menagerie"/>
         <card number="1" name="Augur of Autumn"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Loyal Guardian"/>
         <card number="1" name="Thunderfoot Baloth"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
         <card number="1" name="Whiptongue Hydra"/>
@@ -68,12 +67,13 @@
         <card number="1" name="Sylvan Library"/>
         <card number="1" name="Tail Swipe"/>
         <card number="1" name="Elder Gargaroth"/>
-        <card number="1" name="Kodama of the East Tree"/>
         <card number="1" name="Ilysian Caryatid"/>
         <card number="1" name="Whisperer of the Wilds"/>
         <card number="1" name="Selvala, Heart of the Wilds"/>
         <card number="1" name="Silverback Elder"/>
         <card number="1" name="Greater Good"/>
+        <card number="1" name="Primordial Sage"/>
+        <card number="1" name="Stonehoof Chieftain"/>
     </zone>
     <zone name="side">
         <card number="1" name="Eternal Witness"/>
@@ -99,7 +99,7 @@
         <card number="1" name="God-Eternal Rhonas"/>
         <card number="1" name="Incubation Druid"/>
         <card number="2" name="Leafkin Druid"/>
-        <card number="1" name="Loyal Guardian"/>
+        <card number="2" name="Loyal Guardian"/>
         <card number="1" name="Nylea, God of the Hunt"/>
         <card number="1" name="Primordial Sage"/>
         <card number="2" name="Prowling Serpopard"/>
@@ -169,7 +169,7 @@
         <card number="1" name="Ghalta, Primal Hunger"/>
         <card number="1" name="Crashing Drawbridge"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Kodama of the East Tree"/>
+        <card number="2" name="Kodama of the East Tree"/>
         <card number="1" name="Gwenna, Eyes of Gaea"/>
         <card number="1" name="Wrap in Vigor"/>
         <card number="1" name="Dreadfeast Demon"/>

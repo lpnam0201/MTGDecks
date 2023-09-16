@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname></deckname>
+    <deckname>Torbran</deckname>
     <comments></comments>
     <zone name="main">
         <card number="1" name="Myriad Landscape"/>
@@ -22,7 +22,6 @@
         <card number="1" name="Abrade"/>
         <card number="1" name="Hellrider"/>
         <card number="1" name="Siege-Gang Commander"/>
-        <card number="1" name="Embermaw Hellion"/>
         <card number="1" name="Arcane Lighthouse"/>
         <card number="1" name="Liquimetal Torque"/>
         <card number="1" name="Dagger Caster"/>
@@ -39,9 +38,7 @@
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Star Compass"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Raze the Effigy"/>
         <card number="1" name="Embereth Shieldbreaker // Battle Display"/>
-        <card number="1" name="Destructive Tampering"/>
         <card number="1" name="Fire Diamond"/>
         <card number="1" name="Goblin Rabblemaster"/>
         <card number="1" name="Pugnacious Pugilist"/>
@@ -62,8 +59,6 @@
         <card number="1" name="Cavalcade of Calamity"/>
         <card number="1" name="Goblin Bombardment"/>
         <card number="1" name="Stoke the Flames"/>
-        <card number="1" name="Kari Zev, Skyship Raider"/>
-        <card number="1" name="Tilonalli's Summoner"/>
         <card number="1" name="Elemental Mastery"/>
         <card number="1" name="Stensia Uprising"/>
         <card number="1" name="Rakka Mar"/>
@@ -74,6 +69,11 @@
         <card number="1" name="Chandra, Torch of Defiance"/>
         <card number="1" name="Stolen Strategy"/>
         <card number="1" name="Zariel, Archduke of Avernus"/>
+        <card number="1" name="Defiler of Instinct"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Bonecrusher Giant // Stomp"/>
+        <card number="1" name="Rose Room Treasurer"/>
+        <card number="1" name="Gimli, Counter of Kills"/>
     </zone>
     <zone name="side">
         <card number="1" name="Aligned Hedron Network"/>
@@ -83,7 +83,7 @@
         <card number="1" name="Burnished Hart"/>
         <card number="1" name="Chandra, Fire of Kaladesh"/>
         <card number="2" name="Drakuseth, Maw of Flames"/>
-        <card number="3" name="Embermaw Hellion"/>
+        <card number="4" name="Embermaw Hellion"/>
         <card number="1" name="Harsh Mentor"/>
         <card number="1" name="Krenko, Mob Boss"/>
         <card number="1" name="Rampaging Ferocidon"/>
@@ -197,5 +197,9 @@
         <card number="1" name="Efreet Flamepainter"/>
         <card number="1" name="Prophetic Flamespeaker"/>
         <card number="1" name="Experimental Frenzy"/>
+        <card number="2" name="Kari Zev, Skyship Raider"/>
+        <card number="1" name="Raze the Effigy"/>
+        <card number="1" name="Tilonalli's Summoner"/>
+        <card number="1" name="Destructive Tampering"/>
     </zone>
 </cockatrice_deck>

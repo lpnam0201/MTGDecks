@@ -5,21 +5,16 @@
     <zone name="main">
         <card number="1" name="Talrand, Sky Summoner"/>
         <card number="1" name="Hullbreaker Horror"/>
-        <card number="1" name="Horned Loch-Whale // Lagoon Breach"/>
         <card number="1" name="Torrential Gearhulk"/>
         <card number="1" name="Leyline of Anticipation"/>
-        <card number="1" name="Tidal Barracuda"/>
         <card number="1" name="Supplant Form"/>
         <card number="1" name="See Double"/>
         <card number="1" name="Saheeli's Artistry"/>
-        <card number="1" name="Irenicus's Vile Duplication"/>
-        <card number="1" name="Mind Flayer"/>
         <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Candlekeep Inspiration"/>
         <card number="1" name="Quick Study"/>
         <card number="1" name="Chart a Course"/>
-        <card number="1" name="Winged Words"/>
         <card number="1" name="Borne Upon a Wind"/>
         <card number="1" name="Quicken"/>
         <card number="1" name="Farsight Ritual"/>
@@ -27,7 +22,6 @@
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Anticipate"/>
         <card number="1" name="Impulse"/>
-        <card number="1" name="Murmuring Mystic"/>
         <card number="1" name="Preordain"/>
         <card number="1" name="Serum Visions"/>
         <card number="1" name="Negate"/>
@@ -35,14 +29,74 @@
         <card number="1" name="Ponder"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Resculpt"/>
-        <card number="1" name="Haughty Djinn"/>
         <card number="1" name="Octavia, Living Thesis"/>
+        <card number="1" name="Rise from the Tides"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="30" name="Island"/>
+        <card number="1" name="Mystic Sanctuary"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Decanter of Endless Water"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Riptide Laboratory"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Invasion of Segovia"/>
+        <card number="1" name="Elminster's Simulacrum"/>
+        <card number="1" name="Mnemonic Deluge"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Unsubstantiate"/>
+        <card number="1" name="Chaos Wand"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Scholar of the Lost Trove"/>
+        <card number="1" name="Mass Polymorph"/>
+        <card number="1" name="Synthetic Destiny"/>
+        <card number="1" name="Scourge of Fleets"/>
+        <card number="1" name="Drawn from Dreams"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Complete the Circuit"/>
+        <card number="1" name="Meeting of Minds"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="High Tide"/>
+        <card number="1" name="Spelltwine"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Shadow Puppeteers"/>
         <card number="1" name="Wizards of Thay"/>
-        <card number="1" name="Niblis of Frost"/>
-        <card number="1" name="Gadwick, the Wizened"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sakashima's Protege"/>
         <card number="1" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" name="Precognition Field"/>
+        <card number="1" name="Haughty Djinn"/>
+        <card number="1" name="Lonely Sandbar"/>
+        <card number="1" name="Remote Isle"/>
+        <card number="1" name="Mind Flayer"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Horned Loch-Whale // Lagoon Breach"/>
+        <card number="1" name="Docent of Perfection"/>
+        <card number="1" name="Niblis of Frost"/>
+        <card number="1" name="Gadwick, the Wizened"/>
+        <card number="1" name="Wizards of Thay"/>
+        <card number="1" name="Winged Words"/>
+        <card number="1" name="Rivendell"/>
+        <card number="1" name="Sakashima's Will"/>
+        <card number="1" name="Talent of the Telepath"/>
+        <card number="1" name="Irenicus's Vile Duplication"/>
+        <card number="1" name="Unwind"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Tidal Barracuda"/>
+        <card number="1" name="Artistic Refusal"/>
     </zone>
 </cockatrice_deck>

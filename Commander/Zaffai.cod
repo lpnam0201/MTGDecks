@@ -15,15 +15,85 @@
         <card number="1" name="Jace's Sanctum"/>
         <card number="1" name="Cryptic Pursuit"/>
         <card number="1" name="Thousand-Year Storm"/>
-        <card number="1" name="Dazzling Sphinx"/>
-        <card number="1" name="Etali, Primal Storm"/>
         <card number="1" name="Harmonic Prodigy"/>
         <card number="1" name="Wand of Wonder"/>
         <card number="1" name="Chaos Wand"/>
-        <card number="1" name="Wizard's Spellbook"/>
         <card number="1" name="Double Vision"/>
+        <card number="1" name="Creative Technique"/>
+        <card number="1" name="Mind's Desire"/>
+        <card number="1" name="Apex of Power"/>
+        <card number="1" name="Complete the Circuit"/>
+        <card number="1" name="Invasion of Segovia"/>
+        <card number="1" name="Mnemonic Deluge"/>
+        <card number="1" name="Spelltwine"/>
+        <card number="1" name="Brass's Bounty"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Walk the Aeons"/>
+        <card number="1" name="Surge to Victory"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Aminatou's Augury"/>
+        <card number="1" name="Inspired Tinkering"/>
+        <card number="1" name="Rousing Refrain"/>
+        <card number="1" name="Volcanic Torrent"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Wizards of Thay"/>
+        <card number="1" name="Haughty Djinn"/>
+        <card number="1" name="Mocking Sprite"/>
+        <card number="1" name="Birgi, God of Storytelling"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Spectacle Mage"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Howl of the Horde"/>
+        <card number="1" name="Galvanic Iteration"/>
+        <card number="1" name="Increasing Vengeance"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Display of Power"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Artistic Refusal"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Epic Experiment"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Past in Flames"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="10" name="Island"/>
+        <card number="10" name="Mountain"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Prismari Campus"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Stormcarved Coast"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Reliquary Tower"/>
     </zone>
     <zone name="side">
         <card number="1" name="Eligeth, Crossroads Augur"/>
+        <card number="1" name="Dazzling Sphinx"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Vadrik, Astral Archmage"/>
+        <card number="1" name="Wizard's Spellbook"/>
+        <card number="1" name="Reiterate"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Chandra, Hope's Beacon"/>
     </zone>
 </cockatrice_deck>

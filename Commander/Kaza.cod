@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Kaza, Roil Chaser"/>
-        <card number="1" name="Dualcaster Mage"/>
         <card number="1" name="Azami, Lady of Scrolls"/>
         <card number="1" name="Archaeomancer"/>
         <card number="1" name="Archmage Emeritus"/>
@@ -41,7 +40,6 @@
         <card number="1" name="Scalding Tarn"/>
         <card number="1" name="Training Center"/>
         <card number="1" name="Najal, the Storm Runner"/>
-        <card number="1" name="Naru Meha, Master Wizard"/>
         <card number="1" name="Solve the Equation"/>
         <card number="1" name="Invert // Invent"/>
         <card number="1" name="Reiterate"/>
@@ -54,27 +52,21 @@
         <card number="1" name="Soulfire Eruption"/>
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Thassa's Intervention"/>
-        <card number="1" name="Rionya, Fire Dancer"/>
-        <card number="1" name="Irenicus's Vile Duplication"/>
         <card number="1" name="Step Through"/>
-        <card number="1" name="Twinflame"/>
         <card number="1" name="Jeska's Will"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Fervent Mastery"/>
         <card number="1" name="Venser, Shaper Savant"/>
-        <card number="1" name="Shipwreck Dowser"/>
         <card number="1" name="Emergence Zone"/>
         <card number="1" name="Quicken"/>
         <card number="1" name="Malevolent Hermit"/>
         <card number="1" name="Brainstorm"/>
-        <card number="1" name="Cackling Counterpart"/>
         <card number="1" name="Leyline of Anticipation"/>
         <card number="1" name="Double Vision"/>
         <card number="1" name="Johann, Apprentice Sorcerer"/>
         <card number="1" name="Borne Upon a Wind"/>
         <card number="1" name="Dramatic Reversal"/>
-        <card number="1" name="Vadrik, Astral Archmage"/>
         <card number="1" name="Mizzix of the Izmagnus"/>
         <card number="1" name="Mnemonic Deluge"/>
         <card number="1" name="Goblin Electromancer"/>
@@ -117,7 +109,7 @@
         <card number="5" name="Sublime Epiphany"/>
         <card number="2" name="Mind Spring"/>
         <card number="2" name="Dig Through Time"/>
-        <card number="4" name="Shipwreck Dowser"/>
+        <card number="5" name="Shipwreck Dowser"/>
         <card number="2" name="Omnispell Adept"/>
         <card number="1" name="Izzet Chronarch"/>
         <card number="1" name="Cyclone Summoner"/>
@@ -158,7 +150,7 @@
         <card number="1" name="Hidden Strings"/>
         <card number="1" name="Ingenious Mastery"/>
         <card number="1" name="Captain of the Mists"/>
-        <card number="1" name="Naru Meha, Master Wizard"/>
+        <card number="2" name="Naru Meha, Master Wizard"/>
         <card number="2" name="Commander's Insight"/>
         <card number="1" name="Curse of the Swine"/>
         <card number="1" name="Prismatic Lens"/>
@@ -219,5 +211,11 @@
         <card number="1" name="Meeting of Minds"/>
         <card number="1" name="Commune with Lava"/>
         <card number="1" name="Silundi Vision"/>
+        <card number="1" name="Dualcaster Mage"/>
+        <card number="1" name="Twinflame"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Vadrik, Astral Archmage"/>
+        <card number="1" name="Cackling Counterpart"/>
+        <card number="1" name="Irenicus's Vile Duplication"/>
     </zone>
 </cockatrice_deck>

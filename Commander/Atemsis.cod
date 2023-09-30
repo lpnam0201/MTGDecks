@@ -6,13 +6,10 @@
         <card number="1" name="Atemsis, All-Seeing"/>
         <card number="1" name="Misdirection"/>
         <card number="1" name="Nezahal, Primal Tide"/>
-        <card number="1" name="Commit // Memory"/>
         <card number="1" name="Sorcerer's Wand"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Vizier of Tumbling Sands"/>
         <card number="1" name="Kelpie Guide"/>
         <card number="1" name="Arcane Denial"/>
@@ -21,7 +18,7 @@
         <card number="1" name="Aetherspouts"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="27" name="Island"/>
+        <card number="29" name="Island"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Hedron Archive"/>
         <card number="1" name="Sky Diamond"/>
@@ -37,33 +34,23 @@
         <card number="1" name="Stubborn Denial"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Stonespeaker Crystal"/>
         <card number="1" name="Sisay's Ring"/>
-        <card number="1" name="Memory Deluge"/>
-        <card number="1" name="Whispersilk Cloak"/>
-        <card number="1" name="Part the Waterveil"/>
         <card number="1" name="Walk the Aeons"/>
         <card number="1" name="Decanter of Endless Water"/>
         <card number="1" name="Disciple of the Ring"/>
-        <card number="1" name="March of Swirling Mist"/>
         <card number="1" name="Everflowing Chalice"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Bag of Holding"/>
         <card number="1" name="Star Compass"/>
-        <card number="1" name="Alrund's Epiphany"/>
         <card number="1" name="Patriar's Seal"/>
         <card number="1" name="Clever Conjurer"/>
         <card number="1" name="Mystic Sanctuary"/>
         <card number="1" name="Ur-Golem's Eye"/>
         <card number="1" name="Into the Roil"/>
-        <card number="1" name="Wizard Class"/>
         <card number="1" name="Body of Knowledge"/>
-        <card number="1" name="Solve the Equation"/>
         <card number="1" name="Nimbleclaw Adept"/>
         <card number="1" name="Perplexing Test"/>
         <card number="1" name="Sphinx of the Second Sun"/>
-        <card number="1" name="Ormos, Archive Keeper"/>
         <card number="1" name="Arcanis the Omnipotent"/>
         <card number="1" name="Drawn from Dreams"/>
         <card number="1" name="Delay"/>
@@ -71,12 +58,23 @@
         <card number="1" name="Tidal Barracuda"/>
         <card number="1" name="Teferi, Mage of Zhalfir"/>
         <card number="1" name="Karn's Temporal Sundering"/>
-        <card number="1" name="Jin-Gitaxias, Core Augur"/>
-        <card number="1" name="Plaza of Heroes"/>
         <card number="1" name="Emergence Zone"/>
         <card number="1" name="Guildless Commons"/>
-        <card number="1" name="Tale's End"/>
         <card number="1" name="Foil"/>
+        <card number="1" name="Borne Upon a Wind"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Quicken"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Supplant Form"/>
+        <card number="1" name="See Double"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="High Tide"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Commander's Insight"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Saheeli's Artistry"/>
     </zone>
     <zone name="side">
         <card number="2" name="Serum Visions"/>
@@ -137,7 +135,7 @@
         <card number="1" name="Folio of Fancies"/>
         <card number="1" name="Drown in Dreams"/>
         <card number="1" name="Commander's Sphere"/>
-        <card number="1" name="Whispersilk Cloak"/>
+        <card number="2" name="Whispersilk Cloak"/>
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Triskaidekaphile"/>
         <card number="1" name="Frantic Search"/>
@@ -161,7 +159,7 @@
         <card number="1" name="Precognitive Perception"/>
         <card number="1" name="Unsubstantiate"/>
         <card number="2" name="Midnight Clock"/>
-        <card number="1" name="Wizard Class"/>
+        <card number="2" name="Wizard Class"/>
         <card number="2" name="Body of Knowledge"/>
         <card number="2" name="Trinket Mage"/>
         <card number="1" name="Psychosis Crawler"/>
@@ -184,7 +182,7 @@
         <card number="1" name="Nimbleclaw Adept"/>
         <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
         <card number="1" name="Brainstorm"/>
-        <card number="1" name="Solve the Equation"/>
+        <card number="2" name="Solve the Equation"/>
         <card number="1" name="Delay"/>
         <card number="2" name="Sphinx of the Second Sun"/>
         <card number="1" name="Evacuation"/>
@@ -192,7 +190,7 @@
         <card number="1" name="Aether Gale"/>
         <card number="1" name="Sphinx of the Final Word"/>
         <card number="1" name="Kira, Great Glass-Spinner"/>
-        <card number="1" name="Jin-Gitaxias, Core Augur"/>
+        <card number="2" name="Jin-Gitaxias, Core Augur"/>
         <card number="1" name="All-Seeing Arbiter"/>
         <card number="1" name="Deadeye Quartermaster"/>
         <card number="1" name="Foil"/>
@@ -202,5 +200,17 @@
         <card number="1" name="Karn's Temporal Sundering"/>
         <card number="1" name="Disdainful Stroke"/>
         <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Alrund's Epiphany"/>
+        <card number="1" name="Part the Waterveil"/>
+        <card number="1" name="Memory Deluge"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Tale's End"/>
+        <card number="1" name="Ormos, Archive Keeper"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Lightning Greaves"/>
     </zone>
 </cockatrice_deck>

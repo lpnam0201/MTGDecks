@@ -5,11 +5,8 @@
     <zone name="main">
         <card number="1" name="Alesha, Who Smiles at Death"/>
         <card number="1" name="Karmic Guide"/>
-        <card number="1" name="Reveillark"/>
-        <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Murderous Redcap"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
-        <card number="1" name="Anafenza, Kin-Tree Spirit"/>
         <card number="1" name="Vile Entomber"/>
         <card number="1" name="Blood Artist"/>
         <card number="1" name="Zulaport Cutthroat"/>
@@ -17,51 +14,27 @@
         <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
         <card number="1" name="Scorn-Blade Berserker"/>
         <card number="1" name="Voldaren Thrillseeker"/>
-        <card number="1" name="Guardian Scalelord"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Viscera Seer"/>
         <card number="1" name="Carrion Feeder"/>
-        <card number="1" name="Goblin Bombardment"/>
         <card number="1" name="Ravenous Chupacabra"/>
         <card number="1" name="Judith, the Scourge Diva"/>
-        <card number="1" name="Pitiless Plunderer"/>
-        <card number="1" name="Professional Face-Breaker"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Diabolic Intent"/>
-        <card number="1" name="Profane Tutor"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Welcoming Vampire"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Smothering Tithe"/>
-        <card number="1" name="Loran of the Third Path"/>
-        <card number="1" name="Jaxis, the Troublemaker"/>
         <card number="1" name="Gray Merchant of Asphodel"/>
         <card number="1" name="Morbid Opportunist"/>
         <card number="1" name="Imperial Recruiter"/>
         <card number="1" name="Callous Bloodmage"/>
         <card number="1" name="Selfless Spirit"/>
-        <card number="1" name="Skyclave Apparition"/>
         <card number="1" name="Gonti, Lord of Luxury"/>
-        <card number="1" name="Anguished Unmaking"/>
-        <card number="1" name="Tibalt's Trickery"/>
-        <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Path to Exile"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Excise the Imperfect"/>
         <card number="1" name="Bedevil"/>
         <card number="1" name="Victimize"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Talisman of Conviction"/>
-        <card number="1" name="Talisman of Indulgence"/>
-        <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Key to the City"/>
-        <card number="1" name="Settle the Wreckage"/>
-        <card number="1" name="Ruthless Technomancer"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Stitcher's Supplier"/>
         <card number="1" name="Myriad Landscape"/>
@@ -93,12 +66,38 @@
         <card number="1" name="Fiend Hunter"/>
         <card number="1" name="Leonin Relic-Warder"/>
         <card number="1" name="Banisher Priest"/>
-        <card number="1" name="Falthis, Shadowcat Familiar"/>
+        <card number="1" name="Death-Greeter's Champion"/>
+        <card number="1" name="Sevinne's Reclamation"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Wear // Tear"/>
+        <card number="1" name="Mythos of Snapdax"/>
+        <card number="1" name="Commissar Severina Raine"/>
+        <card number="1" name="Jirina, Dauntless General"/>
+        <card number="1" name="Chittering Witch"/>
+        <card number="1" name="Siege-Gang Commander"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Priest of Fell Rites"/>
+        <card number="1" name="Patron of the Arts"/>
+        <card number="1" name="Kor Cartographer"/>
+        <card number="1" name="Palace Jailer"/>
+        <card number="1" name="Company Commander"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Goldnight Commander"/>
+        <card number="1" name="Mire Triton"/>
+        <card number="1" name="Intellect Devourer"/>
+        <card number="1" name="Winota, Joiner of Forces"/>
     </zone>
     <zone name="side">
         <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Bola Slinger"/>
-        <card number="1" name="Falthis, Shadowcat Familiar"/>
+        <card number="2" name="Falthis, Shadowcat Familiar"/>
         <card number="1" name="Impact Tremors"/>
         <card number="1" name="Tocasia's Welcome"/>
         <card number="1" name="Blasphemous Act"/>
@@ -113,5 +112,33 @@
         <card number="1" name="Anax, Hardened in the Forge"/>
         <card number="1" name="Sevinne's Reclamation"/>
         <card number="1" name="Stinkweed Imp"/>
+        <card number="1" name="Guardian Scalelord"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Reveillark"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Ruthless Technomancer"/>
+        <card number="1" name="Skyclave Apparition"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Carrion Feeder"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Anafenza, Kin-Tree Spirit"/>
     </zone>
 </cockatrice_deck>

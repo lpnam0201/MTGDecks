@@ -9,71 +9,72 @@
         <card number="1" name="Court Street Denizen"/>
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Skullclamp"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Mother of Runes"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Tome of Legends"/>
-        <card number="1" name="Prava of the Steel Legion"/>
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Geist-Honored Monk"/>
         <card number="1" name="Bastion Protector"/>
-        <card number="1" name="Bounty Agent"/>
         <card number="1" name="Jazal Goldmane"/>
         <card number="1" name="Sejiri Shelter"/>
         <card number="1" name="Brave the Elements"/>
-        <card number="1" name="Austere Command"/>
-        <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Valor in Akros"/>
         <card number="1" name="Blacksmith's Skill"/>
-        <card number="1" name="Selfless Savior"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="30" name="Plains"/>
         <card number="1" name="Emerge Unscathed"/>
-        <card number="1" name="Benevolent Bodyguard"/>
-        <card number="1" name="Cliffside Rescuer"/>
         <card number="1" name="Fey Steed"/>
-        <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Valorous Stance"/>
-        <card number="1" name="Cavalry Pegasus"/>
         <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Stalwart Pathlighter"/>
-        <card number="1" name="Trailblazer's Boots"/>
         <card number="1" name="Divine Visitation"/>
         <card number="1" name="Cathars' Crusade"/>
-        <card number="1" name="War Room"/>
         <card number="1" name="Bonders' Enclave"/>
-        <card number="1" name="Smothering Tithe"/>
         <card number="1" name="Loran's Escape"/>
-        <card number="1" name="Loran of the Third Path"/>
-        <card number="1" name="Guardian Scalelord"/>
         <card number="1" name="Veteran Soldier"/>
         <card number="1" name="Ellyn Harbreeze, Busybody"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Marble Diamond"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Excise the Imperfect"/>
-        <card number="1" name="Path to Exile"/>
-        <card number="1" name="Settle the Wreckage"/>
-        <card number="1" name="Akroma's Will"/>
-        <card number="1" name="Wand of the Worldsoul"/>
         <card number="1" name="Star Compass"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Fateful Absence"/>
         <card number="1" name="Idol of Oblivion"/>
-        <card number="1" name="Giver of Runes"/>
         <card number="1" name="Rabble Rousing"/>
         <card number="1" name="Hero of Bladehold"/>
         <card number="1" name="Leonin Warleader"/>
-        <card number="1" name="Inspiring Leader"/>
-        <card number="1" name="Clever Concealment"/>
         <card number="1" name="Welcoming Vampire"/>
         <card number="1" name="Verge Rangers"/>
+        <card number="1" name="Lossarnach Captain"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Rumor Gatherer"/>
+        <card number="1" name="Boromir, Warden of the Tower"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Myrel, Shield of Argive"/>
+        <card number="1" name="Beregond of the Guard"/>
+        <card number="1" name="Skyhunter Strike Force"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Surge of Salvation"/>
+        <card number="1" name="Oblation"/>
+        <card number="1" name="Horn of Gondor"/>
+        <card number="1" name="Dictate of Heliod"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Sevinne's Reclamation"/>
+        <card number="1" name="Cosmic Intervention"/>
+        <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Loyal Unicorn"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Demolition Field"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Winds of Abandon"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Cloak of the Bat"/>
+        <card number="1" name="Fleetfeather Sandals"/>
     </zone>
     <zone name="side">
         <card number="1" name="Thalia's Lieutenant"/>
@@ -131,9 +132,46 @@
         <card number="1" name="Odric, Master Tactician"/>
         <card number="1" name="Reverent Hoplite"/>
         <card number="1" name="Coat of Arms"/>
-        <card number="1" name="Make a Stand"/>
+        <card number="2" name="Make a Stand"/>
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Verge Rangers"/>
         <card number="1" name="Frontline Medic"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Court Street Denizen"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Bounty Agent"/>
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Guardian Scalelord"/>
+        <card number="1" name="Valor in Akros"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Wand of the Worldsoul"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="2" name="Cavalry Pegasus"/>
+        <card number="1" name="Symmetry Matrix"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Prava of the Steel Legion"/>
+        <card number="1" name="Selfless Savior"/>
+        <card number="1" name="Inspiring Leader"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Bond of Discipline"/>
+        <card number="1" name="Stroke of Midnight"/>
+        <card number="1" name="Coppercoat Vanguard"/>
+        <card number="1" name="Duelist's Heritage"/>
     </zone>
 </cockatrice_deck>

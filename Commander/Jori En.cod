@@ -6,21 +6,10 @@
         <card number="1" name="Jori En, Ruin Diver"/>
         <card number="1" name="Expressive Iteration"/>
         <card number="1" name="Guttersnipe"/>
-        <card number="1" name="Candlekeep Inspiration"/>
         <card number="1" name="Surge to Victory"/>
-        <card number="1" name="Third Path Iconoclast"/>
-        <card number="1" name="Young Pyromancer"/>
-        <card number="1" name="Saheeli, Sublime Artificer"/>
-        <card number="1" name="Talrand, Sky Summoner"/>
-        <card number="1" name="Alandra, Sky Dreamer"/>
-        <card number="1" name="Murmuring Mystic"/>
         <card number="1" name="Birgi, God of Storytelling"/>
-        <card number="1" name="Minn, Wily Illusionist"/>
-        <card number="1" name="Improbable Alliance"/>
-        <card number="1" name="Mad Ratter"/>
         <card number="1" name="Cryptic Pursuit"/>
         <card number="1" name="Harmonic Prodigy"/>
-        <card number="1" name="Loyal Apprentice"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Opt"/>
         <card number="1" name="Ponder"/>
@@ -28,21 +17,10 @@
         <card number="1" name="Serum Visions"/>
         <card number="1" name="Faithless Looting"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Expedite"/>
-        <card number="1" name="Crash Through"/>
-        <card number="1" name="Thought Scour"/>
         <card number="1" name="Into the Roil"/>
-        <card number="1" name="Renegade Tactics"/>
         <card number="1" name="Portent"/>
-        <card number="1" name="Thrill of Possibility"/>
-        <card number="1" name="Blink of an Eye"/>
-        <card number="1" name="Rile"/>
-        <card number="1" name="Warlord's Fury"/>
-        <card number="1" name="Ancestral Anger"/>
         <card number="1" name="Quicken"/>
         <card number="1" name="Mana Geyser"/>
-        <card number="1" name="Dragonshift"/>
-        <card number="1" name="Descent of the Dragons"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Fabled Passage"/>
@@ -58,35 +36,58 @@
         <card number="1" name="Frostboil Snarl"/>
         <card number="1" name="Stormcarved Coast"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Rionya, Fire Dancer"/>
         <card number="1" name="Izzet Charm"/>
         <card number="1" name="Emergence Zone"/>
         <card number="1" name="Frantic Search"/>
         <card number="1" name="Sorcerer Class"/>
         <card number="1" name="Consider"/>
         <card number="1" name="Windfall"/>
-        <card number="1" name="Dragonmaster Outcast"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Fiery Inscription"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Resculpt"/>
-        <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Hullbreaker Horror"/>
         <card number="1" name="Keldon Flamesage"/>
-        <card number="1" name="Chasm Skulker"/>
         <card number="1" name="Borne Upon a Wind"/>
         <card number="1" name="Unsubstantiate"/>
-        <card number="1" name="Radical Idea"/>
         <card number="1" name="Jeska's Will"/>
         <card number="1" name="Aria of Flame"/>
-        <card number="1" name="Smoldering Egg"/>
-        <card number="1" name="Sprite Dragon"/>
-        <card number="1" name="Mizzium Mortars"/>
-        <card number="1" name="Day of the Dragons"/>
         <card number="1" name="Invasion of Segovia"/>
+        <card number="1" name="Mindsplice Apparatus"/>
+        <card number="1" name="Haughty Djinn"/>
+        <card number="1" name="Baral, Chief of Compliance"/>
+        <card number="1" name="Goblin Electromancer"/>
+        <card number="1" name="Jace's Sanctum"/>
+        <card number="1" name="Wizards of Thay"/>
+        <card number="1" name="Tezzeret's Gambit"/>
+        <card number="1" name="Mizzix of the Izmagnus"/>
+        <card number="1" name="Mocking Sprite"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Pirate's Pillage"/>
+        <card number="1" name="Inspired Tinkering"/>
+        <card number="1" name="Thousand-Year Storm"/>
+        <card number="1" name="Galvanic Iteration"/>
+        <card number="1" name="Blink of an Eye"/>
+        <card number="1" name="Increasing Vengeance"/>
+        <card number="1" name="Reiterate"/>
+        <card number="1" name="Mnemonic Deluge"/>
+        <card number="1" name="Spelltwine"/>
+        <card number="1" name="Spellbinding Soprano"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Drawn from Dreams"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Behold the Multiverse"/>
+        <card number="1" name="Storm-Kiln Artist"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Alandra, Sky Dreamer"/>
+        <card number="2" name="Alandra, Sky Dreamer"/>
         <card number="1" name="Surge to Victory"/>
         <card number="1" name="Haughty Djinn"/>
         <card number="2" name="Whispering Wizard"/>
@@ -109,7 +110,7 @@
         <card number="1" name="Synthetic Destiny"/>
         <card number="1" name="Rousing Refrain"/>
         <card number="1" name="Poppet Stitcher"/>
-        <card number="1" name="Jeska's Will"/>
+        <card number="2" name="Jeska's Will"/>
         <card number="1" name="Ethereal Investigator"/>
         <card number="2" name="Krenko, Tin Street Kingpin"/>
         <card number="1" name="Mystical Tutor"/>
@@ -126,12 +127,41 @@
         <card number="1" name="Step Through"/>
         <card number="1" name="Shared Animosity"/>
         <card number="1" name="Goblin Assault"/>
-        <card number="1" name="Day of the Dragons"/>
+        <card number="2" name="Day of the Dragons"/>
         <card number="1" name="Krenko, Mob Boss"/>
         <card number="1" name="Legion Warboss"/>
         <card number="1" name="Goblin Rabblemaster"/>
         <card number="1" name="The Locust God"/>
         <card number="1" name="The Reality Chip"/>
+        <card number="1" name="Chasm Skulker"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Loyal Apprentice"/>
+        <card number="1" name="Mad Ratter"/>
+        <card number="1" name="Minn, Wily Illusionist"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Smoldering Egg"/>
+        <card number="1" name="Sprite Dragon"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Third Path Iconoclast"/>
+        <card number="1" name="Young Pyromancer"/>
+        <card number="1" name="Improbable Alliance"/>
+        <card number="1" name="Blink of an Eye"/>
+        <card number="1" name="Dragonshift"/>
+        <card number="1" name="Expedite"/>
+        <card number="1" name="Thought Scour"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Radical Idea"/>
+        <card number="1" name="Saheeli, Sublime Artificer"/>
+        <card number="1" name="Ancestral Anger"/>
+        <card number="1" name="Crash Through"/>
+        <card number="1" name="Descent of the Dragons"/>
+        <card number="1" name="Renegade Tactics"/>
+        <card number="1" name="Rile"/>
+        <card number="1" name="Warlord's Fury"/>
+        <card number="1" name="Candlekeep Inspiration"/>
+        <card number="1" name="Mizzium Mortars"/>
+        <card number="1" name="Niv-Mizzet, Parun"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Kobolds of Kher Keep (Token)"/>

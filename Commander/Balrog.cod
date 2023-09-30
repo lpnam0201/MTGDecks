@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Balrog</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="The Balrog, Durin's Bane"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Whisper, Blood Liturgist"/>
+        <card number="1" name="Chainer, Nightmare Adept"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Woe Strider"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Phyrexian Delver"/>
+        <card number="1" name="Doomed Necromancer"/>
+        <card number="1" name="Apprentice Necromancer"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Deadly Dispute"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Corrupted Conviction"/>
+        <card number="1" name="Atsushi, the Blazing Sky"/>
+        <card number="1" name="Junji, the Midnight Sky"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Plumb the Forbidden"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Tergrid's Shadow"/>
+        <card number="1" name="Tergrid, God of Fright"/>
+        <card number="1" name="Gisa, Glorious Resurrector"/>
+        <card number="1" name="Vat of Rebirth"/>
+        <card number="1" name="Make an Example"/>
+        <card number="1" name="Innocent Blood"/>
+        <card number="1" name="Ruthless Technomancer"/>
+        <card number="1" name="Captain Lannery Storm"/>
+        <card number="1" name="Rain of Riches"/>
+        <card number="1" name="Skullport Merchant"/>
+        <card number="1" name="Visions of Ruin"/>
+        <card number="1" name="Rose Room Treasurer"/>
+        <card number="1" name="Mayhem Devil"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Command Tower"/>
+        <card number="10" name="Mountain"/>
+        <card number="10" name="Swamp"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Phyrexian Reclamation"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Young Necromancer"/>
+        <card number="1" name="Olivia, Crimson Bride"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Black Sun's Twilight"/>
+        <card number="1" name="The Cruelty of Gix"/>
+        <card number="1" name="Archpriest of Shadows"/>
+        <card number="1" name="City on Fire"/>
+        <card number="1" name="Marionette Master"/>
+        <card number="1" name="Swashbuckler Extraordinaire"/>
+        <card number="1" name="Invasion of Fiora"/>
+        <card number="1" name="Burakos, Party Leader"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Kardur, Doomscourge"/>
+        <card number="1" name="Prosper, Tome-Bound"/>
+        <card number="1" name="Mahadi, Emporium Master"/>
+        <card number="1" name="Impulsive Pilferer"/>
+        <card number="1" name="Blood Mist"/>
+        <card number="1" name="Academy Manufactor"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Fatal Grudge"/>
+        <card number="1" name="Barter in Blood"/>
+        <card number="2" name="Decadent Dragon // Expensive Taste"/>
+        <card number="1" name="Krenko, Mob Boss"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Great Hall of the Citadel"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Mahadi, Emporium Master"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Ophiomancer"/>
+        <card number="2" name="Rankle, Master of Pranks"/>
+        <card number="1" name="Kethek, Crucible Goliath"/>
+        <card number="1" name="Too Greedily, Too Deep"/>
+        <card number="3" name="Beamtown Beatstick"/>
+        <card number="2" name="Impulsive Pilferer"/>
+        <card number="1" name="Dargo, the Shipwrecker"/>
+        <card number="1" name="Black Sun's Zenith"/>
+        <card number="1" name="Share the Spoils"/>
+        <card number="1" name="Descent into Avernus"/>
+        <card number="1" name="Footfall Crater"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Necrotic Hex"/>
+        <card number="1" name="Currency Converter"/>
+        <card number="1" name="Fain, the Broker"/>
+        <card number="1" name="Drana, the Last Bloodchief"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="2" name="Emergence Zone"/>
+        <card number="1" name="Memorial to Folly"/>
+        <card number="1" name="Noble's Purse"/>
+        <card number="1" name="Keskit, the Flesh Sculptor"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="You Find Some Prisoners"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Rankle and Torbran"/>
+    </zone>
+</cockatrice_deck>

@@ -4,5 +4,94 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Ob Nixilis, Captive Kingpin"/>
+        <card number="1" name="Kardur, Doomscourge"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Ophiomancer"/>
+        <card number="1" name="Garna, Bloodfist of Keld"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Mayhem Devil"/>
+        <card number="1" name="Falkenrath Noble"/>
+        <card number="1" name="Rankle, Master of Pranks"/>
+        <card number="1" name="Vengeful Ancestor"/>
+        <card number="1" name="Stuffy Doll"/>
+        <card number="1" name="Karazikar, the Eye Tyrant"/>
+        <card number="1" name="Hellrider"/>
+        <card number="1" name="Stormfist Crusader"/>
+        <card number="1" name="Theater of Horrors"/>
+        <card number="1" name="Shivan Gorge"/>
+        <card number="1" name="Roiling Vortex"/>
+        <card number="1" name="Rampaging Ferocidon"/>
+        <card number="1" name="Defiler of Instinct"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Zurzoth, Chaos Rider"/>
+        <card number="1" name="Pain Distributor"/>
+        <card number="1" name="Rug of Smothering"/>
+        <card number="1" name="Cryptolith Fragment"/>
+        <card number="1" name="Passionate Archaeologist"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Legion Warboss"/>
+        <card number="1" name="Goblin Rabblemaster"/>
+        <card number="1" name="Goblin Assault"/>
+        <card number="1" name="Krenko, Mob Boss"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Make an Example"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Bedevil"/>
+        <card number="10" name="Swamp"/>
+        <card number="10" name="Mountain"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Hoarding Broodlord"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Curtains' Call"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Witty Roastmaster"/>
+        <card number="1" name="Rose Room Treasurer"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Judith, the Scourge Diva"/>
+        <card number="1" name="Lord Skitter, Sewer King"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Spiteful Prankster"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Warlock Class"/>
+        <card number="1" name="Underworld Dreams"/>
+        <card number="1" name="Nightshade Harvester"/>
+        <card number="1" name="Mage Hunter"/>
+        <card number="1" name="Oblivion's Hunger"/>
+        <card number="1" name="Prosper, Tome-Bound"/>
     </zone>
 </cockatrice_deck>

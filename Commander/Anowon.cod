@@ -25,13 +25,11 @@
         <card number="1" name="Looter il-Kor"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Reality Shift"/>
-        <card number="1" name="Arcane Denial"/>
         <card number="1" name="Anowon, the Ruin Thief"/>
         <card number="1" name="Faerie Vandal"/>
         <card number="1" name="Slither Blade"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Countersquall"/>
-        <card number="1" name="Blighted Agent"/>
         <card number="1" name="Memory Lapse"/>
         <card number="1" name="Sunken Hollow"/>
         <card number="1" name="Nighthawk Scavenger"/>
@@ -39,7 +37,6 @@
         <card number="1" name="Mask of Memory"/>
         <card number="1" name="Vedalken Infiltrator"/>
         <card number="1" name="Dimir Aqueduct"/>
-        <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Morphic Pool"/>
         <card number="1" name="Fabled Passage"/>
@@ -52,11 +49,9 @@
         <card number="1" name="Temple of Deceit"/>
         <card number="1" name="Solve the Equation"/>
         <card number="1" name="Grim Hireling"/>
-        <card number="1" name="Duskmantle Guildmage"/>
         <card number="1" name="Profane Tutor"/>
         <card number="1" name="Sygg, River Cutthroat"/>
         <card number="1" name="Prying Blade"/>
-        <card number="1" name="Prickly Boggart"/>
         <card number="1" name="Nightshade Stinger"/>
         <card number="1" name="Goldvein Pick"/>
         <card number="1" name="An Offer You Can't Refuse"/>
@@ -70,24 +65,29 @@
         <card number="1" name="Change of Plans"/>
         <card number="1" name="March of Swirling Mist"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Mindcrank"/>
         <card number="1" name="Diabolic Intent"/>
-        <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Mercurial Spelldancer"/>
         <card number="1" name="Cephalid Facetaker"/>
         <card number="1" name="Beacon of Unrest"/>
         <card number="1" name="Mission Briefing"/>
         <card number="1" name="Resculpt"/>
         <card number="1" name="Scheming Symmetry"/>
-        <card number="1" name="Baleful Mastery"/>
         <card number="1" name="Maze of Ith"/>
         <card number="1" name="Shizo, Death's Storehouse"/>
         <card number="1" name="Combat Research"/>
-        <card number="1" name="Ringsight"/>
         <card number="1" name="Faerie Mastermind"/>
         <card number="1" name="Charcoal Diamond"/>
         <card number="1" name="Sky Diamond"/>
-        <card number="1" name="Tale's End"/>
+        <card number="1" name="Extract from Darkness"/>
+        <card number="1" name="Breach the Multiverse"/>
+        <card number="1" name="Necromantic Summons"/>
+        <card number="1" name="Endless Obedience"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Rise from the Grave"/>
+        <card number="1" name="Enigma Thief"/>
+        <card number="1" name="Zareth San, the Trickster"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -140,7 +140,7 @@
         <card number="1" name="Inkfathom Witch"/>
         <card number="1" name="Extract from Darkness"/>
         <card number="2" name="Rise from the Grave"/>
-        <card number="1" name="Prickly Boggart"/>
+        <card number="2" name="Prickly Boggart"/>
         <card number="1" name="Silumgar's Command"/>
         <card number="1" name="Coastal Piracy"/>
         <card number="3" name="In Garruk's Wake"/>
@@ -179,8 +179,8 @@
         <card number="1" name="Endless Obedience"/>
         <card number="2" name="Boneyard Parley"/>
         <card number="1" name="Flood of Tears"/>
-        <card number="2" name="Spelltwine"/>
-        <card number="2" name="Syr Konrad, the Grim"/>
+        <card number="3" name="Spelltwine"/>
+        <card number="3" name="Syr Konrad, the Grim"/>
         <card number="1" name="Murder"/>
         <card number="3" name="Fact or Fiction"/>
         <card number="1" name="Diabolic Edict"/>
@@ -260,5 +260,13 @@
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Dissipation Field"/>
         <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Tale's End"/>
+        <card number="1" name="Mindcrank"/>
+        <card number="1" name="Duskmantle Guildmage"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Ringsight"/>
+        <card number="1" name="Blighted Agent"/>
     </zone>
 </cockatrice_deck>

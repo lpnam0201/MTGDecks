@@ -26,16 +26,11 @@
         <card number="1" name="Corrupted Conviction"/>
         <card number="1" name="Plaguecrafter"/>
         <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Ayara, First of Locthwain"/>
-        <card number="1" name="Body Launderer"/>
         <card number="1" name="Gravelighter"/>
-        <card number="1" name="Activated Sleeper"/>
         <card number="1" name="Archpriest of Shadows"/>
         <card number="1" name="Woe Strider"/>
         <card number="1" name="Demon's Disciple"/>
         <card number="1" name="Ruthless Technomancer"/>
-        <card number="1" name="Stitcher's Supplier"/>
-        <card number="1" name="Grave Titan"/>
         <card number="1" name="Deadly Dispute"/>
         <card number="1" name="Go for the Throat"/>
         <card number="1" name="Wake the Dead"/>
@@ -43,14 +38,10 @@
         <card number="1" name="Morbid Curiosity"/>
         <card number="1" name="Blade of Selves"/>
         <card number="1" name="Bolas's Citadel"/>
-        <card number="1" name="Bond of Revival"/>
-        <card number="1" name="Zombify"/>
-        <card number="1" name="Footsteps of the Goryo"/>
         <card number="1" name="No One Left Behind"/>
         <card number="1" name="Necromantic Summons"/>
         <card number="1" name="Endless Obedience"/>
         <card number="1" name="Breach the Multiverse"/>
-        <card number="1" name="From the Catacombs"/>
         <card number="1" name="Rise from the Grave"/>
         <card number="1" name="The Cruelty of Gix"/>
         <card number="1" name="The Eldest Reborn"/>
@@ -62,18 +53,28 @@
         <card number="1" name="Prismatic Lens"/>
         <card number="30" name="Swamp"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Murder"/>
-        <card number="1" name="Szat's Will"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Strionic Resonator"/>
         <card number="1" name="Realmbreaker, the Invasion Tree"/>
-        <card number="1" name="Yahenni, Undying Partisan"/>
         <card number="1" name="Curtains' Call"/>
         <card number="1" name="High Market"/>
         <card number="1" name="Staff of Compleation"/>
         <card number="1" name="Field of Ruin"/>
         <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Puppeteer Clique"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Necromantic Selection"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Invasion of Fiora"/>
+        <card number="1" name="Black Sun's Twilight"/>
+        <card number="1" name="Beacon of Unrest"/>
+        <card number="1" name="Gix's Command"/>
+        <card number="1" name="Szat's Will"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Demolition Field"/>
+        <card number="1" name="Vile Entomber"/>
     </zone>
     <zone name="side">
         <card number="1" name="Syr Konrad, the Grim"/>
@@ -83,5 +84,23 @@
         <card number="1" name="Raiders' Wake"/>
         <card number="1" name="Fell Specter"/>
         <card number="1" name="Vile Entomber"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Breach the Multiverse"/>
+        <card number="1" name="Bond of Revival"/>
+        <card number="1" name="Activated Sleeper"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Stitcher's Supplier"/>
+        <card number="1" name="Ayara, First of Locthwain"/>
+        <card number="1" name="Body Launderer"/>
+        <card number="1" name="Zombify"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Decree of Pain"/>
+        <card number="1" name="Szat's Will"/>
+        <card number="1" name="Ob Nixilis Reignited"/>
+        <card number="1" name="Tevesh Szat, Doom of Fools"/>
+        <card number="1" name="Footsteps of the Goryo"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="From the Catacombs"/>
+        <card number="1" name="Shadowheart, Dark Justiciar"/>
     </zone>
 </cockatrice_deck>

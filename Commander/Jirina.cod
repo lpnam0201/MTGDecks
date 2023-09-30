@@ -15,7 +15,6 @@
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Austere Command"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Command Tower"/>
@@ -29,8 +28,6 @@
         <card number="3" name="Mountain"/>
         <card number="4" name="Swamp"/>
         <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Selfless Glyphweaver"/>
-        <card number="1" name="Mirror Entity"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Talisman of Hierarchy"/>
@@ -38,19 +35,11 @@
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Boros Signet"/>
         <card number="1" name="Shared Animosity"/>
-        <card number="1" name="Teleportation Circle"/>
-        <card number="1" name="Netherborn Altar"/>
-        <card number="1" name="Talisman of Indulgence"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Rionya, Fire Dancer"/>
         <card number="1" name="Mirage Phalanx"/>
         <card number="1" name="Jaxis, the Troublemaker"/>
-        <card number="1" name="Morbid Opportunist"/>
         <card number="1" name="Duke Ulder Ravengard"/>
-        <card number="1" name="Akroma's Will"/>
-        <card number="1" name="Path to Exile"/>
-        <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Isolated Chapel"/>
@@ -66,35 +55,46 @@
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Fetid Heath"/>
         <card number="1" name="Forbidden Orchard"/>
-        <card number="1" name="Conjurer's Closet"/>
         <card number="1" name="Gerrard, Weatherlight Hero"/>
         <card number="1" name="Species Specialist"/>
         <card number="1" name="Neyali, Suns' Vanguard"/>
         <card number="1" name="Coppercoat Vanguard"/>
-        <card number="1" name="Smothering Tithe"/>
-        <card number="1" name="Anguished Unmaking"/>
-        <card number="1" name="Tibalt's Trickery"/>
-        <card number="1" name="Diabolic Intent"/>
         <card number="1" name="Orthion, Hero of Lavabrink"/>
-        <card number="1" name="Herald's Horn"/>
         <card number="1" name="Folk Hero"/>
         <card number="1" name="Adeline, Resplendent Cathar"/>
         <card number="1" name="Thraben Doomsayer"/>
         <card number="1" name="Zulaport Cutthroat"/>
-        <card number="1" name="Excise the Imperfect"/>
-        <card number="1" name="Pitiless Plunderer"/>
-        <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Imperial Recruiter"/>
-        <card number="1" name="Professional Face-Breaker"/>
-        <card number="1" name="Grim Haruspex"/>
         <card number="1" name="Garna, Bloodfist of Keld"/>
-        <card number="1" name="Loran of the Third Path"/>
         <card number="1" name="Cathar's Call"/>
-        <card number="1" name="Bolas's Citadel"/>
         <card number="1" name="Fireflux Squad"/>
         <card number="1" name="Stormfist Crusader"/>
-        <card number="1" name="Hanweir Garrison"/>
         <card number="1" name="Cemetery Protector"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Golden Argosy"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Wear // Tear"/>
+        <card number="1" name="Mythos of Snapdax"/>
+        <card number="1" name="Ruinous Ultimatum"/>
+        <card number="1" name="Commissar Severina Raine"/>
+        <card number="1" name="General Kudro of Drannith"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Horn of Gondor"/>
+        <card number="1" name="Éomer, Marshal of Rohan"/>
+        <card number="1" name="Théoden, King of Rohan"/>
+        <card number="1" name="Denethor, Ruling Steward"/>
+        <card number="1" name="Jirina, Dauntless General"/>
+        <card number="1" name="Adriana, Captain of the Guard"/>
+        <card number="1" name="Lossarnach Captain"/>
+        <card number="1" name="Disciple of Bolas"/>
+        <card number="1" name="Beregond of the Guard"/>
+        <card number="1" name="Boromir, Warden of the Tower"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Riders of Rohan"/>
+        <card number="1" name="Erkenbrand, Lord of Westfold"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Despark"/>
     </zone>
     <zone name="side">
         <card number="2" name="Judith, the Scourge Diva"/>
@@ -109,7 +109,7 @@
         <card number="1" name="Angel of Glory's Rise"/>
         <card number="1" name="Bounty Agent"/>
         <card number="1" name="Captivating Crew"/>
-        <card number="1" name="Teleportation Circle"/>
+        <card number="2" name="Teleportation Circle"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Boros Signet"/>
         <card number="2" name="Orzhov Signet"/>
@@ -145,7 +145,7 @@
         <card number="1" name="Mirran Crusader"/>
         <card number="1" name="Lavabrink Venturer"/>
         <card number="1" name="Iroas's Champion"/>
-        <card number="1" name="Hanweir Garrison"/>
+        <card number="2" name="Hanweir Garrison"/>
         <card number="1" name="Dreamstealer"/>
         <card number="1" name="Fencing Ace"/>
         <card number="1" name="Boros Swiftblade"/>
@@ -172,7 +172,7 @@
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Ambition's Cost"/>
         <card number="1" name="Adriana, Captain of the Guard"/>
-        <card number="1" name="Phyrexian Arena"/>
+        <card number="2" name="Phyrexian Arena"/>
         <card number="1" name="Impact Tremors"/>
         <card number="1" name="Restoration Angel"/>
         <card number="1" name="Mother of Runes"/>
@@ -211,5 +211,28 @@
         <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Dark Confidant"/>
         <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Grim Haruspex"/>
+        <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Selfless Glyphweaver"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Jailbreak"/>
     </zone>
 </cockatrice_deck>

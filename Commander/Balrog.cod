@@ -12,9 +12,6 @@
         <card number="1" name="Chainer, Nightmare Adept"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Goldspan Dragon"/>
-        <card number="1" name="Woe Strider"/>
-        <card number="1" name="Bolas's Citadel"/>
-        <card number="1" name="Phyrexian Delver"/>
         <card number="1" name="Doomed Necromancer"/>
         <card number="1" name="Apprentice Necromancer"/>
         <card number="1" name="Professional Face-Breaker"/>
@@ -26,7 +23,6 @@
         <card number="1" name="Atsushi, the Blazing Sky"/>
         <card number="1" name="Junji, the Midnight Sky"/>
         <card number="1" name="Plaguecrafter"/>
-        <card number="1" name="Fleshbag Marauder"/>
         <card number="1" name="Plumb the Forbidden"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Tergrid's Shadow"/>
@@ -42,13 +38,10 @@
         <card number="1" name="Visions of Ruin"/>
         <card number="1" name="Rose Room Treasurer"/>
         <card number="1" name="Mayhem Devil"/>
-        <card number="1" name="Blood Artist"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Rakdos Charm"/>
         <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Bedevil"/>
-        <card number="1" name="Dread Return"/>
-        <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Command Tower"/>
         <card number="10" name="Mountain"/>
         <card number="10" name="Swamp"/>
@@ -63,14 +56,9 @@
         <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Sulfurous Springs"/>
         <card number="1" name="Phyrexian Reclamation"/>
-        <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Young Necromancer"/>
         <card number="1" name="Olivia, Crimson Bride"/>
-        <card number="1" name="Morbid Opportunist"/>
-        <card number="1" name="Black Sun's Twilight"/>
         <card number="1" name="The Cruelty of Gix"/>
-        <card number="1" name="Archpriest of Shadows"/>
         <card number="1" name="City on Fire"/>
         <card number="1" name="Marionette Master"/>
         <card number="1" name="Swashbuckler Extraordinaire"/>
@@ -81,10 +69,23 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Kardur, Doomscourge"/>
         <card number="1" name="Prosper, Tome-Bound"/>
-        <card number="1" name="Mahadi, Emporium Master"/>
         <card number="1" name="Impulsive Pilferer"/>
         <card number="1" name="Blood Mist"/>
         <card number="1" name="Academy Manufactor"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Spiteful Repossession"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Mines of Moria"/>
+        <card number="1" name="Rankle's Prank"/>
+        <card number="1" name="Rapacious Dragon"/>
+        <card number="1" name="Patron of the Arts"/>
+        <card number="1" name="Beamtown Beatstick"/>
+        <card number="1" name="Magda, Brazen Outlaw"/>
+        <card number="1" name="The Balrog of Moria"/>
+        <card number="1" name="Gimli of the Glittering Caves"/>
+        <card number="1" name="Decadent Dragon // Expensive Taste"/>
+        <card number="1" name="Pain Distributor"/>
+        <card number="1" name="Sticky Fingers"/>
     </zone>
     <zone name="side">
         <card number="1" name="Jaxis, the Troublemaker"/>
@@ -98,7 +99,7 @@
         <card number="1" name="Great Hall of the Citadel"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="High Market"/>
-        <card number="1" name="Mahadi, Emporium Master"/>
+        <card number="2" name="Mahadi, Emporium Master"/>
         <card number="1" name="Butcher of Malakir"/>
         <card number="1" name="Ophiomancer"/>
         <card number="2" name="Rankle, Master of Pranks"/>
@@ -114,7 +115,7 @@
         <card number="1" name="Yahenni, Undying Partisan"/>
         <card number="1" name="Viscera Seer"/>
         <card number="1" name="Goblin Bombardment"/>
-        <card number="1" name="Necrotic Hex"/>
+        <card number="2" name="Necrotic Hex"/>
         <card number="1" name="Currency Converter"/>
         <card number="1" name="Fain, the Broker"/>
         <card number="1" name="Drana, the Last Bloodchief"/>
@@ -127,5 +128,18 @@
         <card number="1" name="You Find Some Prisoners"/>
         <card number="1" name="Burnished Hart"/>
         <card number="1" name="Rankle and Torbran"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Black Sun's Twilight"/>
+        <card number="1" name="Woe Strider"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Phyrexian Delver"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Archpriest of Shadows"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Plundering Barbarian"/>
     </zone>
 </cockatrice_deck>

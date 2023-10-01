@@ -19,9 +19,7 @@
         <card number="1" name="Ral's Outburst"/>
         <card number="1" name="Invasion of Ravnica"/>
         <card number="1" name="Growth Spiral"/>
-        <card number="1" name="Terminate"/>
         <card number="1" name="Putrefy"/>
-        <card number="1" name="Bedevil"/>
         <card number="1" name="Rakdos Charm"/>
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Merciless Eviction"/>
@@ -41,7 +39,6 @@
         <card number="1" name="Bring to Light"/>
         <card number="1" name="Windgrace's Judgment"/>
         <card number="1" name="Epic Experiment"/>
-        <card number="1" name="Spitting Image"/>
         <card number="1" name="Reinterpret"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Jegantha, the Wellspring"/>
@@ -59,7 +56,7 @@
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Cultivate"/>
-        <card number="5" name="Forest"/>
+        <card number="3" name="Forest"/>
         <card number="2" name="Mountain"/>
         <card number="2" name="Swamp"/>
         <card number="2" name="Plains"/>
@@ -91,10 +88,15 @@
         <card number="1" name="Ash Barrens"/>
         <card number="1" name="Croaking Counterpart"/>
         <card number="1" name="Thrilling Discovery"/>
-        <card number="1" name="Sage of the Beyond"/>
-        <card number="1" name="Whispering Madness"/>
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Cut // Ribbons"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Dire-Strain Rampage"/>
+        <card number="1" name="Sylvan Reclamation"/>
+        <card number="1" name="Ancient Excavation"/>
+        <card number="1" name="Spring // Mind"/>
+        <card number="1" name="Quandrix Apprentice"/>
     </zone>
     <zone name="side">
         <card number="1" name="Utter End"/>
@@ -114,7 +116,7 @@
         <card number="1" name="Justice Strike"/>
         <card number="1" name="Bituminous Blast"/>
         <card number="1" name="Nature's Chant"/>
-        <card number="1" name="Forest"/>
+        <card number="3" name="Forest"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Niv-Mizzet Reborn"/>
         <card number="1" name="Refuse // Cooperate"/>
@@ -125,10 +127,15 @@
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Lorehold Command"/>
         <card number="1" name="Time Wipe"/>
-        <card number="1" name="Whispering Madness"/>
+        <card number="2" name="Whispering Madness"/>
         <card number="1" name="Decisive Denial"/>
         <card number="1" name="Harrow"/>
         <card number="1" name="Blackblade Reforged"/>
         <card number="1" name="Thrash // Threat"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Spitting Image"/>
+        <card number="1" name="Terminal Agony"/>
+        <card number="1" name="Sage of the Beyond"/>
     </zone>
 </cockatrice_deck>

@@ -32,7 +32,6 @@
         <card number="1" name="Mortality Spear"/>
         <card number="1" name="Fallen Ideal"/>
         <card number="1" name="Demonic Embrace"/>
-        <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Immaculate Magistrate"/>
         <card number="1" name="Golgari Rot Farm"/>
         <card number="1" name="Realmwalker"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Trailblazer's Boots"/>
         <card number="1" name="Graaz, Unstoppable Juggernaut"/>
         <card number="1" name="Pact of the Serpent"/>
+        <card number="1" name="Cultist of the Absolute"/>
     </zone>
     <zone name="side">
         <card number="2" name="Bojuka Bog"/>
@@ -219,5 +219,6 @@
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Whispersilk Cloak"/>
     </zone>
 </cockatrice_deck>

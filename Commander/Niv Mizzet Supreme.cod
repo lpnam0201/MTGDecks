@@ -7,7 +7,6 @@
         <card number="1" name="Treacherous Terrain"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Enter the God-Eternals"/>
         <card number="1" name="Grave Upheaval"/>
         <card number="1" name="Double Vision"/>
         <card number="1" name="Practical Research"/>
@@ -15,8 +14,6 @@
         <card number="1" name="Steam Augury"/>
         <card number="1" name="Collision // Colossus"/>
         <card number="1" name="Onward // Victory"/>
-        <card number="1" name="Warrant // Warden"/>
-        <card number="1" name="Ral's Outburst"/>
         <card number="1" name="Invasion of Ravnica"/>
         <card number="1" name="Growth Spiral"/>
         <card number="1" name="Putrefy"/>
@@ -25,7 +22,6 @@
         <card number="1" name="Merciless Eviction"/>
         <card number="1" name="Culling Ritual"/>
         <card number="1" name="Utter End"/>
-        <card number="1" name="Wear // Tear"/>
         <card number="1" name="Deathsprout"/>
         <card number="1" name="Urban Evolution"/>
         <card number="1" name="Escape to the Wilds"/>
@@ -33,15 +29,12 @@
         <card number="1" name="Simic Charm"/>
         <card number="1" name="Eureka Moment"/>
         <card number="1" name="Counterflux"/>
-        <card number="1" name="Countersquall"/>
         <card number="1" name="Fevered Suspicion"/>
         <card number="1" name="Response // Resurgence"/>
         <card number="1" name="Bring to Light"/>
-        <card number="1" name="Windgrace's Judgment"/>
         <card number="1" name="Epic Experiment"/>
         <card number="1" name="Reinterpret"/>
         <card number="1" name="Boros Charm"/>
-        <card number="1" name="Jegantha, the Wellspring"/>
         <card number="1" name="The World Tree"/>
         <card number="1" name="Chromatic Lantern"/>
         <card number="1" name="Widespread Thieving"/>
@@ -69,11 +62,6 @@
         <card number="1" name="Sunken Hollow"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Thriving Grove"/>
-        <card number="1" name="Thriving Heath"/>
-        <card number="1" name="Thriving Isle"/>
-        <card number="1" name="Thriving Moor"/>
-        <card number="1" name="Thriving Bluff"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Smoldering Marsh"/>
@@ -83,11 +71,8 @@
         <card number="1" name="Sacred Peaks"/>
         <card number="1" name="Sunlit Marsh"/>
         <card number="1" name="Angelfire Ignition"/>
-        <card number="1" name="Auger Spree"/>
         <card number="1" name="Ride the Avalanche"/>
         <card number="1" name="Ash Barrens"/>
-        <card number="1" name="Croaking Counterpart"/>
-        <card number="1" name="Thrilling Discovery"/>
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Cut // Ribbons"/>
         <card number="1" name="Brushland"/>
@@ -97,6 +82,21 @@
         <card number="1" name="Ancient Excavation"/>
         <card number="1" name="Spring // Mind"/>
         <card number="1" name="Quandrix Apprentice"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Exterminatus"/>
+        <card number="1" name="Tome of the Guildpact"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Bad River"/>
+        <card number="1" name="Flood Plain"/>
+        <card number="1" name="Mountain Valley"/>
+        <card number="1" name="Rocky Tar Pit"/>
+        <card number="1" name="Grasslands"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Allure of the Unknown"/>
+        <card number="1" name="Whispering Madness"/>
+        <card number="1" name="Maelstrom Nexus"/>
     </zone>
     <zone name="side">
         <card number="1" name="Utter End"/>
@@ -137,5 +137,21 @@
         <card number="1" name="Spitting Image"/>
         <card number="1" name="Terminal Agony"/>
         <card number="1" name="Sage of the Beyond"/>
+        <card number="1" name="Enter the God-Eternals"/>
+        <card number="1" name="Ral's Outburst"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="Thrilling Discovery"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Croaking Counterpart"/>
+        <card number="1" name="Warrant // Warden"/>
+        <card number="1" name="Jegantha, the Wellspring"/>
+        <card number="1" name="Wear // Tear"/>
+        <card number="1" name="Windgrace's Judgment"/>
+        <card number="1" name="Maelstrom Nexus"/>
+        <card number="1" name="Auger Spree"/>
     </zone>
 </cockatrice_deck>

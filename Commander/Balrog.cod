@@ -8,26 +8,19 @@
         <card number="1" name="Talisman of Indulgence"/>
         <card number="1" name="Rakdos Signet"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Whisper, Blood Liturgist"/>
-        <card number="1" name="Chainer, Nightmare Adept"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Goldspan Dragon"/>
         <card number="1" name="Doomed Necromancer"/>
         <card number="1" name="Apprentice Necromancer"/>
         <card number="1" name="Professional Face-Breaker"/>
         <card number="1" name="Deadly Dispute"/>
-        <card number="1" name="Victimize"/>
-        <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Village Rites"/>
         <card number="1" name="Corrupted Conviction"/>
         <card number="1" name="Atsushi, the Blazing Sky"/>
         <card number="1" name="Junji, the Midnight Sky"/>
         <card number="1" name="Plaguecrafter"/>
-        <card number="1" name="Plumb the Forbidden"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Tergrid's Shadow"/>
-        <card number="1" name="Tergrid, God of Fright"/>
-        <card number="1" name="Gisa, Glorious Resurrector"/>
         <card number="1" name="Vat of Rebirth"/>
         <card number="1" name="Make an Example"/>
         <card number="1" name="Innocent Blood"/>
@@ -37,10 +30,8 @@
         <card number="1" name="Skullport Merchant"/>
         <card number="1" name="Visions of Ruin"/>
         <card number="1" name="Rose Room Treasurer"/>
-        <card number="1" name="Mayhem Devil"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Rakdos Charm"/>
-        <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Bedevil"/>
         <card number="1" name="Command Tower"/>
         <card number="10" name="Mountain"/>
@@ -59,13 +50,10 @@
         <card number="1" name="Young Necromancer"/>
         <card number="1" name="Olivia, Crimson Bride"/>
         <card number="1" name="The Cruelty of Gix"/>
-        <card number="1" name="City on Fire"/>
-        <card number="1" name="Marionette Master"/>
         <card number="1" name="Swashbuckler Extraordinaire"/>
         <card number="1" name="Invasion of Fiora"/>
         <card number="1" name="Burakos, Party Leader"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Field of Ruin"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Kardur, Doomscourge"/>
         <card number="1" name="Prosper, Tome-Bound"/>
@@ -76,7 +64,6 @@
         <card number="1" name="Spiteful Repossession"/>
         <card number="1" name="Spinerock Knoll"/>
         <card number="1" name="Mines of Moria"/>
-        <card number="1" name="Rankle's Prank"/>
         <card number="1" name="Rapacious Dragon"/>
         <card number="1" name="Patron of the Arts"/>
         <card number="1" name="Beamtown Beatstick"/>
@@ -86,6 +73,18 @@
         <card number="1" name="Decadent Dragon // Expensive Taste"/>
         <card number="1" name="Pain Distributor"/>
         <card number="1" name="Sticky Fingers"/>
+        <card number="1" name="Necrotic Hex"/>
+        <card number="1" name="Death-Greeter's Champion"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="Marionette Master"/>
+        <card number="1" name="Chainer, Nightmare Adept"/>
+        <card number="1" name="Noble's Purse"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Karazikar, the Eye Tyrant"/>
+        <card number="1" name="Command the Dreadhorde"/>
     </zone>
     <zone name="side">
         <card number="1" name="Jaxis, the Troublemaker"/>
@@ -99,7 +98,7 @@
         <card number="1" name="Great Hall of the Citadel"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="High Market"/>
-        <card number="2" name="Mahadi, Emporium Master"/>
+        <card number="3" name="Mahadi, Emporium Master"/>
         <card number="1" name="Butcher of Malakir"/>
         <card number="1" name="Ophiomancer"/>
         <card number="2" name="Rankle, Master of Pranks"/>
@@ -141,5 +140,21 @@
         <card number="1" name="Blood Artist"/>
         <card number="1" name="Bolas's Citadel"/>
         <card number="1" name="Plundering Barbarian"/>
+        <card number="1" name="Rankle's Prank"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Gisa, Glorious Resurrector"/>
+        <card number="1" name="Tergrid, God of Fright"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Plumb the Forbidden"/>
+        <card number="1" name="Hostile Negotiations"/>
+        <card number="1" name="Mayhem Devil"/>
+        <card number="1" name="Marionette Master"/>
+        <card number="1" name="Chainer, Nightmare Adept"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="City on Fire"/>
+        <card number="2" name="Command the Dreadhorde"/>
+        <card number="1" name="Whisper, Blood Liturgist"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Two-Handed Axe // Sweeping Cleave"/>
     </zone>
 </cockatrice_deck>

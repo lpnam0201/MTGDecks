@@ -23,8 +23,6 @@
         <card number="1" name="Counterspell"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Call the Coppercoats"/>
-        <card number="1" name="Approach of the Second Sun"/>
         <card number="1" name="Veteran Soldier"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Command Tower"/>
@@ -32,25 +30,17 @@
         <card number="4" name="Island"/>
         <card number="4" name="Plains"/>
         <card number="4" name="Swamp"/>
-        <card number="1" name="Raffine's Tower"/>
         <card number="1" name="Adarkar Wastes"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Darkwater Catacombs"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Sunken Hollow"/>
-        <card number="1" name="Rabble Rousing"/>
         <card number="1" name="Linvala, Shield of Sea Gate"/>
-        <card number="1" name="Hero of Bladehold"/>
-        <card number="1" name="Leonin Warleader"/>
         <card number="1" name="Master of Death"/>
-        <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Currency Converter"/>
-        <card number="1" name="Toluz, Clever Conductor"/>
         <card number="1" name="Malevolent Hermit"/>
         <card number="1" name="Pippin, Guard of the Citadel"/>
-        <card number="1" name="Felisa, Fang of Silverquill"/>
         <card number="1" name="Dusk Legion Duelist"/>
-        <card number="1" name="Grazilaxx, Illithid Scholar"/>
         <card number="1" name="Obscura Charm"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Wash Away"/>
@@ -59,20 +49,14 @@
         <card number="1" name="Shorikai, Genesis Engine"/>
         <card number="1" name="Cathar Commando"/>
         <card number="1" name="Sigrid, God-Favored"/>
-        <card number="1" name="Utter End"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Temple of Enlightenment"/>
         <card number="1" name="Temple of Deceit"/>
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Ertai Resurrected"/>
-        <card number="1" name="Adeline, Resplendent Cathar"/>
-        <card number="1" name="Myrel, Shield of Argive"/>
         <card number="1" name="Priest of Fell Rites"/>
-        <card number="1" name="Kamiz, Obscura Oculus"/>
         <card number="1" name="Thief of Sanity"/>
-        <card number="1" name="Shadowmage Infiltrator"/>
-        <card number="1" name="Daxos of Meletis"/>
         <card number="1" name="Obscura Interceptor"/>
         <card number="1" name="All-Seeing Arbiter"/>
         <card number="1" name="Karmic Guide"/>
@@ -91,9 +75,25 @@
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Shineshadow Snarl"/>
         <card number="1" name="Lavinia, Azorius Renegade"/>
-        <card number="1" name="Doomed Necromancer"/>
-        <card number="1" name="Wizards of Thay"/>
-        <card number="1" name="Phantom Steed"/>
+        <card number="1" name="Scheming Fence"/>
+        <card number="1" name="Razaketh, the Foulblooded"/>
+        <card number="1" name="Doomskar"/>
+        <card number="1" name="Ghostly Pilferer"/>
+        <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Writ of Return"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Serra Paragon"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Unburial Rites"/>
+        <card number="1" name="Glorious Protector"/>
+        <card number="1" name="Grazilaxx, Illithid Scholar"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Boromir, Warden of the Tower"/>
+        <card number="1" name="Myrel, Shield of Argive"/>
     </zone>
     <zone name="side">
         <card number="2" name="Change of Plans"/>
@@ -122,7 +122,7 @@
         <card number="1" name="Dusk Legion Duelist"/>
         <card number="1" name="Leonin Relic-Warder"/>
         <card number="1" name="Nested Shambler"/>
-        <card number="1" name="Supreme Verdict"/>
+        <card number="2" name="Supreme Verdict"/>
         <card number="1" name="Currency Converter"/>
         <card number="1" name="Diabolic Intent"/>
         <card number="1" name="Profane Tutor"/>
@@ -133,7 +133,7 @@
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Talisman of Progress"/>
-        <card number="1" name="Adeline, Resplendent Cathar"/>
+        <card number="2" name="Adeline, Resplendent Cathar"/>
         <card number="1" name="Alandra, Sky Dreamer"/>
         <card number="1" name="Breena, the Demagogue"/>
         <card number="1" name="Drumbellower"/>
@@ -190,5 +190,26 @@
         <card number="1" name="Archpriest of Shadows"/>
         <card number="1" name="Drake Haven"/>
         <card number="1" name="Ria Ivor, Bane of Bladehold"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Felisa, Fang of Silverquill"/>
+        <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Phantom Steed"/>
+        <card number="1" name="Shadowmage Infiltrator"/>
+        <card number="1" name="Daxos of Meletis"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Kamiz, Obscura Oculus"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Wizards of Thay"/>
+        <card number="1" name="Rabble Rousing"/>
+        <card number="1" name="Myrel, Shield of Argive"/>
+        <card number="1" name="Gold-Forged Thopteryx"/>
+        <card number="1" name="Doomed Necromancer"/>
+        <card number="1" name="Approach of the Second Sun"/>
+        <card number="1" name="The Raven Man"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Grazilaxx, Illithid Scholar"/>
+        <card number="1" name="Raffine's Tower"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Toluz, Clever Conductor"/>
     </zone>
 </cockatrice_deck>

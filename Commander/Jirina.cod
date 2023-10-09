@@ -15,7 +15,6 @@
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Nomad Outpost"/>
@@ -27,7 +26,6 @@
         <card number="4" name="Plains"/>
         <card number="3" name="Mountain"/>
         <card number="4" name="Swamp"/>
-        <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Talisman of Hierarchy"/>
@@ -40,24 +38,10 @@
         <card number="1" name="Mirage Phalanx"/>
         <card number="1" name="Jaxis, the Troublemaker"/>
         <card number="1" name="Duke Ulder Ravengard"/>
-        <card number="1" name="Dragonskull Summit"/>
-        <card number="1" name="Clifftop Retreat"/>
-        <card number="1" name="Isolated Chapel"/>
-        <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Godless Shrine"/>
-        <card number="1" name="Blood Crypt"/>
-        <card number="1" name="Spectator Seating"/>
-        <card number="1" name="Vault of Champions"/>
-        <card number="1" name="Luxury Suite"/>
         <card number="1" name="Sulfurous Springs"/>
-        <card number="1" name="Command Beacon"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Fetid Heath"/>
-        <card number="1" name="Forbidden Orchard"/>
         <card number="1" name="Gerrard, Weatherlight Hero"/>
         <card number="1" name="Species Specialist"/>
-        <card number="1" name="Neyali, Suns' Vanguard"/>
         <card number="1" name="Coppercoat Vanguard"/>
         <card number="1" name="Orthion, Hero of Lavabrink"/>
         <card number="1" name="Folk Hero"/>
@@ -66,7 +50,6 @@
         <card number="1" name="Zulaport Cutthroat"/>
         <card number="1" name="Imperial Recruiter"/>
         <card number="1" name="Garna, Bloodfist of Keld"/>
-        <card number="1" name="Cathar's Call"/>
         <card number="1" name="Fireflux Squad"/>
         <card number="1" name="Stormfist Crusader"/>
         <card number="1" name="Cemetery Protector"/>
@@ -74,7 +57,6 @@
         <card number="1" name="Golden Argosy"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Wear // Tear"/>
-        <card number="1" name="Mythos of Snapdax"/>
         <card number="1" name="Ruinous Ultimatum"/>
         <card number="1" name="Commissar Severina Raine"/>
         <card number="1" name="General Kudro of Drannith"/>
@@ -82,7 +64,6 @@
         <card number="1" name="Horn of Gondor"/>
         <card number="1" name="Éomer, Marshal of Rohan"/>
         <card number="1" name="Théoden, King of Rohan"/>
-        <card number="1" name="Denethor, Ruling Steward"/>
         <card number="1" name="Jirina, Dauntless General"/>
         <card number="1" name="Adriana, Captain of the Guard"/>
         <card number="1" name="Lossarnach Captain"/>
@@ -95,6 +76,25 @@
         <card number="1" name="Erkenbrand, Lord of Westfold"/>
         <card number="1" name="Fellwar Stone"/>
         <card number="1" name="Despark"/>
+        <card number="1" name="Reverent Hoplite"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Castle Ardenvale"/>
+        <card number="1" name="Great Hall of the Citadel"/>
+        <card number="1" name="Sacred Peaks"/>
+        <card number="1" name="Geothermal Bog"/>
+        <card number="1" name="Sunlit Marsh"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Furycalm Snarl"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Flamerush Rider"/>
+        <card number="1" name="Frontier Warmonger"/>
     </zone>
     <zone name="side">
         <card number="2" name="Judith, the Scourge Diva"/>
@@ -169,7 +169,7 @@
         <card number="1" name="Make a Stand"/>
         <card number="1" name="Semester's End"/>
         <card number="2" name="Mortify"/>
-        <card number="1" name="Bojuka Bog"/>
+        <card number="2" name="Bojuka Bog"/>
         <card number="1" name="Ambition's Cost"/>
         <card number="1" name="Adriana, Captain of the Guard"/>
         <card number="2" name="Phyrexian Arena"/>
@@ -234,5 +234,24 @@
         <card number="1" name="Selfless Glyphweaver"/>
         <card number="1" name="Talisman of Indulgence"/>
         <card number="1" name="Jailbreak"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Denethor, Ruling Steward"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Cathar's Call"/>
+        <card number="1" name="Mythos of Snapdax"/>
+        <card number="1" name="Neyali, Suns' Vanguard"/>
+        <card number="1" name="Kambal, Consul of Allocation"/>
     </zone>
 </cockatrice_deck>

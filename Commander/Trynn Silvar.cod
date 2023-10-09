@@ -11,8 +11,6 @@
         <card number="1" name="Devout Chaplain"/>
         <card number="1" name="Thraben Doomsayer"/>
         <card number="1" name="Mentor of the Meek"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="General's Enforcer"/>
         <card number="1" name="Verge Rangers"/>
         <card number="1" name="Bounty Agent"/>
         <card number="1" name="Swords to Plowshares"/>
@@ -32,7 +30,6 @@
         <card number="4" name="Plains"/>
         <card number="3" name="Mountain"/>
         <card number="2" name="Swamp"/>
-        <card number="1" name="Bloodsoaked Champion"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Talisman of Indulgence"/>
@@ -61,42 +58,45 @@
         <card number="1" name="Shadowblood Ridge"/>
         <card number="1" name="Smoldering Marsh"/>
         <card number="1" name="Keeper of the Accord"/>
-        <card number="1" name="Orthion, Hero of Lavabrink"/>
         <card number="1" name="Jirina Kudro"/>
         <card number="1" name="Garna, Bloodfist of Keld"/>
-        <card number="1" name="Cemetery Protector"/>
         <card number="1" name="Juri, Master of the Revue"/>
         <card number="1" name="Morbid Opportunist"/>
         <card number="1" name="Cathar Commando"/>
         <card number="1" name="Imperial Recruiter"/>
         <card number="1" name="Agent of the Iron Throne"/>
         <card number="1" name="Cathar's Call"/>
-        <card number="1" name="Maskwood Nexus"/>
-        <card number="1" name="Xathrid Necromancer"/>
         <card number="1" name="Butcher of Malakir"/>
         <card number="1" name="Fireflux Squad"/>
-        <card number="1" name="Denethor, Ruling Steward"/>
         <card number="1" name="Weathered Wayfarer"/>
         <card number="1" name="Bastion Protector"/>
-        <card number="1" name="Beregond of the Guard"/>
         <card number="1" name="Fiend Hunter"/>
         <card number="1" name="Palace Jailer"/>
         <card number="1" name="Banisher Priest"/>
         <card number="1" name="Lossarnach Captain"/>
-        <card number="1" name="Riders of Rohan"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Bedevil"/>
         <card number="1" name="Contraband Livestock"/>
-        <card number="1" name="Painful Truths"/>
         <card number="1" name="Hostile Negotiations"/>
         <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Rionya, Fire Dancer"/>
         <card number="1" name="Jaxis, the Troublemaker"/>
-        <card number="1" name="Théoden, King of Rohan"/>
         <card number="1" name="Boromir, Warden of the Tower"/>
         <card number="1" name="Blade Historian"/>
         <card number="1" name="Éowyn, Fearless Knight"/>
         <card number="1" name="Éomer, Marshal of Rohan"/>
+        <card number="1" name="Myrel, Shield of Argive"/>
+        <card number="1" name="Tavern Brawler"/>
+        <card number="1" name="Doomskar"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Ruinous Ultimatum"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Horn of Gondor"/>
+        <card number="1" name="Alesha, Who Smiles at Death"/>
+        <card number="1" name="Winota, Joiner of Forces"/>
+        <card number="1" name="Théoden, King of Rohan"/>
+        <card number="1" name="Riders of Rohan"/>
+        <card number="1" name="Rite of Oblivion"/>
     </zone>
     <zone name="side">
         <card number="1" name="Disciple of Bolas"/>
@@ -171,9 +171,9 @@
         <card number="1" name="General Kudro of Drannith"/>
         <card number="1" name="Outlaws' Merriment"/>
         <card number="1" name="Bastion of Remembrance"/>
-        <card number="1" name="Painful Truths"/>
+        <card number="2" name="Painful Truths"/>
         <card number="1" name="Clever Concealment"/>
-        <card number="1" name="Xathrid Necromancer"/>
+        <card number="2" name="Xathrid Necromancer"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Alesha, Who Smiles at Death"/>
         <card number="1" name="Blade Historian"/>
@@ -210,5 +210,15 @@
         <card number="1" name="Increasing Devotion"/>
         <card number="1" name="Final Payment"/>
         <card number="1" name="Humble Defector"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Bloodsoaked Champion"/>
+        <card number="1" name="Orthion, Hero of Lavabrink"/>
+        <card number="1" name="General's Enforcer"/>
+        <card number="1" name="Denethor, Ruling Steward"/>
+        <card number="1" name="Cemetery Protector"/>
+        <card number="1" name="Riders of Rohan"/>
+        <card number="1" name="Théoden, King of Rohan"/>
+        <card number="1" name="Beregond of the Guard"/>
+        <card number="1" name="Skullclamp"/>
     </zone>
 </cockatrice_deck>

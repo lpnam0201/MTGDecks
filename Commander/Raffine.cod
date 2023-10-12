@@ -23,10 +23,8 @@
         <card number="1" name="Counterspell"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Veteran Soldier"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Rogue's Passage"/>
         <card number="4" name="Island"/>
         <card number="4" name="Plains"/>
         <card number="4" name="Swamp"/>
@@ -39,8 +37,6 @@
         <card number="1" name="Master of Death"/>
         <card number="1" name="Currency Converter"/>
         <card number="1" name="Malevolent Hermit"/>
-        <card number="1" name="Pippin, Guard of the Citadel"/>
-        <card number="1" name="Dusk Legion Duelist"/>
         <card number="1" name="Obscura Charm"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Wash Away"/>
@@ -85,15 +81,19 @@
         <card number="1" name="Writ of Return"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Weathered Wayfarer"/>
-        <card number="1" name="Serra Paragon"/>
         <card number="1" name="Dread Return"/>
-        <card number="1" name="Notion Thief"/>
         <card number="1" name="Unburial Rites"/>
         <card number="1" name="Glorious Protector"/>
         <card number="1" name="Grazilaxx, Illithid Scholar"/>
         <card number="1" name="Isolated Chapel"/>
         <card number="1" name="Boromir, Warden of the Tower"/>
-        <card number="1" name="Myrel, Shield of Argive"/>
+        <card number="1" name="Sleep of the Dead"/>
+        <card number="1" name="Doomed Necromancer"/>
+        <card number="1" name="Angel of the Ruins"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Scholar of the Lost Trove"/>
+        <card number="1" name="The Council of Four"/>
+        <card number="1" name="Alhammarret's Archive"/>
     </zone>
     <zone name="side">
         <card number="2" name="Change of Plans"/>
@@ -119,7 +119,7 @@
         <card number="1" name="Thieving Skydiver"/>
         <card number="1" name="Ghostly Pilferer"/>
         <card number="1" name="Malevolent Hermit"/>
-        <card number="1" name="Dusk Legion Duelist"/>
+        <card number="2" name="Dusk Legion Duelist"/>
         <card number="1" name="Leonin Relic-Warder"/>
         <card number="1" name="Nested Shambler"/>
         <card number="2" name="Supreme Verdict"/>
@@ -166,13 +166,13 @@
         <card number="1" name="Shizo, Death's Storehouse"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Baleful Strix"/>
-        <card number="1" name="Notion Thief"/>
+        <card number="2" name="Notion Thief"/>
         <card number="1" name="Alhammarret's Archive"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Obscura Confluence"/>
         <card number="1" name="Ayara's Oathsworn"/>
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Serra Paragon"/>
+        <card number="2" name="Serra Paragon"/>
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Black Dragon Gate"/>
         <card number="1" name="Citadel Gate"/>
@@ -201,7 +201,7 @@
         <card number="1" name="Utter End"/>
         <card number="1" name="Wizards of Thay"/>
         <card number="1" name="Rabble Rousing"/>
-        <card number="1" name="Myrel, Shield of Argive"/>
+        <card number="2" name="Myrel, Shield of Argive"/>
         <card number="1" name="Gold-Forged Thopteryx"/>
         <card number="1" name="Doomed Necromancer"/>
         <card number="1" name="Approach of the Second Sun"/>
@@ -211,5 +211,9 @@
         <card number="1" name="Raffine's Tower"/>
         <card number="1" name="Aven Mindcensor"/>
         <card number="1" name="Toluz, Clever Conductor"/>
+        <card number="1" name="Pippin, Guard of the Citadel"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Scholar of the Lost Trove"/>
+        <card number="1" name="Veteran Soldier"/>
     </zone>
 </cockatrice_deck>

@@ -11,14 +11,12 @@
         <card number="1" name="Blood Artist"/>
         <card number="1" name="Zulaport Cutthroat"/>
         <card number="1" name="Cruel Celebrant"/>
-        <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
         <card number="1" name="Scorn-Blade Berserker"/>
         <card number="1" name="Voldaren Thrillseeker"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Viscera Seer"/>
         <card number="1" name="Carrion Feeder"/>
         <card number="1" name="Ravenous Chupacabra"/>
-        <card number="1" name="Judith, the Scourge Diva"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Welcoming Vampire"/>
         <card number="1" name="Gray Merchant of Asphodel"/>
@@ -34,7 +32,6 @@
         <card number="1" name="Austere Command"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Key to the City"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Stitcher's Supplier"/>
         <card number="1" name="Myriad Landscape"/>
@@ -82,17 +79,21 @@
         <card number="1" name="Jirina, Dauntless General"/>
         <card number="1" name="Chittering Witch"/>
         <card number="1" name="Siege-Gang Commander"/>
-        <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Priest of Fell Rites"/>
-        <card number="1" name="Patron of the Arts"/>
         <card number="1" name="Kor Cartographer"/>
         <card number="1" name="Palace Jailer"/>
         <card number="1" name="Company Commander"/>
         <card number="1" name="Cathars' Crusade"/>
-        <card number="1" name="Goldnight Commander"/>
         <card number="1" name="Mire Triton"/>
         <card number="1" name="Intellect Devourer"/>
         <card number="1" name="Winota, Joiner of Forces"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Rite of Oblivion"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Charming Scoundrel"/>
+        <card number="1" name="Gravelighter"/>
+        <card number="1" name="Disciple of Bolas"/>
     </zone>
     <zone name="side">
         <card number="1" name="Netherborn Altar"/>
@@ -140,5 +141,13 @@
         <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Goblin Bombardment"/>
         <card number="1" name="Anafenza, Kin-Tree Spirit"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="2" name="Judith, the Scourge Diva"/>
+        <card number="1" name="Patron of the Arts"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Voldaren Thrillseeker"/>
+        <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
+        <card number="1" name="Gravelighter"/>
+        <card number="1" name="Goldnight Commander"/>
     </zone>
 </cockatrice_deck>

@@ -54,7 +54,6 @@
         <card number="1" name="Stormfist Crusader"/>
         <card number="1" name="Cemetery Protector"/>
         <card number="1" name="Weathered Wayfarer"/>
-        <card number="1" name="Golden Argosy"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Wear // Tear"/>
         <card number="1" name="Ruinous Ultimatum"/>
@@ -95,6 +94,7 @@
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Flamerush Rider"/>
         <card number="1" name="Frontier Warmonger"/>
+        <card number="1" name="Legion Loyalty"/>
     </zone>
     <zone name="side">
         <card number="2" name="Judith, the Scourge Diva"/>
@@ -253,5 +253,6 @@
         <card number="1" name="Mythos of Snapdax"/>
         <card number="1" name="Neyali, Suns' Vanguard"/>
         <card number="1" name="Kambal, Consul of Allocation"/>
+        <card number="1" name="Golden Argosy"/>
     </zone>
 </cockatrice_deck>

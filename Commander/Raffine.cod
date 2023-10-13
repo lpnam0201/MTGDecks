@@ -13,7 +13,6 @@
         <card number="1" name="Teferi's Ageless Insight"/>
         <card number="1" name="Hammers of Moradin"/>
         <card number="1" name="Wyrm's Crossing Patrol"/>
-        <card number="1" name="Chasm Skulker"/>
         <card number="1" name="Bone Miser"/>
         <card number="1" name="Oskar, Rubbish Reclaimer"/>
         <card number="1" name="Containment Construct"/>
@@ -36,12 +35,9 @@
         <card number="1" name="Linvala, Shield of Sea Gate"/>
         <card number="1" name="Master of Death"/>
         <card number="1" name="Currency Converter"/>
-        <card number="1" name="Malevolent Hermit"/>
         <card number="1" name="Obscura Charm"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Wash Away"/>
         <card number="1" name="Despark"/>
-        <card number="1" name="Pile On"/>
         <card number="1" name="Shorikai, Genesis Engine"/>
         <card number="1" name="Cathar Commando"/>
         <card number="1" name="Sigrid, God-Favored"/>
@@ -53,7 +49,6 @@
         <card number="1" name="Ertai Resurrected"/>
         <card number="1" name="Priest of Fell Rites"/>
         <card number="1" name="Thief of Sanity"/>
-        <card number="1" name="Obscura Interceptor"/>
         <card number="1" name="All-Seeing Arbiter"/>
         <card number="1" name="Karmic Guide"/>
         <card number="1" name="Victimize"/>
@@ -74,12 +69,10 @@
         <card number="1" name="Scheming Fence"/>
         <card number="1" name="Razaketh, the Foulblooded"/>
         <card number="1" name="Doomskar"/>
-        <card number="1" name="Ghostly Pilferer"/>
         <card number="1" name="Selfless Spirit"/>
         <card number="1" name="Torrential Gearhulk"/>
         <card number="1" name="Stolen Identity"/>
         <card number="1" name="Writ of Return"/>
-        <card number="1" name="Austere Command"/>
         <card number="1" name="Weathered Wayfarer"/>
         <card number="1" name="Dread Return"/>
         <card number="1" name="Unburial Rites"/>
@@ -94,6 +87,13 @@
         <card number="1" name="Scholar of the Lost Trove"/>
         <card number="1" name="The Council of Four"/>
         <card number="1" name="Alhammarret's Archive"/>
+        <card number="1" name="Skyhunter Strike Force"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Verge Rangers"/>
+        <card number="1" name="Skyway Robber"/>
     </zone>
     <zone name="side">
         <card number="2" name="Change of Plans"/>
@@ -117,8 +117,8 @@
         <card number="1" name="Strionic Resonator"/>
         <card number="1" name="Karmic Guide"/>
         <card number="1" name="Thieving Skydiver"/>
-        <card number="1" name="Ghostly Pilferer"/>
-        <card number="1" name="Malevolent Hermit"/>
+        <card number="2" name="Ghostly Pilferer"/>
+        <card number="2" name="Malevolent Hermit"/>
         <card number="2" name="Dusk Legion Duelist"/>
         <card number="1" name="Leonin Relic-Warder"/>
         <card number="1" name="Nested Shambler"/>
@@ -133,7 +133,7 @@
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Talisman of Progress"/>
-        <card number="2" name="Adeline, Resplendent Cathar"/>
+        <card number="3" name="Adeline, Resplendent Cathar"/>
         <card number="1" name="Alandra, Sky Dreamer"/>
         <card number="1" name="Breena, the Demagogue"/>
         <card number="1" name="Drumbellower"/>
@@ -168,7 +168,7 @@
         <card number="1" name="Baleful Strix"/>
         <card number="2" name="Notion Thief"/>
         <card number="1" name="Alhammarret's Archive"/>
-        <card number="1" name="Austere Command"/>
+        <card number="2" name="Austere Command"/>
         <card number="1" name="Obscura Confluence"/>
         <card number="1" name="Ayara's Oathsworn"/>
         <card number="1" name="Path to Exile"/>
@@ -215,5 +215,12 @@
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Scholar of the Lost Trove"/>
         <card number="1" name="Veteran Soldier"/>
+        <card number="1" name="Wash Away"/>
+        <card number="1" name="Loyal Drake"/>
+        <card number="1" name="Pile On"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Invasion of Segovia"/>
+        <card number="1" name="Chasm Skulker"/>
+        <card number="1" name="Obscura Interceptor"/>
     </zone>
 </cockatrice_deck>

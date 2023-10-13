@@ -4,89 +4,99 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Extus, Oriq Overlord"/>
-        <card number="1" name="Karmic Guide"/>
-        <card number="1" name="Reveillark"/>
-        <card number="1" name="Phyrexian Delver"/>
         <card number="1" name="Village Rites"/>
         <card number="1" name="Corrupted Conviction"/>
-        <card number="1" name="Deadly Dispute"/>
         <card number="1" name="Plumb the Forbidden"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Yahenni, Undying Partisan"/>
-        <card number="1" name="Woe Strider"/>
-        <card number="1" name="Viscera Seer"/>
-        <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Scheming Symmetry"/>
-        <card number="1" name="Demonic Bargain"/>
-        <card number="1" name="Morbid Opportunist"/>
-        <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Loyal Warhound"/>
         <card number="1" name="Knight of the White Orchid"/>
-        <card number="1" name="Street Wraith"/>
         <card number="1" name="Despark"/>
-        <card number="1" name="Anguished Unmaking"/>
-        <card number="1" name="Inkshield"/>
-        <card number="1" name="Dark Ritual"/>
-        <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Altar's Reap"/>
-        <card number="1" name="Settle the Wreckage"/>
-        <card number="1" name="Soul Shatter"/>
         <card number="1" name="Victimize"/>
-        <card number="1" name="Sevinne's Reclamation"/>
-        <card number="1" name="Read the Bones"/>
-        <card number="1" name="Night's Whisper"/>
-        <card number="1" name="Sign in Blood"/>
-        <card number="1" name="Path to Exile"/>
-        <card number="1" name="Loran of the Third Path"/>
-        <card number="1" name="Gray Merchant of Asphodel"/>
-        <card number="1" name="Ruthless Technomancer"/>
         <card number="1" name="Ravenous Chupacabra"/>
         <card number="1" name="Cathar Commando"/>
-        <card number="1" name="Costly Plunder"/>
-        <card number="1" name="Reckoner's Bargain"/>
-        <card number="1" name="Morbid Curiosity"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Mandate of Peace"/>
-        <card number="1" name="Dawn Charm"/>
-        <card number="1" name="Angelsong"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Orzhov Basilica"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Mind Stone"/>
-        <card number="1" name="Selfless Spirit"/>
-        <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Gonti, Lord of Luxury"/>
-        <card number="1" name="Skyclave Apparition"/>
-        <card number="1" name="Glorious Protector"/>
-        <card number="1" name="Spirited Companion"/>
-        <card number="1" name="Vile Entomber"/>
-        <card number="1" name="Guardian of Faith"/>
-        <card number="1" name="Angel of the Ruins"/>
-        <card number="1" name="Selfless Squire"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Shizo, Death's Storehouse"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="9" name="Plains"/>
-        <card number="9" name="Swamp"/>
-        <card number="1" name="High Market"/>
+        <card number="4" name="Plains"/>
+        <card number="4" name="Swamp"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Fetid Heath"/>
         <card number="1" name="Temple of Silence"/>
-        <card number="1" name="Vault of the Archangel"/>
-        <card number="1" name="Vault of Champions"/>
         <card number="1" name="Isolated Chapel"/>
-        <card number="1" name="Godless Shrine"/>
         <card number="1" name="Shineshadow Snarl"/>
-        <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Phyrexian Reclamation"/>
+        <card number="1" name="Chittering Witch"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Rite of Oblivion"/>
+        <card number="1" name="Increasing Devotion"/>
+        <card number="1" name="Double Vision"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Nomad Outpost"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Sacred Peaks"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Furycalm Snarl"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sunlit Marsh"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Great Hall of the Citadel"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Siege-Gang Commander"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Orthion, Hero of Lavabrink"/>
+        <card number="1" name="Twinflame"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Krenko, Mob Boss"/>
+        <card number="1" name="Adeline, Resplendent Cathar"/>
+        <card number="1" name="Memorial to Folly"/>
+        <card number="1" name="Vault of the Archangel"/>
+        <card number="1" name="Ravos, Soultender"/>
+        <card number="1" name="Gisa, Glorious Resurrector"/>
+        <card number="1" name="Kolaghan's Command"/>
+        <card number="1" name="Order of Midnight // Alter Fate"/>
+        <card number="1" name="Cadaver Imp"/>
+        <card number="1" name="Wretched Confluence"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Crawl from the Cellar"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Assemble the Legion"/>
+        <card number="1" name="Elenda, the Dusk Rose"/>
+        <card number="1" name="Prosperous Partnership"/>
+        <card number="1" name="Geist-Honored Monk"/>
+        <card number="1" name="Endrek Sahr, Master Breeder"/>
+        <card number="1" name="Marshland Bloodcaster"/>
+        <card number="1" name="Rousing Refrain"/>
+        <card number="1" name="Tergrid, God of Fright"/>
+        <card number="1" name="Boss's Chauffeur"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Zeriam, Golden Wind"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="White Sun's Twilight"/>
+        <card number="1" name="Invasion of Tolvada"/>
+        <card number="1" name="Offspring's Revenge"/>
     </zone>
     <zone name="side">
         <card number="1" name="Rite of Oblivion"/>
@@ -96,9 +106,9 @@
         <card number="1" name="Corpse Knight"/>
         <card number="1" name="Monastery Mentor"/>
         <card number="1" name="Zulaport Cutthroat"/>
-        <card number="1" name="Deadly Dispute"/>
+        <card number="2" name="Deadly Dispute"/>
         <card number="1" name="Call the Coppercoats"/>
-        <card number="1" name="Body Count"/>
+        <card number="2" name="Body Count"/>
         <card number="1" name="Hellish Rebuke"/>
         <card number="1" name="Diabolic Tutor"/>
         <card number="1" name="Archivist of Oghma"/>
@@ -112,6 +122,88 @@
         <card number="1" name="Bankrupt in Blood"/>
         <card number="1" name="Cataclysmic Gearhulk"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Orzhov Basilica"/>
+        <card number="3" name="Orzhov Basilica"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Angelsong"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Scheming Symmetry"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="2" name="Keeper of the Accord"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Selfless Squire"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Inkshield"/>
+        <card number="2" name="Malakir Rebirth"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Mandate of Peace"/>
+        <card number="1" name="Guardian of Faith"/>
+        <card number="1" name="Street Wraith"/>
+        <card number="2" name="Morbid Opportunist"/>
+        <card number="2" name="Woe Strider"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Morbid Curiosity"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Glorious Protector"/>
+        <card number="5" name="Plains"/>
+        <card number="5" name="Swamp"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Geothermal Bog"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Sedgemoor Witch"/>
+        <card number="1" name="Dualcaster Mage"/>
+        <card number="1" name="Elenda, the Dusk Rose"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Young Pyromancer"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Skyclave Apparition"/>
+        <card number="1" name="Lagomos, Hand of Hatred"/>
+        <card number="1" name="Final Payment"/>
+        <card number="1" name="Vault of the Archangel"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Reveillark"/>
+        <card number="1" name="Ruthless Technomancer"/>
+        <card number="1" name="Ophiomancer"/>
+        <card number="2" name="Skullclamp"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Altar's Reap"/>
+        <card number="1" name="Costly Plunder"/>
+        <card number="1" name="Reckoner's Bargain"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Graveshifter"/>
+        <card number="1" name="Thalisse, Reverent Medium"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Sevinne's Reclamation"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Vile Entomber"/>
+        <card number="1" name="Liesa, Forgotten Archangel"/>
+        <card number="1" name="Ardent Elementalist"/>
+        <card number="1" name="Phyrexian Delver"/>
+        <card number="1" name="Angel of the Ruins"/>
+        <card number="1" name="Imperial Recruiter"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Mahadi, Emporium Master"/>
+        <card number="1" name="Call to the Netherworld"/>
+        <card number="1" name="Invasion of Tolvada"/>
+        <card number="1" name="Divine Visitation"/>
     </zone>
 </cockatrice_deck>

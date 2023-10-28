@@ -4,5 +4,78 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Keranos, God of Storms"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Walk the Aeons"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Body of Knowledge"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Decanter of Endless Water"/>
+        <card number="1" name="Realmbreaker, the Invasion Tree"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Fog Bank"/>
+        <card number="1" name="Borne Upon a Wind"/>
+        <card number="1" name="Quicken"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Chrome Host Seedshark"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Wash Away"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Fiery Confluence"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Double Vision"/>
+        <card number="1" name="Invasion of Segovia"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spelltwine"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="1" name="Tidal Barracuda"/>
+        <card number="1" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Impulse"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Confounding Conundrum"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Crackling Drake"/>
+        <card number="1" name="Sprite Dragon"/>
+        <card number="1" name="Farsight Ritual"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Invasion of Karsus"/>
+        <card number="1" name="Invasion of Regatha"/>
+        <card number="1" name="Chandra, Awakened Inferno"/>
+        <card number="1" name="Torbran, Thane of Red Fell"/>
+        <card number="1" name="Time Warp"/>
+        <card number="1" name="Staff of Compleation"/>
+        <card number="1" name="Tezzeret's Gambit"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="1" name="Shark Typhoon"/>
+        <card number="1" name="Chandra, Hope's Beacon"/>
+        <card number="1" name="Rowan Kenrith"/>
+        <card number="1" name="Will Kenrith"/>
+        <card number="1" name="Meeting of Minds"/>
     </zone>
 </cockatrice_deck>

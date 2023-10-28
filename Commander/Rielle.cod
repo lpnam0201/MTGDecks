@@ -4,46 +4,17 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Rielle, the Everwise"/>
-        <card number="1" name="Soul's Fire"/>
-        <card number="1" name="Gravitic Punch"/>
         <card number="1" name="Key to the City"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Whispersilk Cloak"/>
-        <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Winged Boots"/>
-        <card number="1" name="Ominous Seas"/>
-        <card number="1" name="Step Through"/>
-        <card number="1" name="Imperial Recruiter"/>
-        <card number="1" name="Archaeomancer"/>
-        <card number="1" name="Fists of Flame"/>
         <card number="1" name="Fateful Showdown"/>
         <card number="1" name="Foil"/>
         <card number="1" name="Faithless Looting"/>
         <card number="1" name="Thrill of Possibility"/>
         <card number="1" name="Cathartic Reunion"/>
-        <card number="1" name="Izzet Charm"/>
         <card number="1" name="Frantic Search"/>
-        <card number="1" name="Walk the Aeons"/>
-        <card number="1" name="Karn's Temporal Sundering"/>
-        <card number="1" name="Mizzix's Mastery"/>
-        <card number="1" name="Part the Waterveil"/>
-        <card number="1" name="Mana Geyser"/>
-        <card number="1" name="Alrund's Epiphany"/>
-        <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Desolate Lighthouse"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Nezahal, Primal Tide"/>
-        <card number="1" name="Desert of the Fervent"/>
-        <card number="1" name="Desert of the Mindful"/>
-        <card number="1" name="Forgotten Cave"/>
-        <card number="1" name="Smoldering Crater"/>
-        <card number="1" name="Lonely Sandbar"/>
-        <card number="1" name="Remote Isle"/>
-        <card number="1" name="Tolaria West"/>
-        <card number="1" name="Command Beacon"/>
-        <card number="1" name="Solve the Equation"/>
-        <card number="1" name="Alchemist's Gambit"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Izzet Signet"/>
@@ -52,21 +23,9 @@
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Dispel"/>
-        <card number="1" name="Stubborn Denial"/>
-        <card number="1" name="Neutralize"/>
-        <card number="1" name="Smuggler's Copter"/>
-        <card number="1" name="Birgi, God of Storytelling"/>
-        <card number="1" name="Magmatic Channeler"/>
-        <card number="1" name="Ghostly Pilferer"/>
-        <card number="1" name="Jeska's Will"/>
-        <card number="1" name="Invert // Invent"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Commit // Memory"/>
-        <card number="1" name="Bolt Bend"/>
-        <card number="1" name="All-Seeing Arbiter"/>
         <card number="1" name="Perplexing Test"/>
-        <card number="1" name="Flood of Tears"/>
         <card number="1" name="Aetherspouts"/>
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Frostboil Snarl"/>
@@ -77,32 +36,144 @@
         <card number="1" name="Temple of Epiphany"/>
         <card number="1" name="Training Center"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="6" name="Island"/>
-        <card number="6" name="Mountain"/>
-        <card number="1" name="Wyll's Reversal"/>
+        <card number="10" name="Island"/>
+        <card number="10" name="Mountain"/>
         <card number="1" name="Ash Barrens"/>
-        <card number="1" name="Nimble Obstructionist"/>
         <card number="1" name="Blasted Landscape"/>
-        <card number="1" name="Footfall Crater"/>
-        <card number="1" name="Lay Claim"/>
-        <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Reality Shift"/>
-        <card number="1" name="Reiterate"/>
         <card number="1" name="Chemister's Insight"/>
-        <card number="1" name="Radical Idea"/>
-        <card number="1" name="Tribute Mage"/>
+        <card number="1" name="Crackling Drake"/>
+        <card number="1" name="Spellheart Chimera"/>
+        <card number="1" name="Enigma Drake"/>
+        <card number="1" name="Haughty Djinn"/>
+        <card number="1" name="Kinetic Augur"/>
+        <card number="1" name="Aqueous Form"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Wonder"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="Shore Up"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Security Bypass"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Decanter of Endless Water"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Blood Mist"/>
+        <card number="1" name="Spectacular Showdown"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Ox of Agonas"/>
+        <card number="1" name="Thirst for Discovery"/>
+        <card number="1" name="Countervailing Winds"/>
+        <card number="1" name="Change of Fortune"/>
+        <card number="1" name="Collective Defiance"/>
+        <card number="1" name="Artful Dodge"/>
+        <card number="1" name="You Come to a River"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Wizard Class"/>
+        <card number="1" name="Fervent Mastery"/>
+        <card number="1" name="Mystic Retrieval"/>
+        <card number="1" name="Shattered Perception"/>
+        <card number="1" name="Channeled Force"/>
+        <card number="1" name="You See a Guard Approach"/>
+        <card number="1" name="Burning Inquiry"/>
+        <card number="1" name="Harmonic Prodigy"/>
+        <card number="1" name="Body of Knowledge"/>
+        <card number="1" name="Aetherize"/>
     </zone>
     <zone name="side">
         <card number="1" name="Harnfel, Horn of Bounty"/>
-        <card number="1" name="Breakthrough"/>
+        <card number="2" name="Breakthrough"/>
         <card number="1" name="Island"/>
         <card number="1" name="Emergence Zone"/>
-        <card number="1" name="Leyline of Anticipation"/>
+        <card number="2" name="Leyline of Anticipation"/>
         <card number="1" name="Rousing Refrain"/>
-        <card number="1" name="Double Vision"/>
+        <card number="2" name="Double Vision"/>
         <card number="1" name="Laboratory Maniac"/>
         <card number="1" name="Zephyr Boots"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Magmatic Channeler"/>
+        <card number="1" name="Imperial Recruiter"/>
+        <card number="1" name="Tribute Mage"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Part the Waterveil"/>
+        <card number="1" name="Alrund's Epiphany"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Invert // Invent"/>
+        <card number="1" name="Runechanter's Pike"/>
+        <card number="2" name="All-Seeing Arbiter"/>
+        <card number="1" name="Lay Claim"/>
+        <card number="1" name="Ominous Seas"/>
+        <card number="1" name="Complete the Circuit"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Step Through"/>
+        <card number="1" name="The Magic Mirror"/>
+        <card number="1" name="Bedlam Reveler"/>
+        <card number="1" name="Birgi, God of Storytelling"/>
+        <card number="1" name="Ghostly Pilferer"/>
+        <card number="1" name="Footfall Crater"/>
+        <card number="1" name="Soul's Fire"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="2" name="Stubborn Denial"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Remote Isle"/>
+        <card number="1" name="Smoldering Crater"/>
+        <card number="1" name="Tolaria West"/>
+        <card number="1" name="Lonely Sandbar"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Forgotten Cave"/>
+        <card number="1" name="Desert of the Mindful"/>
+        <card number="1" name="Desert of the Fervent"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Beacon Bolt"/>
+        <card number="1" name="Gravitic Punch"/>
+        <card number="1" name="Rise from the Tides"/>
+        <card number="1" name="Reiterate"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Desolate Lighthouse"/>
+        <card number="1" name="Mnemonic Deluge"/>
+        <card number="1" name="Teleportal"/>
+        <card number="1" name="Chemister's Insight"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Aether Tunnel"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Anger"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Raking Claws"/>
+        <card number="1" name="Fists of Flame"/>
+        <card number="1" name="Twinferno"/>
+        <card number="1" name="Nimble Obstructionist"/>
+        <card number="2" name="Neutralize"/>
+        <card number="1" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" name="Collector's Vault"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Izzet Charm"/>
+        <card number="1" name="Wash Away"/>
+        <card number="2" name="Radical Idea"/>
+        <card number="1" name="Alchemist's Gambit"/>
+        <card number="1" name="Candlekeep Inspiration"/>
+        <card number="1" name="Winged Boots"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Spelltwine"/>
+        <card number="1" name="Walk the Aeons"/>
+        <card number="1" name="Burning Inquiry"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="You Find the Villains' Lair"/>
+        <card number="1" name="Skyway Robber"/>
+        <card number="1" name="Goblin Lore"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Expressive Iteration"/>
     </zone>
 </cockatrice_deck>

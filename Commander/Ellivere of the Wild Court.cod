@@ -19,7 +19,6 @@
         <card number="1" name="Mantle of the Ancients"/>
         <card number="1" name="Tanglespan Lookout"/>
         <card number="1" name="Archon of Sun's Grace"/>
-        <card number="1" name="Nessian Wanderer"/>
         <card number="1" name="Sanctum Weaver"/>
         <card number="1" name="Kenrith's Transformation"/>
         <card number="1" name="Darksteel Mutation"/>
@@ -29,14 +28,11 @@
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Open the Vaults"/>
-        <card number="1" name="Mirari's Wake"/>
-        <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Ancestral Mask"/>
         <card number="1" name="Ethereal Armor"/>
         <card number="1" name="Planar Disruption"/>
         <card number="1" name="Unquestioned Authority"/>
         <card number="1" name="Chains of Custody"/>
-        <card number="1" name="Fists of Ironwood"/>
         <card number="1" name="Holy Mantle"/>
         <card number="1" name="Pentarch Ward"/>
         <card number="1" name="Spirit Mantle"/>
@@ -53,7 +49,6 @@
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Sunpetal Grove"/>
-        <card number="1" name="Arctic Treeline"/>
         <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Brushland"/>
@@ -65,7 +60,6 @@
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Siona, Captain of the Pyleas"/>
-        <card number="1" name="Ajani's Chosen"/>
         <card number="1" name="Kodama of the West Tree"/>
         <card number="1" name="Umbra Mystic"/>
         <card number="1" name="Retether"/>
@@ -82,9 +76,15 @@
         <card number="1" name="Sigarda, Font of Blessings"/>
         <card number="1" name="Eidolon of Countless Battles"/>
         <card number="1" name="Verduran Enchantress"/>
-        <card number="1" name="Armadillo Cloak"/>
-        <card number="1" name="Unflinching Courage"/>
         <card number="1" name="Light-Paws, Emperor's Voice"/>
+        <card number="1" name="Myrel, Shield of Argive"/>
+        <card number="1" name="Ajani's Chosen"/>
+        <card number="1" name="Bretagard Stronghold"/>
+        <card number="1" name="Stroke of Midnight"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Tithe Taker"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Archon of Valor's Reach"/>
     </zone>
     <zone name="side">
         <card number="1" name="Rite of Harmony"/>
@@ -118,5 +118,17 @@
         <card number="1" name="Cartouche of Strength"/>
         <card number="1" name="Light-Paws, Emperor's Voice"/>
         <card number="1" name="Myrel, Shield of Argive"/>
+        <card number="1" name="Nessian Wanderer"/>
+        <card number="1" name="Fists of Ironwood"/>
+        <card number="1" name="Ajani's Chosen"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Arctic Treeline"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Unflinching Courage"/>
+        <card number="1" name="Yasharn, Implacable Earth"/>
+        <card number="1" name="Armadillo Cloak"/>
+        <card number="1" name="Winds of Rath"/>
+        <card number="1" name="Collector Ouphe"/>
     </zone>
 </cockatrice_deck>

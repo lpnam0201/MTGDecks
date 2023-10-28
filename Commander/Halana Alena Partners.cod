@@ -58,7 +58,6 @@
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Wyll's Reversal"/>
         <card number="1" name="Giant Adephage"/>
-        <card number="1" name="Foundation Breaker"/>
         <card number="1" name="Tail Swipe"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Durnan of the Yawning Portal"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Stromkirk Occultist"/>
         <card number="1" name="Bane of Progress"/>
         <card number="1" name="Urabrask the Hidden"/>
+        <card number="1" name="Steelbane Hydra"/>
     </zone>
     <zone name="side">
         <card number="2" name="Thundering Raiju"/>
@@ -153,5 +153,6 @@
         <card number="1" name="Steelbane Hydra"/>
         <card number="1" name="Tyrant's Familiar"/>
         <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Foundation Breaker"/>
     </zone>
 </cockatrice_deck>

@@ -3,71 +3,111 @@
     <deckname>Karador</deckname>
     <comments></comments>
     <zone name="main">
+        <card number="1" name="Siege Rhino"/>
         <card number="1" name="Karador, Ghost Chieftain"/>
-        <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Stinkweed Imp"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Plaguecrafter"/>
-        <card number="1" name="Reveillark"/>
-        <card number="1" name="Viscera Seer"/>
-        <card number="1" name="Spore Frog"/>
-        <card number="1" name="Shriekmaw"/>
-        <card number="1" name="Gravebreaker Lamia"/>
-        <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Qasali Pridemage"/>
+        <card number="1" name="Bolas's Citadel"/>
         <card number="1" name="Wood Elves"/>
-        <card number="1" name="Saffi Eriksdotter"/>
-        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Nyx Weaver"/>
+        <card number="1" name="Blanchwood Prowler"/>
+        <card number="1" name="Circle of the Land Druid"/>
         <card number="1" name="Eerie Ultimatum"/>
-        <card number="1" name="Satyr Wayfinder"/>
-        <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Acidic Slime"/>
         <card number="1" name="Living Death"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Skull Prophet"/>
-        <card number="1" name="Nethroi, Apex of Death"/>
-        <card number="1" name="Mire Triton"/>
-        <card number="1" name="Ravenous Chupacabra"/>
-        <card number="1" name="Zulaport Cutthroat"/>
-        <card number="1" name="Avacyn's Pilgrim"/>
-        <card number="1" name="Llanowar Elves"/>
-        <card number="1" name="Elves of Deep Shadow"/>
-        <card number="1" name="Grim Haruspex"/>
-        <card number="1" name="Syr Konrad, the Grim"/>
-        <card number="1" name="Caustic Caterpillar"/>
-        <card number="1" name="Elvish Visionary"/>
-        <card number="1" name="Fiend Hunter"/>
-        <card number="1" name="Leonin Relic-Warder"/>
-        <card number="1" name="Midnight Reaper"/>
-        <card number="1" name="Remorseful Cleric"/>
-        <card number="1" name="Golgari Thug"/>
-        <card number="1" name="Shambling Shell"/>
-        <card number="1" name="Fleshbag Marauder"/>
-        <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Demon's Disciple"/>
-        <card number="1" name="Splendid Reclamation"/>
-        <card number="1" name="Victimize"/>
-        <card number="1" name="Unburial Rites"/>
-        <card number="1" name="Cruel Celebrant"/>
-        <card number="1" name="Deafening Silence"/>
-        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Satyr Wayfinder"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Woe Strider"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Grisly Salvage"/>
+        <card number="1" name="Meren of Clan Nel Toth"/>
+        <card number="1" name="Scorn-Blade Berserker"/>
+        <card number="1" name="Commissar Severina Raine"/>
+        <card number="1" name="Cataclysmic Gearhulk"/>
+        <card number="1" name="Realm-Cloaked Giant // Cast Off"/>
+        <card number="1" name="Stitcher's Supplier"/>
         <card number="1" name="Perpetual Timepiece"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Necromantic Selection"/>
-        <card number="1" name="Austere Command"/>
+        <card number="1" name="Caustic Caterpillar"/>
+        <card number="1" name="Cemetery Tampering"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Lord of the Forsaken"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Cankerbloom"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Llanowar Visionary"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Sigrid, God-Favored"/>
+        <card number="1" name="Doom Whisperer"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Athreos, Shroud-Veiled"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="1" name="Puppeteer Clique"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Deathreap Ritual"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Fauna Shaman"/>
+        <card number="1" name="Fiend Artisan"/>
+        <card number="1" name="Nullpriest of Oblivion"/>
+        <card number="1" name="Skyfisher Spider"/>
+        <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Gravebreaker Lamia"/>
+        <card number="1" name="Underrealm Lich"/>
+        <card number="1" name="Corpse Connoisseur"/>
+        <card number="1" name="Nethroi, Apex of Death"/>
+        <card number="1" name="Skull Prophet"/>
+        <card number="1" name="Vile Entomber"/>
+        <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Mythos of Nethroi"/>
-        <card number="1" name="Grisly Salvage"/>
-        <card number="1" name="Selesnya Signet"/>
-        <card number="1" name="Orzhov Signet"/>
-        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Evolutionary Leap"/>
+        <card number="1" name="Mortify"/>
+        <card number="4" name="Plains"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Sunlit Marsh"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Deathcap Glade"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Great Hall of the Citadel"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Kagha, Shadow Archdruid"/>
+        <card number="1" name="Sanguine Spy"/>
+        <card number="1" name="Hoarding Broodlord"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Golgari Grave-Troll"/>
-        <card number="1" name="Living Death"/>
-        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Circle of Dreams Druid"/>
+        <card number="1" name="Eerie Ultimatum"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Yavimaya Dryad"/>
+        <card number="1" name="Timeless Witness"/>
+        <card number="1" name="Mire Triton"/>
+        <card number="1" name="Rushed Rebirth"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Sevinne's Reclamation"/>
+        <card number="1" name="Saffi Eriksdotter"/>
+        <card number="1" name="Deathreap Ritual"/>
+        <card number="1" name="Old Rutstein"/>
     </zone>
 </cockatrice_deck>

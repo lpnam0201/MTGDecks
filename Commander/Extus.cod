@@ -4,11 +4,7 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Extus, Oriq Overlord"/>
-        <card number="1" name="Village Rites"/>
-        <card number="1" name="Corrupted Conviction"/>
         <card number="1" name="Plumb the Forbidden"/>
-        <card number="1" name="Loyal Warhound"/>
-        <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Victimize"/>
@@ -27,7 +23,6 @@
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Fetid Heath"/>
         <card number="1" name="Temple of Silence"/>
-        <card number="1" name="Isolated Chapel"/>
         <card number="1" name="Shineshadow Snarl"/>
         <card number="1" name="Rakdos Signet"/>
         <card number="1" name="Boros Signet"/>
@@ -36,14 +31,9 @@
         <card number="1" name="Phyrexian Reclamation"/>
         <card number="1" name="Chittering Witch"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Rakdos Charm"/>
-        <card number="1" name="Bedevil"/>
         <card number="1" name="Rite of Oblivion"/>
-        <card number="1" name="Increasing Devotion"/>
-        <card number="1" name="Double Vision"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Nomad Outpost"/>
-        <card number="1" name="Rugged Prairie"/>
         <card number="1" name="Boros Garrison"/>
         <card number="1" name="Sacred Peaks"/>
         <card number="1" name="Battlefield Forge"/>
@@ -57,8 +47,6 @@
         <card number="1" name="Sunlit Marsh"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Great Hall of the Citadel"/>
-        <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Siege-Gang Commander"/>
         <card number="1" name="Rionya, Fire Dancer"/>
         <card number="1" name="Mirage Phalanx"/>
@@ -67,36 +55,45 @@
         <card number="1" name="Twinflame"/>
         <card number="1" name="Krenko, Tin Street Kingpin"/>
         <card number="1" name="Krenko, Mob Boss"/>
-        <card number="1" name="Adeline, Resplendent Cathar"/>
-        <card number="1" name="Memorial to Folly"/>
         <card number="1" name="Vault of the Archangel"/>
-        <card number="1" name="Ravos, Soultender"/>
-        <card number="1" name="Gisa, Glorious Resurrector"/>
         <card number="1" name="Kolaghan's Command"/>
         <card number="1" name="Order of Midnight // Alter Fate"/>
         <card number="1" name="Cadaver Imp"/>
         <card number="1" name="Wretched Confluence"/>
         <card number="1" name="Mana Geyser"/>
-        <card number="1" name="Jeska's Will"/>
         <card number="1" name="Crawl from the Cellar"/>
         <card number="1" name="Grave Titan"/>
-        <card number="1" name="Assemble the Legion"/>
-        <card number="1" name="Elenda, the Dusk Rose"/>
         <card number="1" name="Prosperous Partnership"/>
         <card number="1" name="Geist-Honored Monk"/>
-        <card number="1" name="Endrek Sahr, Master Breeder"/>
-        <card number="1" name="Marshland Bloodcaster"/>
-        <card number="1" name="Rousing Refrain"/>
-        <card number="1" name="Tergrid, God of Fright"/>
-        <card number="1" name="Boss's Chauffeur"/>
-        <card number="1" name="Hero of Bladehold"/>
-        <card number="1" name="Zeriam, Golden Wind"/>
         <card number="1" name="Karmic Guide"/>
-        <card number="1" name="Leonin Warleader"/>
         <card number="1" name="Martial Coup"/>
         <card number="1" name="White Sun's Twilight"/>
         <card number="1" name="Invasion of Tolvada"/>
         <card number="1" name="Offspring's Revenge"/>
+        <card number="1" name="Callous Bloodmage"/>
+        <card number="1" name="Company Commander"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Liliana's Standard Bearer"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Fell Stinger"/>
+        <card number="1" name="Divine Visitation"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="City on Fire"/>
+        <card number="1" name="Palace Jailer"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Duke Ulder Ravengard"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="1" name="Coercive Recruiter"/>
+        <card number="1" name="Oblation"/>
+        <card number="1" name="Pile On"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Imperial Recruiter"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Lagomos, Hand of Hatred"/>
+        <card number="1" name="Teysa Karlov"/>
     </zone>
     <zone name="side">
         <card number="1" name="Rite of Oblivion"/>
@@ -166,7 +163,7 @@
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Sedgemoor Witch"/>
         <card number="1" name="Dualcaster Mage"/>
-        <card number="1" name="Elenda, the Dusk Rose"/>
+        <card number="2" name="Elenda, the Dusk Rose"/>
         <card number="1" name="Gray Merchant of Asphodel"/>
         <card number="1" name="Selfless Spirit"/>
         <card number="1" name="Young Pyromancer"/>
@@ -201,9 +198,45 @@
         <card number="1" name="Imperial Recruiter"/>
         <card number="1" name="Karmic Guide"/>
         <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Mahadi, Emporium Master"/>
+        <card number="2" name="Mahadi, Emporium Master"/>
         <card number="1" name="Call to the Netherworld"/>
         <card number="1" name="Invasion of Tolvada"/>
         <card number="1" name="Divine Visitation"/>
+        <card number="1" name="Adeline, Resplendent Cathar"/>
+        <card number="1" name="Marshland Bloodcaster"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Memorial to Folly"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="2" name="Loyal Warhound"/>
+        <card number="1" name="Corrupted Conviction"/>
+        <card number="2" name="Village Rites"/>
+        <card number="1" name="Ravos, Soultender"/>
+        <card number="2" name="Knight of the White Orchid"/>
+        <card number="1" name="Increasing Devotion"/>
+        <card number="1" name="Boss's Chauffeur"/>
+        <card number="1" name="Palace Siege"/>
+        <card number="1" name="Ghost Lantern // Bind Spirit"/>
+        <card number="1" name="Assemble the Legion"/>
+        <card number="1" name="Tergrid, God of Fright"/>
+        <card number="1" name="Gisa, Glorious Resurrector"/>
+        <card number="1" name="Double Vision"/>
+        <card number="1" name="Necrotic Hex"/>
+        <card number="1" name="Palace Jailer"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Zeriam, Golden Wind"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="2" name="Terminate"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Endrek Sahr, Master Breeder"/>
+        <card number="1" name="Oreskos Explorer"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Rousing Refrain"/>
+        <card number="1" name="Jirina Kudro"/>
     </zone>
 </cockatrice_deck>

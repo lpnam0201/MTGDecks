@@ -6,7 +6,6 @@
         <card number="1" name="Call the Coppercoats"/>
         <card number="1" name="Jinnie Fay, Jetmir's Second"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Chord of Calling"/>
         <card number="1" name="Tocasia's Welcome"/>
         <card number="1" name="King Darien XLVIII"/>
         <card number="1" name="Rabble Rousing"/>
@@ -25,8 +24,6 @@
         <card number="1" name="Scute Swarm"/>
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Krenko, Tin Street Kingpin"/>
-        <card number="1" name="Shared Summons"/>
-        <card number="1" name="Summoner's Pact"/>
         <card number="1" name="Avacyn's Pilgrim"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Fyndhorn Elves"/>
@@ -42,7 +39,6 @@
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
@@ -84,7 +80,6 @@
         <card number="1" name="Skyknight Vanguard"/>
         <card number="1" name="Goblin Assault"/>
         <card number="1" name="Increasing Devotion"/>
-        <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Elemental Bond"/>
         <card number="1" name="Glare of Subdual"/>
         <card number="1" name="Nature's Claim"/>
@@ -95,6 +90,9 @@
         <card number="1" name="Squirrel Nest"/>
         <card number="1" name="Presence of Gond"/>
         <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Phabine, Boss's Confidant"/>
+        <card number="1" name="Jetmir, Nexus of Revels"/>
+        <card number="1" name="Neyali, Suns' Vanguard"/>
     </zone>
     <zone name="side">
         <card number="1" name="Swords to Plowshares"/>
@@ -125,5 +123,10 @@
         <card number="1" name="Sticky Fingers"/>
         <card number="1" name="Descent into Avernus"/>
         <card number="1" name="Odric, Master Tactician"/>
+        <card number="1" name="Summoner's Pact"/>
+        <card number="1" name="Shared Summons"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Chord of Calling"/>
     </zone>
 </cockatrice_deck>

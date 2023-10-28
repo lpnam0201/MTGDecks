@@ -47,7 +47,6 @@
         <card number="1" name="Nahiri, Forged in Fury"/>
         <card number="1" name="Puresteel Paladin"/>
         <card number="1" name="Koll, the Forgemaster"/>
-        <card number="1" name="Professional Face-Breaker"/>
         <card number="1" name="Raiyuu, Storm's Edge"/>
         <card number="1" name="Éowyn, Lady of Rohan"/>
         <card number="1" name="Forge Anew"/>
@@ -222,7 +221,7 @@
         <card number="2" name="Disenchant"/>
         <card number="2" name="Gavel of the Righteous"/>
         <card number="1" name="Akki Battle Squad"/>
-        <card number="1" name="Professional Face-Breaker"/>
+        <card number="2" name="Professional Face-Breaker"/>
         <card number="1" name="Raiyuu, Storm's Edge"/>
         <card number="1" name="Prying Blade"/>
         <card number="1" name="Fleetfeather Sandals"/>

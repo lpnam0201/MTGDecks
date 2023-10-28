@@ -74,8 +74,6 @@
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Curtains' Call"/>
         <card number="1" name="Lotho, Corrupt Shirriff"/>
-        <card number="1" name="Ayara's Oathsworn"/>
-        <card number="1" name="Children of Korlis"/>
         <card number="1" name="Clever Concealment"/>
         <card number="1" name="Shattered Sanctum"/>
         <card number="1" name="Myriad Landscape"/>
@@ -87,6 +85,8 @@
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Weathered Wayfarer"/>
         <card number="1" name="Scholar of New Horizons"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Silverblade Paladin"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Cutthroat"/>
@@ -230,5 +230,8 @@
         <card number="1" name="Drumbellower"/>
         <card number="1" name="Reidane, God of the Worthy"/>
         <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Ayara's Oathsworn"/>
+        <card number="1" name="Children of Korlis"/>
+        <card number="1" name="Loyal Warhound"/>
     </zone>
 </cockatrice_deck>

@@ -52,7 +52,6 @@
         <card number="1" name="Profane Tutor"/>
         <card number="1" name="Sygg, River Cutthroat"/>
         <card number="1" name="Prying Blade"/>
-        <card number="1" name="Nightshade Stinger"/>
         <card number="1" name="Goldvein Pick"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Network Disruptor"/>
@@ -88,6 +87,7 @@
         <card number="1" name="Rise from the Grave"/>
         <card number="1" name="Enigma Thief"/>
         <card number="1" name="Zareth San, the Trickster"/>
+        <card number="1" name="Realmbreaker, the Invasion Tree"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -184,7 +184,7 @@
         <card number="1" name="Murder"/>
         <card number="3" name="Fact or Fiction"/>
         <card number="1" name="Diabolic Edict"/>
-        <card number="1" name="Nightshade Stinger"/>
+        <card number="2" name="Nightshade Stinger"/>
         <card number="1" name="Dimir Aqueduct"/>
         <card number="1" name="Krydle of Baldur's Gate"/>
         <card number="2" name="Scavenger Grounds"/>

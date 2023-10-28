@@ -5,46 +5,24 @@
     <zone name="main">
         <card number="1" name="Dargo, the Shipwrecker"/>
         <card number="1" name="Keskit, the Flesh Sculptor"/>
-        <card number="1" name="Coercive Recruiter"/>
-        <card number="1" name="Mob Rule"/>
-        <card number="1" name="Act of Treason"/>
-        <card number="1" name="Act of Aggression"/>
-        <card number="1" name="Word of Seizing"/>
-        <card number="1" name="Bloody Betrayal"/>
-        <card number="1" name="Involuntary Employment"/>
         <card number="1" name="Academy Manufactor"/>
         <card number="1" name="Goldspan Dragon"/>
         <card number="1" name="Professional Face-Breaker"/>
-        <card number="1" name="Xorn"/>
         <card number="1" name="Impulsive Pilferer"/>
         <card number="1" name="Ruthless Technomancer"/>
         <card number="1" name="Marionette Master"/>
-        <card number="1" name="Lagomos, Hand of Hatred"/>
         <card number="1" name="Swashbuckler Extraordinaire"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Command the Dreadhorde"/>
-        <card number="1" name="Ichor Wellspring"/>
-        <card number="1" name="Mycosynth Wellspring"/>
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Loyal Apprentice"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Wild Magic Surge"/>
-        <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Rakdos Charm"/>
-        <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Bolt Bend"/>
-        <card number="1" name="Wyll's Reversal"/>
         <card number="1" name="Bedevil"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="8" name="Mountain"/>
-        <card number="8" name="Swamp"/>
+        <card number="10" name="Mountain"/>
+        <card number="10" name="Swamp"/>
         <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Shizo, Death's Storehouse"/>
         <card number="1" name="Foreboding Ruins"/>
         <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Sulfurous Springs"/>
@@ -55,61 +33,79 @@
         <card number="1" name="Blood Crypt"/>
         <card number="1" name="Temple of Malice"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Callous Bloodmage"/>
         <card number="1" name="Juri, Master of the Revue"/>
-        <card number="1" name="Bloodsoaked Champion"/>
-        <card number="1" name="Reassembling Skeleton"/>
         <card number="1" name="Ophiomancer"/>
-        <card number="1" name="Krenko, Tin Street Kingpin"/>
-        <card number="1" name="Dreadhorde Invasion"/>
         <card number="1" name="Agent of the Iron Throne"/>
-        <card number="1" name="Grave Titan"/>
         <card number="1" name="Nadier's Nightblade"/>
-        <card number="1" name="Sibling Rivalry"/>
-        <card number="1" name="Grim Hireling"/>
         <card number="1" name="Chainer, Nightmare Adept"/>
-        <card number="1" name="Pitiless Plunderer"/>
         <card number="1" name="Kher Keep"/>
         <card number="1" name="Kalain, Reclusive Painter"/>
-        <card number="1" name="Firbolg Flutist"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Piper of the Swarm"/>
-        <card number="1" name="Prized Statue"/>
         <card number="1" name="Noble's Purse"/>
-        <card number="1" name="Forsworn Paladin"/>
-        <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Imperial Recruiter"/>
-        <card number="1" name="Reanimate"/>
         <card number="1" name="Ravenous Chupacabra"/>
-        <card number="1" name="The Reaver Cleaver"/>
         <card number="1" name="Terminate"/>
-        <card number="1" name="Dualcaster Mage"/>
         <card number="1" name="Kardur, Doomscourge"/>
         <card number="1" name="Legion Warboss"/>
         <card number="1" name="Captain Lannery Storm"/>
-        <card number="1" name="Oni-Cult Anvil"/>
-        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Decadent Dragon // Expensive Taste"/>
+        <card number="1" name="Junji, the Midnight Sky"/>
+        <card number="1" name="Olivia, Crimson Bride"/>
+        <card number="1" name="Patron of the Arts"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Make an Example"/>
+        <card number="1" name="Atsushi, the Blazing Sky"/>
+        <card number="1" name="Prosper, Tome-Bound"/>
+        <card number="1" name="Rain of Riches"/>
+        <card number="1" name="Gimli of the Glittering Caves"/>
+        <card number="1" name="Vat of Rebirth"/>
+        <card number="1" name="Visions of Ruin"/>
+        <card number="1" name="Rose Room Treasurer"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Magda, Brazen Outlaw"/>
+        <card number="1" name="Gut, True Soul Zealot"/>
+        <card number="1" name="Bloodsworn Steward"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Warstorm Surge"/>
+        <card number="1" name="Mayhem Devil"/>
+        <card number="1" name="Kazuul's Fury"/>
+        <card number="1" name="Tavern Brawler"/>
+        <card number="1" name="Young Necromancer"/>
+        <card number="1" name="Skullport Merchant"/>
+        <card number="1" name="Necrotic Hex"/>
+        <card number="1" name="Where Ancients Tread"/>
+        <card number="1" name="Flamekin Herald"/>
+        <card number="1" name="Gleeful Demolition"/>
+        <card number="1" name="Weaponcraft Enthusiast"/>
+        <card number="1" name="Charforger"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Plundering Barbarian"/>
+        <card number="1" name="Breya's Apprentice"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Dualcaster Mage"/>
+        <card number="2" name="Dualcaster Mage"/>
         <card number="2" name="Phyrexian Altar"/>
         <card number="5" name="Captain Lannery Storm"/>
         <card number="1" name="Descent into Avernus"/>
         <card number="1" name="Fain, the Broker"/>
-        <card number="1" name="The Reaver Cleaver"/>
+        <card number="2" name="The Reaver Cleaver"/>
         <card number="1" name="Disciple of Bolas"/>
         <card number="1" name="Dusk Legion Zealot"/>
         <card number="1" name="Torment of Hailfire"/>
         <card number="1" name="Guild Artisan"/>
         <card number="1" name="Blood Money"/>
-        <card number="1" name="Forsworn Paladin"/>
+        <card number="2" name="Forsworn Paladin"/>
         <card number="1" name="Szat's Will"/>
-        <card number="1" name="Pitiless Plunderer"/>
+        <card number="2" name="Pitiless Plunderer"/>
         <card number="1" name="Sifter of Skulls"/>
-        <card number="1" name="Grim Hireling"/>
+        <card number="2" name="Grim Hireling"/>
         <card number="1" name="Mahadi, Emporium Master"/>
         <card number="1" name="Kari Zev's Expertise"/>
-        <card number="1" name="Deadly Dispute"/>
+        <card number="2" name="Deadly Dispute"/>
         <card number="1" name="Idol of Oblivion"/>
         <card number="1" name="Jadar, Ghoulcaller of Nephalia"/>
         <card number="1" name="Wayfarer's Bauble"/>
@@ -118,7 +114,7 @@
         <card number="1" name="Swamp"/>
         <card number="2" name="Elturel Survivors"/>
         <card number="2" name="Diabolic Tutor"/>
-        <card number="1" name="Blasphemous Act"/>
+        <card number="2" name="Blasphemous Act"/>
         <card number="1" name="Reckless Endeavor"/>
         <card number="1" name="Village Rites"/>
         <card number="1" name="Unexpected Windfall"/>
@@ -136,5 +132,51 @@
         <card number="1" name="Legion Vanguard"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Plaza of Heroes"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Imperial Recruiter"/>
+        <card number="1" name="Reassembling Skeleton"/>
+        <card number="1" name="Xorn"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Bloodsoaked Champion"/>
+        <card number="1" name="Callous Bloodmage"/>
+        <card number="2" name="The Balrog, Durin's Bane"/>
+        <card number="1" name="Strefan, Maurer Progenitor"/>
+        <card number="1" name="Dreadhorde Invasion"/>
+        <card number="1" name="Piper of the Swarm"/>
+        <card number="1" name="Oni-Cult Anvil"/>
+        <card number="1" name="Wyll's Reversal"/>
+        <card number="1" name="Act of Treason"/>
+        <card number="1" name="Bloody Betrayal"/>
+        <card number="1" name="Involuntary Employment"/>
+        <card number="1" name="Spiteful Repossession"/>
+        <card number="1" name="Mycosynth Wellspring"/>
+        <card number="1" name="Ichor Wellspring"/>
+        <card number="1" name="Prized Statue"/>
+        <card number="1" name="Bucknard's Everfull Purse"/>
+        <card number="1" name="Sibling Rivalry"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Tergrid's Shadow"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Lagomos, Hand of Hatred"/>
+        <card number="1" name="Beamtown Beatstick"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="1" name="Word of Seizing"/>
+        <card number="1" name="Act of Aggression"/>
+        <card number="1" name="Firbolg Flutist"/>
+        <card number="1" name="Coercive Recruiter"/>
+        <card number="1" name="Plargg and Nassari"/>
+        <card number="1" name="Urabrask the Hidden"/>
     </zone>
 </cockatrice_deck>

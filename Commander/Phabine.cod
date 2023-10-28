@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Phabine</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Phabine, Boss's Confidant"/>
+        <card number="1" name="Neyali, Suns' Vanguard"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Rabble Rousing"/>
+        <card number="1" name="Artifact Mutation"/>
+        <card number="1" name="Aura Mutation"/>
+        <card number="1" name="Rumor Gatherer"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Jetmir, Nexus of Revels"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Cabaretti Confluence"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Queen Allenal of Ruadach"/>
+        <card number="1" name="Master of Ceremonies"/>
+        <card number="1" name="Indulge // Excess"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Cadira, Caller of the Small"/>
+        <card number="1" name="Rose Room Treasurer"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Topiary Stomper"/>
+        <card number="1" name="Zurzoth, Chaos Rider"/>
+        <card number="1" name="Leafkin Druid"/>
+        <card number="1" name="Samut, Vizier of Naktamun"/>
+        <card number="1" name="Rite of Harmony"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Awakening Zone"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Yavimaya Dryad"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Selvala, Explorer Returned"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Vastwood Surge"/>
+        <card number="5" name="Forest"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Plains"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Furycalm Snarl"/>
+        <card number="1" name="Sacred Peaks"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Roar of Resistance"/>
+        <card number="1" name="Wildfire Awakener"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Witty Roastmaster"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Knight of Autumn"/>
+        <card number="1" name="Llanowar Visionary"/>
+        <card number="1" name="Cathar Commando"/>
+        <card number="1" name="Boss's Chauffeur"/>
+        <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Grow from the Ashes"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Cabaretti Confluence"/>
+        <card number="1" name="Alpine Meadow"/>
+    </zone>
+</cockatrice_deck>

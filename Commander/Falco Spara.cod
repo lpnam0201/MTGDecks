@@ -11,20 +11,12 @@
         <card number="1" name="Incubation Druid"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
         <card number="1" name="Fathom Mage"/>
-        <card number="1" name="Kodama of the West Tree"/>
-        <card number="1" name="Felidar Retreat"/>
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Luminarch Aspirant"/>
         <card number="1" name="Fertilid"/>
         <card number="1" name="Sanctuary Warden"/>
-        <card number="1" name="Abzan Falconer"/>
-        <card number="1" name="Together Forever"/>
         <card number="1" name="Gavony Township"/>
-        <card number="1" name="Simic Ascendancy"/>
-        <card number="1" name="Herald of Secret Streams"/>
-        <card number="1" name="Sunscorch Regent"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Fabled Passage"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Sungrass Prairie"/>
         <card number="1" name="Overgrown Farmland"/>
@@ -47,51 +39,68 @@
         <card number="4" name="Forest"/>
         <card number="4" name="Plains"/>
         <card number="1" name="Wall of Roots"/>
-        <card number="1" name="Hardened Scales"/>
         <card number="1" name="Thrummingbird"/>
-        <card number="1" name="Akroma's Will"/>
         <card number="1" name="Arcus Acolyte"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Lae'zel, Vlaakith's Champion"/>
-        <card number="1" name="Benevolent Hydra"/>
-        <card number="1" name="Conclave Mentor"/>
-        <card number="1" name="Kami of Whispered Hopes"/>
-        <card number="1" name="Ozolith, the Shattered Spire"/>
         <card number="1" name="Deserted Beach"/>
         <card number="1" name="Spara's Headquarters"/>
-        <card number="1" name="Kalonian Hydra"/>
-        <card number="1" name="Denry Klin, Editor in Chief"/>
-        <card number="1" name="Vega, the Watcher"/>
-        <card number="1" name="Mikaeus, the Lunarch"/>
-        <card number="1" name="Good-Fortune Unicorn"/>
-        <card number="1" name="Dusk Legion Duelist"/>
-        <card number="1" name="Generous Patron"/>
         <card number="1" name="Aven Courier"/>
         <card number="1" name="Park Heights Maverick"/>
-        <card number="1" name="Brokers Charm"/>
-        <card number="1" name="Bant Charm"/>
         <card number="1" name="Brokers Confluence"/>
-        <card number="1" name="Unbreakable Formation"/>
-        <card number="1" name="Inspiring Call"/>
-        <card number="1" name="Contractual Safeguard"/>
-        <card number="1" name="Endless Detour"/>
-        <card number="1" name="Katilda, Dawnhart Prime"/>
-        <card number="1" name="Oran-Rief, the Vastwood"/>
-        <card number="1" name="Scavenging Ooze"/>
         <card number="1" name="Gyre Sage"/>
-        <card number="1" name="Soulherder"/>
-        <card number="1" name="Knight of Autumn"/>
         <card number="1" name="Leinore, Autumn Sovereign"/>
-        <card number="1" name="Bred for the Hunt"/>
-        <card number="1" name="Nils, Discipline Enforcer"/>
-        <card number="1" name="Basri's Lieutenant"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Grateful Apparition"/>
+        <card number="1" name="Norn's Choirmaster"/>
+        <card number="1" name="Ezuri, Stalker of Spheres"/>
+        <card number="1" name="Roalesk, Apex Hybrid"/>
+        <card number="1" name="Merfolk Skydiver"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Vorel of the Hull Clade"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Expand the Sphere"/>
+        <card number="1" name="Boon of Safety"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Cankerbloom"/>
+        <card number="1" name="Reject Imperfection"/>
+        <card number="1" name="Serum Snare"/>
+        <card number="1" name="Titan of Industry"/>
+        <card number="1" name="Family's Favor"/>
+        <card number="1" name="Contractual Safeguard"/>
+        <card number="1" name="Shield Broker"/>
+        <card number="1" name="Disciplined Duelist"/>
+        <card number="1" name="Skyship Plunderer"/>
+        <card number="1" name="Bribe Taker"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Conclave Sledge-Captain"/>
+        <card number="1" name="Doomskar Warrior"/>
+        <card number="1" name="Loyal Guardian"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Primeval Protector"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lambholt Harrier"/>
-        <card number="1" name="Lae'zel, Vlaakith's Champion"/>
-        <card number="1" name="Endless Detour"/>
-        <card number="1" name="Cultivate"/>
-        <card number="1" name="Kodama's Reach"/>
+        <card number="2" name="Lae'zel, Vlaakith's Champion"/>
+        <card number="2" name="Endless Detour"/>
+        <card number="2" name="Cultivate"/>
+        <card number="2" name="Kodama's Reach"/>
         <card number="1" name="Kitchen Finks"/>
         <card number="1" name="Bane of Progress"/>
         <card number="2" name="Glen Elendra Archmage"/>
@@ -102,7 +111,7 @@
         <card number="1" name="Plains"/>
         <card number="1" name="Island"/>
         <card number="1" name="Brainstorm"/>
-        <card number="1" name="Knight of Autumn"/>
+        <card number="2" name="Knight of Autumn"/>
         <card number="1" name="Evolution Sage"/>
         <card number="1" name="Tezzeret's Gambit"/>
         <card number="1" name="Tanazir Quandrix"/>
@@ -110,15 +119,15 @@
         <card number="1" name="Damning Verdict"/>
         <card number="1" name="Leyline of Anticipation"/>
         <card number="1" name="Ponder"/>
-        <card number="1" name="Good-Fortune Unicorn"/>
+        <card number="2" name="Good-Fortune Unicorn"/>
         <card number="1" name="Renata, Called to the Hunt"/>
-        <card number="1" name="Conclave Mentor"/>
+        <card number="2" name="Conclave Mentor"/>
         <card number="2" name="Supreme Verdict"/>
         <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Soulherder"/>
+        <card number="2" name="Soulherder"/>
         <card number="1" name="Gyre Sage"/>
         <card number="1" name="Forest"/>
-        <card number="1" name="Vega, the Watcher"/>
+        <card number="2" name="Vega, the Watcher"/>
         <card number="1" name="Swift Reconfiguration"/>
         <card number="1" name="Tale's End"/>
         <card number="1" name="Green Sun's Zenith"/>
@@ -131,10 +140,10 @@
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Summoner's Pact"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
-        <card number="1" name="Basri's Lieutenant"/>
-        <card number="1" name="Inspiring Call"/>
+        <card number="2" name="Basri's Lieutenant"/>
+        <card number="2" name="Inspiring Call"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
-        <card number="1" name="Scavenging Ooze"/>
+        <card number="2" name="Scavenging Ooze"/>
         <card number="1" name="Smothering Tithe"/>
         <card number="1" name="Sylvan Library"/>
         <card number="1" name="Oracle of Mul Daya"/>
@@ -172,5 +181,40 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Skyboon Evangelist"/>
         <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Ozolith, the Shattered Spire"/>
+        <card number="1" name="Simic Ascendancy"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Kodama of the West Tree"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Generous Patron"/>
+        <card number="1" name="Dusk Legion Duelist"/>
+        <card number="1" name="Kalonian Hydra"/>
+        <card number="1" name="Denry Klin, Editor in Chief"/>
+        <card number="1" name="Contractual Safeguard"/>
+        <card number="1" name="Brokers Charm"/>
+        <card number="1" name="Sunscorch Regent"/>
+        <card number="1" name="Tainted Observer"/>
+        <card number="1" name="Bred for the Hunt"/>
+        <card number="1" name="Together Forever"/>
+        <card number="1" name="Aven Courier"/>
+        <card number="1" name="Benevolent Hydra"/>
+        <card number="1" name="Abzan Falconer"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Bant Charm"/>
+        <card number="1" name="Katilda, Dawnhart Prime"/>
+        <card number="1" name="Mikaeus, the Lunarch"/>
+        <card number="1" name="Kami of Whispered Hopes"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Bloated Contaminator"/>
+        <card number="1" name="Contaminant Grafter"/>
+        <card number="1" name="Unnatural Restoration"/>
+        <card number="1" name="Herald of Secret Streams"/>
+        <card number="1" name="Planewide Celebration"/>
+        <card number="1" name="Nils, Discipline Enforcer"/>
+        <card number="1" name="Boon-Bringer Valkyrie"/>
+        <card number="1" name="Doomskar"/>
+        <card number="1" name="Invasion of Moag"/>
     </zone>
 </cockatrice_deck>

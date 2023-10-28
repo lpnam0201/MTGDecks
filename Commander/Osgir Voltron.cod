@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Osgir Voltron</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Osgir, the Reconstructor"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sword of Forge and Frontier"/>
+        <card number="1" name="Sword of War and Peace"/>
+        <card number="1" name="Sword of Once and Future"/>
+        <card number="1" name="Sword of Hearth and Home"/>
+        <card number="1" name="Sword of the Animist"/>
+    </zone>
+</cockatrice_deck>

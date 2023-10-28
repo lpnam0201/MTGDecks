@@ -48,7 +48,6 @@
         <card number="1" name="Temple of Silence"/>
         <card number="1" name="Ertai Resurrected"/>
         <card number="1" name="Priest of Fell Rites"/>
-        <card number="1" name="Thief of Sanity"/>
         <card number="1" name="All-Seeing Arbiter"/>
         <card number="1" name="Karmic Guide"/>
         <card number="1" name="Victimize"/>
@@ -67,7 +66,6 @@
         <card number="1" name="Shineshadow Snarl"/>
         <card number="1" name="Lavinia, Azorius Renegade"/>
         <card number="1" name="Scheming Fence"/>
-        <card number="1" name="Razaketh, the Foulblooded"/>
         <card number="1" name="Doomskar"/>
         <card number="1" name="Selfless Spirit"/>
         <card number="1" name="Torrential Gearhulk"/>
@@ -76,10 +74,8 @@
         <card number="1" name="Weathered Wayfarer"/>
         <card number="1" name="Dread Return"/>
         <card number="1" name="Unburial Rites"/>
-        <card number="1" name="Glorious Protector"/>
         <card number="1" name="Grazilaxx, Illithid Scholar"/>
         <card number="1" name="Isolated Chapel"/>
-        <card number="1" name="Boromir, Warden of the Tower"/>
         <card number="1" name="Sleep of the Dead"/>
         <card number="1" name="Doomed Necromancer"/>
         <card number="1" name="Angel of the Ruins"/>
@@ -91,9 +87,13 @@
         <card number="1" name="Fateful Absence"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Windfall"/>
         <card number="1" name="Verge Rangers"/>
-        <card number="1" name="Skyway Robber"/>
+        <card number="1" name="Adeline, Resplendent Cathar"/>
+        <card number="1" name="Boromir, Warden of the Tower"/>
+        <card number="1" name="Dusk Legion Duelist"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Archpriest of Shadows"/>
+        <card number="1" name="The Raven Man"/>
     </zone>
     <zone name="side">
         <card number="2" name="Change of Plans"/>
@@ -107,7 +107,7 @@
         <card number="2" name="Selfless Spirit"/>
         <card number="1" name="Notorious Throng"/>
         <card number="1" name="Living Death"/>
-        <card number="1" name="Windfall"/>
+        <card number="2" name="Windfall"/>
         <card number="1" name="Lethal Scheme"/>
         <card number="1" name="Island"/>
         <card number="1" name="Swamp"/>
@@ -169,7 +169,7 @@
         <card number="2" name="Notion Thief"/>
         <card number="1" name="Alhammarret's Archive"/>
         <card number="2" name="Austere Command"/>
-        <card number="1" name="Obscura Confluence"/>
+        <card number="2" name="Obscura Confluence"/>
         <card number="1" name="Ayara's Oathsworn"/>
         <card number="1" name="Path to Exile"/>
         <card number="2" name="Serra Paragon"/>
@@ -197,7 +197,7 @@
         <card number="1" name="Shadowmage Infiltrator"/>
         <card number="1" name="Daxos of Meletis"/>
         <card number="1" name="Call the Coppercoats"/>
-        <card number="1" name="Kamiz, Obscura Oculus"/>
+        <card number="2" name="Kamiz, Obscura Oculus"/>
         <card number="1" name="Utter End"/>
         <card number="1" name="Wizards of Thay"/>
         <card number="1" name="Rabble Rousing"/>
@@ -222,5 +222,10 @@
         <card number="1" name="Invasion of Segovia"/>
         <card number="1" name="Chasm Skulker"/>
         <card number="1" name="Obscura Interceptor"/>
+        <card number="1" name="Boromir, Warden of the Tower"/>
+        <card number="1" name="Glorious Protector"/>
+        <card number="1" name="Razaketh, the Foulblooded"/>
+        <card number="1" name="Skyway Robber"/>
+        <card number="1" name="Thief of Sanity"/>
     </zone>
 </cockatrice_deck>

@@ -11,7 +11,6 @@
         <card number="1" name="Incubation Druid"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
         <card number="1" name="Fathom Mage"/>
-        <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Luminarch Aspirant"/>
         <card number="1" name="Fertilid"/>
         <card number="1" name="Sanctuary Warden"/>
@@ -19,47 +18,28 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Sungrass Prairie"/>
-        <card number="1" name="Overgrown Farmland"/>
-        <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Seaside Citadel"/>
-        <card number="1" name="Brushland"/>
         <card number="1" name="Canopy Vista"/>
-        <card number="1" name="Temple Garden"/>
         <card number="1" name="Skycloud Expanse"/>
-        <card number="1" name="Adarkar Wastes"/>
-        <card number="1" name="Sea of Clouds"/>
-        <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Yavimaya Coast"/>
-        <card number="1" name="Dreamroot Cascade"/>
-        <card number="1" name="Flooded Grove"/>
-        <card number="1" name="Rejuvenating Springs"/>
-        <card number="1" name="Breeding Pool"/>
         <card number="4" name="Island"/>
         <card number="4" name="Forest"/>
         <card number="4" name="Plains"/>
         <card number="1" name="Wall of Roots"/>
         <card number="1" name="Thrummingbird"/>
-        <card number="1" name="Arcus Acolyte"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Deserted Beach"/>
-        <card number="1" name="Spara's Headquarters"/>
         <card number="1" name="Aven Courier"/>
         <card number="1" name="Park Heights Maverick"/>
         <card number="1" name="Brokers Confluence"/>
         <card number="1" name="Gyre Sage"/>
         <card number="1" name="Leinore, Autumn Sovereign"/>
-        <card number="1" name="Arcane Signet"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Grateful Apparition"/>
-        <card number="1" name="Norn's Choirmaster"/>
-        <card number="1" name="Ezuri, Stalker of Spheres"/>
-        <card number="1" name="Roalesk, Apex Hybrid"/>
-        <card number="1" name="Merfolk Skydiver"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Beast Within"/>
@@ -68,32 +48,52 @@
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Vorel of the Hull Clade"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Austere Command"/>
-        <card number="1" name="Cleansing Nova"/>
-        <card number="1" name="Expand the Sphere"/>
         <card number="1" name="Boon of Safety"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Cankerbloom"/>
         <card number="1" name="Reject Imperfection"/>
         <card number="1" name="Serum Snare"/>
-        <card number="1" name="Titan of Industry"/>
         <card number="1" name="Family's Favor"/>
         <card number="1" name="Contractual Safeguard"/>
-        <card number="1" name="Shield Broker"/>
-        <card number="1" name="Disciplined Duelist"/>
         <card number="1" name="Skyship Plunderer"/>
-        <card number="1" name="Bribe Taker"/>
-        <card number="1" name="Brainstorm"/>
-        <card number="1" name="Ponder"/>
-        <card number="1" name="Preordain"/>
-        <card number="1" name="Serum Visions"/>
         <card number="1" name="Felidar Retreat"/>
-        <card number="1" name="Conclave Sledge-Captain"/>
-        <card number="1" name="Doomskar Warrior"/>
-        <card number="1" name="Loyal Guardian"/>
-        <card number="1" name="Cathars' Crusade"/>
         <card number="1" name="Primeval Protector"/>
+        <card number="1" name="Tezzeret's Gambit"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Hour of Revelation"/>
+        <card number="1" name="Armored Scrapgorger"/>
+        <card number="1" name="Noble Heritage"/>
+        <card number="1" name="Explorer's Scope"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Vineglimmer Snarl"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Tangled Islet"/>
+        <card number="1" name="Slippery Bogbonder"/>
+        <card number="1" name="Guardian Augmenter"/>
+        <card number="1" name="Nils, Discipline Enforcer"/>
+        <card number="1" name="Orzhov Advokist"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Parcelbeast"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Topiary Stomper"/>
+        <card number="1" name="Fight Rigging"/>
+        <card number="1" name="Ruinous Intrusion"/>
+        <card number="1" name="Hadana's Climb"/>
+        <card number="1" name="Thundering Mightmare"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Ozolith, the Shattered Spire"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lambholt Harrier"/>
@@ -110,7 +110,7 @@
         <card number="1" name="Simic Growth Chamber"/>
         <card number="1" name="Plains"/>
         <card number="1" name="Island"/>
-        <card number="1" name="Brainstorm"/>
+        <card number="2" name="Brainstorm"/>
         <card number="2" name="Knight of Autumn"/>
         <card number="1" name="Evolution Sage"/>
         <card number="1" name="Tezzeret's Gambit"/>
@@ -118,7 +118,7 @@
         <card number="1" name="Family's Favor"/>
         <card number="1" name="Damning Verdict"/>
         <card number="1" name="Leyline of Anticipation"/>
-        <card number="1" name="Ponder"/>
+        <card number="2" name="Ponder"/>
         <card number="2" name="Good-Fortune Unicorn"/>
         <card number="1" name="Renata, Called to the Hunt"/>
         <card number="2" name="Conclave Mentor"/>
@@ -137,7 +137,7 @@
         <card number="1" name="Thriving Isle"/>
         <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Shared Summons"/>
-        <card number="1" name="Cleansing Nova"/>
+        <card number="2" name="Cleansing Nova"/>
         <card number="1" name="Summoner's Pact"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
         <card number="2" name="Basri's Lieutenant"/>
@@ -167,9 +167,9 @@
         <card number="1" name="Negate"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Loyal Guardian"/>
+        <card number="2" name="Loyal Guardian"/>
         <card number="1" name="Change of Plans"/>
-        <card number="1" name="Austere Command"/>
+        <card number="2" name="Austere Command"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Rampant Growth"/>
@@ -178,9 +178,9 @@
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Command Beacon"/>
-        <card number="1" name="Arcane Signet"/>
+        <card number="2" name="Arcane Signet"/>
         <card number="1" name="Skyboon Evangelist"/>
-        <card number="1" name="Cathars' Crusade"/>
+        <card number="2" name="Cathars' Crusade"/>
         <card number="1" name="Ozolith, the Shattered Spire"/>
         <card number="1" name="Simic Ascendancy"/>
         <card number="1" name="Akroma's Will"/>
@@ -196,7 +196,7 @@
         <card number="1" name="Sunscorch Regent"/>
         <card number="1" name="Tainted Observer"/>
         <card number="1" name="Bred for the Hunt"/>
-        <card number="1" name="Together Forever"/>
+        <card number="2" name="Together Forever"/>
         <card number="1" name="Aven Courier"/>
         <card number="1" name="Benevolent Hydra"/>
         <card number="1" name="Abzan Falconer"/>
@@ -216,5 +216,45 @@
         <card number="1" name="Boon-Bringer Valkyrie"/>
         <card number="1" name="Doomskar"/>
         <card number="1" name="Invasion of Moag"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Disciplined Duelist"/>
+        <card number="1" name="Cankerbloom"/>
+        <card number="1" name="Carnivorous Canopy"/>
+        <card number="1" name="Norn's Choirmaster"/>
+        <card number="1" name="Bribe Taker"/>
+        <card number="1" name="Doomskar Warrior"/>
+        <card number="1" name="Arcus Acolyte"/>
+        <card number="1" name="Conclave Sledge-Captain"/>
+        <card number="1" name="Contentious Plan"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Deserted Beach"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Spara's Headquarters"/>
+        <card number="1" name="Great Hall of the Citadel"/>
+        <card number="1" name="Path of Discovery"/>
+        <card number="2" name="Champion of Lambholt"/>
+        <card number="1" name="Verge Rangers"/>
+        <card number="2" name="Titan of Industry"/>
+        <card number="1" name="Shield Broker"/>
+        <card number="1" name="Roalesk, Apex Hybrid"/>
+        <card number="1" name="Merfolk Skydiver"/>
+        <card number="1" name="Experimental Augury"/>
+        <card number="1" name="Incubation // Incongruity"/>
+        <card number="1" name="Expand the Sphere"/>
+        <card number="1" name="Yavimaya Dryad"/>
+        <card number="1" name="Akroma's Vengeance"/>
+        <card number="1" name="Enter the Unknown"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Ezuri, Stalker of Spheres"/>
     </zone>
 </cockatrice_deck>

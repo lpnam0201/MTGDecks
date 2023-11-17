@@ -16,7 +16,6 @@
         <card number="1" name="Together Forever"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Healer's Hawk"/>
         <card number="1" name="Inkshield"/>
         <card number="1" name="Soul Snare"/>
         <card number="1" name="Mortify"/>
@@ -32,7 +31,6 @@
         <card number="1" name="Orzhov Basilica"/>
         <card number="1" name="Hopeful Initiate"/>
         <card number="1" name="Lurrus of the Dream-Den"/>
-        <card number="1" name="Vampire of the Dire Moon"/>
         <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Vault of Champions"/>
@@ -67,7 +65,6 @@
         <card number="1" name="Guardian of Faith"/>
         <card number="1" name="Guardian Scalelord"/>
         <card number="1" name="Excise the Imperfect"/>
-        <card number="1" name="Invasion of Gobakhan"/>
         <card number="1" name="Deep Gnome Terramancer"/>
         <card number="1" name="Anguished Unmaking"/>
         <card number="1" name="Smothering Tithe"/>
@@ -86,7 +83,10 @@
         <card number="1" name="Weathered Wayfarer"/>
         <card number="1" name="Scholar of New Horizons"/>
         <card number="1" name="Knight of the White Orchid"/>
-        <card number="1" name="Silverblade Paladin"/>
+        <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Containment Priest"/>
+        <card number="1" name="Felisa, Fang of Silverquill"/>
+        <card number="1" name="Aerial Extortionist"/>
     </zone>
     <zone name="side">
         <card number="1" name="Vampire Cutthroat"/>
@@ -172,7 +172,7 @@
         <card number="1" name="Return to Dust"/>
         <card number="1" name="Dreamstealer"/>
         <card number="1" name="Cliffside Rescuer"/>
-        <card number="1" name="Silverblade Paladin"/>
+        <card number="2" name="Silverblade Paladin"/>
         <card number="1" name="Adanto Vanguard"/>
         <card number="3" name="Rule of Law"/>
         <card number="1" name="Loyal Sentry"/>
@@ -233,5 +233,8 @@
         <card number="1" name="Ayara's Oathsworn"/>
         <card number="1" name="Children of Korlis"/>
         <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Vampire of the Dire Moon"/>
+        <card number="1" name="Healer's Hawk"/>
+        <card number="1" name="Invasion of Gobakhan"/>
     </zone>
 </cockatrice_deck>

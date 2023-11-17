@@ -3,111 +3,116 @@
     <deckname>Sidisi</deckname>
     <comments></comments>
     <zone name="main">
+        <card number="1" name="Taigam, Sidisi's Hand"/>
         <card number="1" name="Sidisi, Brood Tyrant"/>
-        <card number="1" name="Thassa, Deep-Dwelling"/>
-        <card number="1" name="Path of Discovery"/>
+        <card number="1" name="Sultai Ascendancy"/>
         <card number="1" name="Titans' Nest"/>
-        <card number="1" name="Araumi of the Dead Tide"/>
-        <card number="1" name="Sylvan Library"/>
-        <card number="1" name="Mesmeric Orb"/>
-        <card number="1" name="Rise of the Dark Realms"/>
-        <card number="1" name="Old Rutstein"/>
-        <card number="1" name="Splinterfright"/>
-        <card number="1" name="Nyx Weaver"/>
-        <card number="1" name="Shadow Kin"/>
-        <card number="1" name="Dreamborn Muse"/>
-        <card number="1" name="Vilespawn Spider"/>
-        <card number="1" name="Underrealm Lich"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Skull Prophet"/>
-        <card number="1" name="Syr Konrad, the Grim"/>
-        <card number="1" name="Deranged Assistant"/>
-        <card number="1" name="Millikin"/>
-        <card number="1" name="Kagha, Shadow Archdruid"/>
-        <card number="1" name="Kamahl, Heart of Krosa"/>
-        <card number="1" name="Craterhoof Behemoth"/>
         <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Stitcher's Supplier"/>
-        <card number="1" name="Zellix, Sanity Flayer"/>
+        <card number="1" name="Path of Discovery"/>
+        <card number="1" name="Cemetery Tampering"/>
+        <card number="1" name="Nephalia Drownyard"/>
+        <card number="1" name="Gorex, the Tombshell"/>
+        <card number="1" name="Deathbloom Ritualist"/>
+        <card number="1" name="Corpse Augur"/>
+        <card number="1" name="Skull Prophet"/>
+        <card number="1" name="Kagha, Shadow Archdruid"/>
+        <card number="1" name="Mystic Snake"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Frilled Mystic"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Satyr Wayfinder"/>
         <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Cankerbloom"/>
-        <card number="1" name="Sivriss, Nightmare Speaker"/>
-        <card number="1" name="Deathbloom Ritualist"/>
-        <card number="1" name="Dawntreader Elk"/>
-        <card number="1" name="Shigeki, Jukai Visionary"/>
+        <card number="1" name="Vilespawn Spider"/>
+        <card number="1" name="Millikin"/>
+        <card number="1" name="Wilhelt, the Rotcleaver"/>
+        <card number="1" name="Old Rutstein"/>
+        <card number="1" name="Mirkwood Bats"/>
+        <card number="1" name="Ravenous Chupacabra"/>
         <card number="1" name="Skyfisher Spider"/>
-        <card number="1" name="Taigam, Sidisi's Hand"/>
-        <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Llanowar Elves"/>
-        <card number="1" name="Fyndhorn Elves"/>
-        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Overcharged Amalgam"/>
         <card number="1" name="Wood Elves"/>
+        <card number="1" name="Hogaak, Arisen Necropolis"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Egon, God of Death"/>
+        <card number="1" name="Embalmer's Tools"/>
         <card number="1" name="Farhaven Elf"/>
-        <card number="1" name="Springbloom Druid"/>
-        <card number="1" name="Assassin's Trophy"/>
-        <card number="1" name="Beast Within"/>
-        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Topiary Stomper"/>
+        <card number="1" name="Yavimaya Dryad"/>
+        <card number="1" name="Saw It Coming"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Tear Asunder"/>
         <card number="1" name="Putrefy"/>
-        <card number="1" name="Negate"/>
-        <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Change of Plans"/>
-        <card number="1" name="Golgari Charm"/>
-        <card number="1" name="Druid of Purification"/>
-        <card number="1" name="Living Death"/>
-        <card number="1" name="Conduit of Worlds"/>
-        <card number="1" name="Paradise Druid"/>
-        <card number="1" name="Ilysian Caryatid"/>
-        <card number="1" name="Armored Scrapgorger"/>
-        <card number="1" name="Reclusive Taxidermist"/>
+        <card number="1" name="Tear Asunder"/>
+        <card number="1" name="Amphin Mutineer"/>
+        <card number="1" name="Shadow Kin"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="World Shaper"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Mortality Spear"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Command Tower"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Shizo, Death's Storehouse"/>
-        <card number="1" name="Access Tunnel"/>
-        <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Timeless Witness"/>
-        <card number="4" name="Forest"/>
-        <card number="4" name="Island"/>
-        <card number="3" name="Swamp"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Deceit"/>
         <card number="1" name="Yavimaya Coast"/>
-        <card number="1" name="Underground River"/>
-        <card number="1" name="Llanowar Wastes"/>
-        <card number="1" name="Breeding Pool"/>
-        <card number="1" name="Overgrown Tomb"/>
-        <card number="1" name="Watery Grave"/>
-        <card number="1" name="Deathcap Glade"/>
-        <card number="1" name="Shipwreck Marsh"/>
-        <card number="1" name="Dreamroot Cascade"/>
-        <card number="1" name="Rejuvenating Springs"/>
-        <card number="1" name="Morphic Pool"/>
-        <card number="1" name="Undergrowth Stadium"/>
-        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Tangled Islet"/>
         <card number="1" name="Sunken Hollow"/>
         <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Swamp"/>
+        <card number="4" name="Island"/>
+        <card number="1" name="Haunted Mire"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Vineglimmer Snarl"/>
+        <card number="1" name="Necroblossom Snarl"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Twilight Mire"/>
         <card number="1" name="Flooded Grove"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Vorinclex"/>
-        <card number="1" name="Egon, God of Death"/>
-        <card number="1" name="Blight Titan"/>
-        <card number="1" name="Mindwrack Harpy"/>
+        <card number="1" name="Araumi of the Dead Tide"/>
+        <card number="1" name="Mind Flayer"/>
+        <card number="1" name="Hostage Taker"/>
+        <card number="1" name="Junk Winder"/>
+        <card number="1" name="Ertai Resurrected"/>
+        <card number="1" name="Reclusive Taxidermist"/>
+        <card number="1" name="Leafkin Druid"/>
+        <card number="1" name="Brokkos, Apex of Forever"/>
+        <card number="1" name="Muldrotha, the Gravetide"/>
+        <card number="1" name="Erinis, Gloom Stalker"/>
+        <card number="1" name="Agent of the Shadow Thieves"/>
+        <card number="1" name="Polukranos, Unchained"/>
+        <card number="1" name="The Scarab God"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Obsessive Stitcher"/>
+        <card number="1" name="Doomed Necromancer"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Augur of Autumn"/>
-        <card number="1" name="Scion of Halaster"/>
-        <card number="1" name="Paradise Druid"/>
-        <card number="1" name="Oracle of Mul Daya"/>
-        <card number="1" name="Wonder"/>
+        <card number="1" name="Whisper, Blood Liturgist"/>
+        <card number="1" name="Sivriss, Nightmare Speaker"/>
+        <card number="1" name="Songs of the Damned"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Izoni, Thousand-Eyed"/>
+        <card number="1" name="Mortivore"/>
+        <card number="1" name="Urborg Lhurgoyf"/>
+        <card number="1" name="Splinterfright"/>
+        <card number="1" name="Old Stickfingers"/>
+        <card number="1" name="Nighthowler"/>
+        <card number="1" name="Master of Death"/>
+        <card number="1" name="Undead Augur"/>
+        <card number="1" name="Cruel Somnophage // Can't Wake Up"/>
+        <card number="1" name="Ghoulcaller's Harvest"/>
+        <card number="1" name="Crawl from the Cellar"/>
         <card number="1" name="Uurg, Spawn of Turg"/>
-        <card number="1" name="Command Beacon"/>
-        <card number="1" name="Swamp"/>
-        <card number="1" name="Diregraf Captain"/>
-        <card number="1" name="Death Baron"/>
-        <card number="1" name="Ramunap Excavator"/>
-        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Wonder"/>
+        <card number="1" name="Dryad's Revival"/>
     </zone>
 </cockatrice_deck>

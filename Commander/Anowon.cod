@@ -51,8 +51,6 @@
         <card number="1" name="Grim Hireling"/>
         <card number="1" name="Profane Tutor"/>
         <card number="1" name="Sygg, River Cutthroat"/>
-        <card number="1" name="Prying Blade"/>
-        <card number="1" name="Goldvein Pick"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Network Disruptor"/>
         <card number="1" name="Faerie Miscreant"/>
@@ -88,6 +86,8 @@
         <card number="1" name="Enigma Thief"/>
         <card number="1" name="Zareth San, the Trickster"/>
         <card number="1" name="Realmbreaker, the Invasion Tree"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Military Intelligence"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -159,7 +159,7 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Feed the Swarm"/>
-        <card number="1" name="Prying Blade"/>
+        <card number="2" name="Prying Blade"/>
         <card number="4" name="Whispering Madness"/>
         <card number="1" name="Drag to the Underworld"/>
         <card number="1" name="Exotic Orchard"/>
@@ -268,5 +268,6 @@
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Ringsight"/>
         <card number="1" name="Blighted Agent"/>
+        <card number="1" name="Goldvein Pick"/>
     </zone>
 </cockatrice_deck>

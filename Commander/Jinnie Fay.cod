@@ -5,11 +5,7 @@
     <zone name="main">
         <card number="1" name="Call the Coppercoats"/>
         <card number="1" name="Jinnie Fay, Jetmir's Second"/>
-        <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Tocasia's Welcome"/>
-        <card number="1" name="King Darien XLVIII"/>
         <card number="1" name="Rabble Rousing"/>
-        <card number="1" name="Tireless Provisioner"/>
         <card number="1" name="Gala Greeters"/>
         <card number="1" name="Black Market Tycoon"/>
         <card number="1" name="Thraben Doomsayer"/>
@@ -19,80 +15,84 @@
         <card number="1" name="Idol of Oblivion"/>
         <card number="1" name="Rumor Gatherer"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Path to Exile"/>
         <card number="1" name="Jaheira, Friend of the Forest"/>
-        <card number="1" name="Scute Swarm"/>
         <card number="1" name="Champion of Lambholt"/>
-        <card number="1" name="Krenko, Tin Street Kingpin"/>
-        <card number="1" name="Avacyn's Pilgrim"/>
-        <card number="1" name="Llanowar Elves"/>
-        <card number="1" name="Fyndhorn Elves"/>
-        <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Boros Charm"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
-        <card number="1" name="Three Visits"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Prosperous Partnership"/>
         <card number="1" name="Awakening Zone"/>
-        <card number="1" name="Eternal Witness"/>
         <card number="1" name="Gluntch, the Bestower"/>
         <card number="1" name="Loyal Apprentice"/>
-        <card number="1" name="Shiny Impetus"/>
         <card number="1" name="Legion Warboss"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Fabled Passage"/>
         <card number="1" name="Canopy Vista"/>
-        <card number="1" name="Temple Garden"/>
         <card number="1" name="Sungrass Prairie"/>
-        <card number="1" name="Bountiful Promenade"/>
-        <card number="1" name="Brushland"/>
         <card number="1" name="Jungle Shrine"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Cinder Glade"/>
-        <card number="1" name="Rockfall Vale"/>
-        <card number="1" name="Stomping Ground"/>
         <card number="1" name="Mossfire Valley"/>
-        <card number="1" name="Karplusan Forest"/>
-        <card number="1" name="Spire Garden"/>
-        <card number="1" name="Rugged Prairie"/>
-        <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Spectator Seating"/>
-        <card number="1" name="Battlefield Forge"/>
-        <card number="4" name="Forest"/>
+        <card number="5" name="Forest"/>
         <card number="4" name="Mountain"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="3" name="Plains"/>
-        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="4" name="Plains"/>
         <card number="1" name="Skyknight Vanguard"/>
         <card number="1" name="Goblin Assault"/>
         <card number="1" name="Increasing Devotion"/>
         <card number="1" name="Elemental Bond"/>
         <card number="1" name="Glare of Subdual"/>
-        <card number="1" name="Nature's Claim"/>
-        <card number="1" name="Akroma's Will"/>
         <card number="1" name="Rite of Harmony"/>
-        <card number="1" name="Professional Face-Breaker"/>
         <card number="1" name="Kher Keep"/>
-        <card number="1" name="Squirrel Nest"/>
-        <card number="1" name="Presence of Gond"/>
         <card number="1" name="Leonin Warleader"/>
         <card number="1" name="Phabine, Boss's Confidant"/>
         <card number="1" name="Jetmir, Nexus of Revels"/>
-        <card number="1" name="Neyali, Suns' Vanguard"/>
+        <card number="1" name="Aura Mutation"/>
+        <card number="1" name="Artifact Mutation"/>
+        <card number="1" name="Wildfire Awakener"/>
+        <card number="1" name="March of the Multitudes"/>
+        <card number="1" name="Kitt Kanto, Mayhem Diva"/>
+        <card number="1" name="Rose Room Treasurer"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Shared Animosity"/>
+        <card number="1" name="Arasta of the Endless Web"/>
+        <card number="1" name="Cabaretti Charm"/>
+        <card number="1" name="Indulge // Excess"/>
+        <card number="1" name="Pest Infestation"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Furycalm Snarl"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Naya Charm"/>
+        <card number="1" name="Gilded Goose"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Ghalta and Mavren"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Goblin Rabblemaster"/>
+        <card number="1" name="Academy Manufactor"/>
+        <card number="1" name="Sacred Peaks"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Adriana, Captain of the Guard"/>
+        <card number="1" name="Blade Historian"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Grand Crescendo"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Master of Ceremonies"/>
+        <card number="1" name="Sizzling Soloist"/>
     </zone>
     <zone name="side">
         <card number="1" name="Swords to Plowshares"/>
@@ -116,7 +116,7 @@
         <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Mandate of Peace"/>
-        <card number="1" name="Witty Roastmaster"/>
+        <card number="2" name="Witty Roastmaster"/>
         <card number="1" name="Winds of Abandon"/>
         <card number="1" name="Shared Animosity"/>
         <card number="1" name="Plains"/>
@@ -128,5 +128,59 @@
         <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Presence of Gond"/>
+        <card number="1" name="Squirrel Nest"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Jetmir, Nexus of Revels"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="King Darien XLVIII"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Shiny Impetus"/>
+        <card number="1" name="Bala Ged Recovery"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Kher Keep"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Farmer Cotton"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Roar of Resistance"/>
+        <card number="1" name="Queen Allenal of Ruadach"/>
+        <card number="1" name="Peregrin Took"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Ancient Imperiosaur"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Castle Embereth"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Jolene, the Plunder Queen"/>
+        <card number="1" name="Xenagos, the Reveler"/>
+        <card number="1" name="Cabaretti Confluence"/>
+        <card number="1" name="Rocco, Street Chef"/>
+        <card number="1" name="Neyali, Suns' Vanguard"/>
     </zone>
 </cockatrice_deck>

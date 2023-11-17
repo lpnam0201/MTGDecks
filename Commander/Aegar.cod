@@ -4,114 +4,27 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Aegar, the Freezing Flame"/>
-        <card number="1" name="Frostboil Snarl"/>
-        <card number="1" name="Prismari Campus"/>
-        <card number="1" name="Storm-Kiln Artist"/>
-        <card number="1" name="Archmage Emeritus"/>
-        <card number="1" name="Squash"/>
-        <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Chain Reaction"/>
-        <card number="1" name="Mizzium Mortars"/>
-        <card number="1" name="Talisman of Creativity"/>
-        <card number="1" name="Torbran, Thane of Red Fell"/>
-        <card number="1" name="Abrade"/>
-        <card number="1" name="Shredded Sails"/>
-        <card number="1" name="Negate"/>
-        <card number="1" name="Lightning Strike"/>
-        <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Comet Storm"/>
-        <card number="1" name="Jaya's Immolating Inferno"/>
-        <card number="1" name="Crackle with Power"/>
-        <card number="1" name="Demon Bolt"/>
-        <card number="1" name="Expansion // Explosion"/>
-        <card number="1" name="Beacon Bolt"/>
-        <card number="1" name="Polymorphist's Jest"/>
-        <card number="1" name="Mass Diminish"/>
-        <card number="1" name="Starstorm"/>
-        <card number="1" name="Mana Geyser"/>
-        <card number="1" name="Flame Slash"/>
-        <card number="1" name="Double Vision"/>
-        <card number="1" name="Swarm Intelligence"/>
-        <card number="1" name="Lightning Bolt"/>
-        <card number="1" name="The Mirari Conjecture"/>
-        <card number="1" name="Mizzix's Mastery"/>
-        <card number="1" name="Treasure Cruise"/>
-        <card number="1" name="Sudden Demise"/>
-        <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Thought Vessel"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Izzet Signet"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Mind Stone"/>
-        <card number="1" name="Prismatic Lens"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Temple of Epiphany"/>
-        <card number="1" name="Sulfur Falls"/>
-        <card number="1" name="Shivan Reef"/>
-        <card number="1" name="Volatile Fjord"/>
-        <card number="1" name="Izzet Guildgate"/>
-        <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Swiftwater Cliffs"/>
-        <card number="1" name="Highland Lake"/>
-        <card number="10" name="Island"/>
-        <card number="10" name="Mountain"/>
-        <card number="1" name="Arcane Lighthouse"/>
-        <card number="1" name="Backdraft Hellkite"/>
-        <card number="1" name="Magmaquake"/>
-        <card number="1" name="Dispel"/>
-        <card number="1" name="Shock"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Windfall"/>
-        <card number="1" name="Thousand-Year Storm"/>
-        <card number="1" name="Wizard's Lightning"/>
-        <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Soul Sear"/>
-        <card number="1" name="Lightning Axe"/>
-        <card number="1" name="Volcanic Fallout"/>
-        <card number="1" name="Surtland Frostpyre"/>
-        <card number="1" name="Cinderclasm"/>
-        <card number="1" name="Flame Sweep"/>
-        <card number="1" name="Fiery Cannonade"/>
-        <card number="1" name="All Is Dust"/>
-        <card number="1" name="Izzet Charm"/>
-        <card number="1" name="Reckless Rage"/>
-        <card number="1" name="Brass's Bounty"/>
-        <card number="1" name="Star Compass"/>
-        <card number="1" name="Wandering Fumarole"/>
-        <card number="1" name="Sizzling Barrage"/>
-        <card number="1" name="Prophetic Bolt"/>
-        <card number="1" name="Heated Debate"/>
-        <card number="1" name="Warkite Marauder"/>
-        <card number="1" name="Body of Knowledge"/>
-        <card number="1" name="Counterspell"/>
-    </zone>
-    <zone name="side">
-        <card number="1" name="Cyclone Summoner"/>
-        <card number="1" name="Frost Titan"/>
-        <card number="1" name="Inferno Titan"/>
-        <card number="1" name="Surtland Flinger"/>
-        <card number="1" name="Tectonic Giant"/>
-        <card number="1" name="Calamity Bearer"/>
         <card number="1" name="Invasion of the Giants"/>
         <card number="1" name="Battle of Frost and Fire"/>
-        <card number="1" name="Magmaquake"/>
-        <card number="1" name="Flame Sweep"/>
-        <card number="1" name="Commander's Plate"/>
-        <card number="1" name="Ral's Outburst"/>
-        <card number="1" name="Miscast"/>
-        <card number="1" name="Teferi's Ageless Insight"/>
-        <card number="1" name="Izzet Boilerworks"/>
-        <card number="1" name="Storm's Wrath"/>
-        <card number="1" name="Glimpse the Cosmos"/>
-        <card number="1" name="Electrickery"/>
-        <card number="1" name="Fiery Confluence"/>
-        <card number="1" name="Mana Leak"/>
-        <card number="1" name="Kitesail Corsair"/>
-        <card number="1" name="Rootha, Mercurial Artist"/>
-        <card number="1" name="Brimstone Volley"/>
-        <card number="1" name="Fiery Impulse"/>
-        <card number="1" name="Burning Anger"/>
-        <card number="1" name="Counterspell"/>
+        <card number="1" name="Tectonic Giant"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Bonecrusher Giant // Stomp"/>
+        <card number="1" name="Inferno Titan"/>
+        <card number="1" name="Thryx, the Sudden Storm"/>
+        <card number="1" name="Frost Titan"/>
+        <card number="1" name="Sage of the Beyond"/>
+        <card number="1" name="Firbolg Flutist"/>
+        <card number="1" name="Cyclone Summoner"/>
+        <card number="1" name="Quakebringer"/>
+        <card number="1" name="Calamity Bearer"/>
+        <card number="1" name="Surtland Flinger"/>
+        <card number="1" name="Thundercloud Shaman"/>
+        <card number="1" name="Surtland Elementalist"/>
+        <card number="1" name="Galvanic Giant // Storm Reading"/>
     </zone>
 </cockatrice_deck>

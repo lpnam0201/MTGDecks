@@ -15,8 +15,6 @@
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Winged Words"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Izzet Signet"/>
@@ -44,7 +42,6 @@
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Sorcerer Class"/>
         <card number="1" name="Expressive Iteration"/>
-        <card number="1" name="Archmage Emeritus"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Ponder"/>
         <card number="1" name="Renegade Tactics"/>
@@ -70,9 +67,7 @@
         <card number="1" name="Training Center"/>
         <card number="1" name="Cascade Bluffs"/>
         <card number="1" name="Rugged Prairie"/>
-        <card number="1" name="Lorehold Apprentice"/>
         <card number="1" name="Ancestral Anger"/>
-        <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Steam Vents"/>
         <card number="1" name="Sacred Foundry"/>
@@ -81,14 +76,18 @@
         <card number="1" name="Flooded Strand"/>
         <card number="1" name="Surge to Victory"/>
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Arcane Denial"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Talisman of Progress"/>
         <card number="1" name="Impact Tremors"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Shorikai, Genesis Engine"/>
         <card number="1" name="Candlekeep Inspiration"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Elsha of the Infinite"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Meeting of Minds"/>
+        <card number="1" name="Complete the Circuit"/>
+        <card number="1" name="Saw It Coming"/>
     </zone>
     <zone name="side">
         <card number="2" name="Silundi Vision"/>
@@ -185,7 +184,7 @@
         <card number="1" name="Horizon Stone"/>
         <card number="1" name="Rootborn Defenses"/>
         <card number="1" name="Lightning Strike"/>
-        <card number="1" name="Lorehold Apprentice"/>
+        <card number="2" name="Lorehold Apprentice"/>
         <card number="2" name="Soulfire Eruption"/>
         <card number="1" name="Izzet Boilerworks"/>
         <card number="1" name="Azorius Chancery"/>
@@ -211,15 +210,19 @@
         <card number="1" name="Wear // Tear"/>
         <card number="1" name="Dispel"/>
         <card number="1" name="Tibalt's Trickery"/>
-        <card number="1" name="Arcane Denial"/>
+        <card number="2" name="Arcane Denial"/>
         <card number="1" name="Arcane Bombardment"/>
         <card number="1" name="Sticky Fingers"/>
         <card number="1" name="Dragon Mantle"/>
-        <card number="1" name="Archmage Emeritus"/>
+        <card number="2" name="Archmage Emeritus"/>
         <card number="1" name="Disrupt Decorum"/>
         <card number="1" name="Fellwar Stone"/>
         <card number="1" name="Empty the Warrens"/>
         <card number="1" name="Spreading Insurrection"/>
         <card number="1" name="Vandalblast"/>
+        <card number="1" name="Shorikai, Genesis Engine"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Wild Magic Surge"/>
     </zone>
 </cockatrice_deck>

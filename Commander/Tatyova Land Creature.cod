@@ -73,7 +73,6 @@
         <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Court of Bounty"/>
         <card number="1" name="Verdant Mastery"/>
-        <card number="1" name="Pest Infestation"/>
         <card number="1" name="Explosive Vegetation"/>
         <card number="1" name="The Reality Chip"/>
         <card number="1" name="Familiar's Ruse"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Darksteel Citadel"/>
         <card number="1" name="Wayward Swordtooth"/>
         <card number="1" name="Ulvenwald Hydra"/>
+        <card number="1" name="Broken Wings"/>
     </zone>
     <zone name="side">
         <card number="1" name="Hurkyl's Final Meditation"/>
@@ -151,5 +151,6 @@
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Filter Out"/>
         <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Pest Infestation"/>
     </zone>
 </cockatrice_deck>

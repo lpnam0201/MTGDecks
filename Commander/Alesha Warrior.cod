@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Alesha Warrior</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Alesha, Who Smiles at Death"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Laelia, the Blade Reforged"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Death-Greeter's Champion"/>
+        <card number="1" name="Merciless Executioner"/>
+        <card number="1" name="Jazal Goldmane"/>
+        <card number="1" name="Winota, Joiner of Forces"/>
+        <card number="1" name="Frontier Warmonger"/>
+        <card number="1" name="Mindblade Render"/>
+        <card number="1" name="Azra Oddsmaker"/>
+        <card number="1" name="Brutal Hordechief"/>
+        <card number="1" name="Vexilus Praetor"/>
+        <card number="1" name="Swashbuckler Extraordinaire"/>
+        <card number="1" name="Rose Room Treasurer"/>
+        <card number="1" name="Burakos, Party Leader"/>
+        <card number="1" name="Ultramarines Honour Guard"/>
+        <card number="1" name="Mardu Strike Leader"/>
+        <card number="1" name="Shakedown Heavy"/>
+        <card number="1" name="Harper Recruiter"/>
+    </zone>
+</cockatrice_deck>

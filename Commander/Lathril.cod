@@ -47,7 +47,6 @@
         <card number="1" name="Joraga Warcaller"/>
         <card number="1" name="Poison-Tip Archer"/>
         <card number="1" name="Miara, Thorn of the Glade"/>
-        <card number="1" name="Incubation Druid"/>
         <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Deathcap Glade"/>
         <card number="1" name="Paradise Druid"/>
@@ -61,9 +60,7 @@
         <card number="1" name="Elderfang Venom"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Farhaven Elf"/>
-        <card number="1" name="Rishkar, Peema Renegade"/>
         <card number="1" name="Gwenna, Eyes of Gaea"/>
-        <card number="1" name="Devoted Druid"/>
         <card number="1" name="Llanowar Visionary"/>
         <card number="1" name="Serpent's Soul-Jar"/>
         <card number="1" name="Elves of Deep Shadow"/>
@@ -83,8 +80,11 @@
         <card number="1" name="Pact of the Serpent"/>
         <card number="1" name="Cultist of the Absolute"/>
         <card number="1" name="Elven Ambush"/>
-        <card number="1" name="Lifecrafter's Bestiary"/>
         <card number="1" name="End-Raze Forerunners"/>
+        <card number="1" name="Glissa Sunslayer"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Ambition's Cost"/>
     </zone>
     <zone name="side">
         <card number="2" name="Bojuka Bog"/>
@@ -139,7 +139,7 @@
         <card number="3" name="Jaheira, Friend of the Forest"/>
         <card number="1" name="Forest"/>
         <card number="2" name="Swamp"/>
-        <card number="1" name="Harald Unites the Elves"/>
+        <card number="2" name="Harald Unites the Elves"/>
         <card number="1" name="Shaman of the Pack"/>
         <card number="1" name="Kindred Summons"/>
         <card number="3" name="Halsin, Emerald Archdruid"/>
@@ -160,11 +160,11 @@
         <card number="1" name="Read the Bones"/>
         <card number="1" name="Cultist of the Absolute"/>
         <card number="1" name="Gnarlroot Trapper"/>
-        <card number="2" name="Devoted Druid"/>
+        <card number="3" name="Devoted Druid"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Oakhame Adversary"/>
         <card number="2" name="Seedborn Muse"/>
-        <card number="1" name="Incubation Druid"/>
+        <card number="2" name="Incubation Druid"/>
         <card number="1" name="Elves of Deep Shadow"/>
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Llanowar Elves"/>
@@ -220,8 +220,10 @@
         <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Whispersilk Cloak"/>
-        <card number="1" name="Lifecrafter's Bestiary"/>
+        <card number="2" name="Lifecrafter's Bestiary"/>
         <card number="1" name="Graaz, Unstoppable Juggernaut"/>
         <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Rishkar, Peema Renegade"/>
+        <card number="1" name="Rushed Rebirth"/>
     </zone>
 </cockatrice_deck>

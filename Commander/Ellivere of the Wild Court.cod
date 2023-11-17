@@ -30,7 +30,6 @@
         <card number="1" name="Open the Vaults"/>
         <card number="1" name="Ancestral Mask"/>
         <card number="1" name="Ethereal Armor"/>
-        <card number="1" name="Planar Disruption"/>
         <card number="1" name="Unquestioned Authority"/>
         <card number="1" name="Chains of Custody"/>
         <card number="1" name="Holy Mantle"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Tithe Taker"/>
         <card number="1" name="Reclamation Sage"/>
         <card number="1" name="Archon of Valor's Reach"/>
+        <card number="1" name="Song of the Dryads"/>
     </zone>
     <zone name="side">
         <card number="1" name="Rite of Harmony"/>
@@ -130,5 +130,6 @@
         <card number="1" name="Armadillo Cloak"/>
         <card number="1" name="Winds of Rath"/>
         <card number="1" name="Collector Ouphe"/>
+        <card number="1" name="Planar Disruption"/>
     </zone>
 </cockatrice_deck>

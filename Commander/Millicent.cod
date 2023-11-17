@@ -48,10 +48,8 @@
         <card number="1" name="Soulherder"/>
         <card number="1" name="Coat of Arms"/>
         <card number="1" name="Mirrorhall Mimic"/>
-        <card number="1" name="Disdainful Stroke"/>
         <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Mischievous Catgeist"/>
         <card number="1" name="Dreamshackle Geist"/>
         <card number="1" name="Glacial Fortress"/>
         <card number="1" name="Path of Ancestry"/>
@@ -85,6 +83,8 @@
         <card number="1" name="Combat Research"/>
         <card number="1" name="Moonshaker Cavalry"/>
         <card number="1" name="True Conviction"/>
+        <card number="1" name="Ice Out"/>
+        <card number="1" name="Abuelo, Ancestral Echo"/>
     </zone>
     <zone name="side">
         <card number="1" name="Negate"/>
@@ -185,7 +185,7 @@
         <card number="3" name="Force of Virtue"/>
         <card number="2" name="Dictate of Heliod"/>
         <card number="3" name="Breath of the Sleepless"/>
-        <card number="1" name="Disdainful Stroke"/>
+        <card number="2" name="Disdainful Stroke"/>
         <card number="1" name="Drawn from Dreams"/>
         <card number="1" name="Dream Fracture"/>
         <card number="1" name="Cut a Deal"/>
@@ -270,5 +270,6 @@
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Spectral Sailor"/>
         <card number="1" name="Synthetic Destiny"/>
+        <card number="1" name="Mischievous Catgeist"/>
     </zone>
 </cockatrice_deck>

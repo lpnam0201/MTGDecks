@@ -4,129 +4,58 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Juri, Master of the Revue"/>
-        <card number="1" name="Morbid Opportunist"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Magus of the Wheel"/>
-        <card number="1" name="Goldspan Dragon"/>
-        <card number="1" name="Lagomos, Hand of Hatred"/>
-        <card number="1" name="Chandra, Acolyte of Flame"/>
-        <card number="1" name="Professional Face-Breaker"/>
         <card number="1" name="Village Rites"/>
         <card number="1" name="Deadly Dispute"/>
-        <card number="1" name="Grim Hireling"/>
-        <card number="1" name="Reckless Endeavor"/>
-        <card number="1" name="Blood Money"/>
-        <card number="1" name="Fain, the Broker"/>
-        <card number="1" name="Dreadhorde Invasion"/>
-        <card number="1" name="Oni-Cult Anvil"/>
-        <card number="1" name="Dockside Chef"/>
-        <card number="1" name="Skullport Merchant"/>
-        <card number="1" name="Jaxis, the Troublemaker"/>
-        <card number="1" name="Guild Artisan"/>
-        <card number="1" name="Agent of the Iron Throne"/>
-        <card number="1" name="Agent of the Shadow Thieves"/>
-        <card number="1" name="Tempered in Solitude"/>
-        <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Torment of Hailfire"/>
-        <card number="1" name="Fling"/>
-        <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Yahenni, Undying Partisan"/>
-        <card number="1" name="Rakdos Charm"/>
-        <card number="1" name="Bedevil"/>
-        <card number="1" name="Ruthless Technomancer"/>
-        <card number="1" name="Idol of Oblivion"/>
-        <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Hellish Rebuke"/>
-        <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Wild Magic Surge"/>
-        <card number="1" name="Tibalt's Trickery"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Soul Shatter"/>
-        <card number="1" name="Terminate"/>
-        <card number="1" name="Talisman of Indulgence"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Feed the Swarm"/>
-        <card number="1" name="Strionic Resonator"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Bojuka Bog"/>
-        <card number="10" name="Mountain"/>
-        <card number="10" name="Swamp"/>
-        <card number="1" name="Smoldering Marsh"/>
-        <card number="1" name="Luxury Suite"/>
-        <card number="1" name="Dragonskull Summit"/>
-        <card number="1" name="Shadowblood Ridge"/>
-        <card number="1" name="Temple of Malice"/>
-        <card number="1" name="Foreboding Ruins"/>
-        <card number="1" name="Rakdos Carnarium"/>
-        <card number="1" name="Sulfurous Springs"/>
-        <card number="1" name="Blood Crypt"/>
-        <card number="1" name="Field of Ruin"/>
-        <card number="1" name="Sivriss, Nightmare Speaker"/>
-        <card number="1" name="Gut, True Soul Zealot"/>
-        <card number="1" name="Mahadi, Emporium Master"/>
-        <card number="1" name="Kazuul's Fury"/>
-        <card number="1" name="Harmonic Prodigy"/>
+        <card number="1" name="Corrupted Conviction"/>
+        <card number="1" name="Hero's Blade"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Two-Handed Axe // Sweeping Cleave"/>
         <card number="1" name="Impulsive Pilferer"/>
-        <card number="1" name="Loyal Apprentice"/>
-        <card number="1" name="Wyll's Reversal"/>
-        <card number="1" name="High Market"/>
-        <card number="1" name="Xorn"/>
+        <card number="1" name="Mayhem Devil"/>
+        <card number="1" name="Mahadi, Emporium Master"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Stormclaw Rager"/>
+        <card number="1" name="Ruthless Technomancer"/>
+        <card number="1" name="Fain, the Broker"/>
+        <card number="1" name="Woe Strider"/>
+        <card number="1" name="Skullport Merchant"/>
+        <card number="1" name="Kalain, Reclusive Painter"/>
         <card number="1" name="Academy Manufactor"/>
-        <card number="1" name="Unexpected Windfall"/>
-        <card number="1" name="Big Score"/>
-        <card number="1" name="Marionette Master"/>
-        <card number="1" name="Demonic Bargain"/>
-        <card number="1" name="Mastermind's Acquisition"/>
-        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Harmonic Prodigy"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Atsushi, the Blazing Sky"/>
+        <card number="1" name="Junji, the Midnight Sky"/>
+        <card number="1" name="Pyrrhic Blast"/>
+        <card number="1" name="Rowan's Grim Search"/>
+        <card number="1" name="Back for Seconds"/>
+        <card number="1" name="Urabrask's Forge"/>
+        <card number="1" name="Vat of Rebirth"/>
+        <card number="1" name="Beamtown Beatstick"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Agent of the Shadow Thieves"/>
+        <card number="1" name="Tavern Brawler"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Tempered in Solitude"/>
+        <card number="1" name="Necrosynthesis"/>
+        <card number="1" name="Sticky Fingers"/>
+        <card number="1" name="Rain of Riches"/>
         <card number="1" name="Prosper, Tome-Bound"/>
-        <card number="1" name="Descent into Avernus"/>
-        <card number="1" name="Imperial Recruiter"/>
-        <card number="1" name="Immersturm Predator"/>
-        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Mines of Moria"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Animation Module"/>
+        <card number="1" name="Marionette Master"/>
+        <card number="1" name="Mask of Griselbrand"/>
+        <card number="1" name="Wedding Invitation"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Rakdos Charm"/>
     </zone>
     <zone name="side">
-        <card number="2" name="Braids, Arisen Nightmare"/>
-        <card number="1" name="Plumb the Forbidden"/>
-        <card number="1" name="Subira, Tulzidi Caravanner"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Netherborn Altar"/>
-        <card number="1" name="Tavern Brawler"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Haunted Ridge"/>
-        <card number="1" name="Hoarding Ogre"/>
-        <card number="1" name="Captain Lannery Storm"/>
-        <card number="1" name="Plundering Barbarian"/>
-        <card number="1" name="Warlock Class"/>
-        <card number="1" name="Tribute to Horobi"/>
-        <card number="1" name="Sticky Fingers"/>
-        <card number="1" name="Basilisk Collar"/>
-        <card number="1" name="Animation Module"/>
-        <card number="1" name="Shadowheart, Dark Justiciar"/>
-        <card number="1" name="Tome of Legends"/>
-        <card number="1" name="Outpost Siege"/>
-        <card number="1" name="Immersturm Predator"/>
-        <card number="1" name="Cultist of the Absolute"/>
-        <card number="1" name="Toralf, God of Fury"/>
-        <card number="1" name="Command Beacon"/>
-        <card number="1" name="Underworld Connections"/>
-        <card number="1" name="Jadar, Ghoulcaller of Nephalia"/>
-        <card number="1" name="Disciple of Bolas"/>
-        <card number="1" name="Mask of Griselbrand"/>
-        <card number="1" name="Liquimetal Torque"/>
-        <card number="1" name="Key to the City"/>
-        <card number="1" name="Cut // Ribbons"/>
-        <card number="1" name="Bolas's Citadel"/>
-        <card number="1" name="Trading Post"/>
-        <card number="1" name="Chain Reaction"/>
-        <card number="1" name="Garna, Bloodfist of Keld"/>
-        <card number="1" name="Vandalblast"/>
-        <card number="1" name="The Reaver Cleaver"/>
-        <card number="1" name="Ruthless Knave"/>
-        <card number="1" name="Tavern Scoundrel"/>
-        <card number="1" name="Falkenrath Aristocrat"/>
-        <card number="1" name="Fell Stinger"/>
         <card number="1" name="Elemental Mastery"/>
+        <card number="1" name="Ghost Lantern // Bind Spirit"/>
+        <card number="1" name="Callous Sell-Sword // Burn Together"/>
     </zone>
 </cockatrice_deck>

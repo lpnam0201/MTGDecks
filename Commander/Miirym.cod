@@ -4,16 +4,11 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Miirym, Sentinel Wyrm"/>
-        <card number="1" name="Ganax, Astral Hunter"/>
         <card number="1" name="Thrakkus the Butcher"/>
-        <card number="1" name="Korlessa, Scale Singer"/>
-        <card number="1" name="Lozhan, Dragons' Legacy"/>
         <card number="1" name="Scourge of Valkas"/>
         <card number="1" name="Atarka, World Render"/>
         <card number="1" name="Wrathful Red Dragon"/>
-        <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Savage Ventmaw"/>
-        <card number="1" name="Earthquake Dragon"/>
         <card number="1" name="Temur Ascendancy"/>
         <card number="1" name="Dragon's Hoard"/>
         <card number="1" name="Carnelian Orb of Dragonkind"/>
@@ -22,17 +17,116 @@
         <card number="1" name="Firkraag, Cunning Instigator"/>
         <card number="1" name="Hellkite Charger"/>
         <card number="1" name="Intet, the Dreamer"/>
-        <card number="1" name="Skanos Dragonheart"/>
         <card number="1" name="Keiga, the Tide Star"/>
         <card number="1" name="Ryusei, the Falling Star"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Kairi, the Swirling Sky"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Vastwood Surge"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="1" name="Atsushi, the Blazing Sky"/>
+        <card number="1" name="Scourge of the Throne"/>
+        <card number="1" name="Skyline Despot"/>
+        <card number="1" name="Terror of Mount Velus"/>
+        <card number="1" name="Tyrant's Familiar"/>
+        <card number="1" name="Ancient Bronze Dragon"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Ignite the Future"/>
+        <card number="1" name="Memory Deluge"/>
+        <card number="1" name="Farsight Ritual"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Dragon Tempest"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="6" name="Forest"/>
+        <card number="5" name="Mountain"/>
+        <card number="4" name="Island"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Vineglimmer Snarl"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Lathliss, Dragon Queen"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="See Double"/>
+        <card number="1" name="Chain Reaction"/>
         <card number="1" name="Sapphire Dragon // Psionic Pulse"/>
         <card number="1" name="Emerald Dragon // Dissonant Wave"/>
-        <card number="1" name="Amethyst Dragon // Explosive Crystal"/>
-        <card number="1" name="Draconic Muralists"/>
-        <card number="1" name="Sword Coast Serpent // Capsizing Wave"/>
-        <card number="1" name="Vengeful Ancestor"/>
+        <card number="1" name="Jade Orb of Dragonkind"/>
+        <card number="1" name="Eureka Moment"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Audacious Swap"/>
+        <card number="1" name="Wash Away"/>
+        <card number="1" name="Resculpt"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Sapphire Dragon // Psionic Pulse"/>
+        <card number="2" name="Sapphire Dragon // Psionic Pulse"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Skanos Dragonheart"/>
+        <card number="1" name="Amethyst Dragon // Explosive Crystal"/>
+        <card number="1" name="Savage Ventmaw"/>
+        <card number="1" name="Ancient Silver Dragon"/>
+        <card number="1" name="Ryusei, the Falling Star"/>
+        <card number="1" name="Temur Ascendancy"/>
+        <card number="1" name="Draconic Muralists"/>
+        <card number="1" name="Terramorph"/>
+        <card number="1" name="Emerald Dragon // Dissonant Wave"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Tangled Islet"/>
+        <card number="1" name="Sword Coast Serpent // Capsizing Wave"/>
+        <card number="1" name="Genesis Ultimatum"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Earthquake Dragon"/>
+        <card number="1" name="Kairi, the Swirling Sky"/>
+        <card number="1" name="Renari, Merchant of Marvels"/>
+        <card number="1" name="Korlessa, Scale Singer"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Frontier Siege"/>
+        <card number="1" name="Ganax, Astral Hunter"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Thunderbreak Regent"/>
+        <card number="1" name="Spitting Image"/>
+        <card number="1" name="Lozhan, Dragons' Legacy"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Vengeful Ancestor"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
     </zone>
 </cockatrice_deck>

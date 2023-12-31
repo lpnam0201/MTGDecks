@@ -17,9 +17,7 @@
         <card number="1" name="Invisible Stalker"/>
         <card number="1" name="Stinkdrinker Bandit"/>
         <card number="1" name="Darkwater Catacombs"/>
-        <card number="1" name="Triton Shorestalker"/>
         <card number="1" name="Drown in the Loch"/>
-        <card number="1" name="Changeling Outcast"/>
         <card number="1" name="Thieving Skydiver"/>
         <card number="1" name="Nightveil Sprite"/>
         <card number="1" name="Looter il-Kor"/>
@@ -27,7 +25,6 @@
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Anowon, the Ruin Thief"/>
         <card number="1" name="Faerie Vandal"/>
-        <card number="1" name="Slither Blade"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Countersquall"/>
         <card number="1" name="Memory Lapse"/>
@@ -40,7 +37,6 @@
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Morphic Pool"/>
         <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Gray Harbor Merfolk"/>
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Shipwreck Marsh"/>
         <card number="1" name="Prismatic Vista"/>
@@ -52,8 +48,6 @@
         <card number="1" name="Profane Tutor"/>
         <card number="1" name="Sygg, River Cutthroat"/>
         <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Network Disruptor"/>
-        <card number="1" name="Faerie Miscreant"/>
         <card number="1" name="Curiosity"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Unclaimed Territory"/>
@@ -85,9 +79,15 @@
         <card number="1" name="Rise from the Grave"/>
         <card number="1" name="Enigma Thief"/>
         <card number="1" name="Zareth San, the Trickster"/>
-        <card number="1" name="Realmbreaker, the Invasion Tree"/>
         <card number="1" name="Reconnaissance Mission"/>
-        <card number="1" name="Military Intelligence"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Bloodchief Ascension"/>
+        <card number="1" name="Halo Forager"/>
+        <card number="1" name="Dauthi Voidwalker"/>
+        <card number="1" name="Varragoth, Bloodsky Sire"/>
+        <card number="1" name="Rankle, Master of Pranks"/>
+        <card number="1" name="Schema Thief"/>
+        <card number="1" name="Faerie Bladecrafter"/>
     </zone>
     <zone name="side">
         <card number="1" name="Oona, Queen of the Fae"/>
@@ -128,7 +128,7 @@
         <card number="1" name="Blood for Bones"/>
         <card number="1" name="Plague Wind"/>
         <card number="1" name="Surveilling Sprite"/>
-        <card number="1" name="Faerie Miscreant"/>
+        <card number="2" name="Faerie Miscreant"/>
         <card number="1" name="Whisper Agent"/>
         <card number="3" name="Rapid Hybridization"/>
         <card number="1" name="Pestermite"/>
@@ -150,7 +150,7 @@
         <card number="1" name="Essence Scatter"/>
         <card number="1" name="Metropolis Sprite"/>
         <card number="1" name="Oona's Prowler"/>
-        <card number="2" name="Military Intelligence"/>
+        <card number="3" name="Military Intelligence"/>
         <card number="1" name="Faerie Duelist"/>
         <card number="1" name="Mystic Sanctuary"/>
         <card number="3" name="Stolen Identity"/>
@@ -194,7 +194,7 @@
         <card number="3" name="Coveted Prize"/>
         <card number="2" name="Diabolic Tutor"/>
         <card number="1" name="Poison the Cup"/>
-        <card number="1" name="Sygg, River Cutthroat"/>
+        <card number="2" name="Sygg, River Cutthroat"/>
         <card number="1" name="Dimir Guildgate"/>
         <card number="1" name="Curse of the Swine"/>
         <card number="1" name="Dismal Backwater"/>
@@ -211,7 +211,7 @@
         <card number="1" name="Sure-Footed Infiltrator"/>
         <card number="1" name="Mind Stone"/>
         <card number="4" name="Mission Briefing"/>
-        <card number="1" name="Gray Harbor Merfolk"/>
+        <card number="2" name="Gray Harbor Merfolk"/>
         <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Reflections of Littjara"/>
         <card number="1" name="Ice Tunnel"/>
@@ -269,5 +269,10 @@
         <card number="1" name="Ringsight"/>
         <card number="1" name="Blighted Agent"/>
         <card number="1" name="Goldvein Pick"/>
+        <card number="1" name="Realmbreaker, the Invasion Tree"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Network Disruptor"/>
+        <card number="1" name="Slither Blade"/>
+        <card number="1" name="Triton Shorestalker"/>
     </zone>
 </cockatrice_deck>

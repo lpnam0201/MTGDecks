@@ -10,16 +10,13 @@
         <card number="1" name="Howlpack Piper"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Hound Tamer"/>
         <card number="1" name="Nightpack Ambusher"/>
         <card number="1" name="Village Watch"/>
         <card number="1" name="Ill-Tempered Loner"/>
         <card number="1" name="Child of the Pack"/>
-        <card number="1" name="Weaver of Blossoms"/>
         <card number="1" name="Hollowhenge Overlord"/>
         <card number="1" name="Wolfkin Outcast"/>
-        <card number="1" name="Burly Breaker"/>
         <card number="1" name="Fangblade Brigand"/>
         <card number="1" name="Anara, Wolvid Familiar"/>
         <card number="1" name="Chaos Warp"/>
@@ -32,16 +29,12 @@
         <card number="1" name="Path of Ancestry"/>
         <card number="9" name="Mountain"/>
         <card number="10" name="Forest"/>
-        <card number="1" name="Tireless Hauler"/>
-        <card number="1" name="Fearful Villager"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Wild Magic Surge"/>
         <card number="1" name="Game Trail"/>
         <card number="1" name="Spire Garden"/>
         <card number="1" name="Fabled Passage"/>
@@ -53,17 +46,11 @@
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Karplusan Forest"/>
         <card number="1" name="Gruul Turf"/>
-        <card number="1" name="Chain Reaction"/>
-        <card number="1" name="Ferocious Pup"/>
         <card number="1" name="Three Visits"/>
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Immerwolf"/>
-        <card number="1" name="Taurean Mauler"/>
         <card number="1" name="Spirit of the Hunt"/>
-        <card number="1" name="Bounding Wolf"/>
         <card number="1" name="Pack Guardian"/>
-        <card number="1" name="Briarpack Alpha"/>
-        <card number="1" name="Oakshade Stalker"/>
         <card number="1" name="Ram Through"/>
         <card number="1" name="Moonlight Hunt"/>
         <card number="1" name="Avabruck Caretaker"/>
@@ -76,16 +63,29 @@
         <card number="1" name="Full Moon's Rise"/>
         <card number="1" name="Nature's Claim"/>
         <card number="1" name="Friendly Rivalry"/>
-        <card number="1" name="Abrade"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Cultivate"/>
-        <card number="1" name="Rhythm of the Wild"/>
         <card number="1" name="Berserkers' Onslaught"/>
         <card number="1" name="Blood Mist"/>
         <card number="1" name="Rage Reflection"/>
-        <card number="1" name="Explore"/>
-        <card number="1" name="Escape to the Wilds"/>
         <card number="1" name="Volatile Arsonist"/>
+        <card number="1" name="Spectacular Showdown"/>
+        <card number="1" name="The Celestus"/>
+        <card number="1" name="Ranger Class"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Werewolf Pack Leader"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Fog"/>
+        <card number="1" name="Winds of Qal Sisma"/>
+        <card number="1" name="Blessed Respite"/>
+        <card number="1" name="Breakneck Rider"/>
+        <card number="1" name="Sage of Ancient Lore"/>
+        <card number="1" name="Exponential Growth"/>
+        <card number="1" name="Ulrich of the Krallenhorde"/>
+        <card number="1" name="Duskwatch Recruiter"/>
+        <card number="1" name="Zoyowa's Justice"/>
+        <card number="1" name="Arachnogenesis"/>
+        <card number="1" name="Blasphemous Act"/>
     </zone>
     <zone name="side">
         <card number="2" name="Overwhelming Stampede"/>
@@ -103,18 +103,18 @@
         <card number="3" name="Hermit of the Natterknolls"/>
         <card number="1" name="Immerwolf"/>
         <card number="3" name="Instigator Gang"/>
-        <card number="1" name="Kruin Outlaw"/>
+        <card number="2" name="Kruin Outlaw"/>
         <card number="1" name="Mayor of Avabruck"/>
         <card number="1" name="Huntmaster of the Fells"/>
         <card number="2" name="Realmwalker"/>
         <card number="3" name="Sage of Ancient Lore"/>
         <card number="2" name="Scorned Villager"/>
         <card number="1" name="Silverfur Partisan"/>
-        <card number="1" name="Ulrich of the Krallenhorde"/>
+        <card number="2" name="Ulrich of the Krallenhorde"/>
         <card number="2" name="Volatile Arsonist"/>
         <card number="2" name="Werewolf Pack Leader"/>
         <card number="3" name="Kindred Summons"/>
-        <card number="1" name="Rhythm of the Wild"/>
+        <card number="2" name="Rhythm of the Wild"/>
         <card number="1" name="Ranger Class"/>
         <card number="1" name="Howlpack Resurgence"/>
         <card number="2" name="Full Moon's Rise"/>
@@ -127,7 +127,7 @@
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Lambholt Elder"/>
-        <card number="2" name="Chain Reaction"/>
+        <card number="3" name="Chain Reaction"/>
         <card number="1" name="Snarling Wolf"/>
         <card number="1" name="Blossoming Defense"/>
         <card number="2" name="The Celestus"/>
@@ -155,7 +155,7 @@
         <card number="2" name="Thriving Bluff"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Mosswort Bridge"/>
-        <card number="1" name="Sol Ring"/>
+        <card number="2" name="Sol Ring"/>
         <card number="2" name="Infestation Expert"/>
         <card number="2" name="Hookhand Mariner"/>
         <card number="1" name="Vines of Vastwood"/>
@@ -170,7 +170,7 @@
         <card number="2" name="Racers' Ring"/>
         <card number="2" name="Highland Forest"/>
         <card number="1" name="Gruul Turf"/>
-        <card number="1" name="Blasphemous Act"/>
+        <card number="2" name="Blasphemous Act"/>
         <card number="1" name="Soul's Majesty"/>
         <card number="1" name="Fang of the Pack"/>
         <card number="1" name="Family's Favor"/>
@@ -181,12 +181,12 @@
         <card number="1" name="Harmonize"/>
         <card number="1" name="Inscription of Abundance"/>
         <card number="1" name="Ascendant Packleader"/>
-        <card number="1" name="Oakshade Stalker"/>
+        <card number="2" name="Oakshade Stalker"/>
         <card number="1" name="Nullhide Ferox"/>
         <card number="1" name="Siege Behemoth"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Spirit of the Hunt"/>
-        <card number="1" name="Wild Magic Surge"/>
+        <card number="2" name="Wild Magic Surge"/>
         <card number="3" name="Mountain"/>
         <card number="2" name="Forest"/>
         <card number="1" name="Wooded Foothills"/>
@@ -234,5 +234,20 @@
         <card number="1" name="Shared Animosity"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Talisman of Impulse"/>
+        <card number="1" name="Bounding Wolf"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Fearful Villager"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Briarpack Alpha"/>
+        <card number="1" name="Weaver of Blossoms"/>
+        <card number="1" name="Journey to the Lost City"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Destructive Tampering"/>
+        <card number="1" name="Burly Breaker"/>
+        <card number="1" name="Tireless Hauler"/>
+        <card number="1" name="Ferocious Pup"/>
+        <card number="1" name="Arlinn, the Pack's Hope"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Thwart the Enemy"/>
     </zone>
 </cockatrice_deck>

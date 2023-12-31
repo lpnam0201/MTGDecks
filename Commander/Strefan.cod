@@ -77,7 +77,6 @@
         <card number="1" name="Go for the Throat"/>
         <card number="1" name="Urabrask the Hidden"/>
         <card number="1" name="Kindred Dominance"/>
-        <card number="1" name="Chainer, Nightmare Adept"/>
         <card number="1" name="Queen's Bay Paladin"/>
         <card number="1" name="Zoyowa's Justice"/>
         <card number="1" name="Nullpriest of Oblivion"/>
@@ -86,7 +85,8 @@
         <card number="1" name="Mob Rule"/>
         <card number="1" name="Dusk Legion Sergeant"/>
         <card number="1" name="Bringer of the Last Gift"/>
-        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="1" name="Bloodletter of Aclazotz"/>
+        <card number="1" name="Bitter Triumph"/>
     </zone>
     <zone name="side">
         <card number="1" name="Anger"/>
@@ -235,6 +235,7 @@
         <card number="2" name="Containment Construct"/>
         <card number="1" name="Mizzium Mortars"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="2" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="1" name="Chainer, Nightmare Adept"/>
     </zone>
 </cockatrice_deck>

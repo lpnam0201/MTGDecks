@@ -8,8 +8,6 @@
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Leyline of Anticipation"/>
-        <card number="1" name="Tidal Barracuda"/>
         <card number="1" name="Dimir Signet"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Obyra, Dreaming Duelist"/>
@@ -18,9 +16,7 @@
         <card number="1" name="Blightwing Bandit"/>
         <card number="1" name="Malleable Impostor"/>
         <card number="1" name="Nymris, Oona's Trickster"/>
-        <card number="1" name="Wavebreak Hippocamp"/>
         <card number="1" name="Notorious Throng"/>
-        <card number="1" name="Candlekeep Inspiration"/>
         <card number="1" name="Shadow Puppeteers"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Mission Briefing"/>
@@ -31,16 +27,8 @@
         <card number="1" name="Counterspell"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Hullbreaker Horror"/>
-        <card number="1" name="Notion Thief"/>
-        <card number="1" name="Grim Hireling"/>
-        <card number="1" name="Mocking Doppelganger"/>
-        <card number="1" name="Ertai Resurrected"/>
-        <card number="1" name="Venser, Shaper Savant"/>
-        <card number="1" name="Aboleth Spawn"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Fact or Fiction"/>
-        <card number="1" name="Run Away Together"/>
-        <card number="1" name="Into the Roil"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Negate"/>
@@ -57,8 +45,6 @@
         <card number="1" name="Diabolic Intent"/>
         <card number="1" name="Profane Tutor"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Sky Diamond"/>
-        <card number="1" name="Charcoal Diamond"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Pull from Tomorrow"/>
         <card number="1" name="Faerie Bladecrafter"/>
@@ -80,19 +66,56 @@
         <card number="1" name="Watery Grave"/>
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Dimir Aqueduct"/>
-        <card number="1" name="Borne Upon a Wind"/>
-        <card number="1" name="Ashiok, Nightmare Muse"/>
-        <card number="1" name="Will Kenrith"/>
-        <card number="1" name="Ob Nixilis Reignited"/>
-        <card number="1" name="Jace, Architect of Thought"/>
+        <card number="1" name="Rankle, Master of Pranks"/>
+        <card number="1" name="Glen Elendra Archmage"/>
+        <card number="1" name="Sower of Temptation"/>
+        <card number="1" name="Oona, Queen of the Fae"/>
+        <card number="1" name="Talion, the Kindly Lord"/>
+        <card number="1" name="Scion of Oona"/>
+        <card number="1" name="Glen Elendra Liege"/>
+        <card number="1" name="Halo Forager"/>
+        <card number="1" name="Hypnotic Sprite // Mesmeric Glare"/>
+        <card number="1" name="Faerie Formation"/>
+        <card number="1" name="Archmage of Echoes"/>
+        <card number="1" name="Nettling Nuisance"/>
+        <card number="1" name="Spellscorn Coven // Take It Back"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Thrilling Encore"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Commit // Memory"/>
     </zone>
     <zone name="side">
         <card number="1" name="Slitherwisp"/>
-        <card number="1" name="Picklock Prankster // Free the Fae"/>
+        <card number="2" name="Picklock Prankster // Free the Fae"/>
         <card number="1" name="Curiosity"/>
         <card number="1" name="Combat Research"/>
         <card number="1" name="Spell Stutter"/>
         <card number="1" name="Change of Plans"/>
         <card number="1" name="Tevesh Szat, Doom of Fools"/>
+        <card number="1" name="Aboleth Spawn"/>
+        <card number="1" name="Ertai Resurrected"/>
+        <card number="1" name="Grim Hireling"/>
+        <card number="1" name="Tidal Barracuda"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Wavebreak Hippocamp"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Mocking Doppelganger"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Nymris, Oona's Trickster"/>
+        <card number="1" name="Borne Upon a Wind"/>
+        <card number="1" name="Ashiok, Nightmare Muse"/>
+        <card number="1" name="Jace, Architect of Thought"/>
+        <card number="1" name="Ob Nixilis Reignited"/>
+        <card number="1" name="Will Kenrith"/>
+        <card number="1" name="Faerie Bladecrafter"/>
+        <card number="1" name="Candlekeep Inspiration"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Charcoal Diamond"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Run Away Together"/>
+        <card number="1" name="Talion's Messenger"/>
+        <card number="1" name="Cloud of Faeries"/>
     </zone>
 </cockatrice_deck>

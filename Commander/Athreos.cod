@@ -7,5 +7,98 @@
         <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Loyal Warhound"/>
         <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Wall of Omens"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="1" name="Disciple of Bolas"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+        <card number="1" name="Hoarding Broodlord"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Ruthless Technomancer"/>
+        <card number="1" name="Angel of the Ruins"/>
+        <card number="1" name="Inspiring Overseer"/>
+        <card number="1" name="Massacre Girl"/>
+        <card number="1" name="Cataclysmic Gearhulk"/>
+        <card number="1" name="Oreskos Explorer"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Stonespeaker Crystal"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Rout"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Deadly Dispute"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Corrupted Conviction"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Liesa, Forgotten Archangel"/>
+        <card number="1" name="Gisa, Glorious Resurrector"/>
+        <card number="1" name="Priest of Ancient Lore"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Pile On"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Final Payment"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Puppeteer Clique"/>
+        <card number="1" name="Surge of Salvation"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Author of Shadows"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Banisher Priest"/>
+        <card number="10" name="Swamp"/>
+        <card number="10" name="Plains"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Restless Fortress"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Goldmire Bridge"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="1" name="Silverquill Campus"/>
+        <card number="1" name="Sunlit Marsh"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Sister Hospitaller"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Decree of Pain"/>
+        <card number="1" name="Aerial Extortionist"/>
+        <card number="1" name="Command the Dreadhorde"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kaya the Inexorable"/>
+        <card number="1" name="Kaya, Ghost Assassin"/>
+        <card number="1" name="Kaya, Intangible Slayer"/>
+        <card number="1" name="Sunfall"/>
+        <card number="1" name="Kaya's Wrath"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Archon of Coronation"/>
+        <card number="1" name="Gisa, Glorious Resurrector"/>
+        <card number="1" name="Vile Entomber"/>
+        <card number="1" name="Jailbreak"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Contractual Safeguard"/>
+        <card number="1" name="Tergrid, God of Fright"/>
     </zone>
 </cockatrice_deck>

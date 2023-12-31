@@ -75,12 +75,10 @@
         <card number="1" name="Zetalpa, Primal Dawn"/>
         <card number="1" name="Harrow"/>
         <card number="1" name="Cabaretti Ascendancy"/>
-        <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Grow from the Ashes"/>
         <card number="1" name="Vastwood Surge"/>
         <card number="1" name="Skyclave Relic"/>
         <card number="1" name="Search for Tomorrow"/>
-        <card number="1" name="Duke Ulder Ravengard"/>
         <card number="1" name="Legion Loyalty"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Rampant Growth"/>
@@ -93,6 +91,8 @@
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Hallowed Burial"/>
         <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Doomskar"/>
+        <card number="1" name="Intrepid Paleontologist"/>
     </zone>
     <zone name="side">
         <card number="1" name="Trapjaw Tyrant"/>
@@ -133,9 +133,13 @@
         <card number="1" name="Ripjaw Raptor"/>
         <card number="1" name="Ancient Imperiosaur"/>
         <card number="1" name="Chain Reaction"/>
-        <card number="1" name="Apex Altisaur"/>
+        <card number="2" name="Apex Altisaur"/>
         <card number="1" name="Trumpeting Carnosaur"/>
         <card number="1" name="Primeval Bounty"/>
         <card number="1" name="Hulking Raptor"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Duke Ulder Ravengard"/>
+        <card number="1" name="Wayta, Trainer Prodigy"/>
+        <card number="1" name="Etali, Primal Conqueror"/>
     </zone>
 </cockatrice_deck>

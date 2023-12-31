@@ -74,7 +74,6 @@
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Austere Command"/>
         <card number="1" name="Tome of Legends"/>
         <card number="1" name="Wonder"/>
         <card number="1" name="Stubborn Denial"/>
@@ -94,6 +93,7 @@
         <card number="1" name="Bartolomé del Presidio"/>
         <card number="1" name="Breathless Knight"/>
         <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Supreme Verdict"/>
     </zone>
     <zone name="side">
         <card number="1" name="Blacklance Paragon"/>
@@ -134,5 +134,6 @@
         <card number="2" name="Knight of the Ebon Legion"/>
         <card number="1" name="Triumphant Adventurer"/>
         <card number="1" name="Nadaar, Selfless Paladin"/>
+        <card number="1" name="Austere Command"/>
     </zone>
 </cockatrice_deck>

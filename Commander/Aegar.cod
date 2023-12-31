@@ -26,5 +26,84 @@
         <card number="1" name="Thundercloud Shaman"/>
         <card number="1" name="Surtland Elementalist"/>
         <card number="1" name="Galvanic Giant // Storm Reading"/>
+        <card number="1" name="Prophetic Titan"/>
+        <card number="1" name="Squash"/>
+        <card number="1" name="Glimpse the Cosmos"/>
+        <card number="1" name="Fire Giant's Fury"/>
+        <card number="1" name="Sunrise Sovereign"/>
+        <card number="1" name="Warchief Giant"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Lightning Strike"/>
+        <card number="1" name="Mizzium Mortars"/>
+        <card number="1" name="Volcanic Torrent"/>
+        <card number="1" name="Frostfist Strider"/>
+        <card number="1" name="Soul's Fire"/>
+        <card number="1" name="Starstorm"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Firemind Vessel"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Behold the Multiverse"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Stonespeaker Crystal"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Chemister's Insight"/>
+        <card number="1" name="Double Vision"/>
+        <card number="1" name="Reckless Endeavor"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="10" name="Island"/>
+        <card number="10" name="Mountain"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Surtland Frostpyre"/>
+        <card number="1" name="Stormcarved Coast"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Wandering Fumarole"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Desolate Lighthouse"/>
+        <card number="1" name="Hamletback Goliath"/>
+        <card number="1" name="Hulking Metamorph"/>
+        <card number="1" name="Vizier of Many Faces"/>
+        <card number="1" name="Stoke the Flames"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Electrodominance"/>
+        <card number="1" name="Prophetic Bolt"/>
+        <card number="1" name="Ral's Outburst"/>
+        <card number="1" name="Volcanic Fallout"/>
+        <card number="1" name="Demon Bolt"/>
+        <card number="1" name="Cinderclasm"/>
+        <card number="1" name="City on Fire"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Expansion // Explosion"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Farsight Ritual"/>
+        <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Meteor Swarm"/>
+        <card number="1" name="Two-Headed Hunter // Twice the Rage"/>
+        <card number="1" name="Torbran, Thane of Red Fell"/>
+        <card number="1" name="Jeska's Will"/>
+        <card number="1" name="Supplant Form"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Memory Deluge"/>
+        <card number="1" name="Cinderclasm"/>
+        <card number="1" name="See Double"/>
+        <card number="1" name="Expansion // Explosion"/>
+        <card number="1" name="Basalt Ravager"/>
+        <card number="1" name="Wash Away"/>
+        <card number="1" name="Irenicus's Vile Duplication"/>
+        <card number="1" name="Rain of Revelation"/>
     </zone>
 </cockatrice_deck>

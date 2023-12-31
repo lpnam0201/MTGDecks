@@ -80,7 +80,6 @@
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Lathliss, Dragon Queen"/>
         <card number="1" name="Rite of Replication"/>
-        <card number="1" name="See Double"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="Sapphire Dragon // Psionic Pulse"/>
         <card number="1" name="Emerald Dragon // Dissonant Wave"/>
@@ -91,6 +90,7 @@
         <card number="1" name="Audacious Swap"/>
         <card number="1" name="Wash Away"/>
         <card number="1" name="Resculpt"/>
+        <card number="1" name="Kura, the Boundless Sky"/>
     </zone>
     <zone name="side">
         <card number="2" name="Sapphire Dragon // Psionic Pulse"/>
@@ -128,5 +128,6 @@
         <card number="1" name="Vengeful Ancestor"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="See Double"/>
     </zone>
 </cockatrice_deck>

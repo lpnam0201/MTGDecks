@@ -12,11 +12,9 @@
         <card number="1" name="Xolatoyac, the Smiling Flood"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Nature's Lore"/>
         <card number="1" name="Deeproot Elite"/>
         <card number="1" name="Master of the Pearl Trident"/>
         <card number="1" name="Merfolk Mistbinder"/>
-        <card number="1" name="Metallic Mimic"/>
         <card number="1" name="Nicanzil, Current Conductor"/>
         <card number="1" name="Stonybrook Banneret"/>
         <card number="1" name="Thieving Skydiver"/>
@@ -26,9 +24,7 @@
         <card number="1" name="Kumena, Tyrant of Orazca"/>
         <card number="1" name="Merfolk Cave-Diver"/>
         <card number="1" name="Merfolk Sovereign"/>
-        <card number="1" name="Realmwalker"/>
         <card number="1" name="Svyelun of Sea and Sky"/>
-        <card number="1" name="Thassa, God of the Sea"/>
         <card number="1" name="Herald of Secret Streams"/>
         <card number="1" name="Seafloor Oracle"/>
         <card number="1" name="Surgespanner"/>
@@ -36,15 +32,12 @@
         <card number="1" name="Tatyova, Benthic Druid"/>
         <card number="1" name="Path of Discovery"/>
         <card number="1" name="Deeproot Waters"/>
-        <card number="1" name="Kindred Discovery"/>
         <card number="1" name="Reflections of Littjara"/>
-        <card number="1" name="Branching Evolution"/>
         <card number="1" name="Hardened Scales"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Wave Goodbye"/>
-        <card number="1" name="Ripples of Potential"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Counterspell"/>
@@ -52,7 +45,6 @@
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Resculpt"/>
         <card number="1" name="Aetherize"/>
-        <card number="1" name="Curse of the Swine"/>
         <card number="1" name="Vodalian Hexcatcher"/>
         <card number="1" name="Deepfathom Echo"/>
         <card number="1" name="Tempest Caller"/>
@@ -77,14 +69,22 @@
         <card number="1" name="Dreamroot Cascade"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Merrow Reejerey"/>
-        <card number="1" name="Augmenter Pugilist"/>
-        <card number="1" name="Sakashima's Will"/>
         <card number="1" name="Incubation // Incongruity"/>
         <card number="1" name="Murkfiend Liege"/>
         <card number="1" name="Alchemist's Refuge"/>
         <card number="1" name="Commit // Memory"/>
         <card number="1" name="Wash Away"/>
         <card number="1" name="Merfolk Trickster"/>
+        <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Twists and Turns"/>
+        <card number="1" name="Glowcap Lantern"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="River's Rebuke"/>
+        <card number="1" name="Irenicus's Vile Duplication"/>
+        <card number="1" name="Jadelight Spelunker"/>
     </zone>
     <zone name="side">
         <card number="1" name="Flooded Grove"/>
@@ -99,5 +99,18 @@
         <card number="1" name="Breeding Pool"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Merfolk Skydiver"/>
+        <card number="1" name="Branching Evolution"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Ripples of Potential"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Thassa, God of the Sea"/>
+        <card number="1" name="Voidslime"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="River's Rebuke"/>
+        <card number="1" name="Augmenter Pugilist"/>
+        <card number="1" name="Seeker of Sunlight"/>
+        <card number="1" name="Sakashima's Will"/>
     </zone>
 </cockatrice_deck>

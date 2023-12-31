@@ -32,7 +32,6 @@
         <card number="1" name="Mortality Spear"/>
         <card number="1" name="Fallen Ideal"/>
         <card number="1" name="Demonic Embrace"/>
-        <card number="1" name="Immaculate Magistrate"/>
         <card number="1" name="Golgari Rot Farm"/>
         <card number="1" name="Realmwalker"/>
         <card number="1" name="Undergrowth Stadium"/>
@@ -71,7 +70,6 @@
         <card number="1" name="Wrap in Vigor"/>
         <card number="1" name="Status // Statue"/>
         <card number="1" name="Chord of Calling"/>
-        <card number="1" name="Go for the Throat"/>
         <card number="1" name="Elven Chorus"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Farseek"/>
@@ -85,6 +83,8 @@
         <card number="1" name="Golgari Signet"/>
         <card number="1" name="Talisman of Resilience"/>
         <card number="1" name="Ambition's Cost"/>
+        <card number="1" name="Growing Rites of Itlimoc"/>
+        <card number="1" name="Assassin's Trophy"/>
     </zone>
     <zone name="side">
         <card number="2" name="Bojuka Bog"/>
@@ -207,7 +207,7 @@
         <card number="1" name="Baleful Mastery"/>
         <card number="1" name="Assassin's Trophy"/>
         <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Go for the Throat"/>
+        <card number="2" name="Go for the Throat"/>
         <card number="1" name="Cloak of the Bat"/>
         <card number="1" name="Diabolic Intent"/>
         <card number="1" name="Sword of the Animist"/>
@@ -225,5 +225,6 @@
         <card number="1" name="Torment of Hailfire"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
         <card number="1" name="Rushed Rebirth"/>
+        <card number="1" name="Immaculate Magistrate"/>
     </zone>
 </cockatrice_deck>

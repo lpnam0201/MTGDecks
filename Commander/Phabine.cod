@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Phabine, Boss's Confidant"/>
-        <card number="1" name="Neyali, Suns' Vanguard"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Nissa's Pilgrimage"/>
@@ -17,12 +16,10 @@
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Jetmir, Nexus of Revels"/>
         <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Cabaretti Confluence"/>
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Call the Coppercoats"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Queen Allenal of Ruadach"/>
         <card number="1" name="Master of Ceremonies"/>
         <card number="1" name="Indulge // Excess"/>
         <card number="1" name="Thunderfoot Baloth"/>
@@ -33,18 +30,13 @@
         <card number="1" name="Topiary Stomper"/>
         <card number="1" name="Zurzoth, Chaos Rider"/>
         <card number="1" name="Leafkin Druid"/>
-        <card number="1" name="Samut, Vizier of Naktamun"/>
-        <card number="1" name="Rite of Harmony"/>
-        <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Migration Path"/>
-        <card number="1" name="Ezuri's Predation"/>
         <card number="1" name="Awakening Zone"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Yavimaya Dryad"/>
-        <card number="1" name="Strionic Resonator"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Generous Gift"/>
@@ -52,7 +44,6 @@
         <card number="1" name="Circuitous Route"/>
         <card number="1" name="Harrow"/>
         <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Druid of Purification"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Vastwood Surge"/>
         <card number="5" name="Forest"/>
@@ -81,18 +72,28 @@
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Selesnya Sanctuary"/>
         <card number="1" name="Brushland"/>
-        <card number="1" name="Roar of Resistance"/>
         <card number="1" name="Wildfire Awakener"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Idol of Oblivion"/>
-        <card number="1" name="Witty Roastmaster"/>
-        <card number="1" name="Impact Tremors"/>
-        <card number="1" name="Knight of Autumn"/>
         <card number="1" name="Llanowar Visionary"/>
-        <card number="1" name="Cathar Commando"/>
-        <card number="1" name="Boss's Chauffeur"/>
         <card number="1" name="Gala Greeters"/>
-        <card number="1" name="Grow from the Ashes"/>
+        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="1" name="Aurelia, the Warleader"/>
+        <card number="1" name="Kutzil, Malamet Exemplar"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="March of the Multitudes"/>
+        <card number="1" name="Kitt Kanto, Mayhem Diva"/>
+        <card number="1" name="Jaheira, Friend of the Forest"/>
+        <card number="1" name="Krenko, Mob Boss"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Sizzling Soloist"/>
+        <card number="1" name="Crash the Party"/>
+        <card number="1" name="Naya Charm"/>
+        <card number="1" name="Cabaretti Charm"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Expel the Interlopers"/>
+        <card number="1" name="Hexplate Wallbreaker"/>
+        <card number="1" name="Escape to the Wilds"/>
     </zone>
     <zone name="side">
         <card number="1" name="Mentor of the Meek"/>
@@ -100,5 +101,23 @@
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Cabaretti Confluence"/>
         <card number="1" name="Alpine Meadow"/>
+        <card number="1" name="Samut, Vizier of Naktamun"/>
+        <card number="1" name="Queen Allenal of Ruadach"/>
+        <card number="1" name="Neyali, Suns' Vanguard"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Boss's Chauffeur"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Witty Roastmaster"/>
+        <card number="1" name="Knight of Autumn"/>
+        <card number="1" name="Roar of Resistance"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Grow from the Ashes"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Rite of Harmony"/>
+        <card number="1" name="Cathar Commando"/>
+        <card number="1" name="Relentless Assault"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Idol of Oblivion"/>
     </zone>
 </cockatrice_deck>

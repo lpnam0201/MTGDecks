@@ -33,7 +33,6 @@
         <card number="1" name="Soul of the Harvest"/>
         <card number="1" name="Thorn Mammoth"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Battle Mammoth"/>
         <card number="1" name="Giant Adephage"/>
         <card number="1" name="Regal Force"/>
         <card number="1" name="Hydra Omnivore"/>
@@ -74,6 +73,7 @@
         <card number="1" name="Greater Good"/>
         <card number="1" name="Primordial Sage"/>
         <card number="1" name="Stonehoof Chieftain"/>
+        <card number="1" name="Ojer Kaslem, Deepest Growth"/>
     </zone>
     <zone name="side">
         <card number="1" name="Eternal Witness"/>
@@ -138,7 +138,7 @@
         <card number="1" name="Silvos, Rogue Elemental"/>
         <card number="1" name="Sawtusk Demolisher"/>
         <card number="1" name="Gemrazer"/>
-        <card number="1" name="Battle Mammoth"/>
+        <card number="2" name="Battle Mammoth"/>
         <card number="1" name="Commander's Plate"/>
         <card number="1" name="Caged Sun"/>
         <card number="1" name="Emerald Medallion"/>

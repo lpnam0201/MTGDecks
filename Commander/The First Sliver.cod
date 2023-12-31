@@ -4,6 +4,114 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="The First Sliver"/>
+        <card number="1" name="Maelstrom Nexus"/>
+        <card number="1" name="Ignite the Future"/>
+        <card number="1" name="Striking Sliver"/>
+        <card number="1" name="Emergent Ultimatum"/>
+        <card number="1" name="Descendants' Path"/>
+        <card number="1" name="Constricting Sliver"/>
+        <card number="1" name="Megantic Sliver"/>
+        <card number="1" name="Sliver Hivelord"/>
+        <card number="1" name="Synapse Sliver"/>
+        <card number="1" name="Brood Sliver"/>
+        <card number="1" name="Bonescythe Sliver"/>
+        <card number="1" name="Regal Sliver"/>
+        <card number="1" name="Taunting Sliver"/>
+        <card number="1" name="Shifting Sliver"/>
+        <card number="1" name="Capricious Sliver"/>
+        <card number="1" name="Cleaving Sliver"/>
+        <card number="1" name="Bonesplitter Sliver"/>
+        <card number="1" name="Spiteful Sliver"/>
+        <card number="1" name="Homing Sliver"/>
+        <card number="1" name="Hollowhead Sliver"/>
+        <card number="1" name="Syphon Sliver"/>
+        <card number="1" name="Necrotic Sliver"/>
+        <card number="1" name="Firewake Sliver"/>
+        <card number="1" name="Harmonic Sliver"/>
+        <card number="1" name="Crystalline Sliver"/>
+        <card number="1" name="Hibernation Sliver"/>
+        <card number="1" name="Cloudshredder Sliver"/>
+        <card number="1" name="Sinew Sliver"/>
+        <card number="1" name="Sentinel Sliver"/>
+        <card number="1" name="Winged Sliver"/>
+        <card number="1" name="Diffusion Sliver"/>
+        <card number="1" name="Two-Headed Sliver"/>
+        <card number="1" name="Quick Sliver"/>
+        <card number="1" name="Gemhide Sliver"/>
+        <card number="1" name="Hatchery Sliver"/>
+        <card number="1" name="Venom Sliver"/>
+        <card number="1" name="Manaweft Sliver"/>
+        <card number="1" name="Clot Sliver"/>
+        <card number="1" name="Crypt Sliver"/>
+        <card number="1" name="Galerider Sliver"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Bring to Light"/>
+        <card number="1" name="Iridian Maelstrom"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="4" name="Forest"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="The World Tree"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Rocky Tar Pit"/>
+        <card number="1" name="Flood Plain"/>
+        <card number="1" name="Mountain Valley"/>
+        <card number="1" name="Grasslands"/>
+        <card number="1" name="Bad River"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Tangled Islet"/>
+        <card number="1" name="Sacred Peaks"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="1" name="Consuming Tide"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Unite the Coalition"/>
+        <card number="1" name="Endless Detour"/>
+        <card number="1" name="Sultai Charm"/>
+    </zone>
+    <zone name="side">
         <card number="1" name="Rukarumel, Biologist"/>
+        <card number="1" name="Basal Sliver"/>
+        <card number="1" name="Dormant Sliver"/>
+        <card number="1" name="Blur Sliver"/>
+        <card number="1" name="Striking Sliver"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Brilliant Ultimatum"/>
+        <card number="1" name="Sliver Legion"/>
+        <card number="1" name="Might Sliver"/>
+        <card number="1" name="Guff Rewrites History"/>
+        <card number="1" name="Unite the Coalition"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Consuming Tide"/>
+        <card number="1" name="Audacious Swap"/>
+        <card number="1" name="Bant Charm"/>
     </zone>
 </cockatrice_deck>

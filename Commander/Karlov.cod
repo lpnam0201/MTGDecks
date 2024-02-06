@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Karlov</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Liesa, Shroud of Dusk"/>
+        <card number="1" name="Resplendent Angel"/>
+        <card number="1" name="Valkyrie Harbinger"/>
+    </zone>
+</cockatrice_deck>

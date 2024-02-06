@@ -4,172 +4,116 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Liesa, Shroud of Dusk"/>
-        <card number="1" name="Utter End"/>
-        <card number="1" name="Mortify"/>
-        <card number="1" name="Ghostly Prison"/>
-        <card number="1" name="Generous Gift"/>
-        <card number="1" name="Austere Command"/>
-        <card number="1" name="Fumigate"/>
-        <card number="1" name="Cleansing Nova"/>
-        <card number="1" name="Sanguine Bond"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Orzhov Signet"/>
-        <card number="1" name="Talisman of Hierarchy"/>
-        <card number="1" name="Thought Vessel"/>
-        <card number="1" name="Prismatic Lens"/>
-        <card number="1" name="Mind Stone"/>
-        <card number="1" name="Star Compass"/>
-        <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Vizkopa Guildmage"/>
-        <card number="1" name="Read the Bones"/>
-        <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Ambition's Cost"/>
-        <card number="1" name="Ancient Craving"/>
-        <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Temple of Silence"/>
-        <card number="1" name="Orzhov Basilica"/>
-        <card number="1" name="Caves of Koilos"/>
-        <card number="1" name="Myriad Landscape"/>
-        <card number="11" name="Plains"/>
-        <card number="11" name="Swamp"/>
-        <card number="1" name="Tragic Arrogance"/>
-        <card number="1" name="Mother of Runes"/>
-        <card number="1" name="Disenchant"/>
-        <card number="1" name="Poison the Cup"/>
-        <card number="1" name="Silent Arbiter"/>
-        <card number="1" name="Valorous Stance"/>
-        <card number="1" name="Despark"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Return to Dust"/>
-        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
-        <card number="1" name="Rhox Faithmender"/>
-        <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Path to Exile"/>
-        <card number="1" name="Inkshield"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Norn's Annex"/>
+        <card number="1" name="Promise of Loyalty"/>
+        <card number="1" name="Weathered Wayfarer"/>
         <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Angelsong"/>
         <card number="1" name="Mandate of Peace"/>
-        <card number="1" name="Sublime Exhalation"/>
-        <card number="1" name="Shatter the Sky"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Isolated Chapel"/>
-        <card number="1" name="Vault of Champions"/>
-        <card number="1" name="Fetid Heath"/>
-        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Coalition Relic"/>
         <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="10" name="Swamp"/>
+        <card number="10" name="Plains"/>
+        <card number="1" name="Restless Fortress"/>
+        <card number="1" name="Shambling Vent"/>
         <card number="1" name="Shineshadow Snarl"/>
-        <card number="1" name="Marsh Flats"/>
-        <card number="1" name="Loyal Subordinate"/>
-        <card number="1" name="Indulging Patrician"/>
-        <card number="1" name="Gray Merchant of Asphodel"/>
-        <card number="1" name="Agent of the Shadow Thieves"/>
-        <card number="1" name="Flaming Fist"/>
-        <card number="1" name="Duelist's Heritage"/>
-        <card number="1" name="Soul Shatter"/>
-        <card number="1" name="Fraying Omnipotence"/>
-        <card number="1" name="Make an Example"/>
-        <card number="1" name="Blood Pact"/>
-        <card number="1" name="Settle the Wreckage"/>
-        <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Court of Ambition"/>
-        <card number="1" name="Court of Grace"/>
-        <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Kambal, Consul of Allocation"/>
-        <card number="1" name="Pontiff of Blight"/>
-        <card number="1" name="Life Insurance"/>
-        <card number="1" name="Sarevok, Deathbringer"/>
-        <card number="1" name="Astarion, the Decadent"/>
-        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Concealed Courtyard"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Sunlit Marsh"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sword of Forge and Frontier"/>
+        <card number="1" name="Sword of War and Peace"/>
+        <card number="1" name="Sword of Hearth and Home"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Rug of Smothering"/>
+        <card number="1" name="Ardenn, Intrepid Archaeologist"/>
+        <card number="1" name="Austere Command"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Deafening Silence"/>
-        <card number="2" name="Light of Promise"/>
-        <card number="1" name="Revitalize"/>
-        <card number="2" name="Ashes of the Abhorrent"/>
-        <card number="1" name="Boon Reflection"/>
-        <card number="1" name="Bolas's Citadel"/>
-        <card number="1" name="Marchesa's Decree"/>
-        <card number="1" name="Revenge of Ravens"/>
-        <card number="1" name="Final Payment"/>
-        <card number="1" name="Court of Ambition"/>
-        <card number="1" name="Kambal, Consul of Allocation"/>
-        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
-        <card number="1" name="Marauding Blight-Priest"/>
-        <card number="1" name="Drana's Emissary"/>
-        <card number="1" name="Bloodthirsty Aerialist"/>
-        <card number="1" name="Ajani's Pridemate"/>
-        <card number="1" name="Angel of Vitality"/>
-        <card number="1" name="Austere Command"/>
-        <card number="1" name="Hushbringer"/>
-        <card number="1" name="Starnheim Aspirant"/>
-        <card number="1" name="Hissing Miasma"/>
-        <card number="1" name="Consecrate // Consume"/>
-        <card number="2" name="Indulging Patrician"/>
-        <card number="1" name="Griffin Aerie"/>
-        <card number="2" name="Charcoal Diamond"/>
-        <card number="2" name="Marble Diamond"/>
-        <card number="1" name="Vampire Nighthawk"/>
-        <card number="1" name="Defiant Bloodlord"/>
-        <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Silversmote Ghoul"/>
-        <card number="1" name="Heliod's Intervention"/>
-        <card number="1" name="Invoke the Divine"/>
-        <card number="1" name="Dawn of Hope"/>
-        <card number="1" name="Angel of Serenity"/>
-        <card number="1" name="Kunoros, Hound of Athreos"/>
-        <card number="1" name="Return to Dust"/>
-        <card number="1" name="Sundering Titan"/>
-        <card number="1" name="Plains"/>
-        <card number="1" name="Swamp"/>
-        <card number="1" name="Crush Contraband"/>
-        <card number="1" name="Darksteel Mutation"/>
-        <card number="1" name="Dire Tactics"/>
-        <card number="1" name="Well of Lost Dreams"/>
-        <card number="1" name="Whispersilk Cloak"/>
-        <card number="1" name="Fireshrieker"/>
-        <card number="1" name="Hero's Blade"/>
-        <card number="1" name="Inquisitor's Flail"/>
-        <card number="1" name="Blackblade Reforged"/>
-        <card number="1" name="Armillary Sphere"/>
-        <card number="1" name="Archaeomancer's Map"/>
-        <card number="1" name="Mask of Memory"/>
-        <card number="1" name="Maul of the Skyclaves"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Angelic Accord"/>
-        <card number="1" name="Battle Mastery"/>
-        <card number="1" name="Glistening Oil"/>
-        <card number="2" name="Greed"/>
-        <card number="1" name="Phyresis"/>
-        <card number="1" name="Rampage of the Valkyries"/>
-        <card number="1" name="Underworld Connections"/>
-        <card number="1" name="Duelist's Heritage"/>
-        <card number="1" name="Breena, the Demagogue"/>
-        <card number="1" name="Crashing Drawbridge"/>
-        <card number="1" name="Silverblade Paladin"/>
-        <card number="1" name="Rebuff the Wicked"/>
-        <card number="1" name="Tainted Strike"/>
-        <card number="1" name="Emerge Unscathed"/>
-        <card number="1" name="Crib Swap"/>
-        <card number="2" name="Firja's Retribution"/>
-        <card number="1" name="Oblation"/>
-        <card number="1" name="Fracture"/>
+        <card number="1" name="Suture Priest"/>
+        <card number="2" name="Painful Quandary"/>
+        <card number="2" name="Exsanguinate"/>
+        <card number="2" name="Debt to the Deathless"/>
         <card number="1" name="Single Combat"/>
-        <card number="1" name="Snowfield Sinkhole"/>
-        <card number="1" name="Scoured Barrens"/>
-        <card number="1" name="Orzhov Guildgate"/>
-        <card number="1" name="Forsaken Sanctuary"/>
-        <card number="1" name="Thriving Heath"/>
-        <card number="1" name="Thriving Moor"/>
-        <card number="1" name="Silent Clearing"/>
-        <card number="1" name="Silverquill Campus"/>
+        <card number="1" name="Vizkopa Guildmage"/>
+        <card number="1" name="Valkyrie Harbinger"/>
+        <card number="1" name="Kunoros, Hound of Athreos"/>
+        <card number="1" name="Indulging Patrician"/>
+        <card number="1" name="Drana and Linvala"/>
+        <card number="1" name="Amalia Benavides Aguirre"/>
+        <card number="1" name="Twilight Prophet"/>
+        <card number="1" name="Resplendent Angel"/>
+        <card number="1" name="Life Insurance"/>
+        <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Rug of Smothering"/>
+        <card number="1" name="Elspeth's Talent"/>
+        <card number="1" name="Liliana's Talent"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Gatewatch Beacon"/>
+        <card number="1" name="The Chain Veil"/>
+        <card number="1" name="Ajani Steadfast"/>
+        <card number="1" name="Ashiok, Wicked Manipulator"/>
+        <card number="1" name="Elspeth, Sun's Champion"/>
+        <card number="1" name="Gideon Blackblade"/>
+        <card number="1" name="Gideon Jura"/>
+        <card number="1" name="Gideon of the Trials"/>
+        <card number="1" name="Karn, Living Legacy"/>
+        <card number="1" name="Kaya the Inexorable"/>
+        <card number="1" name="Kaya, Intangible Slayer"/>
+        <card number="1" name="Ob Nixilis Reignited"/>
+        <card number="1" name="Sorin, Grim Nemesis"/>
+        <card number="1" name="Sorin, Solemn Visitor"/>
+        <card number="1" name="Tevesh Szat, Doom of Fools"/>
+        <card number="1" name="Teyo, Geometric Tactician"/>
+        <card number="1" name="The Eternal Wanderer"/>
+        <card number="1" name="The Wanderer"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Vraska, Betrayal's Sting"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Deploy the Gatewatch"/>
+        <card number="1" name="Drown in Ichor"/>
+        <card number="1" name="Primevals' Glorious Rebirth"/>
+        <card number="1" name="Settle the Score"/>
+        <card number="1" name="The Elderspell"/>
+        <card number="1" name="Triumphant Reckoning"/>
+        <card number="1" name="Yawgmoth's Vile Offering"/>
+        <card number="1" name="Urza's Ruinous Blast"/>
+        <card number="1" name="Semester's End"/>
+        <card number="1" name="Oath of Gideon"/>
+        <card number="1" name="Urza Assembles the Titans"/>
         <card number="1" name="Elspeth Conquers Death"/>
-        <card number="1" name="Eidolon of Rhetoric"/>
-        <card number="1" name="Rule of Law"/>
-        <card number="1" name="Archon of Emeria"/>
+        <card number="1" name="Onakke Oathkeeper"/>
+        <card number="1" name="Lae'zel, Vlaakith's Champion"/>
         <card number="1" name="The Eldest Reborn"/>
-        <card number="1" name="Hour of Revelation"/>
+        <card number="1" name="Invasion of Tolvada"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Nils, Discipline Enforcer"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Blind Obedience"/>
+        <card number="1" name="Tragic Arrogance"/>
     </zone>
 </cockatrice_deck>

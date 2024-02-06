@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Niv Parun Clone</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Supplant Form"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Firemind Vessel"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Relic of Legends"/>
+        <card number="1" name="Skyclave Relic"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Obsidian Obelisk"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Izzet Charm"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="You Come to a River"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Quick Study"/>
+        <card number="1" name="Chemister's Insight"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Prismari Command"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Mnemonic Deluge"/>
+        <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Wash Away"/>
+        <card number="1" name="Stubborn Denial"/>
+        <card number="1" name="Starstorm"/>
+        <card number="1" name="Behold the Multiverse"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Saheeli's Artistry"/>
+        <card number="1" name="Clone Legion"/>
+        <card number="1" name="See Double"/>
+        <card number="1" name="Elminster's Simulacrum"/>
+        <card number="1" name="Memory Deluge"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Unsummon"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Decanter of Endless Water"/>
+        <card number="1" name="Consider"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="9" name="Island"/>
+        <card number="9" name="Mountain"/>
+        <card number="1" name="Silverbluff Bridge"/>
+        <card number="1" name="Stormcarved Coast"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Molten Tributary"/>
+        <card number="1" name="Wandering Fumarole"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Volatile Fjord"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Restless Spire"/>
+        <card number="1" name="Cascade Bluffs"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Elminster's Simulacrum"/>
+        <card number="1" name="The Locust God"/>
+        <card number="1" name="Highland Lake"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Prismari Campus"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Island"/>
+    </zone>
+</cockatrice_deck>

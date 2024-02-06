@@ -11,7 +11,6 @@
         <card number="1" name="Rakdos Signet"/>
         <card number="1" name="Patron of the Vein"/>
         <card number="1" name="Sanctum Seeker"/>
-        <card number="1" name="Malakir Bloodwitch"/>
         <card number="1" name="Champion of Dusk"/>
         <card number="1" name="Stromkirk Captain"/>
         <card number="1" name="Necropolis Regent"/>
@@ -87,6 +86,7 @@
         <card number="1" name="Bringer of the Last Gift"/>
         <card number="1" name="Bloodletter of Aclazotz"/>
         <card number="1" name="Bitter Triumph"/>
+        <card number="1" name="&quot;Blood Artist's Very Large Son&quot;"/>
     </zone>
     <zone name="side">
         <card number="1" name="Anger"/>
@@ -237,5 +237,6 @@
         <card number="1" name="Sol Ring"/>
         <card number="2" name="Vito, Thorn of the Dusk Rose"/>
         <card number="1" name="Chainer, Nightmare Adept"/>
+        <card number="1" name="Malakir Bloodwitch"/>
     </zone>
 </cockatrice_deck>

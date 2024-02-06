@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Miirym, Sentinel Wyrm"/>
-        <card number="1" name="Thrakkus the Butcher"/>
         <card number="1" name="Scourge of Valkas"/>
         <card number="1" name="Atarka, World Render"/>
         <card number="1" name="Wrathful Red Dragon"/>
@@ -41,13 +40,11 @@
         <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Atsushi, the Blazing Sky"/>
         <card number="1" name="Scourge of the Throne"/>
-        <card number="1" name="Skyline Despot"/>
         <card number="1" name="Terror of Mount Velus"/>
         <card number="1" name="Tyrant's Familiar"/>
         <card number="1" name="Ancient Bronze Dragon"/>
         <card number="1" name="Circuitous Route"/>
         <card number="1" name="Ignite the Future"/>
-        <card number="1" name="Memory Deluge"/>
         <card number="1" name="Farsight Ritual"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Dragon Tempest"/>
@@ -91,6 +88,9 @@
         <card number="1" name="Wash Away"/>
         <card number="1" name="Resculpt"/>
         <card number="1" name="Kura, the Boundless Sky"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Memory Deluge"/>
     </zone>
     <zone name="side">
         <card number="2" name="Sapphire Dragon // Psionic Pulse"/>
@@ -129,5 +129,8 @@
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="See Double"/>
+        <card number="1" name="Memory Deluge"/>
+        <card number="1" name="Skyline Despot"/>
+        <card number="1" name="Thrakkus the Butcher"/>
     </zone>
 </cockatrice_deck>

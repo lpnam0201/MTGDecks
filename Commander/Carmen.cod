@@ -55,7 +55,6 @@
         <card number="1" name="Hellish Rebuke"/>
         <card number="1" name="Hostile Negotiations"/>
         <card number="1" name="Rowan's Grim Search"/>
-        <card number="1" name="Make an Example"/>
         <card number="1" name="Morbid Opportunist"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Ornithopter of Paradise"/>
@@ -85,6 +84,7 @@
         <card number="1" name="Invasion of Tolvada"/>
         <card number="1" name="The Cruelty of Gix"/>
         <card number="1" name="Priest of Fell Rites"/>
+        <card number="1" name="Promise of Loyalty"/>
     </zone>
     <zone name="side">
         <card number="1" name="Liesa, Shroud of Dusk"/>
@@ -94,5 +94,6 @@
         <card number="1" name="Junji, the Midnight Sky"/>
         <card number="1" name="Mangara, the Diplomat"/>
         <card number="1" name="Gix's Command"/>
+        <card number="1" name="Make an Example"/>
     </zone>
 </cockatrice_deck>

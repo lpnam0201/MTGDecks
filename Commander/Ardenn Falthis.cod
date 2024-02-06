@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ardenn Falthis</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ardenn, Intrepid Archaeologist"/>
+        <card number="1" name="Falthis, Shadowcat Familiar"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Viridian Longbow"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Heavenly Blademaster"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Forge Anew"/>
+        <card number="1" name="Sword of Once and Future"/>
+        <card number="1" name="Sword of Hearth and Home"/>
+        <card number="1" name="Sword of War and Peace"/>
+        <card number="1" name="Sword of Forge and Frontier"/>
+        <card number="1" name="Puresteel Paladin"/>
+        <card number="1" name="Colossus Hammer"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Sword of Vengeance"/>
+        <card number="1" name="Thran Power Suit"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Armored Skyhunter"/>
+        <card number="1" name="Halvar, God of Battle"/>
+        <card number="1" name="Relic Seeker"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Mithril Coat"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Haunted Cloak"/>
+        <card number="1" name="Kaldra Compleat"/>
+        <card number="1" name="Hammer of Nazahn"/>
+        <card number="1" name="Bloodforged Battle-Axe"/>
+        <card number="1" name="Maul of the Skyclaves"/>
+        <card number="1" name="Sting, the Glinting Dagger"/>
+        <card number="1" name="Champion's Helm"/>
+        <card number="1" name="Mirror Shield"/>
+        <card number="1" name="Mask of Avacyn"/>
+        <card number="1" name="Pact Weapon"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Blacksmith's Skill"/>
+        <card number="1" name="Loran's Escape"/>
+        <card number="1" name="Surge of Salvation"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Poison the Cup"/>
+        <card number="1" name="Crushing Disappointment"/>
+        <card number="1" name="Demon's Due"/>
+        <card number="1" name="Blood Pact"/>
+        <card number="1" name="Chariot of Victory"/>
+        <card number="1" name="Bitter Triumph"/>
+        <card number="1" name="Hostile Negotiations"/>
+        <card number="1" name="Rowan's Grim Search"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Dark Bargain"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="10" name="Plains"/>
+        <card number="10" name="Swamp"/>
+        <card number="1" name="Vault of the Archangel"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Sunlit Marsh"/>
+        <card number="1" name="Shambling Vent"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Concealed Courtyard"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Hero's Heirloom"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Trailblazer's Torch"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Slash the Ranks"/>
+        <card number="1" name="Expel the Interlopers"/>
+        <card number="1" name="Mask of Griselbrand"/>
+    </zone>
+</cockatrice_deck>

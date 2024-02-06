@@ -93,9 +93,9 @@
         <card number="1" name="Hallowed Spiritkeeper"/>
         <card number="1" name="Kitchen Finks"/>
         <card number="1" name="Safehold Elite"/>
-        <card number="1" name="Ozolith, the Shattered Spire"/>
         <card number="1" name="Benevolent Bodyguard"/>
         <card number="1" name="Selvala, Explorer Returned"/>
+        <card number="1" name="Ascent of the Worthy"/>
     </zone>
     <zone name="side">
         <card number="1" name="Ashnod's Altar"/>
@@ -179,7 +179,7 @@
         <card number="1" name="Kitchen Finks"/>
         <card number="1" name="Safehold Elite"/>
         <card number="1" name="Caller of the Claw"/>
-        <card number="1" name="Ozolith, the Shattered Spire"/>
+        <card number="2" name="Ozolith, the Shattered Spire"/>
         <card number="1" name="Banisher Priest"/>
         <card number="1" name="Spore Frog"/>
         <card number="1" name="Ophiomancer"/>

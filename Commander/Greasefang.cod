@@ -6,11 +6,8 @@
         <card number="1" name="Greasefang, Okiba Boss"/>
         <card number="1" name="Bitter Triumph"/>
         <card number="1" name="Oswald Fiddlebender"/>
-        <card number="1" name="Sram, Senior Edificer"/>
-        <card number="1" name="Reckoner's Bargain"/>
         <card number="1" name="Sanwell, Avenger Ace"/>
         <card number="1" name="Oriq Loremage"/>
-        <card number="1" name="Aeronaut Admiral"/>
         <card number="1" name="Parhelion II"/>
         <card number="1" name="Smuggler's Copter"/>
         <card number="1" name="Surgehacker Mech"/>
@@ -26,13 +23,11 @@
         <card number="1" name="Nautiloid Ship"/>
         <card number="1" name="Mighty Servant of Leuk-o"/>
         <card number="1" name="Bomat Bazaar Barge"/>
-        <card number="1" name="Bartolomé del Presidio"/>
         <card number="1" name="Conqueror's Galleon"/>
         <card number="1" name="Raiders' Karve"/>
         <card number="1" name="Smuggler's Buggy"/>
         <card number="1" name="Mysterious Limousine"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Cultivator's Caravan"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Talisman of Hierarchy"/>
@@ -40,23 +35,18 @@
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Deadly Dispute"/>
         <card number="1" name="Seasoned Hallowblade"/>
-        <card number="1" name="Currency Converter"/>
         <card number="1" name="Ribskiff"/>
         <card number="1" name="Stitcher's Supplier"/>
-        <card number="1" name="Mech Hangar"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Hostile Negotiations"/>
         <card number="1" name="Rowan's Grim Search"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Utter End"/>
         <card number="1" name="Plumb the Forbidden"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Vile Entomber"/>
-        <card number="1" name="Dockside Chef"/>
-        <card number="1" name="Fain, the Broker"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Command Tower"/>
         <card number="10" name="Swamp"/>
@@ -85,6 +75,16 @@
         <card number="1" name="Liquimetal Torque"/>
         <card number="1" name="Cataclysmic Gearhulk"/>
         <card number="1" name="The Eternal Wanderer"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Blind Obedience"/>
+        <card number="1" name="Kunoros, Hound of Athreos"/>
+        <card number="1" name="Drana and Linvala"/>
+        <card number="1" name="Windborn Muse"/>
+        <card number="1" name="Phyrexian Censor"/>
+        <card number="1" name="Archon of Emeria"/>
+        <card number="1" name="Alms Collector"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Rug of Smothering"/>
     </zone>
     <zone name="side">
         <card number="1" name="Armix, Filigree Thrasher"/>
@@ -117,5 +117,16 @@
         <card number="1" name="Deathbringer Regent"/>
         <card number="1" name="Tragic Arrogance"/>
         <card number="1" name="Single Combat"/>
+        <card number="1" name="Mech Hangar"/>
+        <card number="1" name="Currency Converter"/>
+        <card number="1" name="Cultivator's Caravan"/>
+        <card number="1" name="Aeronaut Admiral"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Bartolomé del Presidio"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Fain, the Broker"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Dockside Chef"/>
+        <card number="1" name="Reckoner's Bargain"/>
     </zone>
 </cockatrice_deck>

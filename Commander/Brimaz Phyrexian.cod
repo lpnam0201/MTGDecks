@@ -15,8 +15,6 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Talisman of Hierarchy"/>
-        <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Diabolic Intent"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Infernal Grasp"/>
@@ -43,7 +41,6 @@
         <card number="8" name="Swamp"/>
         <card number="8" name="Plains"/>
         <card number="1" name="Ashnod's Altar"/>
-        <card number="1" name="Demonic Bargain"/>
         <card number="1" name="Read the Bones"/>
         <card number="1" name="Throne of Geth"/>
         <card number="1" name="Everflowing Chalice"/>
@@ -57,9 +54,7 @@
         <card number="1" name="Bloated Processor"/>
         <card number="1" name="Anguished Unmaking"/>
         <card number="1" name="Norn's Inquisitor"/>
-        <card number="1" name="Blade Splicer"/>
         <card number="1" name="Karn's Bastion"/>
-        <card number="1" name="Staff of Compleation"/>
         <card number="1" name="Sheoldred, Whispering One"/>
         <card number="1" name="Ria Ivor, Bane of Bladehold"/>
         <card number="1" name="Mite Overseer"/>
@@ -68,34 +63,39 @@
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Plague Myr"/>
         <card number="1" name="Phyrexian Delver"/>
-        <card number="1" name="Strionic Resonator"/>
-        <card number="1" name="Lithoform Engine"/>
         <card number="1" name="Blight Titan"/>
         <card number="1" name="Kinzu of the Bleak Coven"/>
         <card number="1" name="Elesh Norn"/>
         <card number="1" name="Terror of Towashi"/>
-        <card number="1" name="Haunting Voyage"/>
         <card number="1" name="Oswald Fiddlebender"/>
         <card number="1" name="Pyre of Heroes"/>
         <card number="1" name="Infectious Inquiry"/>
         <card number="1" name="Vulpine Harvester"/>
-        <card number="1" name="Conjurer's Closet"/>
-        <card number="1" name="Teleportation Circle"/>
         <card number="1" name="Despark"/>
         <card number="1" name="White Sun's Twilight"/>
-        <card number="1" name="Basilica Shepherd"/>
         <card number="1" name="Norn's Choirmaster"/>
-        <card number="1" name="Eerie Interlude"/>
-        <card number="1" name="Cosmic Intervention"/>
-        <card number="1" name="Lae'zel's Acrobatics"/>
         <card number="1" name="Phyrexian Rager"/>
+        <card number="1" name="Bone Shredder"/>
+        <card number="1" name="Deadly Dispute"/>
+        <card number="1" name="Costly Plunder"/>
+        <card number="1" name="Fanatical Offering"/>
+        <card number="1" name="Soul of New Phyrexia"/>
+        <card number="1" name="Attentive Skywarden"/>
+        <card number="1" name="Skithiryx, the Blight Dragon"/>
+        <card number="1" name="Phyresis Outbreak"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Horn of the Mark"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Marionette Master"/>
+        <card number="1" name="Invasion of Tolvada"/>
     </zone>
     <zone name="side">
         <card number="2" name="Swamp"/>
         <card number="1" name="Plains"/>
         <card number="1" name="Phyrexian Rager"/>
         <card number="1" name="Iron Apprentice"/>
-        <card number="2" name="Staff of Compleation"/>
+        <card number="3" name="Staff of Compleation"/>
         <card number="1" name="Phyrexian Altar"/>
         <card number="3" name="Sheoldred's Headcleaver"/>
         <card number="1" name="Scheming Aspirant"/>
@@ -129,8 +129,8 @@
         <card number="1" name="Treasure Keeper"/>
         <card number="1" name="Zenith Chronicler"/>
         <card number="2" name="Norn's Inquisitor"/>
-        <card number="2" name="Lithoform Engine"/>
-        <card number="2" name="Strionic Resonator"/>
+        <card number="3" name="Lithoform Engine"/>
+        <card number="3" name="Strionic Resonator"/>
         <card number="1" name="Losheel, Clockwork Scholar"/>
         <card number="1" name="Clever Concealment"/>
         <card number="2" name="Akroma's Will"/>
@@ -187,7 +187,7 @@
         <card number="1" name="Leaden Myr"/>
         <card number="1" name="Drown in Ichor"/>
         <card number="1" name="Mirror Entity"/>
-        <card number="2" name="Teleportation Circle"/>
+        <card number="3" name="Teleportation Circle"/>
         <card number="1" name="Mind Stone"/>
         <card number="2" name="Unwinding Clock"/>
         <card number="1" name="Sculpted Perfection"/>
@@ -204,7 +204,7 @@
         <card number="1" name="Sheoldred"/>
         <card number="1" name="Mondrak, Glory Dominus"/>
         <card number="1" name="Ichor Rats"/>
-        <card number="1" name="Conjurer's Closet"/>
+        <card number="2" name="Conjurer's Closet"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Breach the Multiverse"/>
@@ -215,5 +215,15 @@
         <card number="1" name="Glorious Protector"/>
         <card number="1" name="Viscera Seer"/>
         <card number="1" name="Far Traveler"/>
+        <card number="1" name="Basilica Shepherd"/>
+        <card number="1" name="Cosmic Intervention"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Lae'zel's Acrobatics"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Norn's Choirmaster"/>
+        <card number="1" name="Blade Splicer"/>
+        <card number="1" name="Haunting Voyage"/>
     </zone>
 </cockatrice_deck>

@@ -60,7 +60,6 @@
         <card number="1" name="Noble Heritage"/>
         <card number="1" name="Nils, Discipline Enforcer"/>
         <card number="1" name="Orzhov Advokist"/>
-        <card number="1" name="Breena, the Demagogue"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Command Tower"/>
@@ -87,6 +86,7 @@
         <card number="1" name="Karmic Guide"/>
         <card number="1" name="Reveillark"/>
         <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Tarrian's Soulcleaver"/>
     </zone>
     <zone name="side">
         <card number="1" name="Massacre Girl"/>
@@ -105,5 +105,6 @@
         <card number="1" name="Cordial Vampire"/>
         <card number="1" name="Smuggler's Share"/>
         <card number="1" name="Cataclysmic Gearhulk"/>
+        <card number="1" name="Breena, the Demagogue"/>
     </zone>
 </cockatrice_deck>

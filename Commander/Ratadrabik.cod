@@ -18,13 +18,11 @@
         <card number="1" name="Drana and Linvala"/>
         <card number="1" name="Promise of Aclazotz // Foul Rebirth"/>
         <card number="1" name="Rootborn Defenses"/>
-        <card number="1" name="Commissar Severina Raine"/>
         <card number="1" name="Ayli, Eternal Pilgrim"/>
         <card number="1" name="Liesa, Shroud of Dusk"/>
         <card number="1" name="Aron, Benalia's Ruin"/>
         <card number="1" name="Bartolomé del Presidio"/>
         <card number="1" name="Jirina, Dauntless General"/>
-        <card number="1" name="Denethor, Ruling Steward"/>
         <card number="1" name="Neva, Stalked by Nightmares"/>
         <card number="1" name="Gonti, Lord of Luxury"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
@@ -35,7 +33,6 @@
         <card number="1" name="Erebos, Bleak-Hearted"/>
         <card number="1" name="Fain, the Broker"/>
         <card number="1" name="Eight-and-a-Half-Tails"/>
-        <card number="1" name="Minthara, Merciless Soul"/>
         <card number="1" name="Invasion of Fiora"/>
         <card number="1" name="Sigrid, God-Favored"/>
         <card number="1" name="Ashnod, Flesh Mechanist"/>
@@ -51,16 +48,62 @@
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Honor-Worn Shaku"/>
         <card number="1" name="Heroes' Podium"/>
-        <card number="1" name="Gothmog, Morgul Lieutenant"/>
         <card number="1" name="Invasion of Tolvada"/>
-        <card number="1" name="Call of the Ring"/>
-        <card number="1" name="Boromir, Warden of the Tower"/>
-        <card number="1" name="Witch-king of Angmar"/>
-        <card number="1" name="Gollum, Patient Plotter"/>
-        <card number="1" name="War of the Last Alliance"/>
-        <card number="1" name="Samwise the Stouthearted"/>
+        <card number="1" name="Braids, Arisen Nightmare"/>
+        <card number="1" name="Drivnod, Carnage Dominus"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Wake the Dead"/>
+        <card number="1" name="Ravos, Soultender"/>
+        <card number="1" name="Heliod, God of the Sun"/>
+        <card number="1" name="God-Eternal Bontu"/>
+        <card number="1" name="God-Eternal Oketra"/>
+        <card number="1" name="Spirit-Sister's Call"/>
+        <card number="1" name="Carmen, Cruel Skymarcher"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Stroke of Midnight"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Fanatical Offering"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Gisa, Glorious Resurrector"/>
+        <card number="10" name="Swamp"/>
+        <card number="10" name="Plains"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Shambling Vent"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Vault of the Archangel"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Sunlit Marsh"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Concealed Courtyard"/>
+        <card number="1" name="Path of Ancestry"/>
     </zone>
     <zone name="side">
         <card number="1" name="Ravos, Soultender"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Boromir, Warden of the Tower"/>
+        <card number="1" name="Samwise the Stouthearted"/>
+        <card number="1" name="Witch-king of Angmar"/>
+        <card number="1" name="Commissar Severina Raine"/>
+        <card number="1" name="Denethor, Ruling Steward"/>
+        <card number="1" name="Gollum, Patient Plotter"/>
+        <card number="1" name="Gothmog, Morgul Lieutenant"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="War of the Last Alliance"/>
+        <card number="1" name="Call of the Ring"/>
+        <card number="1" name="Erebos, God of the Dead"/>
+        <card number="1" name="Oketra the True"/>
+        <card number="1" name="Rally the Ancestors"/>
+        <card number="1" name="Minthara, Merciless Soul"/>
+        <card number="1" name="Invasion of Fiora"/>
+        <card number="1" name="Invasion of Tolvada"/>
     </zone>
 </cockatrice_deck>

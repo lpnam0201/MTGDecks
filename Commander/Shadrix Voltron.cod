@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Shadrix</deckname>
+    <deckname>Shadrix Voltron</deckname>
     <comments></comments>
     <zone name="main">
         <card number="1" name="Shadrix Silverquill"/>
@@ -8,8 +8,13 @@
         <card number="1" name="Felidar Retreat"/>
         <card number="1" name="Cathars' Crusade"/>
         <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Luminarch Aspirant"/>
+        <card number="1" name="Blacksmith's Skill"/>
         <card number="1" name="Surge of Salvation"/>
+        <card number="1" name="Loran's Escape"/>
         <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Citadel Siege"/>
+        <card number="1" name="Basri's Lieutenant"/>
         <card number="1" name="Elenda, the Dusk Rose"/>
         <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Knight of the White Orchid"/>
@@ -50,24 +55,36 @@
         <card number="10" name="Plains"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Astarion's Thirst"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Expel the Interlopers"/>
         <card number="1" name="Austere Command"/>
+        <card number="1" name="Blackblade Reforged"/>
         <card number="1" name="Sword of War and Peace"/>
         <card number="1" name="Prismatic Lens"/>
         <card number="1" name="Brave the Elements"/>
+        <card number="1" name="Mithril Coat"/>
+        <card number="1" name="Darksteel Plate"/>
         <card number="1" name="Invasion of Gobakhan"/>
+        <card number="1" name="Slash the Ranks"/>
         <card number="1" name="Bastion Protector"/>
         <card number="1" name="Elspeth, Sun's Champion"/>
         <card number="1" name="The Eternal Wanderer"/>
         <card number="1" name="Oreskos Explorer"/>
+        <card number="1" name="Champion's Helm"/>
         <card number="1" name="Mandate of Peace"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Mirror Shield"/>
+        <card number="1" name="Ardenn, Intrepid Archaeologist"/>
+        <card number="1" name="Forge Anew"/>
+        <card number="1" name="Relic Seeker"/>
+        <card number="1" name="Halvar, God of Battle"/>
+        <card number="1" name="Éowyn, Lady of Rohan"/>
+        <card number="1" name="Cliffside Rescuer"/>
+        <card number="1" name="Selfless Samurai"/>
         <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Puresteel Paladin"/>
         <card number="1" name="Weathered Wayfarer"/>
-        <card number="1" name="Invasion of Tolvada"/>
-        <card number="1" name="Deathbringer Liege"/>
-        <card number="1" name="Cleansing Nova"/>
-        <card number="1" name="Illustrious Wanderglyph"/>
-        <card number="1" name="Welcoming Vampire"/>
-        <card number="1" name="Master of Ceremonies"/>
+        <card number="1" name="Mask of Avacyn"/>
     </zone>
     <zone name="side">
         <card number="2" name="Elite Scaleguard"/>
@@ -100,28 +117,5 @@
         <card number="1" name="Utter End"/>
         <card number="1" name="Marble Diamond"/>
         <card number="1" name="Charcoal Diamond"/>
-        <card number="1" name="Blackblade Reforged"/>
-        <card number="1" name="Champion's Helm"/>
-        <card number="1" name="Darksteel Plate"/>
-        <card number="1" name="Key to the City"/>
-        <card number="1" name="Mask of Avacyn"/>
-        <card number="1" name="Mirror Shield"/>
-        <card number="1" name="Mithril Coat"/>
-        <card number="1" name="Ardenn, Intrepid Archaeologist"/>
-        <card number="1" name="Basri's Lieutenant"/>
-        <card number="1" name="Cliffside Rescuer"/>
-        <card number="1" name="Halvar, God of Battle"/>
-        <card number="1" name="Luminarch Aspirant"/>
-        <card number="1" name="Puresteel Paladin"/>
-        <card number="1" name="Relic Seeker"/>
-        <card number="1" name="Selfless Samurai"/>
-        <card number="1" name="Éowyn, Lady of Rohan"/>
-        <card number="1" name="Citadel Siege"/>
-        <card number="1" name="Forge Anew"/>
-        <card number="1" name="Blacksmith's Skill"/>
-        <card number="1" name="Loran's Escape"/>
-        <card number="1" name="Dawn Charm"/>
-        <card number="1" name="Expel the Interlopers"/>
-        <card number="1" name="Slash the Ranks"/>
     </zone>
 </cockatrice_deck>

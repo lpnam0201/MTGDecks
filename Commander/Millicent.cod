@@ -45,7 +45,6 @@
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Sakashima's Will"/>
         <card number="1" name="Moorland Haunt"/>
-        <card number="1" name="Soulherder"/>
         <card number="1" name="Coat of Arms"/>
         <card number="1" name="Mirrorhall Mimic"/>
         <card number="1" name="Dovin's Veto"/>
@@ -62,7 +61,6 @@
         <card number="1" name="Drumbellower"/>
         <card number="1" name="Wand of the Worldsoul"/>
         <card number="1" name="Flockchaser Phantom"/>
-        <card number="1" name="Horn of the Mark"/>
         <card number="1" name="Eerie Interlude"/>
         <card number="1" name="Herald's Horn"/>
         <card number="1" name="Staggering Insight"/>
@@ -71,12 +69,9 @@
         <card number="1" name="Ethereal Valkyrie"/>
         <card number="1" name="Vega, the Watcher"/>
         <card number="1" name="Spectral Shepherd"/>
-        <card number="1" name="Rescuer Chwinga"/>
         <card number="1" name="Wash Away"/>
         <card number="1" name="Unwind"/>
         <card number="1" name="Valorous Stance"/>
-        <card number="1" name="Bident of Thassa"/>
-        <card number="1" name="Reconnaissance Mission"/>
         <card number="1" name="Twilight Drover"/>
         <card number="1" name="Spectral Sailor"/>
         <card number="1" name="Curiosity"/>
@@ -85,6 +80,11 @@
         <card number="1" name="True Conviction"/>
         <card number="1" name="Ice Out"/>
         <card number="1" name="Abuelo, Ancestral Echo"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Final-Word Phantom"/>
+        <card number="1" name="Mind Stone"/>
     </zone>
     <zone name="side">
         <card number="1" name="Negate"/>
@@ -133,7 +133,7 @@
         <card number="1" name="Twinblade Geist"/>
         <card number="2" name="Unbreakable Formation"/>
         <card number="1" name="Verity Circle"/>
-        <card number="3" name="Bident of Thassa"/>
+        <card number="4" name="Bident of Thassa"/>
         <card number="1" name="Make a Stand"/>
         <card number="1" name="Curse of the Swine"/>
         <card number="2" name="Ao, the Dawn Sky"/>
@@ -155,7 +155,7 @@
         <card number="2" name="Niblis of the Urn"/>
         <card number="4" name="Fellwar Stone"/>
         <card number="2" name="Forbidding Spirit"/>
-        <card number="3" name="Soulherder"/>
+        <card number="4" name="Soulherder"/>
         <card number="1" name="Benevolent Offering"/>
         <card number="1" name="Reflections of Littjara"/>
         <card number="1" name="Moorland Haunt"/>
@@ -171,7 +171,7 @@
         <card number="5" name="Island"/>
         <card number="2" name="Confounding Conundrum"/>
         <card number="1" name="Scavenger Grounds"/>
-        <card number="3" name="Reconnaissance Mission"/>
+        <card number="4" name="Reconnaissance Mission"/>
         <card number="4" name="Ingenious Mastery"/>
         <card number="2" name="Austere Command"/>
         <card number="1" name="Rootborn Defenses"/>
@@ -179,7 +179,7 @@
         <card number="1" name="Makindi Stampede"/>
         <card number="2" name="Brago, King Eternal"/>
         <card number="4" name="Aetherspouts"/>
-        <card number="2" name="Rescuer Chwinga"/>
+        <card number="3" name="Rescuer Chwinga"/>
         <card number="1" name="Dorothea, Vengeful Victim"/>
         <card number="1" name="Anafenza, Kin-Tree Spirit"/>
         <card number="3" name="Force of Virtue"/>
@@ -271,5 +271,6 @@
         <card number="1" name="Spectral Sailor"/>
         <card number="1" name="Synthetic Destiny"/>
         <card number="1" name="Mischievous Catgeist"/>
+        <card number="1" name="Horn of the Mark"/>
     </zone>
 </cockatrice_deck>

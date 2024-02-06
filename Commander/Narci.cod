@@ -17,7 +17,6 @@
         <card number="1" name="Elspeth Conquers Death"/>
         <card number="1" name="The Mending of Dominaria"/>
         <card number="1" name="The Cruelty of Gix"/>
-        <card number="1" name="The Long Reach of Night"/>
         <card number="1" name="Binding the Old Gods"/>
         <card number="1" name="Phyrexian Scriptures"/>
         <card number="1" name="The Princess Takes Flight"/>
@@ -39,7 +38,6 @@
         <card number="1" name="Carmen, Cruel Skymarcher"/>
         <card number="1" name="Sevinne's Reclamation"/>
         <card number="1" name="Duneblast"/>
-        <card number="1" name="Satsuki, the Living Lore"/>
         <card number="1" name="Weaver of Harmony"/>
         <card number="1" name="Sythis, Harvest's Hand"/>
         <card number="1" name="Eidolon of Blossoms"/>
@@ -55,18 +53,12 @@
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Cosmic Rebirth"/>
         <card number="1" name="Eerie Ultimatum"/>
         <card number="1" name="Open the Vaults"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Starfield of Nyx"/>
         <card number="1" name="Grasp of Fate"/>
-        <card number="1" name="Mind Stone"/>
         <card number="1" name="Serra Paragon"/>
-        <card number="1" name="Tamiyo's Safekeeping"/>
-        <card number="1" name="Blacksmith's Skill"/>
-        <card number="1" name="Utter End"/>
         <card number="1" name="Nature's Lore"/>
         <card number="4" name="Forest"/>
         <card number="4" name="Plains"/>
@@ -94,10 +86,30 @@
         <card number="1" name="Brushland"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Ashiok's Reaper"/>
+        <card number="1" name="Elvish Archivist"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Firja's Retribution"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Historian's Boon"/>
+        <card number="1" name="History of Benalia"/>
+        <card number="1" name="Fall of the Thran"/>
     </zone>
     <zone name="side">
         <card number="1" name="Krosan Drover"/>
         <card number="1" name="Isolated Chapel"/>
         <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Satyr Enchanter"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Blacksmith's Skill"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Boseiju Reaches Skyward"/>
+        <card number="1" name="The Long Reach of Night"/>
+        <card number="1" name="Cosmic Rebirth"/>
+        <card number="1" name="Satsuki, the Living Lore"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Carmen, Cruel Skymarcher"/>
     </zone>
 </cockatrice_deck>

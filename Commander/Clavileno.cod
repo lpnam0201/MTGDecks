@@ -8,9 +8,7 @@
         <card number="1" name="Bartolomé del Presidio"/>
         <card number="1" name="Blade of the Bloodchief"/>
         <card number="1" name="Blood Artist"/>
-        <card number="1" name="Bloodghast"/>
         <card number="1" name="Bloodline Necromancer"/>
-        <card number="1" name="Bloodtracker"/>
         <card number="1" name="Butcher of Malakir"/>
         <card number="1" name="Carmen, Cruel Skymarcher"/>
         <card number="1" name="Champion of Dusk"/>
@@ -37,18 +35,15 @@
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Nighthawk Scavenger"/>
-        <card number="1" name="Oathsworn Vampire"/>
         <card number="1" name="Olivia's Wrath"/>
         <card number="1" name="Order of Sacred Dusk"/>
         <card number="1" name="Orzhov Basilica"/>
         <card number="1" name="Orzhov Signet"/>
-        <card number="1" name="Pact of the Serpent"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Patron of the Vein"/>
         <card number="10" name="Plains"/>
         <card number="1" name="Promise of Aclazotz // Foul Rebirth"/>
         <card number="1" name="Redemption Choir"/>
-        <card number="1" name="Return to Dust"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Sanctum Seeker"/>
         <card number="1" name="Shineshadow Snarl"/>
@@ -68,7 +63,6 @@
         <card number="1" name="Windbrisk Heights"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
         <card number="1" name="Preacher of the Schism"/>
-        <card number="1" name="Anowon, the Ruin Sage"/>
         <card number="1" name="Concealed Courtyard"/>
         <card number="1" name="Fetid Heath"/>
         <card number="1" name="Caves of Koilos"/>
@@ -78,13 +72,19 @@
         <card number="1" name="Despark"/>
         <card number="1" name="Corrupted Conviction"/>
         <card number="1" name="Deadly Dispute"/>
-        <card number="1" name="Edgar, Charmed Groom"/>
         <card number="1" name="Markov Baron"/>
         <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Malakir Bloodwitch"/>
         <card number="1" name="Drana and Linvala"/>
         <card number="1" name="Queen's Bay Paladin"/>
         <card number="1" name="Generous Gift"/>
+        <card number="1" name="Silversmote Ghoul"/>
+        <card number="1" name="Fanatical Offering"/>
+        <card number="1" name="Timothar, Baron of Bats"/>
+        <card number="1" name="Vraan, Executioner Thane"/>
+        <card number="1" name="Vampire of the Dire Moon"/>
+        <card number="1" name="Poison the Cup"/>
+        <card number="1" name="Bloodghast"/>
     </zone>
     <zone name="side">
         <card number="1" name="Charismatic Conqueror"/>
@@ -108,5 +108,14 @@
         <card number="1" name="Falkenrath Noble"/>
         <card number="1" name="Vona, Butcher of Magan"/>
         <card number="1" name="Final Payment"/>
+        <card number="1" name="Edgar, Charmed Groom"/>
+        <card number="1" name="Veinwitch Coven"/>
+        <card number="1" name="Twisted Embrace"/>
+        <card number="1" name="Pact of the Serpent"/>
+        <card number="1" name="Bloodghast"/>
+        <card number="1" name="Anowon, the Ruin Sage"/>
+        <card number="1" name="Oathsworn Vampire"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Bloodtracker"/>
     </zone>
 </cockatrice_deck>

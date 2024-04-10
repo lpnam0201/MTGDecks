@@ -4,21 +4,14 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Isshin, Two Heavens as One"/>
-        <card number="1" name="Etali, Primal Storm"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Krenko, Tin Street Kingpin"/>
-        <card number="1" name="Rabble Rousing"/>
-        <card number="1" name="Brutal Hordechief"/>
-        <card number="1" name="Mardu Ascendancy"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Skyknight Vanguard"/>
-        <card number="1" name="Karazikar, the Eye Tyrant"/>
         <card number="1" name="Hellrider"/>
         <card number="1" name="Adriana, Captain of the Guard"/>
         <card number="1" name="Laelia, the Blade Reforged"/>
         <card number="1" name="Hammers of Moradin"/>
-        <card number="1" name="Ankle Shanker"/>
-        <card number="1" name="Mardu Strike Leader"/>
         <card number="1" name="Commander Liara Portyr"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Rakdos Signet"/>
@@ -27,7 +20,6 @@
         <card number="1" name="Talisman of Indulgence"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Talisman of Hierarchy"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Fellwar Stone"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Vengeful Ancestor"/>
@@ -35,17 +27,14 @@
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Bedevil"/>
         <card number="1" name="Boros Charm"/>
-        <card number="1" name="Response // Resurgence"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Arid Mesa"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Blood Crypt"/>
         <card number="1" name="Bloodstained Mire"/>
         <card number="1" name="Caves of Koilos"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Fetid Heath"/>
@@ -54,8 +43,8 @@
         <card number="1" name="Marsh Flats"/>
         <card number="1" name="Nomad Outpost"/>
         <card number="4" name="Plains"/>
-        <card number="5" name="Mountain"/>
-        <card number="5" name="Swamp"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Swamp"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Rugged Prairie"/>
         <card number="1" name="Sacred Foundry"/>
@@ -65,43 +54,56 @@
         <card number="1" name="Spectator Seating"/>
         <card number="1" name="Vault of Champions"/>
         <card number="1" name="Wild Magic Surge"/>
-        <card number="1" name="Clamor Shaman"/>
-        <card number="1" name="Galepowder Mage"/>
         <card number="1" name="Tectonic Giant"/>
         <card number="1" name="Chaos Channeler"/>
-        <card number="1" name="Fireflux Squad"/>
         <card number="1" name="Adeline, Resplendent Cathar"/>
-        <card number="1" name="Karlach, Fury of Avernus"/>
-        <card number="1" name="Cavalcade of Calamity"/>
         <card number="1" name="Skyhunter Strike Force"/>
-        <card number="1" name="Grave Titan"/>
         <card number="1" name="Captain Lannery Storm"/>
         <card number="1" name="Hero of Bladehold"/>
         <card number="1" name="Leonin Warleader"/>
-        <card number="1" name="Breena, the Demagogue"/>
         <card number="1" name="Goldspan Dragon"/>
-        <card number="1" name="Coastline Marauders"/>
-        <card number="1" name="Guardian Scalelord"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Legion Loyalty"/>
+        <card number="1" name="Aurelia, the Law Above"/>
+        <card number="1" name="Otharri, Suns' Glory"/>
+        <card number="1" name="Zoyowa's Justice"/>
+        <card number="1" name="Nadaar, Selfless Paladin"/>
+        <card number="1" name="Triumphant Adventurer"/>
+        <card number="1" name="Decadent Dragon // Expensive Taste"/>
+        <card number="1" name="Winota, Joiner of Forces"/>
+        <card number="1" name="Anim Pakal, Thousandth Moon"/>
+        <card number="1" name="Breeches, Eager Pillager"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Preacher of the Schism"/>
+        <card number="1" name="Make an Example"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Mardu Ascendancy"/>
+        <card number="1" name="Mythos of Snapdax"/>
+        <card number="1" name="Brave the Elements"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Rabble Rousing"/>
+        <card number="1" name="Duke Ulder Ravengard"/>
+        <card number="1" name="Warchief Giant"/>
+        <card number="1" name="Herald of the Host"/>
+        <card number="1" name="Firbolg Flutist"/>
+        <card number="1" name="Tiamat's Fanatics"/>
+        <card number="1" name="Elturel Survivors"/>
+        <card number="1" name="Winds of Abandon"/>
         <card number="1" name="Curse of Opulence"/>
-        <card number="1" name="Curse of Disturbance"/>
-        <card number="1" name="Anguished Unmaking"/>
-        <card number="1" name="Clever Concealment"/>
-        <card number="1" name="Akroma's Will"/>
-        <card number="1" name="Tibalt's Trickery"/>
-        <card number="1" name="Shiny Impetus"/>
-        <card number="1" name="Myrel, Shield of Argive"/>
     </zone>
     <zone name="side">
         <card number="1" name="Inkshield"/>
         <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Tempered in Solitude"/>
+        <card number="2" name="Tempered in Solitude"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Wear // Tear"/>
-        <card number="1" name="Tibalt's Trickery"/>
+        <card number="2" name="Tibalt's Trickery"/>
         <card number="2" name="Audacious Thief"/>
-        <card number="2" name="Coastline Marauders"/>
+        <card number="3" name="Coastline Marauders"/>
         <card number="1" name="Raiyuu, Storm's Edge"/>
         <card number="1" name="Unquenchable Fury"/>
         <card number="1" name="Chaos Channeler"/>
@@ -109,15 +111,15 @@
         <card number="1" name="Tectonic Giant"/>
         <card number="1" name="Utter End"/>
         <card number="1" name="Tome of Legends"/>
-        <card number="1" name="Emberwilde Captain"/>
+        <card number="2" name="Emberwilde Captain"/>
         <card number="1" name="Taranika, Akroan Veteran"/>
-        <card number="1" name="Shiny Impetus"/>
+        <card number="2" name="Shiny Impetus"/>
         <card number="1" name="Hooded Blightfang"/>
         <card number="1" name="Kazuul, Tyrant of the Cliffs"/>
         <card number="1" name="Herald of the Host"/>
         <card number="2" name="Thundering Raiju"/>
-        <card number="2" name="Karlach, Fury of Avernus"/>
-        <card number="1" name="Breena, the Demagogue"/>
+        <card number="3" name="Karlach, Fury of Avernus"/>
+        <card number="2" name="Breena, the Demagogue"/>
         <card number="1" name="Firefist Striker"/>
         <card number="1" name="Elturel Survivors"/>
         <card number="1" name="Fey Steed"/>
@@ -134,7 +136,7 @@
         <card number="1" name="Greatsword of Tyr"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Niblis of the Urn"/>
-        <card number="1" name="Hammers of Moradin"/>
+        <card number="2" name="Hammers of Moradin"/>
         <card number="1" name="Mardu Roughrider"/>
         <card number="1" name="Master of Diversion"/>
         <card number="1" name="Triumphant Adventurer"/>
@@ -149,5 +151,47 @@
         <card number="1" name="Terminate"/>
         <card number="1" name="Territorial Hammerskull"/>
         <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Ankle Shanker"/>
+        <card number="1" name="Galepowder Mage"/>
+        <card number="1" name="Guardian Scalelord"/>
+        <card number="1" name="Karazikar, the Eye Tyrant"/>
+        <card number="1" name="Myrel, Shield of Argive"/>
+        <card number="1" name="Cavalcade of Calamity"/>
+        <card number="2" name="Curse of Disturbance"/>
+        <card number="2" name="Curse of Opulence"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Rabble Rousing"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Adeline, Resplendent Cathar"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Commander Liara Portyr"/>
+        <card number="2" name="Brutal Hordechief"/>
+        <card number="1" name="Aerial Surveyor"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Mardu Ascendancy"/>
+        <card number="1" name="Mardu Strike Leader"/>
+        <card number="1" name="Nahiri's Resolve"/>
+        <card number="1" name="Olivia, Crimson Bride"/>
+        <card number="1" name="Clamor Shaman"/>
+        <card number="1" name="Blind Obedience"/>
+        <card number="1" name="Response // Resurgence"/>
+        <card number="1" name="Fireflux Squad"/>
+        <card number="1" name="Redemption Choir"/>
+        <card number="1" name="Urabrask the Hidden"/>
+        <card number="1" name="Expel the Interlopers"/>
+        <card number="1" name="Cunning Rhetoric"/>
+        <card number="1" name="Carmen, Cruel Skymarcher"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Balor"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Agrus Kos, Spirit of Justice"/>
+        <card number="1" name="Gods Willing"/>
     </zone>
 </cockatrice_deck>

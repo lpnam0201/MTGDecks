@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Lavinia</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Lavinia, Foil to Conspiracy"/>
+        <card number="1" name="Tangletrove Kelp"/>
+        <card number="1" name="Cyberdrive Awakener"/>
+        <card number="1" name="Rise and Shine"/>
+        <card number="1" name="Thousand Moons Smithy"/>
+        <card number="1" name="Organic Extinction"/>
+        <card number="1" name="Academy Manufactor"/>
+        <card number="1" name="Disorder in the Court"/>
+        <card number="1" name="Erdwal Illuminator"/>
+        <card number="1" name="Confirm Suspicions"/>
+        <card number="1" name="Officious Interrogation"/>
+        <card number="1" name="Inspiring Statuary"/>
+        <card number="1" name="Alquist Proft, Master Sleuth"/>
+        <card number="1" name="Ethereal Investigator"/>
+        <card number="1" name="Follow the Bodies"/>
+        <card number="1" name="Forensic Gadgeteer"/>
+        <card number="1" name="Merchant of Truth"/>
+        <card number="1" name="Search the Premises"/>
+        <card number="1" name="Masterful Replication"/>
+    </zone>
+</cockatrice_deck>

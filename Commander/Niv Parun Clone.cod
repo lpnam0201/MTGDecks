@@ -23,7 +23,6 @@
         <card number="1" name="Obsidian Obelisk"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Opt"/>
-        <card number="1" name="Izzet Charm"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="You Come to a River"/>
@@ -47,8 +46,6 @@
         <card number="1" name="Windfall"/>
         <card number="1" name="Prismari Command"/>
         <card number="1" name="Mizzix's Mastery"/>
-        <card number="1" name="Mnemonic Deluge"/>
-        <card number="1" name="Soulfire Eruption"/>
         <card number="1" name="Unexpected Windfall"/>
         <card number="1" name="Big Score"/>
         <card number="1" name="Mystic Confluence"/>
@@ -59,7 +56,6 @@
         <card number="1" name="Behold the Multiverse"/>
         <card number="1" name="Stolen Identity"/>
         <card number="1" name="Saheeli's Artistry"/>
-        <card number="1" name="Clone Legion"/>
         <card number="1" name="See Double"/>
         <card number="1" name="Elminster's Simulacrum"/>
         <card number="1" name="Memory Deluge"/>
@@ -67,13 +63,11 @@
         <card number="1" name="Unsummon"/>
         <card number="1" name="Sphinx of the Second Sun"/>
         <card number="1" name="Decanter of Endless Water"/>
-        <card number="1" name="Consider"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Path of Ancestry"/>
-        <card number="9" name="Island"/>
-        <card number="9" name="Mountain"/>
-        <card number="1" name="Silverbluff Bridge"/>
+        <card number="10" name="Island"/>
+        <card number="10" name="Mountain"/>
         <card number="1" name="Stormcarved Coast"/>
         <card number="1" name="Training Center"/>
         <card number="1" name="Molten Tributary"/>
@@ -87,6 +81,10 @@
         <card number="1" name="Steam Vents"/>
         <card number="1" name="Restless Spire"/>
         <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Clone Legion"/>
+        <card number="1" name="Theoretical Duplication"/>
+        <card number="1" name="Double Vision"/>
     </zone>
     <zone name="side">
         <card number="1" name="Elminster's Simulacrum"/>
@@ -97,5 +95,13 @@
         <card number="1" name="Prismari Campus"/>
         <card number="1" name="Mountain"/>
         <card number="1" name="Island"/>
+        <card number="1" name="Consider"/>
+        <card number="1" name="Cackling Counterpart"/>
+        <card number="1" name="Clone Legion"/>
+        <card number="1" name="Mnemonic Deluge"/>
+        <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Silverbluff Bridge"/>
+        <card number="1" name="Izzet Charm"/>
+        <card number="1" name="Mizzix's Mastery"/>
     </zone>
 </cockatrice_deck>

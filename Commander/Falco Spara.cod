@@ -32,7 +32,6 @@
         <card number="1" name="Aven Courier"/>
         <card number="1" name="Park Heights Maverick"/>
         <card number="1" name="Brokers Confluence"/>
-        <card number="1" name="Gyre Sage"/>
         <card number="1" name="Leinore, Autumn Sovereign"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Farseek"/>
@@ -46,25 +45,17 @@
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Evolution Sage"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Vorel of the Hull Clade"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Boon of Safety"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Reject Imperfection"/>
-        <card number="1" name="Serum Snare"/>
         <card number="1" name="Family's Favor"/>
         <card number="1" name="Contractual Safeguard"/>
         <card number="1" name="Skyship Plunderer"/>
         <card number="1" name="Felidar Retreat"/>
         <card number="1" name="Primeval Protector"/>
-        <card number="1" name="Tezzeret's Gambit"/>
-        <card number="1" name="Explore"/>
-        <card number="1" name="Growth Spiral"/>
-        <card number="1" name="Hour of Revelation"/>
         <card number="1" name="Armored Scrapgorger"/>
         <card number="1" name="Noble Heritage"/>
-        <card number="1" name="Explorer's Scope"/>
         <card number="1" name="Temple of Enlightenment"/>
         <card number="1" name="Temple of Plenty"/>
         <card number="1" name="Temple of Mystery"/>
@@ -78,22 +69,31 @@
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Tangled Islet"/>
         <card number="1" name="Slippery Bogbonder"/>
-        <card number="1" name="Guardian Augmenter"/>
         <card number="1" name="Nils, Discipline Enforcer"/>
         <card number="1" name="Orzhov Advokist"/>
-        <card number="1" name="Bastion Protector"/>
-        <card number="1" name="Parcelbeast"/>
-        <card number="1" name="Wood Elves"/>
-        <card number="1" name="Springbloom Druid"/>
-        <card number="1" name="Topiary Stomper"/>
         <card number="1" name="Fight Rigging"/>
         <card number="1" name="Ruinous Intrusion"/>
         <card number="1" name="Hadana's Climb"/>
         <card number="1" name="Thundering Mightmare"/>
-        <card number="1" name="Sylvan Library"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Fortified Village"/>
-        <card number="1" name="Ozolith, the Shattered Spire"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Loyal Guardian"/>
+        <card number="1" name="Benevolent Hydra"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Kami of Whispered Hopes"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="1" name="Herald of Secret Streams"/>
+        <card number="1" name="Kalonian Hydra"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Three Visits"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lambholt Harrier"/>
@@ -113,7 +113,7 @@
         <card number="2" name="Brainstorm"/>
         <card number="2" name="Knight of Autumn"/>
         <card number="1" name="Evolution Sage"/>
-        <card number="1" name="Tezzeret's Gambit"/>
+        <card number="2" name="Tezzeret's Gambit"/>
         <card number="1" name="Tanazir Quandrix"/>
         <card number="1" name="Family's Favor"/>
         <card number="1" name="Damning Verdict"/>
@@ -125,7 +125,7 @@
         <card number="2" name="Supreme Verdict"/>
         <card number="1" name="Eternal Witness"/>
         <card number="2" name="Soulherder"/>
-        <card number="1" name="Gyre Sage"/>
+        <card number="2" name="Gyre Sage"/>
         <card number="1" name="Forest"/>
         <card number="2" name="Vega, the Watcher"/>
         <card number="1" name="Swift Reconfiguration"/>
@@ -145,7 +145,7 @@
         <card number="1" name="Rishkar, Peema Renegade"/>
         <card number="2" name="Scavenging Ooze"/>
         <card number="1" name="Smothering Tithe"/>
-        <card number="1" name="Sylvan Library"/>
+        <card number="2" name="Sylvan Library"/>
         <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Hopeful Initiate"/>
         <card number="1" name="Courser of Kruphix"/>
@@ -181,7 +181,7 @@
         <card number="2" name="Arcane Signet"/>
         <card number="1" name="Skyboon Evangelist"/>
         <card number="2" name="Cathars' Crusade"/>
-        <card number="1" name="Ozolith, the Shattered Spire"/>
+        <card number="2" name="Ozolith, the Shattered Spire"/>
         <card number="1" name="Simic Ascendancy"/>
         <card number="1" name="Akroma's Will"/>
         <card number="1" name="Kodama of the West Tree"/>
@@ -206,7 +206,7 @@
         <card number="1" name="Mikaeus, the Lunarch"/>
         <card number="1" name="Kami of Whispered Hopes"/>
         <card number="1" name="Hardened Scales"/>
-        <card number="1" name="Unbreakable Formation"/>
+        <card number="2" name="Unbreakable Formation"/>
         <card number="1" name="Bloated Contaminator"/>
         <card number="1" name="Contaminant Grafter"/>
         <card number="1" name="Unnatural Restoration"/>
@@ -256,5 +256,18 @@
         <card number="1" name="Enter the Unknown"/>
         <card number="1" name="Fortified Village"/>
         <card number="1" name="Ezuri, Stalker of Spheres"/>
+        <card number="1" name="Explorer's Scope"/>
+        <card number="1" name="Serum Snare"/>
+        <card number="1" name="Reject Imperfection"/>
+        <card number="1" name="Topiary Stomper"/>
+        <card number="1" name="Vorel of the Hull Clade"/>
+        <card number="1" name="Guardian Augmenter"/>
+        <card number="1" name="Bastion Protector"/>
+        <card number="1" name="Hour of Revelation"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Parcelbeast"/>
+        <card number="1" name="Explore"/>
     </zone>
 </cockatrice_deck>

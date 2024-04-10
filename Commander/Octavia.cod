@@ -5,18 +5,13 @@
     <zone name="main">
         <card number="1" name="Octavia, Living Thesis"/>
         <card number="1" name="Talrand, Sky Summoner"/>
-        <card number="1" name="Murmuring Mystic"/>
         <card number="1" name="Thought Scour"/>
-        <card number="1" name="Ponder"/>
-        <card number="1" name="Portent"/>
         <card number="1" name="Serum Visions"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Otherworldly Gaze"/>
         <card number="1" name="Curate"/>
         <card number="1" name="Opt"/>
         <card number="1" name="Frantic Search"/>
-        <card number="1" name="Archmage Emeritus"/>
-        <card number="1" name="Preordain"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Reality Shift"/>
@@ -25,65 +20,70 @@
         <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Thirst for Discovery"/>
         <card number="1" name="Ornithopter of Paradise"/>
-        <card number="1" name="Siren Stormtamer"/>
-        <card number="1" name="Wavebreak Hippocamp"/>
-        <card number="1" name="Archaeomancer"/>
-        <card number="1" name="Shipwreck Dowser"/>
         <card number="1" name="Mission Briefing"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Arcane Denial"/>
         <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Stubborn Denial"/>
-        <card number="1" name="Think Twice"/>
         <card number="1" name="Dig Through Time"/>
-        <card number="1" name="Walk the Aeons"/>
-        <card number="1" name="Karn's Temporal Sundering"/>
-        <card number="1" name="Part the Waterveil"/>
-        <card number="1" name="Alrund's Epiphany"/>
         <card number="1" name="Into the Roil"/>
-        <card number="1" name="Commit // Memory"/>
         <card number="1" name="Impulse"/>
         <card number="1" name="Deliberate"/>
-        <card number="1" name="Strategic Planning"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Deep Analysis"/>
         <card number="1" name="Chart a Course"/>
-        <card number="1" name="Candlekeep Inspiration"/>
-        <card number="1" name="Contingency Plan"/>
-        <card number="1" name="Solve the Equation"/>
-        <card number="1" name="Step Through"/>
-        <card number="1" name="Metallurgic Summonings"/>
-        <card number="1" name="Propaganda"/>
         <card number="1" name="Mystic Sanctuary"/>
-        <card number="1" name="Ghostly Pilferer"/>
-        <card number="1" name="Delay"/>
-        <card number="1" name="Disdainful Stroke"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="30" name="Island"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Spectral Sailor"/>
-        <card number="1" name="Faerie Formation"/>
-        <card number="1" name="Millikin"/>
-        <card number="1" name="Deranged Assistant"/>
-        <card number="1" name="The Magic Mirror"/>
-        <card number="1" name="Perpetual Timepiece"/>
         <card number="1" name="Anticipate"/>
-        <card number="1" name="Telling Time"/>
-        <card number="1" name="Shimmer of Possibility"/>
-        <card number="1" name="Skywise Teachings"/>
         <card number="1" name="Blink of an Eye"/>
+        <card number="1" name="Faerie Mastermind"/>
+        <card number="1" name="Flood of Tears"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Haughty Djinn"/>
+        <card number="1" name="Malcolm, Alluring Scoundrel"/>
+        <card number="1" name="Nadir Kraken"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Consider"/>
+        <card number="1" name="Intrude on the Mind"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Supplant Form"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Neutralize"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Elminster's Simulacrum"/>
+        <card number="1" name="Glimpse of Freedom"/>
+        <card number="1" name="Radical Idea"/>
+        <card number="1" name="Quick Study"/>
+        <card number="1" name="Ethereal Investigator"/>
+        <card number="1" name="Quicken"/>
+        <card number="1" name="Farsight Ritual"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Deekah, Fractal Theorist"/>
+        <card number="1" name="Metallurgic Summonings"/>
+        <card number="1" name="Chrome Host Seedshark"/>
+        <card number="1" name="Poppet Stitcher"/>
+        <card number="1" name="Shark Typhoon"/>
+        <card number="1" name="Moment of Truth"/>
+        <card number="1" name="Confounding Riddle"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Memory Deluge"/>
+        <card number="1" name="Vizier of Many Faces"/>
+        <card number="1" name="Chasm Skulker"/>
     </zone>
     <zone name="side">
         <card number="1" name="Ghostly Prison"/>
-        <card number="1" name="The Magic Mirror"/>
+        <card number="2" name="The Magic Mirror"/>
         <card number="1" name="Hullbreaker Horror"/>
         <card number="1" name="March of Swirling Mist"/>
         <card number="1" name="Teferi's Ageless Insight"/>
         <card number="1" name="Unwind"/>
         <card number="1" name="Island"/>
-        <card number="1" name="Chemister's Insight"/>
+        <card number="2" name="Chemister's Insight"/>
         <card number="1" name="Lose Focus"/>
         <card number="1" name="Wonder"/>
         <card number="1" name="Blighted Agent"/>
@@ -93,14 +93,73 @@
         <card number="1" name="Swarm Intelligence"/>
         <card number="1" name="Consider"/>
         <card number="1" name="Iymrith, Desert Doom"/>
-        <card number="1" name="Thieving Skydiver"/>
+        <card number="3" name="Thieving Skydiver"/>
         <card number="2" name="Winds of Rebuke"/>
         <card number="1" name="Lunar Mystic"/>
         <card number="1" name="Silundi Vision"/>
-        <card number="1" name="Bond of Insight"/>
+        <card number="2" name="Bond of Insight"/>
         <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Champion of Wits"/>
         <card number="1" name="Court of Cunning"/>
         <card number="1" name="Aetherspouts"/>
+        <card number="1" name="Deranged Assistant"/>
+        <card number="1" name="Faerie Formation"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Shipwreck Dowser"/>
+        <card number="1" name="Spectral Sailor"/>
+        <card number="1" name="Wavebreak Hippocamp"/>
+        <card number="1" name="Metallurgic Summonings"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Skywise Teachings"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Alrund's Epiphany"/>
+        <card number="1" name="Part the Waterveil"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Step Through"/>
+        <card number="1" name="Walk the Aeons"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Siren Stormtamer"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="2" name="Ghostly Pilferer"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Invasion of Segovia"/>
+        <card number="1" name="Merfolk Secretkeeper // Venture Deeper"/>
+        <card number="1" name="Faerie Slumber Party"/>
+        <card number="1" name="Cephalid Facetaker"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Millikin"/>
+        <card number="1" name="Picklock Prankster // Free the Fae"/>
+        <card number="1" name="Delay"/>
+        <card number="1" name="Countervailing Winds"/>
+        <card number="1" name="Think Twice"/>
+        <card number="1" name="Candlekeep Inspiration"/>
+        <card number="1" name="Distortion Strike"/>
+        <card number="1" name="Stubborn Denial"/>
+        <card number="1" name="Mercurial Spelldancer"/>
+        <card number="1" name="Storm Fleet Negotiator"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Telling Time"/>
+        <card number="1" name="Glimpse of Tomorrow"/>
+        <card number="1" name="Contingency Plan"/>
+        <card number="1" name="Shimmer of Possibility"/>
+        <card number="1" name="Thirst for Discovery"/>
+        <card number="1" name="Kitesail Larcenist"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Strategic Planning"/>
+        <card number="1" name="River's Rebuke"/>
+        <card number="2" name="Mind Flayer"/>
+        <card number="1" name="Vizier of Many Faces"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Drawn from Dreams"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Portent"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Consuming Tide"/>
+        <card number="1" name="Soaring Seacliff"/>
+        <card number="1" name="Whispering Wizard"/>
     </zone>
 </cockatrice_deck>

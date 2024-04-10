@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Bennie Bracks</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bennie Bracks, Zoologist"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Unexplained Absence"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Grand Crescendo"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Adeline, Resplendent Cathar"/>
+        <card number="1" name="Secure the Wastes"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Dictate of Heliod"/>
+        <card number="1" name="Intangible Virtue"/>
+        <card number="1" name="Commander's Insignia"/>
+        <card number="1" name="Thraben Doomsayer"/>
+        <card number="1" name="Expel the Interlopers"/>
+        <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Rumor Gatherer"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Legion Loyalty"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Herald of the Host"/>
+        <card number="1" name="Hammers of Moradin"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Surge of Salvation"/>
+        <card number="1" name="Increasing Devotion"/>
+        <card number="1" name="Rabble Rousing"/>
+        <card number="1" name="March of the Canonized"/>
+        <card number="1" name="Three Blind Mice"/>
+        <card number="1" name="Elspeth, Sun's Champion"/>
+        <card number="1" name="Castle Ardenvale"/>
+        <card number="1" name="Boss's Chauffeur"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Zeriam, Golden Wind"/>
+        <card number="30" name="Plains"/>
+        <card number="1" name="Windbrisk Heights"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Geist-Honored Monk"/>
+        <card number="1" name="Glorious Protector"/>
+        <card number="1" name="Evangel of Heliod"/>
+        <card number="1" name="Reverent Hoplite"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Force of Virtue"/>
+        <card number="1" name="In the Trenches"/>
+        <card number="1" name="Captain of the Watch"/>
+        <card number="1" name="Smuggler's Share"/>
+        <card number="1" name="Emeria Angel"/>
+        <card number="1" name="Illustrious Wanderglyph"/>
+        <card number="1" name="Defiler of Faith"/>
+        <card number="1" name="White Sun's Twilight"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Your Temple Is Under Attack"/>
+        <card number="1" name="Court Street Denizen"/>
+        <card number="1" name="Jazal Goldmane"/>
+        <card number="1" name="Intrepid Adversary"/>
+        <card number="1" name="Moonshaker Cavalry"/>
+        <card number="1" name="Wand of the Worldsoul"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Chant of Vitu-Ghazi"/>
+        <card number="1" name="Armed with Proof"/>
+        <card number="1" name="Search the Premises"/>
+        <card number="1" name="Benevolent Offering"/>
+        <card number="1" name="Discerning Financier"/>
+        <card number="1" name="Serene Sleuth"/>
+        <card number="1" name="Merchant of Truth"/>
+        <card number="1" name="Oblation"/>
+        <card number="1" name="Cut a Deal"/>
+        <card number="1" name="Heliod, God of the Sun"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Valor in Akros"/>
+        <card number="1" name="Angelic Exaltation"/>
+        <card number="1" name="Radiant Destiny"/>
+        <card number="1" name="Smuggler's Share"/>
+        <card number="1" name="Inspiring Leader"/>
+        <card number="1" name="Prismatic Strands"/>
+        <card number="1" name="Ghoulcaller Gisa"/>
+        <card number="1" name="Restoration Angel"/>
+        <card number="1" name="Distinguished Conjurer"/>
+        <card number="1" name="Lena, Selfless Champion"/>
+        <card number="1" name="Aerial Extortionist"/>
+        <card number="1" name="Bronzebeak Foragers"/>
+        <card number="1" name="Halo Fountain"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Your Temple Is Under Attack"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Prava of the Steel Legion"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Wojek Investigator"/>
+        <card number="1" name="By Invitation Only"/>
+        <card number="1" name="Goldnight Commander"/>
+        <card number="1" name="Mind Stone"/>
+    </zone>
+</cockatrice_deck>

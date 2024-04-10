@@ -3,80 +3,87 @@
     <deckname>Laelia</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Laelia, the Blade Reforged"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Wild-Magic Sorcerer"/>
-        <card number="1" name="Tavern Brawler"/>
-        <card number="1" name="Light Up the Stage"/>
-        <card number="1" name="Ignite the Future"/>
-        <card number="1" name="Valakut Exploration"/>
-        <card number="1" name="Tempered in Solitude"/>
-        <card number="1" name="Visions of Phyrexia"/>
-        <card number="1" name="Outpost Siege"/>
-        <card number="1" name="Etali, Primal Storm"/>
-        <card number="1" name="Urabrask the Hidden"/>
-        <card number="1" name="Urabrask, Heretic Praetor"/>
-        <card number="1" name="Furious Rise"/>
-        <card number="1" name="Kami of Celebration"/>
-        <card number="1" name="Akki Battle Squad"/>
-        <card number="1" name="Karlach, Fury of Avernus"/>
-        <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Jeska's Will"/>
-        <card number="1" name="Mind Stone"/>
-        <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Professional Face-Breaker"/>
-        <card number="1" name="Tectonic Giant"/>
-        <card number="1" name="Abrade"/>
-        <card number="1" name="Raze to the Ground"/>
-        <card number="1" name="Plargg and Nassari"/>
-        <card number="1" name="Birgi, God of Storytelling"/>
-        <card number="1" name="Passionate Archaeologist"/>
-        <card number="1" name="Nalfeshnee"/>
-        <card number="1" name="Keeper of Secrets"/>
-        <card number="1" name="Soul-Guide Lantern"/>
-        <card number="1" name="Syr Carah, the Bold"/>
-        <card number="1" name="Chaos Channeler"/>
-        <card number="1" name="Wand of Wonder"/>
-        <card number="1" name="Chaos Wand"/>
-        <card number="1" name="Prismatic Lens"/>
-        <card number="1" name="Defiler of Instinct"/>
-        <card number="1" name="Stolen Strategy"/>
-        <card number="1" name="Aurora Phoenix"/>
-        <card number="1" name="Fiery Confluence"/>
-        <card number="1" name="Dire Fleet Daredevil"/>
-        <card number="1" name="Bolt Bend"/>
-        <card number="1" name="Temur Battle Rage"/>
-        <card number="1" name="March of Reckless Joy"/>
-        <card number="1" name="Commune with Lava"/>
-        <card number="1" name="You Find Some Prisoners"/>
-        <card number="1" name="Volcanic Torrent"/>
-        <card number="1" name="Inspired Tinkering"/>
-        <card number="1" name="Creative Technique"/>
-        <card number="1" name="Beamtown Beatstick"/>
-        <card number="1" name="Chariot of Victory"/>
-        <card number="1" name="Tenza, Godo's Maul"/>
-        <card number="1" name="Hero's Heirloom"/>
-        <card number="1" name="Currency Converter"/>
-        <card number="1" name="Bag of Holding"/>
-        <card number="1" name="Share the Spoils"/>
-        <card number="1" name="Footfall Crater"/>
-        <card number="1" name="Chandra, Torch of Defiance"/>
-        <card number="1" name="Koth, Fire of Resistance"/>
-        <card number="1" name="Chandra, Pyromaster"/>
-        <card number="1" name="Raze the Effigy"/>
-        <card number="1" name="Embereth Shieldbreaker // Battle Display"/>
-        <card number="1" name="Bonecrusher Giant // Stomp"/>
-        <card number="1" name="Shredded Sails"/>
         <card number="30" name="Mountain"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Scavenger Grounds"/>
-        <card number="1" name="Field of Ruin"/>
-        <card number="1" name="Castle Embereth"/>
-        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Laelia, the Blade Reforged"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Zoyowa's Justice"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Light Up the Stage"/>
+        <card number="1" name="Wild-Magic Sorcerer"/>
+        <card number="1" name="Outpost Siege"/>
+        <card number="1" name="Visions of Phyrexia"/>
+        <card number="1" name="Tempered in Solitude"/>
+        <card number="1" name="Guild Artisan"/>
+        <card number="1" name="Tavern Brawler"/>
+        <card number="1" name="Tectonic Giant"/>
+        <card number="1" name="Chaos Channeler"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Fire Diamond"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Ignite the Future"/>
+        <card number="1" name="Volcanic Torrent"/>
+        <card number="1" name="Throes of Chaos"/>
+        <card number="1" name="Aurora Phoenix"/>
+        <card number="1" name="Trumpeting Carnosaur"/>
+        <card number="1" name="Hit the Mother Lode"/>
+        <card number="1" name="Hidden Volcano"/>
+        <card number="1" name="Etali's Favor"/>
+        <card number="1" name="Geological Appraiser"/>
+        <card number="1" name="Daring Discovery"/>
+        <card number="1" name="Connecting the Dots"/>
         <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Anzrag's Rampage"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Kami of Celebration"/>
+        <card number="1" name="Plargg and Nassari"/>
+        <card number="1" name="You Find Some Prisoners"/>
+        <card number="1" name="Guff Rewrites History"/>
+        <card number="1" name="Showstopping Surprise"/>
+        <card number="1" name="Dance with Calamity"/>
+        <card number="1" name="Soulfire Eruption"/>
+        <card number="1" name="Crash Through"/>
+        <card number="1" name="Fists of Flame"/>
+        <card number="1" name="Ancestral Anger"/>
+        <card number="1" name="Soul's Fire"/>
+        <card number="1" name="Fling"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Furious Rise"/>
+        <card number="1" name="Share the Spoils"/>
+        <card number="1" name="Stolen Strategy"/>
+        <card number="1" name="Footfall Crater"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Buried Treasure"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Patriar's Seal"/>
+        <card number="1" name="Urabrask the Hidden"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="Akki Battle Squad"/>
+        <card number="1" name="Goro-Goro, Disciple of Ryusei"/>
+        <card number="1" name="Scourge of the Throne"/>
+        <card number="1" name="Word of Seizing"/>
+        <card number="1" name="Audacious Swap"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Brotherhood's End"/>
-        <card number="1" name="Mizzium Mortars"/>
+        <card number="1" name="Chandra, Torch of Defiance"/>
+        <card number="1" name="Chimil, the Inner Sun"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Urabrask, Heretic Praetor"/>
+        <card number="1" name="Atsushi, the Blazing Sky"/>
+        <card number="1" name="Wrenn's Resolve"/>
+        <card number="1" name="Reckless Impulse"/>
+        <card number="1" name="Soul's Fire"/>
+        <card number="1" name="Anzrag's Rampage"/>
     </zone>
 </cockatrice_deck>

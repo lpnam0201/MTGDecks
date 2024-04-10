@@ -6,30 +6,19 @@
         <card number="1" name="Storvald, Frost Giant Jarl"/>
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Cold-Eyed Selkie"/>
-        <card number="1" name="Wild Beastmaster"/>
-        <card number="1" name="Cultivator of Blades"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Avacyn's Pilgrim"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Llanowar Elves"/>
-        <card number="1" name="Fyndhorn Elves"/>
-        <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Champion of Lambholt"/>
-        <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Migration Path"/>
-        <card number="1" name="Circuitous Route"/>
         <card number="1" name="Ilysian Caryatid"/>
-        <card number="1" name="Incubation Druid"/>
         <card number="1" name="Search for Tomorrow"/>
-        <card number="1" name="Explosive Vegetation"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Skycloud Expanse"/>
@@ -46,21 +35,12 @@
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Windfall"/>
         <card number="1" name="Canopy Vista"/>
-        <card number="1" name="Harmonize"/>
         <card number="1" name="Yavimaya Dryad"/>
         <card number="1" name="Command Beacon"/>
-        <card number="1" name="Marwyn, the Nurturer"/>
-        <card number="1" name="Smothering Tithe"/>
-        <card number="1" name="Sylvan Library"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Three Visits"/>
-        <card number="1" name="Viridian Joiner"/>
-        <card number="1" name="Heronblade Elite"/>
-        <card number="1" name="Akroma's Will"/>
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Excise the Imperfect"/>
         <card number="1" name="Spara's Headquarters"/>
         <card number="1" name="Brushland"/>
         <card number="1" name="Flooded Grove"/>
@@ -74,26 +54,46 @@
         <card number="1" name="Deserted Beach"/>
         <card number="1" name="Dreamroot Cascade"/>
         <card number="1" name="Plaza of Heroes"/>
-        <card number="1" name="Finale of Glory"/>
-        <card number="1" name="Selvala, Heart of the Wilds"/>
-        <card number="1" name="Kami of Whispered Hopes"/>
-        <card number="1" name="Tanuki Transplanter"/>
-        <card number="1" name="Cradle Clearcutter"/>
-        <card number="1" name="Kiora's Follower"/>
-        <card number="1" name="Runadi, Behemoth Caller"/>
-        <card number="1" name="Surrak and Goreclaw"/>
-        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
-        <card number="1" name="Pull from Tomorrow"/>
-        <card number="1" name="Stroke of Genius"/>
-        <card number="1" name="Chord of Calling"/>
-        <card number="1" name="Sphinx of the Second Sun"/>
-        <card number="1" name="Selvala, Explorer Returned"/>
-        <card number="1" name="Gwenna, Eyes of Gaea"/>
-        <card number="1" name="Gilanra, Caller of Wirewood"/>
         <card number="1" name="March of Swirling Mist"/>
-        <card number="1" name="Commit // Memory"/>
-        <card number="1" name="Vorinclex"/>
-        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Faerie Mastermind"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Knight of Autumn"/>
+        <card number="1" name="Doomskar Warrior"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="The Reality Chip"/>
+        <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Reflector Mage"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Malevolent Hermit"/>
+        <card number="1" name="Lavinia, Azorius Renegade"/>
+        <card number="1" name="Scheming Fence"/>
+        <card number="1" name="Emiel the Blessed"/>
+        <card number="1" name="Yasharn, Implacable Earth"/>
+        <card number="1" name="Master of Ceremonies"/>
+        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="1" name="Sigrid, God-Favored"/>
+        <card number="1" name="Inga and Esika"/>
+        <card number="1" name="Realm-Cloaked Giant // Cast Off"/>
+        <card number="1" name="Maraleaf Pixie"/>
+        <card number="1" name="Linvala, Shield of Sea Gate"/>
+        <card number="1" name="Dauntless Escort"/>
+        <card number="1" name="Koma, Cosmos Serpent"/>
+        <card number="1" name="Chulane, Teller of Tales"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Soulherder"/>
+        <card number="1" name="Brago, King Eternal"/>
+        <card number="1" name="Abuelo, Ancestral Echo"/>
+        <card number="1" name="Disorder in the Court"/>
+        <card number="1" name="Cyclone Summoner"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Lagrella, the Magpie"/>
     </zone>
     <zone name="side">
         <card number="1" name="Silverblade Paladin"/>
@@ -132,18 +132,18 @@
         <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Legion Loyalty"/>
-        <card number="1" name="Fact or Fiction"/>
+        <card number="2" name="Fact or Fiction"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Managorger Hydra"/>
+        <card number="2" name="Managorger Hydra"/>
         <card number="1" name="Tanazir Quandrix"/>
-        <card number="1" name="Kiora's Follower"/>
+        <card number="2" name="Kiora's Follower"/>
         <card number="1" name="Keeper of Fables"/>
-        <card number="1" name="Austere Command"/>
+        <card number="2" name="Austere Command"/>
         <card number="1" name="Biomass Mutation"/>
-        <card number="1" name="Selvala, Heart of the Wilds"/>
+        <card number="2" name="Selvala, Heart of the Wilds"/>
         <card number="1" name="Monologue Tax"/>
-        <card number="1" name="Tocasia's Welcome"/>
+        <card number="2" name="Tocasia's Welcome"/>
         <card number="1" name="Guardian Project"/>
         <card number="1" name="Pull from Eternity"/>
         <card number="1" name="Genesis Wave"/>
@@ -158,5 +158,63 @@
         <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Jin-Gitaxias, Core Augur"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Surrak and Goreclaw"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Stroke of Genius"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Viridian Joiner"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Marwyn, the Nurturer"/>
+        <card number="1" name="Heronblade Elite"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Runadi, Behemoth Caller"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Vorinclex"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Make a Stand"/>
+        <card number="1" name="Finale of Glory"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Cultivator of Blades"/>
+        <card number="1" name="Kami of Whispered Hopes"/>
+        <card number="1" name="Saryth, the Viper's Fang"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Migration Path"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Cradle Clearcutter"/>
+        <card number="1" name="Arasta of the Endless Web"/>
+        <card number="1" name="Wild Beastmaster"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Abuelo, Ancestral Echo"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Selvala, Explorer Returned"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="1" name="Tanuki Transplanter"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Farsight Ritual"/>
+        <card number="1" name="Cartographer's Hawk"/>
+        <card number="1" name="Gretchen Titchwillow"/>
+        <card number="1" name="Malcolm, Alluring Scoundrel"/>
+        <card number="1" name="Overcharged Amalgam"/>
+        <card number="1" name="Zimone, Quandrix Prodigy"/>
+        <card number="1" name="Den Protector"/>
+        <card number="2" name="Dauntless Dismantler"/>
+        <card number="1" name="Soulless Jailer"/>
+        <card number="1" name="Gilanra, Caller of Wirewood"/>
+        <card number="1" name="Gwenna, Eyes of Gaea"/>
+        <card number="1" name="Mirri, Weatherlight Duelist"/>
+        <card number="1" name="Runic Armasaur"/>
+        <card number="1" name="Zimone and Dina"/>
+        <card number="1" name="Veiled Ascension"/>
+        <card number="1" name="Siren Stormtamer"/>
     </zone>
 </cockatrice_deck>

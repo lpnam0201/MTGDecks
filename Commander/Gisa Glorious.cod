@@ -4,8 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Gisa, Glorious Resurrector"/>
-        <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Kaya's Ghostform"/>
         <card number="1" name="Fleshbag Marauder"/>
         <card number="1" name="Plaguecrafter"/>
         <card number="1" name="Gravelighter"/>
@@ -13,13 +11,11 @@
         <card number="1" name="Merciless Executioner"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Szat's Will"/>
-        <card number="1" name="Tergrid's Shadow"/>
         <card number="1" name="Tergrid, God of Fright"/>
         <card number="1" name="Harvester of Souls"/>
         <card number="1" name="Rankle, Master of Pranks"/>
         <card number="1" name="Murderous Rider // Swift End"/>
         <card number="1" name="Magus of the Abyss"/>
-        <card number="1" name="Shadowheart, Dark Justiciar"/>
         <card number="1" name="Disciple of Bolas"/>
         <card number="1" name="Overseer of the Damned"/>
         <card number="1" name="Ravenous Chupacabra"/>
@@ -34,19 +30,59 @@
         <card number="1" name="Succumb to Temptation"/>
         <card number="1" name="Body Count"/>
         <card number="1" name="Make an Example"/>
-        <card number="1" name="Victimize"/>
         <card number="1" name="Read the Bones"/>
         <card number="1" name="Gix's Command"/>
         <card number="1" name="Yahenni's Expertise"/>
         <card number="1" name="The Eldest Reborn"/>
         <card number="1" name="Invasion of Fiora"/>
         <card number="1" name="Ob Nixilis Reignited"/>
-        <card number="1" name="Tevesh Szat, Doom of Fools"/>
         <card number="1" name="Charcoal Diamond"/>
         <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Grim Haruspex"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Chain Devil"/>
+        <card number="1" name="Nightmare Shepherd"/>
+        <card number="1" name="Kinzu of the Bleak Coven"/>
+        <card number="1" name="Ghouls' Night Out"/>
+        <card number="1" name="Deadly Cover-Up"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Vat of Rebirth"/>
+        <card number="1" name="Tarrian's Journal"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Professor's Warning"/>
+        <card number="1" name="Battle-Rage Blessing"/>
+        <card number="1" name="Offer Immortality"/>
+        <card number="1" name="Armor of Shadows"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Invasion of Innistrad"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Lolth, Spider Queen"/>
+        <card number="1" name="Tevesh Szat, Doom of Fools"/>
+        <card number="1" name="Hidden Necropolis"/>
+        <card number="1" name="Black Sun's Twilight"/>
+        <card number="1" name="Hostile Negotiations"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Puppeteer Clique"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="30" name="Swamp"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Memorial to Folly"/>
     </zone>
     <zone name="side">
         <card number="1" name="Arrester's Admonition"/>
         <card number="1" name="Necrogen Communion"/>
+        <card number="1" name="Shadowheart, Dark Justiciar"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Tevesh Szat, Doom of Fools"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Tergrid's Shadow"/>
+        <card number="1" name="Swiftfoot Boots"/>
     </zone>
 </cockatrice_deck>

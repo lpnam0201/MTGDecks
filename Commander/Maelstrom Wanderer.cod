@@ -9,8 +9,6 @@
         <card number="1" name="Flamekin Herald"/>
         <card number="1" name="Genesis Ultimatum"/>
         <card number="1" name="Etali, Primal Storm"/>
-        <card number="1" name="Diluvian Primordial"/>
-        <card number="1" name="Molten Primordial"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Kodama's Reach"/>
@@ -21,28 +19,19 @@
         <card number="1" name="Sunbird's Invocation"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Kogla, the Titan Ape"/>
-        <card number="1" name="Krosan Grip"/>
         <card number="1" name="Unsummon"/>
         <card number="1" name="Harrow"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Explosive Vegetation"/>
         <card number="1" name="Verdant Mastery"/>
         <card number="1" name="Migration Path"/>
-        <card number="1" name="Brainstorm"/>
-        <card number="1" name="Ponder"/>
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Windfall"/>
-        <card number="1" name="Zendikar Resurgent"/>
-        <card number="1" name="Aggressive Mammoth"/>
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Greater Good"/>
-        <card number="1" name="Castle Garenbrig"/>
         <card number="1" name="Mosswort Bridge"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
@@ -56,37 +45,55 @@
         <card number="1" name="Shivan Reef"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Blighted Woodland"/>
-        <card number="9" name="Forest"/>
-        <card number="5" name="Mountain"/>
-        <card number="5" name="Island"/>
-        <card number="1" name="Highland Forest"/>
-        <card number="1" name="Volatile Fjord"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Island"/>
         <card number="1" name="Rimewood Falls"/>
         <card number="1" name="Chain Reaction"/>
-        <card number="1" name="All Is Dust"/>
         <card number="1" name="Roiling Regrowth"/>
         <card number="1" name="Circuitous Route"/>
         <card number="1" name="Bala Ged Recovery"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Grow from the Ashes"/>
         <card number="1" name="Vastwood Surge"/>
-        <card number="1" name="Hellkite Charger"/>
-        <card number="1" name="Terror of Mount Velus"/>
-        <card number="1" name="Savage Ventmaw"/>
         <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
-        <card number="1" name="Steel Hellkite"/>
-        <card number="1" name="Nylea's Forerunner"/>
-        <card number="1" name="Khenra Charioteer"/>
-        <card number="1" name="Rage Reflection"/>
-        <card number="1" name="Blood Mist"/>
-        <card number="1" name="Berserkers' Onslaught"/>
         <card number="1" name="See the Unwritten"/>
         <card number="1" name="Flood of Tears"/>
-        <card number="1" name="Vapor Snag"/>
-        <card number="1" name="String of Disappearances"/>
         <card number="1" name="Aurora Phoenix"/>
-        <card number="1" name="Moraug, Fury of Akoum"/>
-        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Wild-Magic Sorcerer"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Sweet-Gum Recluse"/>
+        <card number="1" name="Gwenna, Eyes of Gaea"/>
+        <card number="1" name="Surrak Dragonclaw"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Kessig Wolf Run"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Temur Ascendancy"/>
+        <card number="1" name="Audacious Swap"/>
+        <card number="1" name="Up the Beanstalk"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Vineglimmer Snarl"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Memory Deluge"/>
+        <card number="1" name="Simic Charm"/>
     </zone>
     <zone name="side">
         <card number="1" name="Avenger of Zendikar"/>
@@ -100,7 +107,7 @@
         <card number="1" name="Part the Waterveil"/>
         <card number="1" name="Greenwarden of Murasa"/>
         <card number="1" name="Shamanic Revelation"/>
-        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="2" name="Moraug, Fury of Akoum"/>
         <card number="1" name="Annoyed Altisaur"/>
         <card number="1" name="Aurora Phoenix"/>
         <card number="1" name="Etherium-Horn Sorcerer"/>
@@ -112,5 +119,38 @@
         <card number="1" name="Mana Geyser"/>
         <card number="1" name="Sanctum of Eternity"/>
         <card number="1" name="Hellkite Tyrant"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Khenra Charioteer"/>
+        <card number="1" name="Kogla, the Titan Ape"/>
+        <card number="1" name="Molten Primordial"/>
+        <card number="1" name="Nylea's Forerunner"/>
+        <card number="1" name="Savage Ventmaw"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Terror of Mount Velus"/>
+        <card number="1" name="Berserkers' Onslaught"/>
+        <card number="1" name="Blood Mist"/>
+        <card number="1" name="Rage Reflection"/>
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="String of Disappearances"/>
+        <card number="1" name="Vapor Snag"/>
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Ponder"/>
+        <card number="5" name="Forest"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Volatile Fjord"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Highland Forest"/>
+        <card number="1" name="Aggressive Mammoth"/>
+        <card number="1" name="Brainstorm"/>
     </zone>
 </cockatrice_deck>

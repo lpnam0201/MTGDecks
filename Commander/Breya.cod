@@ -1,8 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname></deckname>
+    <deckname>Breya</deckname>
     <comments></comments>
     <zone name="main">
         <card number="1" name="Breya, Etherium Shaper"/>
+        <card number="1" name="Inspiring Statuary"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Sai, Master Thopterist"/>
+        <card number="1" name="Jhoira, Weatherlight Captain"/>
+        <card number="1" name="Emry, Lurker of the Loch"/>
+        <card number="1" name="Marionette Master"/>
+        <card number="1" name="Thousand Moons Smithy"/>
+        <card number="1" name="Jan Jansen, Chaos Crafter"/>
+        <card number="1" name="Sharding Sphinx"/>
+        <card number="1" name="Disciple of the Vault"/>
+        <card number="1" name="Oswald Fiddlebender"/>
+        <card number="1" name="Mechanized Production"/>
+        <card number="1" name="Thought Monitor"/>
+        <card number="1" name="Organic Extinction"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Trading Post"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Kappa Cannoneer"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Spire of Industry"/>
+        <card number="1" name="Osgir, the Reconstructor"/>
+        <card number="1" name="Mycosynth Wellspring"/>
+        <card number="1" name="Digsite Engineer"/>
+        <card number="1" name="Coveted Jewel"/>
+        <card number="1" name="Silverbluff Bridge"/>
+        <card number="1" name="Rustvale Bridge"/>
+        <card number="1" name="Goldmire Bridge"/>
+        <card number="1" name="Mistvault Bridge"/>
+        <card number="1" name="Razortide Bridge"/>
+        <card number="1" name="Drossforge Bridge"/>
+        <card number="1" name="Thriving Moor"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Bluff"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Farsight Ritual"/>
+        <card number="1" name="Tezzeret, Betrayer of Flesh"/>
+        <card number="1" name="Shimmer Myr"/>
+        <card number="1" name="Urza, Chief Artificer"/>
+        <card number="1" name="Brudiclad, Telchor Engineer"/>
+        <card number="1" name="Losheel, Clockwork Scholar"/>
+        <card number="1" name="Shimmer Dragon"/>
+        <card number="1" name="Liberator, Urza's Battlethopter"/>
+        <card number="1" name="Visions of Phyrexia"/>
+        <card number="1" name="Saheeli, the Gifted"/>
+        <card number="1" name="Saheeli's Directive"/>
+        <card number="1" name="Mishra, Eminent One"/>
+        <card number="1" name="Weatherlight"/>
+        <card number="1" name="Nautiloid Ship"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Baleful Strix"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Crime Novelist"/>
+        <card number="1" name="Nomad Outpost"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Mycosynth Lattice"/>
+        <card number="1" name="Enthusiastic Mechanaut"/>
+        <card number="1" name="Etherium Sculptor"/>
+        <card number="1" name="Master Transmuter"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Mystic Monastery"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Doomskar"/>
+        <card number="2" name="Angel of the Ruins"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Thopter Spy Network"/>
+        <card number="2" name="Illustrious Wanderglyph"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Zoyowa's Justice"/>
+        <card number="1" name="Mycosynth Wellspring"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="2" name="The Reality Chip"/>
+        <card number="2" name="Officious Interrogation"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Thopter Foundry"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Grim Hireling"/>
+        <card number="1" name="Forensic Gadgeteer"/>
+        <card number="1" name="Unwinding Clock"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Nautiloid Ship"/>
+        <card number="1" name="Nahiri's Resolve"/>
+        <card number="1" name="Urza, Prince of Kroog"/>
+        <card number="1" name="Rowan's Grim Search"/>
+        <card number="1" name="Daretti, Scrap Savant"/>
+        <card number="1" name="Saheeli, the Sun's Brilliance"/>
+        <card number="1" name="Bronze Guardian"/>
+        <card number="1" name="Research Thief"/>
+        <card number="1" name="Noble's Purse"/>
+        <card number="1" name="Ichor Wellspring"/>
+        <card number="1" name="Mighty Servant of Leuk-o"/>
     </zone>
 </cockatrice_deck>

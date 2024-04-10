@@ -28,7 +28,6 @@
         <card number="1" name="Fey Steed"/>
         <card number="1" name="Valorous Stance"/>
         <card number="1" name="Keeper of the Accord"/>
-        <card number="1" name="Stalwart Pathlighter"/>
         <card number="1" name="Divine Visitation"/>
         <card number="1" name="Cathars' Crusade"/>
         <card number="1" name="Bonders' Enclave"/>
@@ -47,19 +46,13 @@
         <card number="1" name="Leonin Warleader"/>
         <card number="1" name="Welcoming Vampire"/>
         <card number="1" name="Verge Rangers"/>
-        <card number="1" name="Lossarnach Captain"/>
         <card number="1" name="Disenchant"/>
         <card number="1" name="Tocasia's Welcome"/>
         <card number="1" name="Rumor Gatherer"/>
-        <card number="1" name="Boromir, Warden of the Tower"/>
-        <card number="1" name="Weathered Wayfarer"/>
-        <card number="1" name="Myrel, Shield of Argive"/>
-        <card number="1" name="Beregond of the Guard"/>
         <card number="1" name="Skyhunter Strike Force"/>
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Surge of Salvation"/>
         <card number="1" name="Oblation"/>
-        <card number="1" name="Horn of Gondor"/>
         <card number="1" name="Dictate of Heliod"/>
         <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Prismatic Lens"/>
@@ -73,8 +66,14 @@
         <card number="1" name="Austere Command"/>
         <card number="1" name="Winds of Abandon"/>
         <card number="1" name="Timely Ward"/>
-        <card number="1" name="Cloak of the Bat"/>
-        <card number="1" name="Fleetfeather Sandals"/>
+        <card number="1" name="By Invitation Only"/>
+        <card number="1" name="Intangible Virtue"/>
+        <card number="1" name="Bennie Bracks, Zoologist"/>
+        <card number="1" name="March of the Canonized"/>
+        <card number="1" name="Legion Loyalty"/>
+        <card number="1" name="In the Trenches"/>
+        <card number="1" name="Commander's Insignia"/>
+        <card number="1" name="Force of Virtue"/>
     </zone>
     <zone name="side">
         <card number="1" name="Thalia's Lieutenant"/>
@@ -102,7 +101,7 @@
         <card number="1" name="Basri Ket"/>
         <card number="1" name="Dictate of Heliod"/>
         <card number="1" name="Force of Virtue"/>
-        <card number="1" name="Stalwart Pathlighter"/>
+        <card number="2" name="Stalwart Pathlighter"/>
         <card number="1" name="Nomads' Assembly"/>
         <card number="1" name="Investigator's Journal"/>
         <card number="1" name="Commander's Plate"/>
@@ -173,5 +172,14 @@
         <card number="1" name="Stroke of Midnight"/>
         <card number="1" name="Coppercoat Vanguard"/>
         <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Horn of Gondor"/>
+        <card number="1" name="Beregond of the Guard"/>
+        <card number="1" name="Boromir, Warden of the Tower"/>
+        <card number="1" name="Lossarnach Captain"/>
+        <card number="1" name="Myrel, Shield of Argive"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Fleetfeather Sandals"/>
+        <card number="1" name="Cloak of the Bat"/>
+        <card number="1" name="Paladin Class"/>
     </zone>
 </cockatrice_deck>

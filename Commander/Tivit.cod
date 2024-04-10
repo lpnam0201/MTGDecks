@@ -6,11 +6,7 @@
         <card number="1" name="Cyberdrive Awakener"/>
         <card number="1" name="Tivit, Seller of Secrets"/>
         <card number="1" name="Marionette Master"/>
-        <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Demonic Bargain"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Void Rend"/>
-        <card number="1" name="Time Sieve"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Talisman of Hierarchy"/>
@@ -19,7 +15,6 @@
         <card number="1" name="Dimir Signet"/>
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Hedron Archive"/>
-        <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="An Offer You Can't Refuse"/>
@@ -28,14 +23,8 @@
         <card number="1" name="Negate"/>
         <card number="1" name="Countersquall"/>
         <card number="1" name="Despark"/>
-        <card number="1" name="Disenchant"/>
-        <card number="1" name="Ghostly Prison"/>
-        <card number="1" name="Propaganda"/>
-        <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Fellwar Stone"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Dark Ritual"/>
         <card number="1" name="Everflowing Chalice"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Notion Thief"/>
@@ -43,7 +32,6 @@
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Cleansing Nova"/>
         <card number="1" name="Inspiring Statuary"/>
-        <card number="1" name="Dispel"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Fabled Passage"/>
@@ -67,42 +55,55 @@
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Watery Grave"/>
-        <card number="1" name="Inkshield"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Fetid Heath"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Buried Ruin"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Tribute Mage"/>
         <card number="1" name="Obscura Charm"/>
         <card number="1" name="Stonespeaker Crystal"/>
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Talisman of Progress"/>
-        <card number="1" name="Dovin's Veto"/>
-        <card number="1" name="Blood Money"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Dig Through Time"/>
-        <card number="1" name="Miscast"/>
         <card number="1" name="Torment of Hailfire"/>
-        <card number="1" name="Displacer Kitten"/>
-        <card number="1" name="Deadeye Navigator"/>
-        <card number="1" name="Teleportation Circle"/>
-        <card number="1" name="Far Traveler"/>
-        <card number="1" name="Peregrine Drake"/>
         <card number="1" name="Academy Manufactor"/>
+        <card number="1" name="Persuasive Interrogators"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Rout"/>
+        <card number="1" name="Alandra, Sky Dreamer"/>
+        <card number="1" name="Detective of the Month"/>
+        <card number="1" name="Ethereal Investigator"/>
+        <card number="1" name="Faerie Mastermind"/>
+        <card number="1" name="The Council of Four"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Tangletrove Kelp"/>
+        <card number="1" name="Merchant of Truth"/>
+        <card number="1" name="Disorder in the Court"/>
+        <card number="1" name="Armed with Proof"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Junk Winder"/>
+        <card number="1" name="Officious Interrogation"/>
+        <card number="1" name="Tezzeret, Betrayer of Flesh"/>
+        <card number="1" name="Rise and Shine"/>
+        <card number="1" name="Hallowed Burial"/>
+        <card number="1" name="Kappa Cannoneer"/>
+        <card number="1" name="Farsight Ritual"/>
+        <card number="1" name="Nadier's Nightblade"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Knowledge Is Power"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Teleportation Circle"/>
+        <card number="2" name="Teleportation Circle"/>
         <card number="1" name="Spring Cleaning"/>
         <card number="1" name="Cranial Plating"/>
         <card number="1" name="Disciple of the Vault"/>
         <card number="1" name="Cloudshift"/>
         <card number="1" name="Ephemerate"/>
         <card number="1" name="Silent Arbiter"/>
-        <card number="1" name="Rise and Shine"/>
+        <card number="2" name="Rise and Shine"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Exotic Orchard"/>
@@ -133,6 +134,29 @@
         <card number="1" name="Resculpt"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Aetherspouts"/>
-        <card number="1" name="Far Traveler"/>
+        <card number="2" name="Far Traveler"/>
+        <card number="1" name="Displacer Kitten"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Tribute Mage"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Demonic Bargain"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Void Rend"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Time Sieve"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Miscast"/>
     </zone>
 </cockatrice_deck>

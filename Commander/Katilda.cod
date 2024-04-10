@@ -11,7 +11,6 @@
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Cathar Commando"/>
         <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Devout Chaplain"/>
         <card number="1" name="Temple of Plenty"/>
         <card number="1" name="Sungrass Prairie"/>
         <card number="10" name="Plains"/>
@@ -42,7 +41,6 @@
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Brushland"/>
         <card number="1" name="Castle Ardenvale"/>
-        <card number="1" name="Sigarda, Heron's Grace"/>
         <card number="1" name="Outland Liberator"/>
         <card number="1" name="Sigrid, God-Favored"/>
         <card number="1" name="Tocasia's Welcome"/>
@@ -57,18 +55,15 @@
         <card number="1" name="Leinore, Autumn Sovereign"/>
         <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Tribute to the World Tree"/>
-        <card number="1" name="Beregond of the Guard"/>
         <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Fiend Hunter"/>
         <card number="1" name="Banisher Priest"/>
         <card number="1" name="Lossarnach Captain"/>
         <card number="1" name="Weathered Wayfarer"/>
         <card number="1" name="Horn of Gondor"/>
-        <card number="1" name="Coppercoat Vanguard"/>
         <card number="1" name="Finale of Glory"/>
         <card number="1" name="Intrepid Adversary"/>
         <card number="1" name="Mirror Entity"/>
-        <card number="1" name="Angel of Glory's Rise"/>
         <card number="1" name="Cosmic Intervention"/>
         <card number="1" name="Inspiring Call"/>
         <card number="1" name="Unbreakable Formation"/>
@@ -76,27 +71,32 @@
         <card number="1" name="Join Shields"/>
         <card number="1" name="Summoner's Pact"/>
         <card number="1" name="White Sun's Twilight"/>
-        <card number="1" name="Myrel, Shield of Argive"/>
         <card number="1" name="Vanquisher's Banner"/>
         <card number="1" name="Sigardian Zealot"/>
         <card number="1" name="Shared Summons"/>
-        <card number="1" name="Sigarda, Font of Blessings"/>
-        <card number="1" name="Sigarda, Champion of Light"/>
         <card number="1" name="Dauntless Dismantler"/>
         <card number="1" name="Saryth, the Viper's Fang"/>
         <card number="1" name="Storm Herd"/>
+        <card number="1" name="Tireless Tracker"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Ox Drover"/>
+        <card number="1" name="Smuggler's Share"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Angel of Glory's Rise"/>
+        <card number="1" name="Thalia, Guardian of Thraben"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Sigarda, Heron's Grace"/>
+        <card number="2" name="Sigarda, Heron's Grace"/>
         <card number="2" name="Torens, Fist of the Angels"/>
         <card number="2" name="Champion of the Parish"/>
         <card number="3" name="Mikaeus, the Lunarch"/>
         <card number="5" name="Call the Coppercoats"/>
-        <card number="1" name="Devout Chaplain"/>
+        <card number="2" name="Devout Chaplain"/>
         <card number="2" name="Mentor of the Meek"/>
         <card number="1" name="Bala Ged Sanctuary"/>
         <card number="1" name="Genesis Wave"/>
-        <card number="2" name="Sigarda, Champion of Light"/>
+        <card number="3" name="Sigarda, Champion of Light"/>
         <card number="1" name="Mangara, the Diplomat"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
         <card number="5" name="Adeline, Resplendent Cathar"/>
@@ -114,7 +114,7 @@
         <card number="1" name="Great Oak Guardian"/>
         <card number="2" name="Laid to Rest"/>
         <card number="3" name="Cleansing Nova"/>
-        <card number="2" name="Angel of Glory's Rise"/>
+        <card number="3" name="Angel of Glory's Rise"/>
         <card number="2" name="Krosan Grip"/>
         <card number="2" name="Mirran Crusader"/>
         <card number="1" name="Join Shields"/>
@@ -272,12 +272,16 @@
         <card number="1" name="Fade from History"/>
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Clever Concealment"/>
-        <card number="2" name="Sigarda, Font of Blessings"/>
+        <card number="3" name="Sigarda, Font of Blessings"/>
         <card number="1" name="Thalia, Guardian of Thraben"/>
         <card number="1" name="Keeper of the Accord"/>
         <card number="1" name="Cathars' Crusade"/>
         <card number="1" name="Rite of Harmony"/>
         <card number="1" name="Temur Sabertooth"/>
         <card number="1" name="Palace Jailer"/>
+        <card number="1" name="Myrel, Shield of Argive"/>
+        <card number="1" name="Tenth District Hero"/>
+        <card number="1" name="Coppercoat Vanguard"/>
+        <card number="1" name="Beregond of the Guard"/>
     </zone>
 </cockatrice_deck>

@@ -4,99 +4,118 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Lord Xander, the Collector"/>
-        <card number="1" name="Forsworn Paladin"/>
-        <card number="1" name="Strike It Rich"/>
-        <card number="1" name="Noble's Purse"/>
-        <card number="1" name="Bucknard's Everfull Purse"/>
-        <card number="1" name="Captain Lannery Storm"/>
-        <card number="1" name="Seize the Spoils"/>
-        <card number="1" name="Shiny Impetus"/>
-        <card number="1" name="Descent into Avernus"/>
-        <card number="1" name="Malcolm, Keen-Eyed Navigator"/>
-        <card number="1" name="Unexpected Windfall"/>
-        <card number="1" name="Prosper, Tome-Bound"/>
-        <card number="1" name="Pirate's Pillage"/>
-        <card number="1" name="Big Score"/>
-        <card number="1" name="Blood Money"/>
-        <card number="1" name="Reckless Endeavor"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Worn Powerstone"/>
-        <card number="1" name="Sisay's Ring"/>
-        <card number="1" name="Hedron Archive"/>
-        <card number="1" name="Netherborn Altar"/>
-        <card number="1" name="Malakir Rebirth"/>
-        <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Izzet Signet"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Dimir Signet"/>
-        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Dack's Duplicate"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Talisman of Indulgence"/>
-        <card number="1" name="Talisman of Dominance"/>
-        <card number="1" name="Talisman of Creativity"/>
-        <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Chain Reaction"/>
-        <card number="1" name="Kaya's Ghostform"/>
-        <card number="1" name="Necromantic Selection"/>
-        <card number="1" name="Mizzix's Mastery"/>
-        <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Counterspell"/>
-        <card number="1" name="Dispel"/>
-        <card number="1" name="Terminate"/>
-        <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Wild Magic Surge"/>
-        <card number="1" name="Reality Shift"/>
-        <card number="1" name="Karlach, Fury of Avernus"/>
-        <card number="1" name="Negate"/>
-        <card number="1" name="Dark Ritual"/>
-        <card number="1" name="Notion Thief"/>
-        <card number="1" name="Windfall"/>
-        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Arcane Signet"/>
         <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Mind Stone"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Baleful Mastery"/>
-        <card number="1" name="Firemind Vessel"/>
-        <card number="1" name="Sulfurous Springs"/>
-        <card number="1" name="Fabled Passage"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Steam Vents"/>
-        <card number="1" name="Watery Grave"/>
-        <card number="1" name="Blood Crypt"/>
-        <card number="1" name="Polluted Delta"/>
-        <card number="1" name="Bloodstained Mire"/>
-        <card number="1" name="Scalding Tarn"/>
-        <card number="1" name="Shipwreck Marsh"/>
-        <card number="1" name="Cascade Bluffs"/>
-        <card number="1" name="Smoldering Marsh"/>
-        <card number="1" name="Training Center"/>
-        <card number="1" name="Morphic Pool"/>
-        <card number="1" name="Luxury Suite"/>
-        <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="Sunken Hollow"/>
-        <card number="1" name="Shivan Reef"/>
-        <card number="1" name="Crumbling Necropolis"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Darkwater Catacombs"/>
-        <card number="5" name="Island"/>
-        <card number="5" name="Mountain"/>
-        <card number="5" name="Swamp"/>
-        <card number="1" name="Geode Golem"/>
-        <card number="1" name="Bedevil"/>
-        <card number="1" name="Bolt Bend"/>
-        <card number="1" name="Infernal Grasp"/>
-        <card number="1" name="Behold the Multiverse"/>
-        <card number="1" name="Painful Truths"/>
-        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Clone"/>
+        <card number="1" name="See Double"/>
+        <card number="1" name="Gyruda, Doom of Depths"/>
+        <card number="1" name="Undercover Operative"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Irenicus's Vile Duplication"/>
+        <card number="1" name="Mirror Image"/>
+        <card number="1" name="Vizier of Many Faces"/>
+        <card number="1" name="Wall of Stolen Identity"/>
+        <card number="1" name="Evil Twin"/>
+        <card number="1" name="Phantom Steed"/>
+        <card number="1" name="Protean Raider"/>
+        <card number="1" name="The Apprentice's Folly"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Hulking Metamorph"/>
+        <card number="1" name="Saheeli, the Sun's Brilliance"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Orthion, Hero of Lavabrink"/>
+        <card number="1" name="Disciple of Bolas"/>
+        <card number="1" name="Ruthless Technomancer"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Counterspell"/>
         <card number="1" name="Saw It Coming"/>
-        <card number="1" name="Double Vision"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Audacious Swap"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Stunt Double"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Deadly Cover-Up"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Chainer, Nightmare Adept"/>
+        <card number="1" name="Obsessive Stitcher"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Glasspool Mimic"/>
+        <card number="1" name="Identity Thief"/>
+        <card number="1" name="Kardur, Doomscourge"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Swamp"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Canyon Slough"/>
+        <card number="1" name="Fetid Pools"/>
+        <card number="1" name="Port of Karfell"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Doomed Necromancer"/>
+        <card number="1" name="Phyrexian Delver"/>
+        <card number="1" name="Apprentice Necromancer"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Rise of the Dark Realms"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Riveteers Requisitioner"/>
-        <card number="1" name="Guild Artisan"/>
-        <card number="1" name="Zhentarim Bandit"/>
-        <card number="1" name="Plundering Barbarian"/>
-        <card number="1" name="Hoard Robber"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Orthion, Hero of Lavabrink"/>
+        <card number="1" name="Invasion of Amonkhet"/>
+        <card number="1" name="Sakashima's Student"/>
+        <card number="1" name="Cephalid Facetaker"/>
+        <card number="1" name="Replication Technique"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="1" name="Sakashima's Protege"/>
+        <card number="1" name="Sakashima's Will"/>
+        <card number="1" name="Plumb the Forbidden"/>
+        <card number="1" name="Danse Macabre"/>
+        <card number="1" name="Blood Pact"/>
+        <card number="1" name="Apprentice Necromancer"/>
+        <card number="1" name="Doomed Necromancer"/>
+        <card number="1" name="Chainer, Nightmare Adept"/>
+        <card number="1" name="Clone Legion"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Grim Hireling"/>
+        <card number="1" name="Noxious Gearhulk"/>
+        <card number="1" name="Farsight Ritual"/>
     </zone>
 </cockatrice_deck>

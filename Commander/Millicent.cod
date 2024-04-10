@@ -61,30 +61,30 @@
         <card number="1" name="Drumbellower"/>
         <card number="1" name="Wand of the Worldsoul"/>
         <card number="1" name="Flockchaser Phantom"/>
-        <card number="1" name="Eerie Interlude"/>
         <card number="1" name="Herald's Horn"/>
         <card number="1" name="Staggering Insight"/>
         <card number="1" name="Glacial Floodplain"/>
-        <card number="1" name="Brago, King Eternal"/>
-        <card number="1" name="Ethereal Valkyrie"/>
-        <card number="1" name="Vega, the Watcher"/>
-        <card number="1" name="Spectral Shepherd"/>
         <card number="1" name="Wash Away"/>
-        <card number="1" name="Unwind"/>
         <card number="1" name="Valorous Stance"/>
-        <card number="1" name="Twilight Drover"/>
         <card number="1" name="Spectral Sailor"/>
         <card number="1" name="Curiosity"/>
         <card number="1" name="Combat Research"/>
         <card number="1" name="Moonshaker Cavalry"/>
         <card number="1" name="True Conviction"/>
         <card number="1" name="Ice Out"/>
-        <card number="1" name="Abuelo, Ancestral Echo"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Brainstorm"/>
-        <card number="1" name="Weathered Wayfarer"/>
         <card number="1" name="Final-Word Phantom"/>
         <card number="1" name="Mind Stone"/>
+        <card number="1" name="Farsight Ritual"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Meeting of Minds"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Drawn from Dreams"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Ethereal Valkyrie"/>
+        <card number="1" name="Breath of the Sleepless"/>
+        <card number="1" name="Render Silent"/>
     </zone>
     <zone name="side">
         <card number="1" name="Negate"/>
@@ -148,8 +148,8 @@
         <card number="1" name="Razortide Bridge"/>
         <card number="1" name="Glacial Floodplain"/>
         <card number="2" name="Distant Melody"/>
-        <card number="4" name="Twilight Drover"/>
-        <card number="3" name="Spectral Shepherd"/>
+        <card number="5" name="Twilight Drover"/>
+        <card number="4" name="Spectral Shepherd"/>
         <card number="1" name="Westgate Regent"/>
         <card number="1" name="Niblis of the Breath"/>
         <card number="2" name="Niblis of the Urn"/>
@@ -177,7 +177,7 @@
         <card number="1" name="Rootborn Defenses"/>
         <card number="1" name="Duelist's Heritage"/>
         <card number="1" name="Makindi Stampede"/>
-        <card number="2" name="Brago, King Eternal"/>
+        <card number="3" name="Brago, King Eternal"/>
         <card number="4" name="Aetherspouts"/>
         <card number="3" name="Rescuer Chwinga"/>
         <card number="1" name="Dorothea, Vengeful Victim"/>
@@ -193,7 +193,7 @@
         <card number="1" name="Return to Dust"/>
         <card number="2" name="Windfall"/>
         <card number="1" name="Obelisk of Urd"/>
-        <card number="2" name="Ethereal Valkyrie"/>
+        <card number="3" name="Ethereal Valkyrie"/>
         <card number="2" name="Chart a Course"/>
         <card number="2" name="Behold the Multiverse"/>
         <card number="2" name="Winged Words"/>
@@ -257,7 +257,7 @@
         <card number="1" name="Commit // Memory"/>
         <card number="1" name="Grey Host Reinforcements"/>
         <card number="2" name="Meeting of Minds"/>
-        <card number="1" name="Fact or Fiction"/>
+        <card number="2" name="Fact or Fiction"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Your Temple Is Under Attack"/>
         <card number="1" name="Remorseful Cleric"/>
@@ -272,5 +272,12 @@
         <card number="1" name="Synthetic Destiny"/>
         <card number="1" name="Mischievous Catgeist"/>
         <card number="1" name="Horn of the Mark"/>
+        <card number="1" name="Vega, the Watcher"/>
+        <card number="1" name="Abuelo, Ancestral Echo"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Quick Study"/>
+        <card number="1" name="Unwind"/>
     </zone>
 </cockatrice_deck>

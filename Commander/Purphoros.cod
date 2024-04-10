@@ -13,33 +13,20 @@
         <card number="1" name="Etali, Primal Storm"/>
         <card number="1" name="Ryusei, the Falling Star"/>
         <card number="1" name="Inferno Titan"/>
-        <card number="1" name="Molten Primordial"/>
         <card number="1" name="Tyrant's Familiar"/>
         <card number="1" name="Magus of the Wheel"/>
         <card number="1" name="Outpost Siege"/>
-        <card number="1" name="Sundial of the Infinite"/>
-        <card number="1" name="Meteor Golem"/>
-        <card number="1" name="Introduction to Annihilation"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Mimic Vat"/>
         <card number="1" name="Sandstone Oracle"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Fire Diamond"/>
-        <card number="1" name="Steel Hellkite"/>
-        <card number="1" name="Terror of Mount Velus"/>
         <card number="1" name="Neheb, Dreadhorde Champion"/>
         <card number="1" name="Duplicant"/>
         <card number="1" name="Bogardan Hellkite"/>
         <card number="1" name="Angrath's Marauders"/>
-        <card number="1" name="Clone Shell"/>
-        <card number="1" name="Avatar of Slaughter"/>
         <card number="1" name="Bolt Bend"/>
-        <card number="1" name="By Force"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Cauldron of Souls"/>
         <card number="1" name="Fires of Invention"/>
-        <card number="1" name="Mirror March"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Thought Vessel"/>
@@ -48,31 +35,45 @@
         <card number="1" name="Star Compass"/>
         <card number="1" name="Coalition Relic"/>
         <card number="1" name="Spinerock Knoll"/>
-        <card number="1" name="Endless Sands"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Worn Powerstone"/>
-        <card number="1" name="Caged Sun"/>
         <card number="1" name="Everflowing Chalice"/>
         <card number="30" name="Mountain"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Chaos Maw"/>
-        <card number="1" name="Crater Hellion"/>
         <card number="1" name="Hedron Archive"/>
-        <card number="1" name="Nevinyrral's Disk"/>
-        <card number="1" name="Endless Atlas"/>
-        <card number="1" name="Magma Phoenix"/>
         <card number="1" name="Dreamshaper Shaman"/>
         <card number="1" name="Experimental Frenzy"/>
-        <card number="1" name="Vance's Blasting Cannons"/>
         <card number="1" name="Ruin Grinder"/>
         <card number="1" name="Tectonic Giant"/>
-        <card number="1" name="Unleash Fury"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Burnished Hart"/>
-        <card number="1" name="Gadrak, the Crown-Scourge"/>
-        <card number="1" name="Storm's Wrath"/>
+        <card number="1" name="Mimic Vat"/>
+        <card number="1" name="Guff Rewrites History"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Zoyowa's Justice"/>
+        <card number="1" name="Audacious Swap"/>
+        <card number="1" name="Visions of Phyrexia"/>
+        <card number="1" name="Laelia, the Blade Reforged"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Ilharg, the Raze-Boar"/>
+        <card number="1" name="Anzrag's Rampage"/>
+        <card number="1" name="Demand Answers"/>
+        <card number="1" name="Connecting the Dots"/>
+        <card number="1" name="Tempered in Solitude"/>
+        <card number="1" name="Havoc Eater"/>
+        <card number="1" name="Industrial Advancement"/>
+        <card number="1" name="Atsushi, the Blazing Sky"/>
+        <card number="1" name="Trumpeting Carnosaur"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Captain Lannery Storm"/>
+        <card number="1" name="Urabrask the Hidden"/>
+        <card number="1" name="Krenko, Mob Boss"/>
+        <card number="1" name="Scourge of the Throne"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Seize the Spoils"/>
     </zone>
     <zone name="side">
         <card number="1" name="Fire Diamond"/>
@@ -95,7 +96,32 @@
         <card number="1" name="Fling"/>
         <card number="1" name="Alena, Kessig Trapper"/>
         <card number="1" name="Cathartic Reunion"/>
-        <card number="1" name="Storm's Wrath"/>
+        <card number="2" name="Storm's Wrath"/>
         <card number="1" name="Abrade"/>
+        <card number="1" name="Cauldron of Souls"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Mimic Vat"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Sundial of the Infinite"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Endless Atlas"/>
+        <card number="1" name="Avatar of Slaughter"/>
+        <card number="1" name="Chaos Maw"/>
+        <card number="1" name="Clone Shell"/>
+        <card number="1" name="Crater Hellion"/>
+        <card number="1" name="Gadrak, the Crown-Scourge"/>
+        <card number="1" name="Magma Phoenix"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Molten Primordial"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Mirror March"/>
+        <card number="1" name="Vance's Blasting Cannons"/>
+        <card number="1" name="Unleash Fury"/>
+        <card number="1" name="By Force"/>
+        <card number="1" name="Introduction to Annihilation"/>
+        <card number="1" name="Endless Sands"/>
+        <card number="1" name="Ryusei, the Falling Star"/>
+        <card number="1" name="Tectonic Giant"/>
+        <card number="1" name="Terror of Mount Velus"/>
     </zone>
 </cockatrice_deck>

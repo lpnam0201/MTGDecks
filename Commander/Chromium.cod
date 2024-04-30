@@ -26,8 +26,6 @@
         <card number="1" name="Windshaper Planetar"/>
         <card number="1" name="Torrential Gearhulk"/>
         <card number="1" name="Mocking Doppelganger"/>
-        <card number="1" name="Malleable Impostor"/>
-        <card number="1" name="Aven Mindcensor"/>
         <card number="1" name="Stunt Double"/>
         <card number="1" name="Angel of the Dire Hour"/>
         <card number="1" name="Glorious Protector"/>
@@ -86,14 +84,15 @@
         <card number="1" name="Portal Manipulator"/>
         <card number="1" name="Expel the Interlopers"/>
         <card number="1" name="Slaughter the Strong"/>
-        <card number="1" name="Aetherspouts"/>
-        <card number="1" name="Aetherize"/>
         <card number="1" name="Memory Deluge"/>
         <card number="1" name="Clone Legion"/>
         <card number="1" name="Thryx, the Sudden Storm"/>
         <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Vorpal Sword"/>
+        <card number="1" name="Pact Weapon"/>
+        <card number="1" name="The Eternal Wanderer"/>
     </zone>
     <zone name="side">
         <card number="1" name="Academy Loremaster"/>
@@ -131,5 +130,9 @@
         <card number="1" name="Sigrid, God-Favored"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="Soul Shatter"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Malleable Impostor"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Aetherspouts"/>
     </zone>
 </cockatrice_deck>

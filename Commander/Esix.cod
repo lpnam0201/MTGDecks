@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Esix</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Esix, Fractal Bloom"/>
+        <card number="1" name="Ethereal Investigator"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Threefold Thunderhulk"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Stubborn Denial"/>
+        <card number="1" name="Adrix and Nev, Twincasters"/>
+        <card number="1" name="Risen Reef"/>
+        <card number="1" name="Tireless Tracker"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="1" name="Gilded Goose"/>
+        <card number="1" name="Killer Service"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Hornet Queen"/>
+        <card number="1" name="Asinine Antics"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Scepter of Celebration"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Amphin Mutineer"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Fade from History"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Resculpt"/>
+        <card number="1" name="Koma, Cosmos Serpent"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Llanowar Visionary"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Coiling Oracle"/>
+        <card number="1" name="Topiary Stomper"/>
+        <card number="1" name="Titan of Industry"/>
+        <card number="10" name="Island"/>
+        <card number="10" name="Forest"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Alchemist's Refuge"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Tangled Islet"/>
+        <card number="1" name="Littjara Mirrorlake"/>
+        <card number="1" name="Overflowing Basin"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Vineglimmer Snarl"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Currency Converter"/>
+        <card number="1" name="Somberwald Sage"/>
+        <card number="1" name="Farsight Ritual"/>
+        <card number="1" name="Sentinel of the Nameless City"/>
+        <card number="1" name="Ongoing Investigation"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Amphin Mutineer"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Mystic Reflection"/>
+        <card number="1" name="The Goose Mother"/>
+        <card number="1" name="Gruff Triplets"/>
+        <card number="1" name="Regal Force"/>
+        <card number="1" name="Meeting of Minds"/>
+        <card number="1" name="Fierce Empath"/>
+        <card number="1" name="Bootleggers' Stash"/>
+        <card number="1" name="Shield Broker"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Oko, the Ringleader"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Arasta of the Endless Web"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Oko, Thief of Crowns"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Mind Flayer"/>
+        <card number="1" name="Awakening Zone"/>
+    </zone>
+</cockatrice_deck>

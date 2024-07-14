@@ -7,13 +7,10 @@
         <card number="1" name="Treacherous Terrain"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Mortify"/>
-        <card number="1" name="Grave Upheaval"/>
         <card number="1" name="Double Vision"/>
         <card number="1" name="Practical Research"/>
         <card number="1" name="Road // Ruin"/>
         <card number="1" name="Steam Augury"/>
-        <card number="1" name="Collision // Colossus"/>
-        <card number="1" name="Onward // Victory"/>
         <card number="1" name="Invasion of Ravnica"/>
         <card number="1" name="Growth Spiral"/>
         <card number="1" name="Putrefy"/>
@@ -21,16 +18,13 @@
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Merciless Eviction"/>
         <card number="1" name="Culling Ritual"/>
-        <card number="1" name="Utter End"/>
         <card number="1" name="Deathsprout"/>
         <card number="1" name="Urban Evolution"/>
         <card number="1" name="Escape to the Wilds"/>
-        <card number="1" name="Deflecting Palm"/>
         <card number="1" name="Simic Charm"/>
         <card number="1" name="Eureka Moment"/>
         <card number="1" name="Counterflux"/>
         <card number="1" name="Fevered Suspicion"/>
-        <card number="1" name="Response // Resurgence"/>
         <card number="1" name="Bring to Light"/>
         <card number="1" name="Epic Experiment"/>
         <card number="1" name="Reinterpret"/>
@@ -45,7 +39,6 @@
         <card number="1" name="Three Visits"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Render Silent"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Cultivate"/>
@@ -80,10 +73,7 @@
         <card number="1" name="Dire-Strain Rampage"/>
         <card number="1" name="Sylvan Reclamation"/>
         <card number="1" name="Ancient Excavation"/>
-        <card number="1" name="Spring // Mind"/>
-        <card number="1" name="Quandrix Apprentice"/>
         <card number="1" name="Wilderness Reclamation"/>
-        <card number="1" name="Exterminatus"/>
         <card number="1" name="Tome of the Guildpact"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Bad River"/>
@@ -91,19 +81,29 @@
         <card number="1" name="Mountain Valley"/>
         <card number="1" name="Rocky Tar Pit"/>
         <card number="1" name="Grasslands"/>
-        <card number="1" name="Bedevil"/>
-        <card number="1" name="Blackblade Reforged"/>
-        <card number="1" name="Weathered Wayfarer"/>
         <card number="1" name="Allure of the Unknown"/>
-        <card number="1" name="Whispering Madness"/>
         <card number="1" name="Maelstrom Nexus"/>
+        <card number="1" name="Aura Mutation"/>
+        <card number="1" name="Artifact Mutation"/>
+        <card number="1" name="Lorehold Command"/>
+        <card number="1" name="Selesnya Charm"/>
+        <card number="1" name="Depose // Deploy"/>
+        <card number="1" name="Warrant // Warden"/>
+        <card number="1" name="Thrash // Threat"/>
+        <card number="1" name="Make Your Own Luck"/>
+        <card number="1" name="Worldsoul's Rage"/>
+        <card number="1" name="Debt to the Deathless"/>
+        <card number="1" name="Solar Blaze"/>
+        <card number="1" name="Ill-Timed Explosion"/>
+        <card number="1" name="Disorder in the Court"/>
+        <card number="1" name="Plasm Capture"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Utter End"/>
+        <card number="2" name="Utter End"/>
         <card number="1" name="Consecrate // Consume"/>
         <card number="1" name="Farm // Market"/>
         <card number="1" name="Quandrix Command"/>
-        <card number="1" name="Rushed Rebirth"/>
+        <card number="2" name="Rushed Rebirth"/>
         <card number="1" name="Failure // Comply"/>
         <card number="1" name="Rags // Riches"/>
         <card number="1" name="Witherbloom Command"/>
@@ -127,13 +127,13 @@
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Lorehold Command"/>
         <card number="1" name="Time Wipe"/>
-        <card number="2" name="Whispering Madness"/>
+        <card number="3" name="Whispering Madness"/>
         <card number="1" name="Decisive Denial"/>
         <card number="1" name="Harrow"/>
-        <card number="1" name="Blackblade Reforged"/>
+        <card number="2" name="Blackblade Reforged"/>
         <card number="1" name="Thrash // Threat"/>
         <card number="1" name="Terminate"/>
-        <card number="1" name="Bedevil"/>
+        <card number="2" name="Bedevil"/>
         <card number="1" name="Spitting Image"/>
         <card number="1" name="Terminal Agony"/>
         <card number="1" name="Sage of the Beyond"/>
@@ -153,5 +153,17 @@
         <card number="1" name="Windgrace's Judgment"/>
         <card number="1" name="Maelstrom Nexus"/>
         <card number="1" name="Auger Spree"/>
+        <card number="1" name="Deflecting Palm"/>
+        <card number="1" name="Onward // Victory"/>
+        <card number="1" name="Spring // Mind"/>
+        <card number="1" name="Exterminatus"/>
+        <card number="1" name="Quandrix Apprentice"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Collision // Colossus"/>
+        <card number="1" name="Response // Resurgence"/>
+        <card number="1" name="Aura Mutation"/>
+        <card number="1" name="Drag the Canal"/>
+        <card number="1" name="Grave Upheaval"/>
+        <card number="1" name="Render Silent"/>
     </zone>
 </cockatrice_deck>

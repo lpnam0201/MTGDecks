@@ -9,22 +9,12 @@
         <card number="1" name="Temple Altisaur"/>
         <card number="1" name="Wakening Sun's Avatar"/>
         <card number="1" name="Zetalpa, Primal Dawn"/>
-        <card number="1" name="Goring Ceratops"/>
-        <card number="1" name="Ripjaw Raptor"/>
         <card number="1" name="Thrashing Brontodon"/>
         <card number="1" name="Verdant Sun's Avatar"/>
-        <card number="1" name="Silverclad Ferocidons"/>
         <card number="1" name="Quartzwood Crasher"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Runic Armasaur"/>
-        <card number="1" name="Raging Swordtooth"/>
         <card number="1" name="Apex Altisaur"/>
-        <card number="1" name="Trapjaw Tyrant"/>
-        <card number="1" name="Raging Regisaur"/>
-        <card number="1" name="Titanoth Rex"/>
-        <card number="1" name="Majestic Heliopterus"/>
-        <card number="1" name="Charging Tuskodon"/>
-        <card number="1" name="Charging Monstrosaur"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Blasphemous Act"/>
@@ -52,14 +42,12 @@
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Vastwood Surge"/>
         <card number="1" name="Verdant Mastery"/>
-        <card number="1" name="Yidaro, Wandering Monster"/>
         <card number="1" name="Rampaging Brontodon"/>
         <card number="1" name="Fires of Invention"/>
         <card number="1" name="Kinjalli's Sunwing"/>
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Thunderherd Migration"/>
         <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Coalition Relic"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Grow from the Ashes"/>
         <card number="1" name="Command Beacon"/>
@@ -84,12 +72,24 @@
         <card number="1" name="Boros Charm"/>
         <card number="1" name="Terramorph"/>
         <card number="1" name="Reckless Endeavor"/>
-        <card number="1" name="Dawntreader Elk"/>
-        <card number="1" name="Burnished Hart"/>
         <card number="1" name="Hunting Wilds"/>
-        <card number="1" name="Thundering Spineback"/>
-        <card number="1" name="Shifting Ceratops"/>
         <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Trumpeting Carnosaur"/>
+        <card number="1" name="Earthshaker Dreadmaw"/>
+        <card number="1" name="Palani's Hatcher"/>
+        <card number="1" name="Hulking Raptor"/>
+        <card number="1" name="Scytheclaw Raptor"/>
+        <card number="1" name="Itzquinth, Firstborn of Gishath"/>
+        <card number="1" name="Zacama, Primal Calamity"/>
+        <card number="1" name="Wrathful Raptors"/>
+        <card number="1" name="Scion of Calamity"/>
+        <card number="1" name="Regal Behemoth"/>
+        <card number="1" name="Wayward Swordtooth"/>
+        <card number="1" name="Pantlaza, Sun-Favored"/>
+        <card number="1" name="Bronzebeak Foragers"/>
+        <card number="1" name="Sunfrill Imitator"/>
+        <card number="1" name="Deathgorge Scavenger"/>
+        <card number="1" name="Curious Altisaur"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lightning Greaves"/>
@@ -102,7 +102,7 @@
         <card number="1" name="Colossal Majesty"/>
         <card number="2" name="Annoyed Altisaur"/>
         <card number="2" name="Elemental Bond"/>
-        <card number="1" name="Yidaro, Wandering Monster"/>
+        <card number="2" name="Yidaro, Wandering Monster"/>
         <card number="3" name="Deathgorge Scavenger"/>
         <card number="1" name="Kaheera, the Orphanguard"/>
         <card number="2" name="Harmonize"/>
@@ -139,7 +139,7 @@
         <card number="1" name="Roiling Regrowth"/>
         <card number="1" name="Unbreakable Formation"/>
         <card number="1" name="Guildless Commons"/>
-        <card number="1" name="Shifting Ceratops"/>
+        <card number="2" name="Shifting Ceratops"/>
         <card number="1" name="Bellowing Aegisaur"/>
         <card number="1" name="Ranging Raptors"/>
         <card number="2" name="Vines of Vastwood"/>
@@ -191,5 +191,20 @@
         <card number="1" name="Jaheira's Respite"/>
         <card number="1" name="Marauding Raptor"/>
         <card number="1" name="Font of Fertility"/>
+        <card number="1" name="Topiary Stomper"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Charging Monstrosaur"/>
+        <card number="1" name="Charging Tuskodon"/>
+        <card number="1" name="Dawntreader Elk"/>
+        <card number="1" name="Goring Ceratops"/>
+        <card number="1" name="Majestic Heliopterus"/>
+        <card number="1" name="Raging Regisaur"/>
+        <card number="1" name="Raging Swordtooth"/>
+        <card number="1" name="Ripjaw Raptor"/>
+        <card number="1" name="Silverclad Ferocidons"/>
+        <card number="1" name="Thundering Spineback"/>
+        <card number="1" name="Titanoth Rex"/>
+        <card number="1" name="Trapjaw Tyrant"/>
+        <card number="1" name="Coalition Relic"/>
     </zone>
 </cockatrice_deck>

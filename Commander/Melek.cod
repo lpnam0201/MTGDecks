@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Melek</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Melek, Reforged Researcher"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Double Vision"/>
+        <card number="1" name="Increasing Vengeance"/>
+        <card number="1" name="Artful Dodge"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Cursed Mirror"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Crackling Drake"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Gravitic Punch"/>
+        <card number="1" name="Soul's Fire"/>
+        <card number="1" name="Kazuul's Fury"/>
+        <card number="1" name="Starstorm"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Spelltwine"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Return the Favor"/>
+        <card number="1" name="Confounding Riddle"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Consider"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Reverberate"/>
+        <card number="1" name="Galvanic Iteration"/>
+        <card number="1" name="Moment of Truth"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Prismari Command"/>
+        <card number="1" name="Reiterate"/>
+        <card number="1" name="Seize the Spoils"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Past in Flames"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Pirate's Pillage"/>
+        <card number="1" name="Inspired Tinkering"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Scattered Thoughts"/>
+        <card number="1" name="Expansion // Explosion"/>
+        <card number="1" name="Comet Storm"/>
+        <card number="1" name="Electrodominance"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="9" name="Island"/>
+        <card number="9" name="Mountain"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Desolate Lighthouse"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Stormcarved Coast"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="Ferrous Lake"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Footfall Crater"/>
+        <card number="1" name="Chandra's Ignition"/>
+        <card number="1" name="Spirebluff Canal"/>
+        <card number="1" name="Rousing Refrain"/>
+        <card number="1" name="Spiteful Repossession"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Beyeen Veil"/>
+        <card number="1" name="Temur Battle Rage"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Neutralize"/>
+        <card number="1" name="Raking Claws"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Highway Robbery"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Volcanic Torrent"/>
+        <card number="1" name="Rielle, the Everwise"/>
+        <card number="1" name="Fling"/>
+        <card number="1" name="Thunderclap Drake"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Practical Research"/>
+        <card number="1" name="Thirst for Discovery"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Izzet Charm"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Consider"/>
+        <card number="1" name="Curate"/>
+    </zone>
+</cockatrice_deck>

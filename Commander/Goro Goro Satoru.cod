@@ -25,11 +25,8 @@
         <card number="1" name="Death-Greeter's Champion"/>
         <card number="1" name="Ghostly Pilferer"/>
         <card number="1" name="Phoenix Chick"/>
-        <card number="1" name="Perplexing Test"/>
-        <card number="1" name="Evacuation"/>
         <card number="1" name="Kaito, Dancing Shadow"/>
         <card number="1" name="Alora, Merry Thief"/>
-        <card number="1" name="Flamewake Phoenix"/>
         <card number="1" name="Loyal Apprentice"/>
         <card number="1" name="Urabrask's Forge"/>
         <card number="1" name="Chaos Warp"/>
@@ -37,7 +34,6 @@
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Terminate"/>
-        <card number="1" name="Corporeal Projection"/>
         <card number="1" name="Saheeli, the Sun's Brilliance"/>
         <card number="1" name="Warstorm Surge"/>
         <card number="1" name="Urabrask, Heretic Praetor"/>
@@ -47,7 +43,6 @@
         <card number="1" name="The Apprentice's Folly"/>
         <card number="1" name="Spark Double"/>
         <card number="1" name="Impact Tremors"/>
-        <card number="1" name="Glasspool Mimic"/>
         <card number="1" name="Witty Roastmaster"/>
         <card number="1" name="Hostage Taker"/>
         <card number="1" name="Talisman of Indulgence"/>
@@ -94,9 +89,14 @@
         <card number="1" name="Deadly Cover-Up"/>
         <card number="1" name="Baleful Strix"/>
         <card number="1" name="Aether Channeler"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Evil Twin"/>
+        <card number="1" name="Shadowmage Infiltrator"/>
+        <card number="1" name="Twinflame"/>
+        <card number="1" name="Halo Forager"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Bedevil"/>
+        <card number="2" name="Bedevil"/>
         <card number="1" name="Maestros Diabolist"/>
         <card number="1" name="Darkslick Shores"/>
         <card number="1" name="Terramorph"/>
@@ -117,7 +117,17 @@
         <card number="1" name="Firkraag, Cunning Instigator"/>
         <card number="1" name="Flood of Tears"/>
         <card number="1" name="Indulge // Excess"/>
-        <card number="1" name="Fact or Fiction"/>
+        <card number="2" name="Fact or Fiction"/>
         <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Corporeal Projection"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Flamewake Phoenix"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Bitter Triumph"/>
+        <card number="1" name="Likeness Looter"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Halo Forager"/>
+        <card number="1" name="Glasspool Mimic"/>
     </zone>
 </cockatrice_deck>

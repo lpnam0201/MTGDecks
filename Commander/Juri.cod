@@ -7,55 +7,61 @@
         <card number="1" name="Village Rites"/>
         <card number="1" name="Deadly Dispute"/>
         <card number="1" name="Corrupted Conviction"/>
-        <card number="1" name="Hero's Blade"/>
         <card number="1" name="Blackblade Reforged"/>
-        <card number="1" name="Two-Handed Axe // Sweeping Cleave"/>
         <card number="1" name="Impulsive Pilferer"/>
         <card number="1" name="Mayhem Devil"/>
         <card number="1" name="Mahadi, Emporium Master"/>
         <card number="1" name="Victimize"/>
         <card number="1" name="Stormclaw Rager"/>
         <card number="1" name="Ruthless Technomancer"/>
-        <card number="1" name="Fain, the Broker"/>
         <card number="1" name="Woe Strider"/>
         <card number="1" name="Skullport Merchant"/>
         <card number="1" name="Kalain, Reclusive Painter"/>
         <card number="1" name="Academy Manufactor"/>
-        <card number="1" name="Harmonic Prodigy"/>
         <card number="1" name="Professional Face-Breaker"/>
-        <card number="1" name="Goldspan Dragon"/>
         <card number="1" name="Atsushi, the Blazing Sky"/>
         <card number="1" name="Junji, the Midnight Sky"/>
         <card number="1" name="Pyrrhic Blast"/>
         <card number="1" name="Rowan's Grim Search"/>
-        <card number="1" name="Back for Seconds"/>
-        <card number="1" name="Urabrask's Forge"/>
         <card number="1" name="Vat of Rebirth"/>
-        <card number="1" name="Beamtown Beatstick"/>
-        <card number="1" name="Strionic Resonator"/>
-        <card number="1" name="Agent of the Shadow Thieves"/>
         <card number="1" name="Tavern Brawler"/>
         <card number="1" name="Bolt Bend"/>
         <card number="1" name="Tempered in Solitude"/>
-        <card number="1" name="Necrosynthesis"/>
-        <card number="1" name="Sticky Fingers"/>
-        <card number="1" name="Rain of Riches"/>
-        <card number="1" name="Prosper, Tome-Bound"/>
-        <card number="1" name="Mines of Moria"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Animation Module"/>
         <card number="1" name="Marionette Master"/>
-        <card number="1" name="Mask of Griselbrand"/>
-        <card number="1" name="Wedding Invitation"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Terminate"/>
         <card number="1" name="Feed the Swarm"/>
         <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Zoyowa Lava-Tongue"/>
+        <card number="1" name="Kroxa, Titan of Death's Hunger"/>
+        <card number="1" name="Harmonic Prodigy"/>
+        <card number="1" name="Blade of the Bloodchief"/>
+        <card number="1" name="Rakdos, the Muscle"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
     </zone>
     <zone name="side">
         <card number="1" name="Elemental Mastery"/>
         <card number="1" name="Ghost Lantern // Bind Spirit"/>
         <card number="1" name="Callous Sell-Sword // Burn Together"/>
+        <card number="1" name="Animation Module"/>
+        <card number="1" name="Hero's Blade"/>
+        <card number="1" name="Mask of Griselbrand"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Urabrask's Forge"/>
+        <card number="1" name="Wedding Invitation"/>
+        <card number="1" name="Beamtown Beatstick"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Fain, the Broker"/>
+        <card number="1" name="Harmonic Prodigy"/>
+        <card number="1" name="Prosper, Tome-Bound"/>
+        <card number="1" name="Agent of the Shadow Thieves"/>
+        <card number="1" name="Rain of Riches"/>
+        <card number="1" name="Sticky Fingers"/>
+        <card number="1" name="Necrosynthesis"/>
+        <card number="1" name="Two-Handed Axe // Sweeping Cleave"/>
+        <card number="1" name="Mines of Moria"/>
+        <card number="1" name="Back for Seconds"/>
     </zone>
 </cockatrice_deck>

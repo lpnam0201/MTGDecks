@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Ghave, Guru of Spores"/>
-        <card number="1" name="Coalition Relic"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Fyndhorn Elves"/>
@@ -21,26 +20,18 @@
         <card number="1" name="Three Visits"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Farseek"/>
-        <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Cathars' Crusade"/>
-        <card number="1" name="Utopia Mycon"/>
-        <card number="1" name="Crystalline Crawler"/>
         <card number="1" name="Hardened Scales"/>
         <card number="1" name="Kami of Whispered Hopes"/>
         <card number="1" name="Benevolent Hydra"/>
         <card number="1" name="Lae'zel, Vlaakith's Champion"/>
         <card number="1" name="Conclave Mentor"/>
         <card number="1" name="Winding Constrictor"/>
-        <card number="1" name="Ozolith, the Shattered Spire"/>
         <card number="1" name="Corpsejack Menace"/>
         <card number="1" name="Smothering Tithe"/>
         <card number="1" name="Craterhoof Behemoth"/>
-        <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Clever Concealment"/>
         <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Sylvan Library"/>
         <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Pitiless Plunderer"/>
         <card number="1" name="Zulaport Cutthroat"/>
         <card number="1" name="Blood Artist"/>
         <card number="1" name="Cruel Celebrant"/>
@@ -51,22 +42,14 @@
         <card number="1" name="Renata, Called to the Hunt"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Inkshield"/>
-        <card number="1" name="Settle the Wreckage"/>
-        <card number="1" name="Excise the Imperfect"/>
         <card number="1" name="Assassin's Trophy"/>
         <card number="1" name="Mythos of Nethroi"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Cryptic Trilobite"/>
         <card number="1" name="Gyre Sage"/>
-        <card number="1" name="Herd Baloth"/>
-        <card number="1" name="Scurry Oak"/>
         <card number="1" name="Seedborn Muse"/>
-        <card number="1" name="Wilderness Reclamation"/>
         <card number="1" name="Anguished Unmaking"/>
         <card number="1" name="Good-Fortune Unicorn"/>
-        <card number="1" name="Ivy Lane Denizen"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Shizo, Death's Storehouse"/>
         <card number="1" name="Myriad Landscape"/>
@@ -94,11 +77,27 @@
         <card number="1" name="Gavony Township"/>
         <card number="1" name="Indatha Triome"/>
         <card number="1" name="Command Beacon"/>
-        <card number="1" name="Marwyn, the Nurturer"/>
-        <card number="1" name="Heronblade Elite"/>
+        <card number="1" name="Dusk Legion Duelist"/>
+        <card number="1" name="Glare of Subdual"/>
+        <card number="1" name="Growing Rites of Itlimoc"/>
+        <card number="1" name="Insidious Roots"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Culling Ritual"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Teleportation Circle"/>
+        <card number="1" name="Moonshaker Cavalry"/>
+        <card number="1" name="Ephemerate"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Ghostway"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Leinore, Autumn Sovereign"/>
+        <card number="1" name="Gluntch, the Bestower"/>
+        <card number="1" name="Freestrider Lookout"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Ashnod's Altar"/>
+        <card number="2" name="Ashnod's Altar"/>
         <card number="1" name="Carrion Feeder"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
         <card number="1" name="Viscera Seer"/>
@@ -110,16 +109,32 @@
         <card number="1" name="Tear Asunder"/>
         <card number="1" name="Dusk Legion Duelist"/>
         <card number="1" name="Worn Powerstone"/>
-        <card number="1" name="Heronblade Elite"/>
+        <card number="2" name="Heronblade Elite"/>
         <card number="1" name="Master Chef"/>
         <card number="1" name="Welcoming Vampire"/>
         <card number="1" name="Tocasia's Welcome"/>
-        <card number="1" name="Ivy Lane Denizen"/>
+        <card number="2" name="Ivy Lane Denizen"/>
         <card number="1" name="Kalonian Hydra"/>
         <card number="1" name="Managorger Hydra"/>
-        <card number="1" name="Marwyn, the Nurturer"/>
+        <card number="2" name="Marwyn, the Nurturer"/>
         <card number="1" name="Swamp (a)"/>
         <card number="1" name="Swamp"/>
         <card number="1" name="Kodama of the West Tree"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Cryptic Trilobite"/>
+        <card number="1" name="Crystalline Crawler"/>
+        <card number="1" name="Herd Baloth"/>
+        <card number="1" name="Utopia Mycon"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Inkshield"/>
+        <card number="1" name="Clever Concealment"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Ozolith, the Shattered Spire"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Scurry Oak"/>
+        <card number="1" name="Pitiless Plunderer"/>
     </zone>
 </cockatrice_deck>

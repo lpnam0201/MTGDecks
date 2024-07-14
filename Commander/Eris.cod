@@ -15,7 +15,6 @@
         <card number="1" name="Opt"/>
         <card number="1" name="Ponder"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Preordain"/>
         <card number="1" name="Serum Visions"/>
@@ -27,8 +26,6 @@
         <card number="1" name="Deep Analysis"/>
         <card number="1" name="Volcanic Torrent"/>
         <card number="1" name="Galvanic Iteration"/>
-        <card number="1" name="Negate"/>
-        <card number="1" name="Counterspell"/>
         <card number="1" name="Invasion of Segovia"/>
         <card number="1" name="Resculpt"/>
         <card number="1" name="Finale of Promise"/>
@@ -61,30 +58,33 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Pirate's Pillage"/>
         <card number="1" name="Thirst for Discovery"/>
-        <card number="1" name="Goblin Electromancer"/>
         <card number="1" name="Thunderclap Drake"/>
         <card number="1" name="Wild Magic Surge"/>
-        <card number="1" name="Pyretic Charge"/>
         <card number="1" name="Moment of Truth"/>
         <card number="1" name="Quick Study"/>
         <card number="1" name="Jori En, Ruin Diver"/>
-        <card number="1" name="Change of Fortune"/>
-        <card number="1" name="Memory Deluge"/>
         <card number="1" name="Mystic Confluence"/>
         <card number="1" name="Keldon Flamesage"/>
         <card number="1" name="Confounding Riddle"/>
         <card number="1" name="Curate"/>
         <card number="1" name="Seize the Spoils"/>
-        <card number="1" name="Visions of Ruin"/>
         <card number="1" name="Inspired Tinkering"/>
         <card number="1" name="Inspiring Refrain"/>
         <card number="1" name="Return the Favor"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Complete the Circuit"/>
         <card number="1" name="City on Fire"/>
-        <card number="1" name="Baral's Expertise"/>
         <card number="1" name="Elemental Eruption"/>
         <card number="1" name="Brudiclad, Telchor Engineer"/>
+        <card number="1" name="Cursed Mirror"/>
+        <card number="1" name="Forger's Foundry"/>
+        <card number="1" name="Chart a Course"/>
+        <card number="1" name="Prismari Command"/>
+        <card number="1" name="Izzet Charm"/>
+        <card number="1" name="Highway Robbery"/>
+        <card number="1" name="Reverberate"/>
+        <card number="1" name="Reiterate"/>
+        <card number="1" name="Sol Ring"/>
     </zone>
     <zone name="side">
         <card number="1" name="Galvanic Iteration"/>
@@ -104,7 +104,7 @@
         <card number="1" name="Perplexing Test"/>
         <card number="1" name="Reinterpret"/>
         <card number="1" name="Into the Roil"/>
-        <card number="1" name="Baral's Expertise"/>
+        <card number="2" name="Baral's Expertise"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Epic Experiment"/>
         <card number="1" name="Rousing Refrain"/>
@@ -129,5 +129,13 @@
         <card number="1" name="Reverberate"/>
         <card number="1" name="Walk the Aeons"/>
         <card number="1" name="Teferi's Ageless Insight"/>
+        <card number="1" name="Goblin Electromancer"/>
+        <card number="1" name="Change of Fortune"/>
+        <card number="1" name="Pyretic Charge"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Visions of Ruin"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Memory Deluge"/>
+        <card number="1" name="Counterspell"/>
     </zone>
 </cockatrice_deck>

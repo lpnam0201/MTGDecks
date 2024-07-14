@@ -3,24 +3,93 @@
     <deckname>Lavinia</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Lavinia, Foil to Conspiracy"/>
-        <card number="1" name="Tangletrove Kelp"/>
-        <card number="1" name="Cyberdrive Awakener"/>
-        <card number="1" name="Rise and Shine"/>
-        <card number="1" name="Thousand Moons Smithy"/>
-        <card number="1" name="Organic Extinction"/>
-        <card number="1" name="Academy Manufactor"/>
-        <card number="1" name="Disorder in the Court"/>
-        <card number="1" name="Erdwal Illuminator"/>
-        <card number="1" name="Confirm Suspicions"/>
-        <card number="1" name="Officious Interrogation"/>
-        <card number="1" name="Inspiring Statuary"/>
-        <card number="1" name="Alquist Proft, Master Sleuth"/>
-        <card number="1" name="Ethereal Investigator"/>
-        <card number="1" name="Follow the Bodies"/>
-        <card number="1" name="Forensic Gadgeteer"/>
-        <card number="1" name="Merchant of Truth"/>
-        <card number="1" name="Search the Premises"/>
-        <card number="1" name="Masterful Replication"/>
+        <card number="1" name="Tomb of Horrors Adventurer"/>
+        <card number="1" name="Goliath Paladin"/>
+        <card number="1" name="Feywild Caretaker"/>
+        <card number="1" name="Seasoned Dungeoneer"/>
+        <card number="1" name="White Plume Adventurer"/>
+        <card number="1" name="Aarakocra Sneak"/>
+        <card number="1" name="Sarevok's Tome"/>
+        <card number="1" name="Undercellar Sweep"/>
+        <card number="1" name="Serra's Emissary"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Visage Bandit"/>
+        <card number="1" name="Mocking Doppelganger"/>
+        <card number="1" name="Clever Impersonator"/>
+        <card number="1" name="Stunt Double"/>
+        <card number="1" name="Mirrorhall Mimic"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Copycrook"/>
+        <card number="1" name="Mirror Image"/>
+        <card number="1" name="Gigantoplasm"/>
+        <card number="1" name="Undercover Operative"/>
+        <card number="1" name="Clone"/>
+        <card number="1" name="Vizier of Many Faces"/>
+        <card number="1" name="Glasspool Mimic"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Claim Jumper"/>
+        <card number="1" name="Moonshaker Cavalry"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Lavinia, Azorius Renegade"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Another Round"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Blind Obedience"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Rule of Law"/>
+        <card number="1" name="Archon of Emeria"/>
+        <card number="1" name="Key to the City"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Rout"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Hallowed Burial"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Saw It Coming"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Stroke of Midnight"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Linvala, Shield of Sea Gate"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="See Double"/>
+        <card number="1" name="Theoretical Duplication"/>
+        <card number="1" name="Radiant Solar"/>
+        <card number="1" name="Nadaar, Selfless Paladin"/>
+        <card number="1" name="Midnight Pathlighter"/>
+        <card number="1" name="Yuan-Ti Malison"/>
+        <card number="10" name="Island"/>
+        <card number="10" name="Plains"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Access Tunnel"/>
+        <card number="1" name="Escape Tunnel"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Moorland Haunt"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Deserted Beach"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Maze of Ith"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Phantasmal Image"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Hulking Metamorph"/>
     </zone>
 </cockatrice_deck>

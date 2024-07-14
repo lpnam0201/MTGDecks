@@ -12,37 +12,38 @@
         <card number="1" name="Thief of Sanity"/>
         <card number="1" name="Mask of Memory"/>
         <card number="1" name="Vorpal Sword"/>
-        <card number="1" name="Strionic Resonator"/>
-        <card number="1" name="Lithoform Engine"/>
         <card number="1" name="Grazilaxx, Illithid Scholar"/>
         <card number="1" name="Nashi, Moon Sage's Scion"/>
-        <card number="1" name="Goldvein Pick"/>
-        <card number="1" name="Prying Blade"/>
         <card number="1" name="Shadowmage Infiltrator"/>
         <card number="1" name="Mistblade Shinobi"/>
-        <card number="1" name="Mari, the Killing Quill"/>
-        <card number="1" name="Hoard Robber"/>
         <card number="1" name="Dreamstealer"/>
-        <card number="1" name="Dimir Cutpurse"/>
         <card number="1" name="Drana, Liberator of Malakir"/>
         <card number="1" name="Prosperous Thief"/>
-        <card number="1" name="Wharf Infiltrator"/>
-        <card number="1" name="Mischievous Catgeist"/>
-        <card number="1" name="Sea-Dasher Octopus"/>
         <card number="1" name="Notion Thief"/>
-        <card number="1" name="Aboleth Spawn"/>
         <card number="1" name="Grim Hireling"/>
-        <card number="1" name="Curiosity"/>
-        <card number="1" name="Combat Research"/>
         <card number="1" name="Sygg, River Cutthroat"/>
         <card number="1" name="Ghostly Pilferer"/>
-        <card number="1" name="Rilsa Rael, Kingpin"/>
-        <card number="1" name="Passageway Seer"/>
-        <card number="1" name="Vicious Battlerager"/>
-        <card number="1" name="Aarakocra Sneak"/>
-        <card number="1" name="From the Catacombs"/>
-        <card number="1" name="Ravenloft Adventurer"/>
-        <card number="1" name="Blighted Agent"/>
+        <card number="1" name="Arcane Heist"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Writ of Return"/>
+        <card number="1" name="Orochi Soul-Reaver"/>
+        <card number="1" name="Satoru Umezawa"/>
+        <card number="1" name="Yuriko, the Tiger's Shadow"/>
+        <card number="1" name="Zareth San, the Trickster"/>
+        <card number="1" name="Kaito, Dancing Shadow"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Change of Plans"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="1" name="Nightmare Unmaking"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="The Key to the Vault"/>
+        <card number="1" name="Dream-Thief's Bandana"/>
     </zone>
     <zone name="side">
         <card number="1" name="Warlock Class"/>
@@ -56,5 +57,25 @@
         <card number="1" name="Baleful Strix"/>
         <card number="1" name="Kheru Mind-Eater"/>
         <card number="1" name="Misfortune Teller"/>
+        <card number="1" name="Goldvein Pick"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Prying Blade"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Aarakocra Sneak"/>
+        <card number="1" name="Aboleth Spawn"/>
+        <card number="1" name="Blighted Agent"/>
+        <card number="1" name="Hoard Robber"/>
+        <card number="1" name="Mari, the Killing Quill"/>
+        <card number="1" name="Mischievous Catgeist"/>
+        <card number="1" name="Passageway Seer"/>
+        <card number="1" name="Dimir Cutpurse"/>
+        <card number="1" name="Ravenloft Adventurer"/>
+        <card number="1" name="Rilsa Rael, Kingpin"/>
+        <card number="1" name="Sea-Dasher Octopus"/>
+        <card number="1" name="Vicious Battlerager"/>
+        <card number="1" name="Wharf Infiltrator"/>
+        <card number="1" name="Combat Research"/>
+        <card number="1" name="Curiosity"/>
+        <card number="1" name="From the Catacombs"/>
     </zone>
 </cockatrice_deck>

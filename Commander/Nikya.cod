@@ -4,40 +4,26 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Nikya of the Old Ways"/>
-        <card number="1" name="Ruric Thar, the Unbowed"/>
         <card number="1" name="Soul of the Harvest"/>
         <card number="1" name="Vizier of the Menagerie"/>
         <card number="1" name="Beast Whisperer"/>
         <card number="1" name="Garruk's Packleader"/>
-        <card number="1" name="Garruk's Horde"/>
         <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Yavimaya Dryad"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Elvish Rejuvenator"/>
-        <card number="1" name="Drakuseth, Maw of Flames"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Dawntreader Elk"/>
-        <card number="1" name="Nylea, Keen-Eyed"/>
         <card number="1" name="Springbloom Druid"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Fyndhorn Elves"/>
         <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Timeless Witness"/>
         <card number="1" name="Kogla, the Titan Ape"/>
         <card number="1" name="Thorn Mammoth"/>
         <card number="1" name="Urabrask the Hidden"/>
-        <card number="1" name="Paradise Druid"/>
-        <card number="1" name="Hellkite Charger"/>
-        <card number="1" name="Radha, Heart of Keld"/>
         <card number="1" name="Keeper of Fables"/>
         <card number="1" name="Somberwald Sage"/>
-        <card number="1" name="Myojin of Roaring Blades"/>
         <card number="1" name="Quartzwood Crasher"/>
-        <card number="1" name="Ghalta, Primal Hunger"/>
-        <card number="1" name="Voracious Hydra"/>
-        <card number="1" name="Siege Behemoth"/>
-        <card number="1" name="Courser of Kruphix"/>
         <card number="10" name="Forest"/>
         <card number="10" name="Mountain"/>
         <card number="1" name="Myriad Landscape"/>
@@ -45,35 +31,17 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Cinder Glade"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Temple of Abandon"/>
         <card number="1" name="Mossfire Valley"/>
         <card number="1" name="Game Trail"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
-        <card number="1" name="Managorger Hydra"/>
         <card number="1" name="Ilysian Caryatid"/>
-        <card number="1" name="Shigeki, Jukai Visionary"/>
-        <card number="1" name="Giant Adephage"/>
-        <card number="1" name="Angrath's Marauders"/>
-        <card number="1" name="Terror of Mount Velus"/>
-        <card number="1" name="Karlach, Fury of Avernus"/>
         <card number="1" name="Thunderfoot Baloth"/>
-        <card number="1" name="Goblin Anarchomancer"/>
-        <card number="1" name="Oakhame Adversary"/>
-        <card number="1" name="Sawtusk Demolisher"/>
-        <card number="1" name="Spearbreaker Behemoth"/>
-        <card number="1" name="Savage Ventmaw"/>
-        <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Augur of Autumn"/>
-        <card number="1" name="Bane of Progress"/>
-        <card number="1" name="Runic Armasaur"/>
-        <card number="1" name="Yeva, Nature's Herald"/>
-        <card number="1" name="Magus of the Order"/>
         <card number="1" name="Fierce Empath"/>
         <card number="1" name="Fauna Shaman"/>
         <card number="1" name="Arbor Elf"/>
         <card number="1" name="Voyaging Satyr"/>
-        <card number="1" name="Kessig Wolf Run"/>
         <card number="1" name="Wooded Foothills"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Karplusan Forest"/>
@@ -82,15 +50,47 @@
         <card number="1" name="Rootbound Crag"/>
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Rockfall Vale"/>
-        <card number="1" name="Terastodon"/>
-        <card number="1" name="Magus of the Wheel"/>
-        <card number="1" name="Flameblast Dragon"/>
+        <card number="1" name="Kogla and Yidaro"/>
+        <card number="1" name="Primal Surge"/>
+        <card number="1" name="Outcaster Trailblazer"/>
+        <card number="1" name="Jaxis, the Troublemaker"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Silverback Elder"/>
+        <card number="1" name="God-Eternal Rhonas"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Cactusfolk Sureshot"/>
+        <card number="1" name="Ohran Frostfang"/>
+        <card number="1" name="Topiary Stomper"/>
+        <card number="1" name="Gwenna, Eyes of Gaea"/>
+        <card number="1" name="Ilharg, the Raze-Boar"/>
+        <card number="1" name="Vorinclex"/>
+        <card number="1" name="Woodfall Primus"/>
+        <card number="1" name="Neyith of the Dire Hunt"/>
+        <card number="1" name="Tranquil Frillback"/>
+        <card number="1" name="Markov Enforcer"/>
+        <card number="1" name="Flamerush Rider"/>
+        <card number="1" name="Regal Behemoth"/>
+        <card number="1" name="Calamity, Galloping Inferno"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Ashaya, Soul of the Wild"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Llanowar Visionary"/>
+        <card number="1" name="Rionya, Fire Dancer"/>
+        <card number="1" name="Woodland Bellower"/>
+        <card number="1" name="Collector Ouphe"/>
+        <card number="1" name="Garruk's Horde"/>
+        <card number="1" name="Tangled Florahedron"/>
+        <card number="1" name="Yedora, Grave Gardener"/>
+        <card number="1" name="Whisperwood Elemental"/>
+        <card number="1" name="Moraug, Fury of Akoum"/>
+        <card number="1" name="Purphoros, Bronze-Blooded"/>
     </zone>
     <zone name="side">
         <card number="1" name="Sunder Shaman"/>
         <card number="1" name="Owlbear Cub"/>
-        <card number="1" name="Goblin Anarchomancer"/>
-        <card number="1" name="Regal Force"/>
+        <card number="2" name="Goblin Anarchomancer"/>
+        <card number="2" name="Regal Force"/>
         <card number="1" name="Black Market Tycoon"/>
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Farhaven Elf"/>
@@ -98,16 +98,16 @@
         <card number="1" name="Scavenging Ooze"/>
         <card number="2" name="Meteor Golem"/>
         <card number="1" name="Gargos, Vicious Watcher"/>
-        <card number="1" name="Flameblast Dragon"/>
-        <card number="2" name="Savage Ventmaw"/>
-        <card number="1" name="Sawtusk Demolisher"/>
+        <card number="2" name="Flameblast Dragon"/>
+        <card number="3" name="Savage Ventmaw"/>
+        <card number="2" name="Sawtusk Demolisher"/>
         <card number="2" name="Gemrazer"/>
-        <card number="1" name="Apex Altisaur"/>
+        <card number="2" name="Apex Altisaur"/>
         <card number="2" name="Dawnglade Regent"/>
-        <card number="1" name="Spearbreaker Behemoth"/>
+        <card number="2" name="Spearbreaker Behemoth"/>
         <card number="1" name="Whiptongue Hydra"/>
         <card number="1" name="Wolverine Riders"/>
-        <card number="2" name="Acidic Slime"/>
+        <card number="3" name="Acidic Slime"/>
         <card number="1" name="Nullhide Ferox"/>
         <card number="1" name="Moraug, Fury of Akoum"/>
         <card number="1" name="Ohran Viper"/>
@@ -120,13 +120,13 @@
         <card number="1" name="Thrashing Brontodon"/>
         <card number="1" name="Spire Garden"/>
         <card number="2" name="Neverwinter Hydra"/>
-        <card number="1" name="Managorger Hydra"/>
+        <card number="3" name="Managorger Hydra"/>
         <card number="1" name="Kamahl, Heart of Krosa"/>
         <card number="1" name="Port Razer"/>
         <card number="1" name="Aggressive Mammoth"/>
         <card number="1" name="Greater Tanuki"/>
         <card number="1" name="Topiary Stomper"/>
-        <card number="2" name="Collector Ouphe"/>
+        <card number="1" name="Collector Ouphe"/>
         <card number="1" name="End-Raze Forerunners"/>
         <card number="1" name="Hydra Omnivore"/>
         <card number="1" name="Markov Enforcer"/>
@@ -145,5 +145,41 @@
         <card number="1" name="Ley Weaver"/>
         <card number="1" name="Garruk's Harbinger"/>
         <card number="1" name="Scourge of Valkas"/>
+        <card number="2" name="Elvish Rejuvenator"/>
+        <card number="1" name="Ghalta, Primal Hunger"/>
+        <card number="1" name="Giant Adephage"/>
+        <card number="1" name="Karlach, Fury of Avernus"/>
+        <card number="1" name="Magus of the Order"/>
+        <card number="1" name="Runic Armasaur"/>
+        <card number="1" name="Siege Behemoth"/>
+        <card number="1" name="Shigeki, Jukai Visionary"/>
+        <card number="1" name="Terror of Mount Velus"/>
+        <card number="1" name="Voracious Hydra"/>
+        <card number="1" name="Yeva, Nature's Herald"/>
+        <card number="1" name="Primal Surge"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="1" name="Fierce Empath"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Oakhame Adversary"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Flamerush Rider"/>
+        <card number="1" name="Timeless Witness"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Angrath's Marauders"/>
+        <card number="1" name="Nylea, Keen-Eyed"/>
+        <card number="1" name="Myojin of Roaring Blades"/>
+        <card number="1" name="Urabrask, Heretic Praetor"/>
+        <card number="1" name="Kessig Wolf Run"/>
+        <card number="1" name="Radha, Heart of Keld"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Ruric Thar, the Unbowed"/>
+        <card number="1" name="Garruk's Horde"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Surrak and Goreclaw"/>
     </zone>
 </cockatrice_deck>

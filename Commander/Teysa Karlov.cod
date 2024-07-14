@@ -18,10 +18,8 @@
         <card number="1" name="Boss's Chauffeur"/>
         <card number="1" name="Welcoming Vampire"/>
         <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Junji, the Midnight Sky"/>
         <card number="1" name="Ao, the Dawn Sky"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Redemption Choir"/>
         <card number="1" name="Gixian Puppeteer"/>
         <card number="1" name="Body Launderer"/>
         <card number="1" name="Doomed Traveler"/>
@@ -40,8 +38,6 @@
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Command the Dreadhorde"/>
-        <card number="1" name="Bolas's Citadel"/>
-        <card number="1" name="Elspeth, Sun's Champion"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Talisman of Hierarchy"/>
@@ -74,10 +70,8 @@
         <card number="1" name="Rowan's Grim Search"/>
         <card number="1" name="Vampiric Rites"/>
         <card number="1" name="Morbid Opportunist"/>
-        <card number="1" name="Dockside Chef"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
         <card number="1" name="Wake the Dead"/>
-        <card number="1" name="The Eternal Wanderer"/>
         <card number="1" name="Vraan, Executioner Thane"/>
         <card number="1" name="Cruel Celebrant"/>
         <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
@@ -85,6 +79,12 @@
         <card number="1" name="Stroke of Midnight"/>
         <card number="1" name="Viscera Seer"/>
         <card number="1" name="Liliana, Dreadhorde General"/>
+        <card number="1" name="Pitiless Carnage"/>
+        <card number="1" name="Ruthless Lawbringer"/>
+        <card number="1" name="Seraph of the Scales"/>
+        <card number="1" name="Doomskar"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Rally the Ancestors"/>
     </zone>
     <zone name="side">
         <card number="1" name="Fanatical Devotion"/>
@@ -100,7 +100,7 @@
         <card number="1" name="Clavileño, First of the Blessed"/>
         <card number="1" name="Dusk // Dawn"/>
         <card number="1" name="Expel the Interlopers"/>
-        <card number="1" name="Junji, the Midnight Sky"/>
+        <card number="2" name="Junji, the Midnight Sky"/>
         <card number="1" name="Final Payment"/>
         <card number="1" name="The Fall of Lord Konda"/>
         <card number="1" name="Mind Stone"/>
@@ -108,5 +108,11 @@
         <card number="1" name="Life Insurance"/>
         <card number="1" name="Commissar Severina Raine"/>
         <card number="1" name="Dread Return"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Pitiless Carnage"/>
+        <card number="1" name="The Eternal Wanderer"/>
+        <card number="1" name="Elspeth, Sun's Champion"/>
+        <card number="1" name="Redemption Choir"/>
+        <card number="1" name="Dockside Chef"/>
     </zone>
 </cockatrice_deck>

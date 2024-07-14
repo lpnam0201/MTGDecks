@@ -5,73 +5,22 @@
     <zone name="main">
         <card number="1" name="Lurrus of the Dream-Den"/>
         <card number="1" name="Seal of Cleansing"/>
-        <card number="1" name="Animate Dead"/>
-        <card number="1" name="Zulaport Cutthroat"/>
-        <card number="1" name="Cruel Celebrant"/>
-        <card number="1" name="Viscera Seer"/>
-        <card number="1" name="Ashnod's Altar"/>
-        <card number="1" name="Blood Artist"/>
-        <card number="1" name="Cathar Commando"/>
-        <card number="1" name="Angelic Renewal"/>
-        <card number="1" name="Command the Dreadhorde"/>
         <card number="1" name="Sevinne's Reclamation"/>
-        <card number="1" name="Priest of Fell Rites"/>
-        <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Carrion Feeder"/>
-        <card number="1" name="Bastion of Remembrance"/>
-        <card number="1" name="Corpse Knight"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Grim Haruspex"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Midnight Reaper"/>
-        <card number="1" name="Morbid Opportunist"/>
         <card number="1" name="Mind Stone"/>
-        <card number="1" name="Selfless Spirit"/>
-        <card number="1" name="Kami of False Hope"/>
-        <card number="1" name="Bounty Agent"/>
-        <card number="1" name="Selfless Samurai"/>
-        <card number="1" name="Benevolent Bodyguard"/>
         <card number="1" name="Selfless Savior"/>
-        <card number="1" name="Benalish Sleeper"/>
-        <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Knight of the White Orchid"/>
-        <card number="1" name="Loyal Warhound"/>
         <card number="1" name="Stitcher's Supplier"/>
-        <card number="1" name="Mire Triton"/>
-        <card number="1" name="Children of Korlis"/>
-        <card number="1" name="Spirited Companion"/>
         <card number="1" name="Alseid of Life's Bounty"/>
-        <card number="1" name="Wall of Omens"/>
-        <card number="1" name="Remorseful Cleric"/>
-        <card number="1" name="Welcoming Vampire"/>
-        <card number="1" name="Serrated Scorpion"/>
-        <card number="1" name="Netherborn Altar"/>
-        <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Diabolic Intent"/>
-        <card number="1" name="Pitiless Plunderer"/>
-        <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Path to Exile"/>
         <card number="1" name="Sinister Concoction"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Cleansing Nova"/>
-        <card number="1" name="Doomskar"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Nihil Spellbomb"/>
-        <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Dispeller's Capsule"/>
-        <card number="1" name="Expedition Map"/>
-        <card number="1" name="Bontu's Monument"/>
-        <card number="1" name="Moonsilver Key"/>
-        <card number="1" name="Tocasia's Welcome"/>
         <card number="1" name="Soul Snare"/>
         <card number="1" name="Darksteel Mutation"/>
         <card number="1" name="The Birth of Meletis"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Command Beacon"/>
-        <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Myriad Landscape"/>
@@ -87,6 +36,56 @@
         <card number="1" name="Shizo, Death's Storehouse"/>
         <card number="8" name="Swamp"/>
         <card number="10" name="Plains"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Spirit Mantle"/>
+        <card number="1" name="Hyena Umbra"/>
+        <card number="1" name="Swift Reconfiguration"/>
+        <card number="1" name="Angelic Gift"/>
+        <card number="1" name="Ossification"/>
+        <card number="1" name="Benevolent Blessing"/>
+        <card number="1" name="Planar Disruption"/>
+        <card number="1" name="Reprobation"/>
+        <card number="1" name="Runeforge Champion"/>
+        <card number="1" name="Rune of Mortality"/>
+        <card number="1" name="Rune of Sustenance"/>
+        <card number="1" name="Scion of Halaster"/>
+        <card number="1" name="Songbirds' Blessing"/>
+        <card number="1" name="Kor Spiritdancer"/>
+        <card number="1" name="Realmbreaker's Grasp"/>
+        <card number="1" name="Cooped Up"/>
+        <card number="1" name="Winds of Rath"/>
+        <card number="1" name="Unfinished Business"/>
+        <card number="1" name="Mantle of the Ancients"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Timely Ward"/>
+        <card number="1" name="Sage's Reverie"/>
+        <card number="1" name="Chains of Custody"/>
+        <card number="1" name="Pentarch Ward"/>
+        <card number="1" name="Dark Confidant"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Armored Skyhunter"/>
+        <card number="1" name="Contraband Livestock"/>
+        <card number="1" name="Surge of Salvation"/>
+        <card number="1" name="Retether"/>
+        <card number="1" name="Serra Paragon"/>
+        <card number="1" name="Eidolon of Countless Battles"/>
+        <card number="1" name="Perpetual Timepiece"/>
+        <card number="1" name="Ransom Note"/>
+        <card number="1" name="Soul-Guide Lantern"/>
+        <card number="1" name="Michiko's Reign of Truth"/>
+        <card number="1" name="Noble Heritage"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Sejiri Shelter"/>
+        <card number="1" name="Ondu Inversion"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Holy Mantle"/>
+        <card number="1" name="Mishra's Bauble"/>
     </zone>
     <zone name="side">
         <card number="1" name="Kaya, Ghost Haunter"/>
@@ -119,5 +118,73 @@
         <card number="1" name="Executioner's Capsule"/>
         <card number="1" name="Dockside Chef"/>
         <card number="1" name="Leonin Relic-Warder"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Bontu's Monument"/>
+        <card number="1" name="Dispeller's Capsule"/>
+        <card number="1" name="Expedition Map"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Carrion Feeder"/>
+        <card number="1" name="Bounty Agent"/>
+        <card number="1" name="Corpse Knight"/>
+        <card number="1" name="Cruel Celebrant"/>
+        <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
+        <card number="1" name="Grim Haruspex"/>
+        <card number="1" name="Kami of False Hope"/>
+        <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Morbid Opportunist"/>
+        <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Priest of Fell Rites"/>
+        <card number="1" name="Remorseful Cleric"/>
+        <card number="1" name="Selfless Samurai"/>
+        <card number="1" name="Serrated Scorpion"/>
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Command the Dreadhorde"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Wall of Omens"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Cathar Commando"/>
+        <card number="1" name="Children of Korlis"/>
+        <card number="1" name="Benalish Sleeper"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Selfless Spirit"/>
+        <card number="1" name="Nihil Spellbomb"/>
+        <card number="1" name="Angelic Renewal"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Doomskar"/>
+        <card number="1" name="Songbirds' Blessing"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Moonsilver Key"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Noble Heritage"/>
+        <card number="1" name="Dauntless Dismantler"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Claim Jumper"/>
+        <card number="1" name="Deathcap Marionette"/>
+        <card number="1" name="Portrait of Michiko"/>
+        <card number="1" name="Bovine Intervention"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Hour of Revelation"/>
+        <card number="1" name="Sentinel's Eyes"/>
+        <card number="1" name="Mire Triton"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Daybreak Coronet"/>
+        <card number="1" name="Court of Ardenvale"/>
+        <card number="1" name="Pacifism"/>
+        <card number="1" name="Dogged Detective"/>
+        <card number="1" name="Hateful Eidolon"/>
     </zone>
 </cockatrice_deck>

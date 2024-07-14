@@ -7,32 +7,22 @@
         <card number="1" name="Dragonborn Looter"/>
         <card number="1" name="Merfolk Looter"/>
         <card number="1" name="Obsessive Stitcher"/>
-        <card number="1" name="Bone Miser"/>
-        <card number="1" name="Skirge Familiar"/>
-        <card number="1" name="Peer into the Abyss"/>
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Dimir Signet"/>
         <card number="1" name="Windfall"/>
-        <card number="1" name="Whispering Madness"/>
         <card number="1" name="Notion Thief"/>
         <card number="1" name="Containment Construct"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Countersquall"/>
         <card number="1" name="Saw It Coming"/>
-        <card number="1" name="Bonded Fetch"/>
         <card number="1" name="Reality Shift"/>
-        <card number="1" name="Omniscience"/>
         <card number="1" name="Neutralize"/>
-        <card number="1" name="Pongify"/>
-        <card number="1" name="Rapid Hybridization"/>
         <card number="1" name="Facet Reader"/>
         <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Mana Leak"/>
         <card number="1" name="Soul Shatter"/>
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Command Tower"/>
@@ -47,48 +37,58 @@
         <card number="1" name="Dimir Aqueduct"/>
         <card number="1" name="Psychosis Crawler"/>
         <card number="1" name="Marshland Bloodcaster"/>
-        <card number="1" name="Price of Fame"/>
-        <card number="1" name="Baleful Mastery"/>
         <card number="1" name="Countervailing Winds"/>
         <card number="1" name="Lore Broker"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Enclave Cryptologist"/>
-        <card number="1" name="Treasure Cruise"/>
-        <card number="1" name="Laboratory Maniac"/>
         <card number="1" name="Coalition Relic"/>
         <card number="1" name="Thought Courier"/>
         <card number="1" name="Ghostly Pilferer"/>
-        <card number="1" name="Reckless Scholar"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Vohar, Vodalian Desecrator"/>
-        <card number="1" name="Mastermind's Acquisition"/>
-        <card number="1" name="Diabolic Tutor"/>
-        <card number="1" name="Blood Money"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Watery Grave"/>
         <card number="1" name="Morphic Pool"/>
         <card number="1" name="Polluted Delta"/>
         <card number="1" name="Geier Reach Sanitarium"/>
-        <card number="1" name="Raving Visionary"/>
-        <card number="1" name="Solve the Equation"/>
-        <card number="1" name="Coveted Prize"/>
-        <card number="1" name="Said // Done"/>
-        <card number="1" name="Flood of Recollection"/>
-        <card number="1" name="Call to Mind"/>
-        <card number="1" name="Behold the Beyond"/>
-        <card number="1" name="Dark Ritual"/>
-        <card number="1" name="Ominous Seas"/>
-        <card number="1" name="Faith of the Devoted"/>
-        <card number="1" name="Decanter of Endless Water"/>
-        <card number="1" name="Illicit Shipment"/>
-        <card number="1" name="Horizon Stone"/>
-        <card number="1" name="Razaketh's Rite"/>
-        <card number="1" name="Final Parting"/>
-        <card number="1" name="Increasing Ambition"/>
+        <card number="1" name="Matzalantli, the Great Door"/>
+        <card number="1" name="Rona, Herald of Invasion"/>
+        <card number="1" name="Deadly Cover-Up"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Secrets of the Dead"/>
+        <card number="1" name="Path of the Schemer"/>
+        <card number="1" name="Extract from Darkness"/>
+        <card number="1" name="The Cruelty of Gix"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Likeness Looter"/>
+        <card number="1" name="Malcolm, Alluring Scoundrel"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="All-Seeing Arbiter"/>
+        <card number="1" name="Evil Twin"/>
+        <card number="1" name="Stunt Double"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Teferi's Ageless Insight"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="1" name="Currency Converter"/>
+        <card number="1" name="Scholar of the Lost Trove"/>
+        <card number="1" name="Beacon of Unrest"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Ertai Resurrected"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="See Double"/>
+        <card number="1" name="Clone Legion"/>
+        <card number="1" name="Realmbreaker, the Invasion Tree"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Theoretical Duplication"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Young Necromancer"/>
+        <card number="1" name="Puppeteer Clique"/>
+        <card number="1" name="Razaketh, the Foulblooded"/>
+        <card number="1" name="Rune-Scarred Demon"/>
     </zone>
     <zone name="side">
         <card number="2" name="Dreamscape Artist"/>
-        <card number="2" name="Raving Visionary"/>
+        <card number="3" name="Raving Visionary"/>
         <card number="1" name="Gravebreaker Lamia"/>
         <card number="1" name="Thirst for Discovery"/>
         <card number="1" name="Dimir Aqueduct"/>
@@ -115,20 +115,20 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Syr Konrad, the Grim"/>
         <card number="1" name="Tormod, the Desecrator"/>
-        <card number="1" name="Lord of the Forsaken"/>
-        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="2" name="Lord of the Forsaken"/>
+        <card number="2" name="Nezahal, Primal Tide"/>
         <card number="1" name="Network Terminal"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Necrogoyf"/>
         <card number="1" name="Morphic Pool"/>
         <card number="1" name="Watery Grave"/>
-        <card number="1" name="Reckless Scholar"/>
+        <card number="2" name="Reckless Scholar"/>
         <card number="1" name="Smuggler's Copter"/>
         <card number="1" name="Drowned Catacomb"/>
         <card number="1" name="Facet Reader"/>
         <card number="1" name="Wharf Infiltrator"/>
         <card number="1" name="Dying to Serve"/>
-        <card number="1" name="Monastery Siege"/>
+        <card number="2" name="Monastery Siege"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Demonic Bargain"/>
         <card number="1" name="Tainted Isle"/>
@@ -137,19 +137,56 @@
         <card number="1" name="Thought Reflection"/>
         <card number="1" name="Sage of the Beyond"/>
         <card number="1" name="Eldritch Pact"/>
-        <card number="1" name="Ominous Seas"/>
+        <card number="2" name="Ominous Seas"/>
         <card number="1" name="Deadly Tempest"/>
-        <card number="1" name="Atemsis, All-Seeing"/>
-        <card number="1" name="Final Parting"/>
+        <card number="2" name="Atemsis, All-Seeing"/>
+        <card number="2" name="Final Parting"/>
         <card number="1" name="Drake Haven"/>
-        <card number="1" name="Faith of the Devoted"/>
+        <card number="2" name="Faith of the Devoted"/>
         <card number="1" name="Behold the Multiverse"/>
         <card number="1" name="Dihada's Ploy"/>
-        <card number="1" name="Necrotic Ooze"/>
-        <card number="1" name="Razaketh's Rite"/>
+        <card number="2" name="Necrotic Ooze"/>
+        <card number="2" name="Razaketh's Rite"/>
         <card number="1" name="Archfiend of Ifnir"/>
         <card number="1" name="Drawn from Dreams"/>
         <card number="1" name="See the Truth"/>
         <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Decanter of Endless Water"/>
+        <card number="1" name="Horizon Stone"/>
+        <card number="1" name="Bone Miser"/>
+        <card number="1" name="Skirge Familiar"/>
+        <card number="1" name="Omniscience"/>
+        <card number="1" name="Behold the Beyond"/>
+        <card number="1" name="Blood Money"/>
+        <card number="1" name="Call to Mind"/>
+        <card number="1" name="Coveted Prize"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Flood of Recollection"/>
+        <card number="1" name="Illicit Shipment"/>
+        <card number="1" name="Increasing Ambition"/>
+        <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Solve the Equation"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Said // Done"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Whispering Madness"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Mocking Doppelganger"/>
+        <card number="1" name="Discovery // Dispersal"/>
+        <card number="1" name="Peer into the Abyss"/>
+        <card number="1" name="Baleful Mastery"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="1" name="The Ancient One"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Connive // Concoct"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Bonded Fetch"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Rise from the Grave"/>
+        <card number="1" name="Collector's Vault"/>
     </zone>
 </cockatrice_deck>

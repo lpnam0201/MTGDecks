@@ -6,22 +6,15 @@
         <card number="1" name="Starfield of Nyx"/>
         <card number="1" name="The Eldest Reborn"/>
         <card number="1" name="The Cruelty of Gix"/>
-        <card number="1" name="The Mending of Dominaria"/>
         <card number="1" name="Binding the Old Gods"/>
         <card number="1" name="Fall of the Impostor"/>
         <card number="1" name="Battle for Bretagard"/>
         <card number="1" name="The Fall of Lord Konda"/>
-        <card number="1" name="Michiko's Reign of Truth"/>
-        <card number="1" name="Jugan Defends the Temple"/>
-        <card number="1" name="The Restoration of Eiganjo"/>
         <card number="1" name="Teachings of the Kirin"/>
-        <card number="1" name="Tymaret Calls the Dead"/>
-        <card number="1" name="The First Iroan Games"/>
         <card number="1" name="Elspeth Conquers Death"/>
         <card number="1" name="The Binding of the Titans"/>
         <card number="1" name="The Birth of Meletis"/>
         <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Oubliette"/>
         <card number="1" name="Banishing Light"/>
         <card number="1" name="Doomwake Giant"/>
         <card number="1" name="Eidolon of Blossoms"/>
@@ -45,7 +38,6 @@
         <card number="1" name="Nyx Weaver"/>
         <card number="1" name="Mythos of Nethroi"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Excise the Imperfect"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Search for Tomorrow"/>
         <card number="1" name="Wayfarer's Bauble"/>
@@ -88,13 +80,21 @@
         <card number="1" name="Mindwrack Harpy"/>
         <card number="1" name="Extinguish All Hope"/>
         <card number="1" name="Mirari's Wake"/>
-        <card number="1" name="Narci, Fable Singer"/>
         <card number="1" name="Battle at the Helvault"/>
-        <card number="1" name="Ondu Spiritdancer"/>
-        <card number="1" name="Composer of Spring"/>
-        <card number="1" name="Gloomshrieker"/>
         <card number="1" name="Fertile Ground"/>
         <card number="1" name="Grasp of Fate"/>
+        <card number="1" name="Selesnya Eulogist"/>
+        <card number="1" name="Trostani, Selesnya's Voice"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Muster the Departed"/>
+        <card number="1" name="Promise of Aclazotz // Foul Rebirth"/>
+        <card number="1" name="Sundering Growth"/>
+        <card number="1" name="Growing Ranks"/>
+        <card number="1" name="Druid's Deliverance"/>
+        <card number="1" name="Cacophony Unleashed"/>
+        <card number="1" name="Nyxborn Behemoth"/>
+        <card number="1" name="Demon of Fate's Design"/>
+        <card number="1" name="Font of Fertility"/>
     </zone>
     <zone name="side">
         <card number="1" name="Love Song of Night and Day"/>
@@ -130,5 +130,19 @@
         <card number="1" name="Akroma's Will"/>
         <card number="1" name="Clever Concealment"/>
         <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Song of the Worldsoul"/>
+        <card number="1" name="Composer of Spring"/>
+        <card number="1" name="Ondu Spiritdancer"/>
+        <card number="1" name="Narci, Fable Singer"/>
+        <card number="1" name="Jugan Defends the Temple"/>
+        <card number="1" name="Michiko's Reign of Truth"/>
+        <card number="1" name="The First Iroan Games"/>
+        <card number="1" name="The Mending of Dominaria"/>
+        <card number="1" name="The Restoration of Eiganjo"/>
+        <card number="1" name="Tymaret Calls the Dead"/>
+        <card number="1" name="Excise the Imperfect"/>
+        <card number="1" name="Doomwake Giant"/>
+        <card number="1" name="Gloomshrieker"/>
+        <card number="1" name="Oubliette"/>
     </zone>
 </cockatrice_deck>

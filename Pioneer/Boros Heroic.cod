@@ -7,7 +7,6 @@
         <card number="4" name="Battlefield Forge"/>
         <card number="4" name="Defiant Strike"/>
         <card number="2" name="Dreadhorde Arcanist"/>
-        <card number="1" name="Eiganjo, Seat of the Empire"/>
         <card number="1" name="Escape Velocity"/>
         <card number="4" name="Favored Hoplite"/>
         <card number="1" name="Gods Willing"/>
@@ -17,13 +16,17 @@
         <card number="4" name="Loran's Escape"/>
         <card number="4" name="Monastery Swiftspear"/>
         <card number="4" name="Monstrous Rage"/>
-        <card number="1" name="Mountain"/>
-        <card number="3" name="Needleverge Pathway"/>
-        <card number="1" name="Plains"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Needleverge Pathway"/>
+        <card number="2" name="Plains"/>
         <card number="2" name="Reckless Rage"/>
         <card number="4" name="Sacred Foundry"/>
         <card number="1" name="Sejiri Shelter"/>
         <card number="1" name="Spikefield Hazard"/>
         <card number="2" name="Tenth District Legionnaire"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="1" name="Needleverge Pathway"/>
     </zone>
 </cockatrice_deck>

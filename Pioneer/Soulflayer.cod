@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Soulflayer </deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Soulflayer"/>
+        <card number="4" name="Urborg Scavengers"/>
+        <card number="4" name="Zetalpa, Primal Dawn"/>
+        <card number="2" name="Samut, Voice of Dissent"/>
+        <card number="2" name="Cragplate Baloth"/>
+        <card number="4" name="Deep-Cavern Bat"/>
+        <card number="4" name="Striped Riverwinder"/>
+        <card number="4" name="Blooming Marsh"/>
+        <card number="4" name="Shipwreck Marsh"/>
+        <card number="4" name="Darkslick Shores"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="3" name="Underground River"/>
+        <card number="3" name="Llanowar Wastes"/>
+        <card number="4" name="Otherworldly Gaze"/>
+        <card number="4" name="Grisly Salvage"/>
+        <card number="2" name="Spell Pierce"/>
+        <card number="2" name="Duress"/>
+        <card number="4" name="Tainted Indulgence"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Collective Brutality"/>
+        <card number="1" name="Bitter Triumph"/>
+    </zone>
+</cockatrice_deck>

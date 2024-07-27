@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Boros Convoke</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Battlefield Forge"/>
+        <card number="4" name="Gleeful Demolition"/>
+        <card number="4" name="Imodane's Recruiter // Train Troops"/>
+        <card number="4" name="Inspiring Vantage"/>
+        <card number="4" name="Knight-Errant of Eos"/>
+        <card number="2" name="Mountain"/>
+        <card number="4" name="Needleverge Pathway"/>
+        <card number="4" name="Novice Inspector"/>
+        <card number="4" name="Ornithopter"/>
+        <card number="3" name="Plains"/>
+        <card number="4" name="Reckless Bushwhacker"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Shefet Dunes"/>
+        <card number="1" name="Sokenzan, Crucible of Defiance"/>
+        <card number="4" name="Thraben Inspector"/>
+        <card number="4" name="Venerated Loxodon"/>
+        <card number="4" name="Voldaren Epicure"/>
+        <card number="4" name="Warden of the Inner Sky"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Mountain"/>
+    </zone>
+</cockatrice_deck>

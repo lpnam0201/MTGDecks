@@ -6,17 +6,21 @@
         <card number="4" name="Soulflayer"/>
         <card number="4" name="Striped Riverwinder"/>
         <card number="4" name="Zetalpa, Primal Dawn"/>
-        <card number="4" name="Consider"/>
         <card number="4" name="Otherworldly Gaze"/>
-        <card number="4" name="Chart a Course"/>
-        <card number="4" name="Choked Estuary"/>
-        <card number="4" name="Sunken Hollow"/>
-        <card number="6" name="Island"/>
-        <card number="6" name="Swamp"/>
-        <card number="4" name="Strategic Planning"/>
-        <card number="4" name="Vampire Nighthawk"/>
-        <card number="4" name="Bloodchief's Thirst"/>
-        <card number="4" name="Banehound"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Samut, Voice of Dissent"/>
+        <card number="2" name="Cragplate Baloth"/>
+        <card number="4" name="Deep-Cavern Bat"/>
+        <card number="4" name="Tainted Indulgence"/>
+        <card number="4" name="Underground River"/>
+        <card number="4" name="Darkslick Shores"/>
+        <card number="4" name="Shipwreck Marsh"/>
+        <card number="4" name="Watery Grave"/>
+        <card number="4" name="Founding the Third Path"/>
+        <card number="1" name="Collective Brutality"/>
+        <card number="4" name="Urborg Scavengers"/>
+        <card number="3" name="Wail of the Forgotten"/>
     </zone>
     <zone name="side">
         <card number="2" name="Tormod's Crypt"/>
@@ -26,5 +30,15 @@
         <card number="3" name="Path of Peril"/>
         <card number="2" name="Power Word Kill"/>
         <card number="2" name="Unsubstantiate"/>
+        <card number="4" name="Banehound"/>
+        <card number="4" name="Vampire Nighthawk"/>
+        <card number="4" name="Bloodchief's Thirst"/>
+        <card number="4" name="Chart a Course"/>
+        <card number="4" name="Strategic Planning"/>
+        <card number="4" name="Consider"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Swamp"/>
+        <card number="4" name="Sunken Hollow"/>
+        <card number="4" name="Choked Estuary"/>
     </zone>
 </cockatrice_deck>

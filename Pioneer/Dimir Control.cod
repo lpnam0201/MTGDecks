@@ -3,39 +3,45 @@
     <deckname>Dimir Control</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="2" name="Extinction Event"/>
-        <card number="4" name="Opt"/>
-        <card number="4" name="Neutralize"/>
-        <card number="3" name="Hero's Downfall"/>
-        <card number="4" name="Power Word Kill"/>
-        <card number="2" name="Negate"/>
-        <card number="4" name="Sunken Hollow"/>
-        <card number="4" name="Choked Estuary"/>
-        <card number="6" name="Island"/>
-        <card number="6" name="Swamp"/>
-        <card number="2" name="Dig Through Time"/>
-        <card number="2" name="Shadows' Verdict"/>
-        <card number="3" name="Saw It Coming"/>
-        <card number="4" name="Temple of Deceit"/>
-        <card number="4" name="Bloodchief's Thirst"/>
-        <card number="3" name="Ashiok, Nightmare Muse"/>
-        <card number="3" name="Narset, Parter of Veils"/>
+        <card number="2" name="Narset, Parter of Veils"/>
+        <card number="3" name="Shark Typhoon"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="4" name="Memory Deluge"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="2" name="Deadly Cover-Up"/>
+        <card number="2" name="Languish"/>
+        <card number="1" name="Extinction Event"/>
+        <card number="1" name="Hall of Storm Giants"/>
+        <card number="4" name="Field of Ruin"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="4" name="Darkslick Shores"/>
+        <card number="2" name="Island"/>
+        <card number="3" name="Swamp"/>
+        <card number="4" name="Underground River"/>
+        <card number="2" name="Restless Reef"/>
+        <card number="2" name="Duress"/>
+        <card number="3" name="Deduce"/>
+        <card number="4" name="Censor"/>
+        <card number="1" name="Cling to Dust"/>
+        <card number="2" name="Sheoldred's Edict"/>
+        <card number="4" name="Shipwreck Marsh"/>
+        <card number="1" name="Geier Reach Sanitarium"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="1" name="Dig Through Time"/>
     </zone>
     <zone name="side">
-        <card number="2" name="Bloodchief's Thirst"/>
-        <card number="2" name="Ritual of Soot"/>
-        <card number="1" name="Ashiok, Nightmare Muse"/>
-        <card number="3" name="Narset, Parter of Veils"/>
-        <card number="1" name="Dig Through Time"/>
-        <card number="2" name="Dissolve"/>
-        <card number="1" name="Hero's Downfall"/>
-        <card number="1" name="Cling to Dust"/>
-        <card number="2" name="Duress"/>
-        <card number="1" name="Island"/>
-        <card number="2" name="Lochmere Serpent"/>
-        <card number="1" name="Power Word Kill"/>
-        <card number="4" name="Temple of Deceit"/>
-        <card number="4" name="Shipwreck Marsh"/>
-        <card number="2" name="Hall of Storm Giants"/>
+        <card number="1" name="Deadly Cover-Up"/>
+        <card number="5" name="Sunken Hollow"/>
+        <card number="2" name="Field of Ruin"/>
+        <card number="2" name="Shadows' Verdict"/>
+        <card number="1" name="Torrential Gearhulk"/>
+        <card number="2" name="Narset, Parter of Veils"/>
+        <card number="3" name="Go for the Throat"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Swamp"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Shark Typhoon"/>
+        <card number="1" name="Deduce"/>
     </zone>
 </cockatrice_deck>

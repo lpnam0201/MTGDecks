@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Orzhov Human</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Adeline, Resplendent Cathar"/>
+        <card number="4" name="Dauntless Bodyguard"/>
+        <card number="4" name="Hopeful Initiate"/>
+        <card number="2" name="Jirina, Dauntless General"/>
+        <card number="1" name="General Kudro of Drannith"/>
+        <card number="4" name="Thalia, Guardian of Thraben"/>
+        <card number="4" name="Thalia's Lieutenant"/>
+        <card number="4" name="Coppercoat Vanguard"/>
+        <card number="4" name="Brave the Elements"/>
+        <card number="4" name="Concealed Courtyard"/>
+        <card number="4" name="Caves of Koilos"/>
+        <card number="4" name="Brightclimb Pathway"/>
+        <card number="1" name="Restless Fortress"/>
+        <card number="6" name="Plains"/>
+        <card number="1" name="Swamp"/>
+        <card number="4" name="Recruitment Officer"/>
+        <card number="1" name="Kytheon, Hero of Akros"/>
+        <card number="2" name="Giant Killer // Chop Down"/>
+        <card number="2" name="Luminarch Aspirant"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Bloodsoaked Champion"/>
+        <card number="2" name="Dire Tactics"/>
+    </zone>
+</cockatrice_deck>

@@ -11,10 +11,6 @@
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Archfiend of Ifnir"/>
         <card number="1" name="Teferi's Ageless Insight"/>
-        <card number="1" name="Hammers of Moradin"/>
-        <card number="1" name="Wyrm's Crossing Patrol"/>
-        <card number="1" name="Bone Miser"/>
-        <card number="1" name="Oskar, Rubbish Reclaimer"/>
         <card number="1" name="Containment Construct"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Sevinne's Reclamation"/>
@@ -64,36 +60,35 @@
         <card number="1" name="Port Town"/>
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Shineshadow Snarl"/>
-        <card number="1" name="Lavinia, Azorius Renegade"/>
         <card number="1" name="Scheming Fence"/>
         <card number="1" name="Doomskar"/>
         <card number="1" name="Selfless Spirit"/>
         <card number="1" name="Torrential Gearhulk"/>
-        <card number="1" name="Stolen Identity"/>
-        <card number="1" name="Writ of Return"/>
         <card number="1" name="Weathered Wayfarer"/>
         <card number="1" name="Dread Return"/>
         <card number="1" name="Unburial Rites"/>
-        <card number="1" name="Grazilaxx, Illithid Scholar"/>
         <card number="1" name="Isolated Chapel"/>
-        <card number="1" name="Sleep of the Dead"/>
         <card number="1" name="Doomed Necromancer"/>
         <card number="1" name="Angel of the Ruins"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Scholar of the Lost Trove"/>
         <card number="1" name="The Council of Four"/>
-        <card number="1" name="Alhammarret's Archive"/>
-        <card number="1" name="Skyhunter Strike Force"/>
         <card number="1" name="Fateful Absence"/>
         <card number="1" name="Saw It Coming"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Verge Rangers"/>
-        <card number="1" name="Adeline, Resplendent Cathar"/>
-        <card number="1" name="Boromir, Warden of the Tower"/>
-        <card number="1" name="Dusk Legion Duelist"/>
         <card number="1" name="Painful Truths"/>
-        <card number="1" name="Archpriest of Shadows"/>
         <card number="1" name="The Raven Man"/>
+        <card number="1" name="Puppeteer Clique"/>
+        <card number="1" name="Serra's Emissary"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Ledger Shredder"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Likeness Looter"/>
+        <card number="1" name="Wonder"/>
+        <card number="1" name="Grim Hireling"/>
+        <card number="1" name="Obsessive Stitcher"/>
+        <card number="1" name="Spell Queller"/>
     </zone>
     <zone name="side">
         <card number="2" name="Change of Plans"/>

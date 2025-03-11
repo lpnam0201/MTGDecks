@@ -5,54 +5,22 @@
     <zone name="main">
         <card number="1" name="Atla Palani, Nest Tender"/>
         <card number="1" name="High Market"/>
-        <card number="1" name="Goblin Bombardment"/>
-        <card number="1" name="Greater Good"/>
-        <card number="1" name="Kazuul's Fury"/>
         <card number="1" name="Evolutionary Leap"/>
-        <card number="1" name="Industrial Advancement"/>
-        <card number="1" name="Drakuseth, Maw of Flames"/>
         <card number="1" name="Inferno Titan"/>
-        <card number="1" name="Apex Altisaur"/>
-        <card number="1" name="Hydra Omnivore"/>
         <card number="1" name="Etali, Primal Storm"/>
-        <card number="1" name="Soul of the Harvest"/>
-        <card number="1" name="Terastodon"/>
-        <card number="1" name="Kogla, the Titan Ape"/>
-        <card number="1" name="Gargos, Vicious Watcher"/>
         <card number="1" name="Angel of Serenity"/>
-        <card number="1" name="Ghalta, Primal Hunger"/>
-        <card number="1" name="Zetalpa, Primal Dawn"/>
-        <card number="1" name="Urabrask the Hidden"/>
-        <card number="1" name="Quartzwood Crasher"/>
-        <card number="1" name="Giant Adephage"/>
-        <card number="1" name="Angrath's Marauders"/>
-        <card number="1" name="Terror of Mount Velus"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Emergent Sequence"/>
         <card number="1" name="Tragic Arrogance"/>
-        <card number="1" name="Single Combat"/>
-        <card number="1" name="Slash the Ranks"/>
-        <card number="1" name="Divine Reckoning"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="By Invitation Only"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Gruul Signet"/>
-        <card number="1" name="Boros Signet"/>
-        <card number="1" name="Selesnya Signet"/>
-        <card number="1" name="Talisman of Unity"/>
-        <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Mind Stone"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Wild Magic Surge"/>
-        <card number="1" name="Aerial Extortionist"/>
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Stomping Ground"/>
@@ -69,29 +37,66 @@
         <card number="1" name="Rugged Prairie"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Mossfire Valley"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Jungle Shrine"/>
         <card number="1" name="Krosan Verge"/>
         <card number="1" name="Sungrass Prairie"/>
-        <card number="5" name="Forest"/>
-        <card number="5" name="Mountain"/>
-        <card number="4" name="Plains"/>
-        <card number="1" name="Thorn Mammoth"/>
-        <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Prismatic Lens"/>
-        <card number="1" name="Inscription of Abundance"/>
-        <card number="1" name="Witch's Oven"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Magmatic Force"/>
-        <card number="1" name="Kamahl, Heart of Krosa"/>
-        <card number="1" name="Setessan Tactics"/>
-        <card number="1" name="Fertile Ground"/>
-        <card number="1" name="Titanic Brawl"/>
-        <card number="1" name="Prizefight"/>
-        <card number="1" name="Marauding Raptor"/>
-        <card number="1" name="Olivia's Attendants"/>
+        <card number="3" name="Forest"/>
+        <card number="3" name="Mountain"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Patriar's Seal"/>
+        <card number="1" name="Gisela, Blade of Goldnight"/>
+        <card number="1" name="Roxanne, Starfall Savant"/>
+        <card number="1" name="Calamity, Galloping Inferno"/>
+        <card number="1" name="Cabaretti Confluence"/>
+        <card number="1" name="Terror of the Peaks"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Dawn's Truce"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Stroke of Midnight"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Sundown Pass"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Sheltering Landscape"/>
+        <card number="1" name="The Jolly Balloon Man"/>
+        <card number="1" name="Timeless Witness"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Fecund Greenshell"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Naya Charm"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Annie Joins Up"/>
+        <card number="1" name="Talisman of Conviction"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Talisman of Impulse"/>
+        <card number="1" name="Primal Growth"/>
+        <card number="1" name="Rose Room Treasurer"/>
+        <card number="1" name="Overlord of the Boilerbilges"/>
+        <card number="1" name="Zacama, Primal Calamity"/>
+        <card number="1" name="Trumpeting Carnosaur"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Realm-Scorcher Hellkite"/>
+        <card number="1" name="Thunderous Debut"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Ignite the Future"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Etali, Primal Conqueror"/>
+        <card number="1" name="Dromoka's Command"/>
+        <card number="1" name="Flare of Cultivation"/>
+        <card number="1" name="Birthing Ritual"/>
+        <card number="1" name="Charitable Levy"/>
     </zone>
     <zone name="side">
         <card number="1" name="Song of the Worldsoul"/>
@@ -122,5 +127,27 @@
         <card number="1" name="Three Visits"/>
         <card number="1" name="Cabaretti Confluence"/>
         <card number="1" name="Liege of the Tangle"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Inscription of Abundance"/>
+        <card number="1" name="Sundering Growth"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Flamerush Rider"/>
+        <card number="1" name="Emiel the Blessed"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Starstorm"/>
+        <card number="1" name="Zealous Conscripts"/>
+        <card number="1" name="Coercive Recruiter"/>
+        <card number="1" name="Quartzwood Crasher"/>
+        <card number="1" name="Industrial Advancement"/>
+        <card number="1" name="Defiler of Instinct"/>
+        <card number="1" name="Mirage Phalanx"/>
+        <card number="1" name="Wayta, Trainer Prodigy"/>
+        <card number="1" name="Keeper of the Accord"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Cataclysmic Gearhulk"/>
+        <card number="1" name="Migration Path"/>
     </zone>
 </cockatrice_deck>

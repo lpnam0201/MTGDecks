@@ -21,9 +21,6 @@
         <card number="1" name="Shredded Sails"/>
         <card number="1" name="Deem Worthy"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Azorius Signet"/>
-        <card number="1" name="Boros Signet"/>
-        <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Skycloud Expanse"/>
         <card number="1" name="Battlefield Forge"/>
@@ -51,8 +48,6 @@
         <card number="1" name="Spectator Seating"/>
         <card number="1" name="Rugged Prairie"/>
         <card number="1" name="Astral Slide"/>
-        <card number="1" name="Idyllic Tutor"/>
-        <card number="1" name="Talisman of Progress"/>
         <card number="1" name="Warden of the Eye"/>
         <card number="1" name="Adarkar Wastes"/>
         <card number="1" name="Sacred Foundry"/>
@@ -61,45 +56,50 @@
         <card number="1" name="Austere Command"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Dovin's Veto"/>
-        <card number="1" name="Imperial Recruiter"/>
-        <card number="1" name="Approach of the Second Sun"/>
-        <card number="1" name="Thought Vessel"/>
         <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Laboratory Maniac"/>
-        <card number="1" name="Mana Geyser"/>
-        <card number="1" name="Thought Reflection"/>
-        <card number="1" name="Cloud of Faeries"/>
         <card number="1" name="Raugrin Triome"/>
         <card number="1" name="Shorikai, Genesis Engine"/>
         <card number="1" name="All-Seeing Arbiter"/>
         <card number="1" name="Angelsong"/>
-        <card number="1" name="Supreme Verdict"/>
-        <card number="1" name="Ominous Seas"/>
-        <card number="1" name="Coalition Relic"/>
         <card number="1" name="Fluctuator"/>
         <card number="1" name="Boon of the Wish-Giver"/>
         <card number="1" name="Radiant's Judgment"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Wand of the Worldsoul"/>
         <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Alandra, Sky Dreamer"/>
-        <card number="1" name="Minn, Wily Illusionist"/>
         <card number="1" name="Containment Construct"/>
         <card number="1" name="The Council of Four"/>
-        <card number="1" name="Commit // Memory"/>
-        <card number="1" name="Wyll's Reversal"/>
-        <card number="1" name="Saw It Coming"/>
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Temple of Enlightenment"/>
         <card number="1" name="Temple of Epiphany"/>
         <card number="1" name="Glacial Fortress"/>
         <card number="1" name="Sulfur Falls"/>
         <card number="1" name="Clifftop Retreat"/>
-        <card number="1" name="Hullbreaker Horror"/>
-        <card number="1" name="Talisman of Creativity"/>
-        <card number="1" name="Izzet Signet"/>
         <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Magmakin Artillerist"/>
+        <card number="1" name="Waxen Shapethief"/>
+        <card number="1" name="Spectacular Pileup"/>
+        <card number="1" name="Trade the Helm"/>
+        <card number="1" name="Trip Up"/>
+        <card number="1" name="Skycrash"/>
+        <card number="1" name="Gallant Strike"/>
+        <card number="1" name="Fuel the Flames"/>
+        <card number="1" name="Monument to Endurance"/>
+        <card number="1" name="Lightning Rift"/>
+        <card number="1" name="Drake Haven"/>
+        <card number="1" name="Crystalline Resonance"/>
+        <card number="1" name="Escape Protocol"/>
+        <card number="1" name="Herald of the Forgotten"/>
+        <card number="1" name="Spellpyre Phoenix"/>
+        <card number="1" name="Hieroglyphic Illumination"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Decree of Justice"/>
+        <card number="1" name="Zenith Flare"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="Proft's Eidetic Memory"/>
+        <card number="1" name="Ghostly Pilferer"/>
     </zone>
     <zone name="side">
         <card number="5" name="Niv-Mizzet, the Firemind"/>
@@ -143,7 +143,7 @@
         <card number="3" name="Brallin, Skyshark Rider"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Herald of the Forgotten"/>
-        <card number="1" name="Irrigated Farmland"/>
+        <card number="2" name="Irrigated Farmland"/>
         <card number="1" name="Ash Barrens"/>
         <card number="1" name="Spellpyre Phoenix"/>
         <card number="1" name="Astral Slide"/>

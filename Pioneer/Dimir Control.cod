@@ -10,8 +10,8 @@
         <card number="1" name="Negate"/>
         <card number="1" name="Go for the Throat"/>
         <card number="2" name="Deadly Cover-Up"/>
-        <card number="2" name="Languish"/>
-        <card number="1" name="Extinction Event"/>
+        <card number="1" name="Languish"/>
+        <card number="2" name="Extinction Event"/>
         <card number="1" name="Hall of Storm Giants"/>
         <card number="4" name="Field of Ruin"/>
         <card number="1" name="Watery Grave"/>
@@ -20,7 +20,6 @@
         <card number="3" name="Swamp"/>
         <card number="4" name="Underground River"/>
         <card number="2" name="Restless Reef"/>
-        <card number="2" name="Duress"/>
         <card number="3" name="Deduce"/>
         <card number="4" name="Censor"/>
         <card number="1" name="Cling to Dust"/>
@@ -29,6 +28,7 @@
         <card number="1" name="Geier Reach Sanitarium"/>
         <card number="1" name="Torrential Gearhulk"/>
         <card number="1" name="Dig Through Time"/>
+        <card number="2" name="Thoughtseize"/>
     </zone>
     <zone name="side">
         <card number="1" name="Deadly Cover-Up"/>
@@ -43,5 +43,7 @@
         <card number="2" name="Island"/>
         <card number="1" name="Shark Typhoon"/>
         <card number="1" name="Deduce"/>
+        <card number="2" name="Duress"/>
+        <card number="1" name="Languish"/>
     </zone>
 </cockatrice_deck>

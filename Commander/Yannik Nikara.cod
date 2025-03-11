@@ -15,7 +15,6 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Gala Greeters"/>
         <card number="1" name="Teleportation Circle"/>
-        <card number="1" name="Conjurer's Closet"/>
         <card number="1" name="Restoration Angel"/>
         <card number="1" name="Felidar Guardian"/>
         <card number="1" name="Reclamation Sage"/>
@@ -144,5 +143,6 @@
         <card number="1" name="Summoner's Pact"/>
         <card number="1" name="Idyllic Tutor"/>
         <card number="1" name="Mastermind's Acquisition"/>
+        <card number="1" name="Conjurer's Closet"/>
     </zone>
 </cockatrice_deck>

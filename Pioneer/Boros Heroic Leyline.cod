@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Boros Heroic Leyline</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Battlefield Forge"/>
+        <card number="4" name="Monstrous Rage"/>
+        <card number="4" name="Slickshot Show-Off"/>
+        <card number="2" name="Crumb and Get It"/>
+        <card number="4" name="Leyline of Resonance"/>
+        <card number="4" name="Turn Inside Out"/>
+        <card number="4" name="Sacred Foundry"/>
+        <card number="4" name="Favored Hoplite"/>
+        <card number="2" name="Monastery Swiftspear"/>
+        <card number="4" name="Inspiring Vantage"/>
+        <card number="2" name="Gods Willing"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Spikefield Hazard"/>
+        <card number="4" name="Needleverge Pathway"/>
+        <card number="4" name="Clever Lumimancer"/>
+        <card number="2" name="Homestead Courage"/>
+        <card number="4" name="Ancestral Anger"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="4" name="Illuminator Virtuoso"/>
+    </zone>
+</cockatrice_deck>

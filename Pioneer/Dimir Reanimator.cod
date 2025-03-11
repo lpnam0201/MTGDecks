@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Abyssal Nocturnus"/>
+        <card number="4" name="Watery Grave"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Swamp"/>
+        <card number="4" name="Clearwater Pathway"/>
+        <card number="4" name="Darkslick Shores"/>
+        <card number="2" name="Underground River"/>
+        <card number="4" name="Shipwreck Marsh"/>
+        <card number="4" name="No One Left Behind"/>
+        <card number="4" name="Thoughtseize"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="2" name="Bitter Triumph"/>
+        <card number="4" name="Waker of Waves"/>
+        <card number="4" name="Harvester of Misery"/>
+        <card number="4" name="Abhorrent Oculus"/>
+        <card number="4" name="Picklock Prankster // Free the Fae"/>
+        <card number="2" name="Lively Dirge"/>
+        <card number="1" name="Restless Reef"/>
+        <card number="1" name="Atraxa, Grand Unifier"/>
+        <card number="1" name="Zombify"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Make Disappear"/>
+        <card number="1" name="Zombify"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Lively Dirge"/>
+    </zone>
+</cockatrice_deck>

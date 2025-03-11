@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ms Bumbleflower</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ms. Bumbleflower"/>
+        <card number="1" name="Finale of Glory"/>
+        <card number="1" name="Heliod, the Radiant Dawn"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Serra's Emissary"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Final-Word Phantom"/>
+        <card number="1" name="Ride the Avalanche"/>
+        <card number="1" name="Kydele, Chosen of Kruphix"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Make Your Own Luck"/>
+        <card number="1" name="Invasion of Segovia"/>
+        <card number="1" name="Wand of the Worldsoul"/>
+        <card number="1" name="Flockchaser Phantom"/>
+        <card number="1" name="Eureka Moment"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Gluntch, the Bestower"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Tempt with Bunnies"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Heliod's Intervention"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Arachnogenesis"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Endless Detour"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Perch Protection"/>
+        <card number="1" name="Theoretical Duplication"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Consider"/>
+        <card number="1" name="Thunderclap Drake"/>
+        <card number="1" name="Spelltwine"/>
+        <card number="1" name="Complete the Circuit"/>
+        <card number="1" name="Freestrider Lookout"/>
+        <card number="1" name="Rout"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Quicken"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Overflowing Basin"/>
+        <card number="1" name="Razorverge Thicket"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Seachrome Coast"/>
+        <card number="1" name="Skycloud Expanse"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Tranquil Landscape"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Faerie Mastermind"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Smuggler's Share"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spelunking"/>
+        <card number="1" name="On the Trail"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Suppression Ray"/>
+        <card number="1" name="Strength of the Harvest"/>
+        <card number="1" name="Jolrael, Mwonvuli Recluse"/>
+        <card number="1" name="Ethereal Investigator"/>
+        <card number="1" name="Invasion of New Phyrexia"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Expel the Interlopers"/>
+        <card number="1" name="Clone Legion"/>
+        <card number="1" name="Farsight Ritual"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Stormchaser's Talent"/>
+        <card number="1" name="Tamiyo, Field Researcher"/>
+        <card number="1" name="Mystic Reflection"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Tidal Barracuda"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Intellectual Offering"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Forger's Foundry"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Sylvan Offering"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Simic Dread</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Growing Dread"/>
+        <card number="4" name="Twist Reality"/>
+    </zone>
+</cockatrice_deck>

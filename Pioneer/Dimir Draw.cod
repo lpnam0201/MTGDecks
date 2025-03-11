@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Dimir Draw</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Thoughtseize"/>
+        <card number="3" name="Treasure Cruise"/>
+        <card number="4" name="Overlord of the Balemurk"/>
+        <card number="4" name="Picklock Prankster // Free the Fae"/>
+        <card number="2" name="Drown in the Loch"/>
+        <card number="1" name="Sheoldred's Edict"/>
+        <card number="4" name="Watery Grave"/>
+        <card number="4" name="Darkslick Shores"/>
+        <card number="1" name="Restless Reef"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Swamp"/>
+        <card number="4" name="Underground River"/>
+        <card number="1" name="Hall of Storm Giants"/>
+        <card number="4" name="Clearwater Pathway"/>
+        <card number="4" name="Brazen Borrower // Petty Theft"/>
+        <card number="4" name="Floodpits Drowner"/>
+        <card number="4" name="Tishana's Tidebinder"/>
+        <card number="2" name="Into the Flood Maw"/>
+        <card number="2" name="Disdainful Stroke"/>
+        <card number="2" name="Mystical Dispute"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Invoke Despair"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Invoke Despair"/>
+        <card number="2" name="Path of Peril"/>
+        <card number="2" name="Extinction Event"/>
+        <card number="1" name="Kalitas, Traitor of Ghet"/>
+        <card number="2" name="Cling to Dust"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="2" name="Go for the Throat"/>
+    </zone>
+</cockatrice_deck>

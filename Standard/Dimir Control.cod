@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Dimir Control</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Deadly Cover-Up"/>
+        <card number="3" name="Malicious Eclipse"/>
+        <card number="1" name="Cut Down"/>
+        <card number="2" name="Disfigure"/>
+        <card number="3" name="Go for the Throat"/>
+        <card number="2" name="Sheoldred's Edict"/>
+        <card number="4" name="Spellgyre"/>
+        <card number="4" name="Deduce"/>
+        <card number="1" name="Outrageous Robbery"/>
+        <card number="1" name="Cruelclaw's Heist"/>
+        <card number="4" name="Demolition Field"/>
+        <card number="4" name="Restless Reef"/>
+        <card number="4" name="Darkslick Shores"/>
+        <card number="4" name="Underground River"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Swamp"/>
+        <card number="2" name="Dismal Backwater"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Long River's Pull"/>
+        <card number="3" name="Farsight Ritual"/>
+        <card number="4" name="Eddymurk Crab"/>
+        <card number="1" name="Into the Flood Maw"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Horned Loch-Whale // Lagoon Breach"/>
+        <card number="5" name="Stoic Sphinx"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Cruelclaw's Heist"/>
+        <card number="3" name="Three Steps Ahead"/>
+        <card number="1" name="Feed the Cycle"/>
+    </zone>
+</cockatrice_deck>

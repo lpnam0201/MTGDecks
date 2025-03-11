@@ -11,9 +11,7 @@
         <card number="2" name="Mountain"/>
         <card number="4" name="Needleverge Pathway"/>
         <card number="4" name="Novice Inspector"/>
-        <card number="4" name="Ornithopter"/>
         <card number="3" name="Plains"/>
-        <card number="4" name="Reckless Bushwhacker"/>
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Shefet Dunes"/>
         <card number="1" name="Sokenzan, Crucible of Defiance"/>
@@ -21,6 +19,9 @@
         <card number="4" name="Venerated Loxodon"/>
         <card number="4" name="Voldaren Epicure"/>
         <card number="4" name="Warden of the Inner Sky"/>
+        <card number="2" name="Case of the Gateway Express"/>
+        <card number="4" name="Resolute Reinforcements"/>
+        <card number="2" name="Embercleave"/>
     </zone>
     <zone name="side">
         <card number="1" name="Mountain"/>

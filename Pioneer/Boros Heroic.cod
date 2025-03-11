@@ -6,27 +6,33 @@
         <card number="4" name="Ancestral Anger"/>
         <card number="4" name="Battlefield Forge"/>
         <card number="4" name="Defiant Strike"/>
-        <card number="2" name="Dreadhorde Arcanist"/>
-        <card number="1" name="Escape Velocity"/>
         <card number="4" name="Favored Hoplite"/>
-        <card number="1" name="Gods Willing"/>
-        <card number="4" name="Homestead Courage"/>
         <card number="4" name="Illuminator Virtuoso"/>
         <card number="4" name="Inspiring Vantage"/>
         <card number="4" name="Loran's Escape"/>
         <card number="4" name="Monastery Swiftspear"/>
         <card number="4" name="Monstrous Rage"/>
-        <card number="2" name="Mountain"/>
-        <card number="2" name="Needleverge Pathway"/>
-        <card number="2" name="Plains"/>
-        <card number="2" name="Reckless Rage"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Plains"/>
         <card number="4" name="Sacred Foundry"/>
+        <card number="4" name="Tenth District Legionnaire"/>
+        <card number="4" name="Clifftop Retreat"/>
+        <card number="1" name="Sokenzan, Crucible of Defiance"/>
+        <card number="2" name="Reckless Rage"/>
         <card number="1" name="Sejiri Shelter"/>
         <card number="1" name="Spikefield Hazard"/>
-        <card number="2" name="Tenth District Legionnaire"/>
+        <card number="4" name="Homestead Courage"/>
+        <card number="1" name="Slickshot Show-Off"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Eiganjo, Seat of the Empire"/>
-        <card number="1" name="Needleverge Pathway"/>
+        <card number="4" name="Showdown of the Skalds"/>
+        <card number="4" name="Lightning Helix"/>
+        <card number="2" name="Light of Hope"/>
+        <card number="2" name="Rest in Peace"/>
+        <card number="2" name="Homestead Courage"/>
+        <card number="1" name="Jegantha, the Wellspring"/>
+        <card number="2" name="Rending Volley"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Plains"/>
     </zone>
 </cockatrice_deck>

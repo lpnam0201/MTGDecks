@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Golgari Soulflayer</deckname>
+    <deckname>Golgari Flayer</deckname>
     <comments></comments>
     <zone name="main">
         <card number="4" name="Soulflayer"/>
-        <card number="4" name="Zetalpa, Primal Dawn"/>
-        <card number="6" name="Swamp"/>
-        <card number="4" name="Llanowar Wastes"/>
-        <card number="6" name="Forest"/>
-        <card number="4" name="Lotleth Troll"/>
-        <card number="4" name="Grisly Salvage"/>
-        <card number="4" name="Necroblossom Snarl"/>
+        <card number="4" name="Urborg Scavengers"/>
         <card number="4" name="Nullhide Ferox"/>
-        <card number="4" name="Grapple with the Past"/>
-        <card number="4" name="Cragplate Baloth"/>
+        <card number="2" name="Questing Beast"/>
+        <card number="4" name="Deep-Cavern Bat"/>
+        <card number="4" name="Woodland Cemetery"/>
+        <card number="4" name="Llanowar Wastes"/>
+        <card number="4" name="Blooming Marsh"/>
+        <card number="1" name="Restless Cottage"/>
+        <card number="3" name="Forest"/>
+        <card number="3" name="Swamp"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="4" name="Grisly Salvage"/>
+        <card number="4" name="Cache Grab"/>
+        <card number="1" name="Bitter Triumph"/>
+        <card number="4" name="Rubblebelt Maverick"/>
         <card number="4" name="Banehound"/>
-        <card number="4" name="Gather the Pack"/>
-        <card number="4" name="Become Immense"/>
+        <card number="4" name="Zetalpa, Primal Dawn"/>
+        <card number="1" name="Glissa Sunslayer"/>
     </zone>
     <zone name="side">
-        <card number="3" name="Path of Peril"/>
-        <card number="2" name="Thought Distortion"/>
-        <card number="4" name="Bloodchief's Thirst"/>
-        <card number="4" name="Vampire Nighthawk"/>
+        <card number="1" name="Questing Beast"/>
+        <card number="1" name="Murderous Rider // Swift End"/>
+        <card number="1" name="Cache Grab"/>
+        <card number="1" name="Glissa Sunslayer"/>
     </zone>
 </cockatrice_deck>

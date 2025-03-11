@@ -6,16 +6,11 @@
         <card number="1" name="Call the Coppercoats"/>
         <card number="1" name="Jinnie Fay, Jetmir's Second"/>
         <card number="1" name="Rabble Rousing"/>
-        <card number="1" name="Gala Greeters"/>
         <card number="1" name="Black Market Tycoon"/>
-        <card number="1" name="Thraben Doomsayer"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Mentor of the Meek"/>
-        <card number="1" name="Welcoming Vampire"/>
         <card number="1" name="Idol of Oblivion"/>
         <card number="1" name="Rumor Gatherer"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Jaheira, Friend of the Forest"/>
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Chaos Warp"/>
@@ -28,8 +23,6 @@
         <card number="1" name="Prosperous Partnership"/>
         <card number="1" name="Awakening Zone"/>
         <card number="1" name="Gluntch, the Bestower"/>
-        <card number="1" name="Loyal Apprentice"/>
-        <card number="1" name="Legion Warboss"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Sungrass Prairie"/>
@@ -37,69 +30,77 @@
         <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Mossfire Valley"/>
-        <card number="5" name="Forest"/>
+        <card number="4" name="Forest"/>
         <card number="4" name="Mountain"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Krosan Verge"/>
         <card number="4" name="Plains"/>
-        <card number="1" name="Skyknight Vanguard"/>
-        <card number="1" name="Goblin Assault"/>
         <card number="1" name="Increasing Devotion"/>
-        <card number="1" name="Elemental Bond"/>
-        <card number="1" name="Glare of Subdual"/>
-        <card number="1" name="Rite of Harmony"/>
-        <card number="1" name="Kher Keep"/>
-        <card number="1" name="Leonin Warleader"/>
-        <card number="1" name="Phabine, Boss's Confidant"/>
         <card number="1" name="Jetmir, Nexus of Revels"/>
         <card number="1" name="Aura Mutation"/>
         <card number="1" name="Artifact Mutation"/>
-        <card number="1" name="Wildfire Awakener"/>
-        <card number="1" name="March of the Multitudes"/>
-        <card number="1" name="Kitt Kanto, Mayhem Diva"/>
         <card number="1" name="Rose Room Treasurer"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Shamanic Revelation"/>
-        <card number="1" name="Shared Animosity"/>
-        <card number="1" name="Arasta of the Endless Web"/>
-        <card number="1" name="Cabaretti Charm"/>
         <card number="1" name="Indulge // Excess"/>
-        <card number="1" name="Pest Infestation"/>
         <card number="1" name="Temple of Abandon"/>
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Temple of Plenty"/>
         <card number="1" name="Furycalm Snarl"/>
         <card number="1" name="Game Trail"/>
         <card number="1" name="Fortified Village"/>
-        <card number="1" name="Selesnya Sanctuary"/>
-        <card number="1" name="Boros Garrison"/>
-        <card number="1" name="Gruul Turf"/>
         <card number="1" name="Naya Charm"/>
-        <card number="1" name="Gilded Goose"/>
-        <card number="1" name="Hero of Bladehold"/>
-        <card number="1" name="Ghalta and Mavren"/>
         <card number="1" name="Krenko, Tin Street Kingpin"/>
-        <card number="1" name="Goblin Rabblemaster"/>
-        <card number="1" name="Academy Manufactor"/>
-        <card number="1" name="Sacred Peaks"/>
-        <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Adriana, Captain of the Guard"/>
-        <card number="1" name="Blade Historian"/>
-        <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Grand Crescendo"/>
-        <card number="1" name="Boros Charm"/>
-        <card number="1" name="Master of Ceremonies"/>
-        <card number="1" name="Sizzling Soloist"/>
+        <card number="1" name="Moonshaker Cavalry"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Sunscorched Divide"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Sundown Pass"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Great Train Heist"/>
+        <card number="1" name="Finale of Glory"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Baylen, the Haymaker"/>
+        <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Anim Pakal, Thousandth Moon"/>
+        <card number="1" name="Bennie Bracks, Zoologist"/>
+        <card number="1" name="Wolverine Riders"/>
+        <card number="1" name="Expel the Interlopers"/>
+        <card number="1" name="Smuggler's Share"/>
+        <card number="1" name="Boss's Chauffeur"/>
+        <card number="1" name="Rocco, Street Chef"/>
+        <card number="1" name="Jolene, the Plunder Queen"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Terror of the Peaks"/>
+        <card number="1" name="Toby, Beastie Befriender"/>
+        <card number="1" name="Escape to the Wilds"/>
+        <card number="1" name="Generous Plunderer"/>
+        <card number="1" name="Tempt with Bunnies"/>
+        <card number="1" name="Bootleggers' Stash"/>
+        <card number="1" name="Dollmaker's Shop // Porcelain Gallery"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Academy Manufactor"/>
+        <card number="1" name="Queen Allenal of Ruadach"/>
+        <card number="1" name="Dawn's Truce"/>
+        <card number="1" name="Wizened Mentor"/>
+        <card number="1" name="Dragonlair Spider"/>
     </zone>
     <zone name="side">
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Veteran Soldier"/>
         <card number="1" name="Feline Sovereign"/>
         <card number="1" name="Oketra's Monument"/>
-        <card number="1" name="Arasta of the Endless Web"/>
+        <card number="2" name="Arasta of the Endless Web"/>
         <card number="1" name="Indulge // Excess"/>
         <card number="1" name="Sundown Pass"/>
         <card number="1" name="Verdant Force"/>
@@ -111,14 +112,14 @@
         <card number="1" name="Increasing Devotion"/>
         <card number="1" name="Artifact Mutation"/>
         <card number="1" name="Aura Mutation"/>
-        <card number="1" name="Rite of Harmony"/>
+        <card number="2" name="Rite of Harmony"/>
         <card number="1" name="Camaraderie"/>
         <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Contraband Livestock"/>
         <card number="1" name="Mandate of Peace"/>
         <card number="2" name="Witty Roastmaster"/>
         <card number="1" name="Winds of Abandon"/>
-        <card number="1" name="Shared Animosity"/>
+        <card number="2" name="Shared Animosity"/>
         <card number="1" name="Plains"/>
         <card number="1" name="Sticky Fingers"/>
         <card number="1" name="Descent into Avernus"/>
@@ -151,7 +152,7 @@
         <card number="1" name="Tocasia's Welcome"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Fyndhorn Elves"/>
-        <card number="1" name="Kher Keep"/>
+        <card number="2" name="Kher Keep"/>
         <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Fabled Passage"/>
@@ -165,13 +166,13 @@
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Farmer Cotton"/>
         <card number="1" name="Tireless Provisioner"/>
-        <card number="1" name="Beastmaster Ascension"/>
+        <card number="2" name="Beastmaster Ascension"/>
         <card number="1" name="Roar of Resistance"/>
         <card number="1" name="Queen Allenal of Ruadach"/>
         <card number="1" name="Peregrin Took"/>
         <card number="1" name="Impact Tremors"/>
         <card number="1" name="Ancient Imperiosaur"/>
-        <card number="1" name="Boros Charm"/>
+        <card number="2" name="Boros Charm"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Brushland"/>
         <card number="1" name="Castle Embereth"/>
@@ -182,5 +183,42 @@
         <card number="1" name="Cabaretti Confluence"/>
         <card number="1" name="Rocco, Street Chef"/>
         <card number="1" name="Neyali, Suns' Vanguard"/>
+        <card number="1" name="Blade Historian"/>
+        <card number="1" name="Adriana, Captain of the Guard"/>
+        <card number="1" name="Academy Manufactor"/>
+        <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Ghalta and Mavren"/>
+        <card number="1" name="Gilded Goose"/>
+        <card number="1" name="Goblin Rabblemaster"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Jaheira, Friend of the Forest"/>
+        <card number="1" name="Kitt Kanto, Mayhem Diva"/>
+        <card number="1" name="Legion Warboss"/>
+        <card number="1" name="Leonin Warleader"/>
+        <card number="1" name="Loyal Apprentice"/>
+        <card number="1" name="Master of Ceremonies"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Sizzling Soloist"/>
+        <card number="1" name="Skyknight Vanguard"/>
+        <card number="1" name="Thraben Doomsayer"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Glare of Subdual"/>
+        <card number="1" name="Goblin Assault"/>
+        <card number="1" name="Cabaretti Charm"/>
+        <card number="1" name="March of the Multitudes"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Gruul Turf"/>
+        <card number="1" name="Sacred Peaks"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Pest Infestation"/>
+        <card number="1" name="Wildfire Awakener"/>
+        <card number="1" name="Pain Distributor"/>
+        <card number="1" name="Hop to It"/>
+        <card number="1" name="Phabine, Boss's Confidant"/>
+        <card number="1" name="Keeper of the Accord"/>
     </zone>
 </cockatrice_deck>

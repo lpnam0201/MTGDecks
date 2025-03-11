@@ -3,18 +3,22 @@
     <deckname> Mono Green Stompy</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" name="Vivien, Arkbow Ranger"/>
-        <card number="4" name="Burning-Tree Emissary"/>
         <card number="4" name="Elvish Mystic"/>
         <card number="4" name="Llanowar Elves"/>
         <card number="4" name="Old-Growth Troll"/>
-        <card number="4" name="Oath of Nissa"/>
-        <card number="1" name="Castle Garenbrig"/>
-        <card number="20" name="Forest"/>
+        <card number="7" name="Forest"/>
         <card number="1" name="Lair of the Hydra"/>
         <card number="4" name="Garruk's Harbinger"/>
         <card number="2" name="Yorvo, Lord of Garenbrig"/>
-        <card number="4" name="Barkhide Troll"/>
         <card number="4" name="Steel Leaf Champion"/>
+        <card number="4" name="Karplusan Forest"/>
+        <card number="4" name="Copperline Gorge"/>
+        <card number="4" name="Rootbound Crag"/>
+        <card number="1" name="Rhonas the Indomitable"/>
+        <card number="4" name="Thud"/>
+        <card number="4" name="Aspect of Hydra"/>
+        <card number="4" name="Werewolf Pack Leader"/>
+        <card number="4" name="Collected Company"/>
+        <card number="1" name="Kazandu Mammoth"/>
     </zone>
 </cockatrice_deck>

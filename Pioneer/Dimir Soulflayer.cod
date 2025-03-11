@@ -5,22 +5,22 @@
     <zone name="main">
         <card number="4" name="Soulflayer"/>
         <card number="4" name="Striped Riverwinder"/>
-        <card number="4" name="Zetalpa, Primal Dawn"/>
         <card number="4" name="Otherworldly Gaze"/>
-        <card number="2" name="Island"/>
+        <card number="1" name="Island"/>
         <card number="2" name="Swamp"/>
-        <card number="2" name="Samut, Voice of Dissent"/>
-        <card number="2" name="Cragplate Baloth"/>
-        <card number="4" name="Deep-Cavern Bat"/>
         <card number="4" name="Tainted Indulgence"/>
         <card number="4" name="Underground River"/>
         <card number="4" name="Darkslick Shores"/>
-        <card number="4" name="Shipwreck Marsh"/>
         <card number="4" name="Watery Grave"/>
         <card number="4" name="Founding the Third Path"/>
-        <card number="1" name="Collective Brutality"/>
         <card number="4" name="Urborg Scavengers"/>
-        <card number="3" name="Wail of the Forgotten"/>
+        <card number="3" name="Thoughtseize"/>
+        <card number="4" name="Clearwater Pathway"/>
+        <card number="1" name="Restless Reef"/>
+        <card number="4" name="Demonic Counsel"/>
+        <card number="4" name="Deep-Cavern Bat"/>
+        <card number="1" name="Bitter Triumph"/>
+        <card number="4" name="Zetalpa, Primal Dawn"/>
     </zone>
     <zone name="side">
         <card number="2" name="Tormod's Crypt"/>
@@ -36,9 +36,22 @@
         <card number="4" name="Chart a Course"/>
         <card number="4" name="Strategic Planning"/>
         <card number="4" name="Consider"/>
-        <card number="4" name="Island"/>
-        <card number="4" name="Swamp"/>
+        <card number="5" name="Island"/>
+        <card number="5" name="Swamp"/>
         <card number="4" name="Sunken Hollow"/>
         <card number="4" name="Choked Estuary"/>
+        <card number="2" name="Cragplate Baloth"/>
+        <card number="3" name="Wail of the Forgotten"/>
+        <card number="4" name="Shipwreck Marsh"/>
+        <card number="4" name="Deep-Cavern Bat"/>
+        <card number="2" name="Samut, Voice of Dissent"/>
+        <card number="1" name="Bitter Triumph"/>
+        <card number="2" name="Fatal Push"/>
+        <card number="4" name="Zetalpa, Primal Dawn"/>
+        <card number="3" name="Collective Brutality"/>
+        <card number="1" name="Nighthawk Scavenger"/>
+        <card number="3" name="Nightveil Predator"/>
+        <card number="2" name="Thoughtseize"/>
+        <card number="3" name="Preacher of the Schism"/>
     </zone>
 </cockatrice_deck>

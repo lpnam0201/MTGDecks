@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono Green Devotion</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Cavalier of Thorns"/>
+        <card number="4" name="Elvish Mystic"/>
+        <card number="15" name="Forest"/>
+        <card number="4" name="Invasion of Ixalan"/>
+        <card number="4" name="Kiora, Behemoth Beckoner"/>
+        <card number="2" name="Lair of the Hydra"/>
+        <card number="4" name="Llanowar Elves"/>
+        <card number="4" name="Nykthos, Shrine to Nyx"/>
+        <card number="4" name="Old-Growth Troll"/>
+        <card number="4" name="Outcaster Trailblazer"/>
+        <card number="4" name="Storm the Festival"/>
+        <card number="2" name="Ulvenwald Oddity"/>
+        <card number="2" name="Setessan Petitioner"/>
+        <card number="1" name="Polukranos Reborn"/>
+        <card number="3" name="Wolfwillow Haven"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Polukranos Reborn"/>
+        <card number="1" name="Sunken Citadel"/>
+        <card number="1" name="Ulvenwald Oddity"/>
+        <card number="4" name="Leyline of the Guildpact"/>
+    </zone>
+</cockatrice_deck>

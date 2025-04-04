@@ -12,24 +12,16 @@
         <card number="1" name="Evolution Sage"/>
         <card number="1" name="Norn's Decree"/>
         <card number="1" name="Vishgraz, the Doomhive"/>
-        <card number="1" name="Plague Stinger"/>
         <card number="1" name="Glistening Sphere"/>
         <card number="1" name="Unnatural Restoration"/>
         <card number="1" name="Cankerbloom"/>
         <card number="1" name="Norn's Choirmaster"/>
-        <card number="1" name="Blightbelly Rat"/>
-        <card number="1" name="Bilious Skulldweller"/>
         <card number="1" name="Bloated Contaminator"/>
         <card number="1" name="Glissa's Retriever"/>
         <card number="1" name="Necrogen Rotpriest"/>
         <card number="1" name="Venerated Rotpriest"/>
         <card number="1" name="Grateful Apparition"/>
-        <card number="1" name="Myr Convert"/>
-        <card number="1" name="Venomous Brutalizer"/>
-        <card number="1" name="Plague Myr"/>
-        <card number="1" name="Pestilent Syphoner"/>
         <card number="1" name="Tyrranax Rex"/>
-        <card number="1" name="Phyrexian Censor"/>
         <card number="1" name="Planewide Celebration"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Infectious Bite"/>
@@ -37,7 +29,6 @@
         <card number="1" name="Expand the Sphere"/>
         <card number="1" name="Noxious Assault"/>
         <card number="1" name="Wurmquake"/>
-        <card number="1" name="Painful Truths"/>
         <card number="1" name="Caress of Phyrexia"/>
         <card number="1" name="Drown in Ichor"/>
         <card number="1" name="Thirsting Roots"/>
@@ -54,21 +45,12 @@
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Orzhov Signet"/>
-        <card number="1" name="Selesnya Signet"/>
-        <card number="1" name="Golgari Signet"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Mythos of Nethroi"/>
-        <card number="1" name="Mortify"/>
-        <card number="1" name="Putrefy"/>
-        <card number="1" name="Blood Pact"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Smell Fear"/>
         <card number="1" name="Grafted Exoskeleton"/>
-        <card number="1" name="Merciless Eviction"/>
-        <card number="1" name="Contagion Clasp"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Krosan Verge"/>
@@ -94,6 +76,7 @@
         <card number="1" name="Fortified Village"/>
         <card number="1" name="Temple of Plenty"/>
         <card number="1" name="Necroblossom Snarl"/>
+        <card number="1" name="Metastatic Evangel"/>
     </zone>
     <zone name="side">
         <card number="1" name="Necrogen Communion"/>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Betor, Kin to All"/>
+        <card number="1" name="Tendershoot Dryad"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Moonshaker Cavalry"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Overseer of the Damned"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Stroke of Midnight"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Szat's Will"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Swamp"/>
+        <card number="4" name="Plains"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Necroblossom Snarl"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Desolate Mire"/>
+        <card number="1" name="Viridescent Bog"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Deceptive Landscape"/>
+        <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="See the Unwritten"/>
+        <card number="1" name="Turntimber Symbiosis"/>
+        <card number="1" name="Green Sun's Twilight"/>
+        <card number="1" name="Thunderous Debut"/>
+        <card number="1" name="Genesis Hydra"/>
+        <card number="1" name="Cataclysmic Gearhulk"/>
+        <card number="1" name="Realm-Cloaked Giant // Cast Off"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Llanowar Loamspeaker"/>
+        <card number="1" name="Twitching Doll"/>
+        <card number="1" name="Nightshade Dryad"/>
+        <card number="1" name="Trailtracker Scout"/>
+        <card number="1" name="Intrepid Paleontologist"/>
+        <card number="1" name="Overgrown Zealot"/>
+        <card number="1" name="Tender Wildguide"/>
+        <card number="1" name="Eldritch Evolution"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="1" name="Sweet-Gum Recluse"/>
+        <card number="1" name="Angel of Serenity"/>
+        <card number="1" name="Serra's Emissary"/>
+        <card number="1" name="Regal Behemoth"/>
+        <card number="1" name="Cultivator Colossus"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Emiel the Blessed"/>
+        <card number="1" name="Beza, the Bounding Spring"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Author of Shadows"/>
+        <card number="1" name="Genesis Storm"/>
+        <card number="1" name="Bramble Sovereign"/>
+        <card number="1" name="Thieving Amalgam"/>
+        <card number="1" name="Curator Beastie"/>
+        <card number="1" name="Whisperwood Elemental"/>
+        <card number="1" name="Hauntwoods Shrieker"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bennie Bracks, Zoologist"/>
+        <card number="1" name="Finale of Glory"/>
+    </zone>
+</cockatrice_deck>

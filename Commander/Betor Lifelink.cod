@@ -18,7 +18,6 @@
         <card number="1" name="Birds of Paradise"/>
         <card number="1" name="Darkstar Augur"/>
         <card number="1" name="Priest of Fell Rites"/>
-        <card number="1" name="Phyrexian Delver"/>
         <card number="1" name="Greed"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
@@ -28,12 +27,9 @@
         <card number="1" name="Kami of Whispered Hopes"/>
         <card number="1" name="Disciple of Bolas"/>
         <card number="1" name="Disciple of Freyalise"/>
-        <card number="1" name="Karmic Guide"/>
         <card number="1" name="Shadowgrange Archfiend"/>
         <card number="1" name="Boggart Trawler"/>
         <card number="1" name="Selfless Spirit"/>
-        <card number="1" name="Haywire Mite"/>
-        <card number="1" name="Infernal Grasp"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Bridgeworks Battle"/>
@@ -45,13 +41,12 @@
         <card number="1" name="Rishkar, Peema Renegade"/>
         <card number="1" name="Incubation Druid"/>
         <card number="1" name="Werefox Bodyguard"/>
-        <card number="1" name="Siege Rhino"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Path of Ancestry"/>
         <card number="4" name="Forest"/>
-        <card number="3" name="Swamp"/>
+        <card number="4" name="Swamp"/>
         <card number="3" name="Plains"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Llanowar Wastes"/>
@@ -66,8 +61,6 @@
         <card number="1" name="Twilight Mire"/>
         <card number="1" name="Deceptive Landscape"/>
         <card number="1" name="Nurturing Peatland"/>
-        <card number="1" name="Horizon Canopy"/>
-        <card number="1" name="Silent Clearing"/>
         <card number="1" name="Viridescent Bog"/>
         <card number="1" name="Desolate Mire"/>
         <card number="1" name="Tragic Arrogance"/>
@@ -81,22 +74,27 @@
         <card number="1" name="Enduring Tenacity"/>
         <card number="1" name="Debt to the Deathless"/>
         <card number="1" name="Mangara, the Diplomat"/>
-        <card number="1" name="Selvala, Heart of the Wilds"/>
         <card number="1" name="Timeless Witness"/>
         <card number="1" name="Castle Locthwain"/>
-        <card number="1" name="Caustic Bronco"/>
-        <card number="1" name="Puppeteer Clique"/>
         <card number="1" name="K'rrik, Son of Yawgmoth"/>
         <card number="1" name="Exsanguinate"/>
         <card number="1" name="Children of Korlis"/>
-        <card number="1" name="Deadly Dispute"/>
-        <card number="1" name="Plumb the Forbidden"/>
         <card number="1" name="Fell Stinger"/>
-        <card number="1" name="Cankerbloom"/>
         <card number="1" name="Plaguecrafter"/>
-        <card number="1" name="Spore Frog"/>
-        <card number="1" name="Guardian Scalelord"/>
-        <card number="1" name="Wight of the Reliquary"/>
+        <card number="1" name="Caustic Bronco"/>
+        <card number="1" name="Doom Whisperer"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Valkyrie Harbinger"/>
+        <card number="1" name="Liesa, Forgotten Archangel"/>
+        <card number="1" name="Liesa, Shroud of Dusk"/>
+        <card number="1" name="Rhox Faithmender"/>
+        <card number="1" name="Dragonlord Dromoka"/>
+        <card number="1" name="Valgavoth, Terror Eater"/>
+        <card number="1" name="Indulging Patrician"/>
+        <card number="1" name="Sorin of House Markov"/>
+        <card number="1" name="Gluntch, the Bestower"/>
+        <card number="1" name="Black Market Connections"/>
+        <card number="1" name="Kutzil, Malamet Exemplar"/>
     </zone>
     <zone name="side">
         <card number="1" name="Cosmic Rebirth"/>
@@ -131,5 +129,7 @@
         <card number="1" name="Heliod's Intervention"/>
         <card number="1" name="Blood Pact"/>
         <card number="1" name="Liesa, Shroud of Dusk"/>
+        <card number="1" name="Horizon Canopy"/>
+        <card number="1" name="Silent Clearing"/>
     </zone>
 </cockatrice_deck>

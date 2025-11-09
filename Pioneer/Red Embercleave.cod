@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red Embercleave</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Anax, Hardened in the Forge"/>
+        <card number="4" name="Bonecrusher Giant // Stomp"/>
+        <card number="4" name="Burning-Tree Emissary"/>
+        <card number="4" name="Fanatical Firebrand"/>
+        <card number="1" name="Kari Zev, Skyship Raider"/>
+        <card number="4" name="Kumano Faces Kakkazan"/>
+        <card number="4" name="Monastery Swiftspear"/>
+        <card number="2" name="Torbran, Thane of Red Fell"/>
+        <card number="4" name="Embercleave"/>
+        <card number="2" name="Castle Embereth"/>
+        <card number="4" name="Den of the Bugbear"/>
+        <card number="14" name="Mountain"/>
+        <card number="2" name="Ramunap Ruins"/>
+        <card number="1" name="Sokenzan, Crucible of Defiance"/>
+        <card number="1" name="Reckless Rage"/>
+        <card number="1" name="Zurgo Bellstriker"/>
+        <card number="4" name="Runaway Steam-Kin"/>
+    </zone>
+</cockatrice_deck>

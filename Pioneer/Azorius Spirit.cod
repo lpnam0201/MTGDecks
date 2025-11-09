@@ -3,21 +3,26 @@
     <deckname>Azorius Spirit</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" name="Prairie Stream"/>
-        <card number="4" name="Port Town"/>
-        <card number="4" name="Glacial Fortress"/>
-        <card number="5" name="Plains"/>
-        <card number="5" name="Island"/>
-        <card number="4" name="Lofty Denial"/>
-        <card number="4" name="Spell Queller"/>
-        <card number="4" name="Empyrean Eagle"/>
-        <card number="4" name="Watcher of the Spheres"/>
-        <card number="4" name="Supreme Phantom"/>
-        <card number="4" name="Shacklegeist"/>
-        <card number="4" name="Rattlechains"/>
-        <card number="4" name="Spectral Sailor"/>
+        <card number="4" name="Adarkar Wastes"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="2" name="Enduring Curiosity"/>
+        <card number="4" name="Hallowed Fountain"/>
+        <card number="4" name="Hengegate Pathway"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Malcolm, Alluring Scoundrel"/>
         <card number="4" name="Mausoleum Wanderer"/>
-        <card number="1" name="Saw It Coming"/>
-        <card number="1" name="Neutralize"/>
+        <card number="3" name="Mutavault"/>
+        <card number="4" name="No More Lies"/>
+        <card number="1" name="Otawara, Soaring City"/>
+        <card number="2" name="Plains"/>
+        <card number="4" name="Rattlechains"/>
+        <card number="4" name="Seachrome Coast"/>
+        <card number="3" name="Seam Rip"/>
+        <card number="3" name="Sheltered by Ghosts"/>
+        <card number="4" name="Skyclave Apparition"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="4" name="Spell Queller"/>
+        <card number="4" name="Supreme Phantom"/>
+        <card number="2" name="The Wandering Emperor"/>
     </zone>
 </cockatrice_deck>

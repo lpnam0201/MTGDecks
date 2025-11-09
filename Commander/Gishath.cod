@@ -9,48 +9,32 @@
         <card number="1" name="Temple Altisaur"/>
         <card number="1" name="Wakening Sun's Avatar"/>
         <card number="1" name="Zetalpa, Primal Dawn"/>
-        <card number="1" name="Thrashing Brontodon"/>
-        <card number="1" name="Verdant Sun's Avatar"/>
         <card number="1" name="Quartzwood Crasher"/>
         <card number="1" name="Cultivate"/>
-        <card number="1" name="Runic Armasaur"/>
         <card number="1" name="Apex Altisaur"/>
-        <card number="1" name="Beast Within"/>
-        <card number="1" name="Generous Gift"/>
         <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Chaos Warp"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Ghalta, Primal Hunger"/>
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Explosive Vegetation"/>
         <card number="1" name="Circuitous Route"/>
         <card number="1" name="Migration Path"/>
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Castle Garenbrig"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Sunhome, Fortress of the Legion"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Jungle Shrine"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Krosan Verge"/>
         <card number="5" name="Mountain"/>
-        <card number="6" name="Forest"/>
+        <card number="10" name="Forest"/>
         <card number="5" name="Plains"/>
         <card number="1" name="Nissa's Pilgrimage"/>
         <card number="1" name="Blighted Woodland"/>
         <card number="1" name="Vastwood Surge"/>
         <card number="1" name="Verdant Mastery"/>
         <card number="1" name="Rampaging Brontodon"/>
-        <card number="1" name="Fires of Invention"/>
-        <card number="1" name="Kinjalli's Sunwing"/>
         <card number="1" name="Search for Tomorrow"/>
-        <card number="1" name="Thunderherd Migration"/>
-        <card number="1" name="Bala Ged Recovery"/>
-        <card number="1" name="Worn Powerstone"/>
-        <card number="1" name="Grow from the Ashes"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Sungrass Prairie"/>
@@ -61,35 +45,47 @@
         <card number="1" name="Topiary Stomper"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Emergent Sequence"/>
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Temple Garden"/>
-        <card number="1" name="Wooded Foothills"/>
-        <card number="1" name="Arid Mesa"/>
-        <card number="1" name="Windswept Heath"/>
-        <card number="1" name="Boros Charm"/>
-        <card number="1" name="Terramorph"/>
-        <card number="1" name="Reckless Endeavor"/>
-        <card number="1" name="Hunting Wilds"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Trumpeting Carnosaur"/>
         <card number="1" name="Earthshaker Dreadmaw"/>
         <card number="1" name="Palani's Hatcher"/>
         <card number="1" name="Hulking Raptor"/>
-        <card number="1" name="Scytheclaw Raptor"/>
-        <card number="1" name="Itzquinth, Firstborn of Gishath"/>
         <card number="1" name="Zacama, Primal Calamity"/>
         <card number="1" name="Wrathful Raptors"/>
         <card number="1" name="Scion of Calamity"/>
-        <card number="1" name="Regal Behemoth"/>
         <card number="1" name="Wayward Swordtooth"/>
         <card number="1" name="Pantlaza, Sun-Favored"/>
         <card number="1" name="Bronzebeak Foragers"/>
         <card number="1" name="Sunfrill Imitator"/>
-        <card number="1" name="Deathgorge Scavenger"/>
         <card number="1" name="Curious Altisaur"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Flare of Cultivation"/>
+        <card number="1" name="Invasion of Zendikar"/>
+        <card number="1" name="Encroaching Dragonstorm"/>
+        <card number="1" name="Map the Frontier"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Etali, Primal Conqueror"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Tragic Arrogance"/>
+        <card number="1" name="Kogla and Yidaro"/>
+        <card number="1" name="Yidaro, Wandering Monster"/>
+        <card number="1" name="Sawhorn Nemesis"/>
+        <card number="1" name="Titanoth Rex"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Ghalta and Mavren"/>
+        <card number="1" name="Intrepid Paleontologist"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Eternal Witness"/>
     </zone>
     <zone name="side">
         <card number="1" name="Lightning Greaves"/>
@@ -206,5 +202,6 @@
         <card number="1" name="Titanoth Rex"/>
         <card number="1" name="Trapjaw Tyrant"/>
         <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Vaultborn Tyrant"/>
     </zone>
 </cockatrice_deck>

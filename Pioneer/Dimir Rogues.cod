@@ -6,25 +6,23 @@
         <card number="4" name="Thieves' Guild Enforcer"/>
         <card number="4" name="Soaring Thought-Thief"/>
         <card number="4" name="Brazen Borrower // Petty Theft"/>
-        <card number="2" name="Cling to Dust"/>
         <card number="4" name="Thoughtseize"/>
         <card number="4" name="Drown in the Loch"/>
-        <card number="2" name="Fatal Push"/>
-        <card number="2" name="Lofty Denial"/>
-        <card number="1" name="Spell Pierce"/>
+        <card number="4" name="Fatal Push"/>
         <card number="4" name="Shipwreck Marsh"/>
         <card number="4" name="Darkslick Shores"/>
         <card number="4" name="Clearwater Pathway"/>
-        <card number="2" name="Watery Grave"/>
+        <card number="4" name="Watery Grave"/>
         <card number="1" name="Swamp"/>
         <card number="1" name="Island"/>
-        <card number="4" name="Underground River"/>
-        <card number="2" name="Sheoldred's Edict"/>
-        <card number="2" name="Kaito, Dancing Shadow"/>
-        <card number="2" name="Faerie Mastermind"/>
-        <card number="2" name="Make Disappear"/>
-        <card number="4" name="Forsaken Miner"/>
-        <card number="1" name="Zareth San, the Trickster"/>
+        <card number="1" name="Underground River"/>
+        <card number="2" name="Forsaken Miner"/>
+        <card number="1" name="Hall of Storm Giants"/>
+        <card number="1" name="Hive of the Eye Tyrant"/>
+        <card number="2" name="Mutavault"/>
+        <card number="4" name="Sunset Saboteur"/>
+        <card number="4" name="Invasion of Amonkhet"/>
+        <card number="3" name="Kaito, Bane of Nightmares"/>
     </zone>
     <zone name="side">
         <card number="1" name="Cling to Dust"/>

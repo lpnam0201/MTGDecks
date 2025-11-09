@@ -5,98 +5,95 @@
     <zone name="main">
         <card number="1" name="Nethroi, Apex of Death"/>
         <card number="1" name="Satyr Wayfinder"/>
-        <card number="1" name="Cathar Commando"/>
-        <card number="1" name="Sun Titan"/>
-        <card number="1" name="Vile Entomber"/>
-        <card number="1" name="Rampant Growth"/>
         <card number="1" name="Paradise Druid"/>
-        <card number="1" name="Farseek"/>
-        <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Three Visits"/>
-        <card number="1" name="Avacyn's Pilgrim"/>
-        <card number="1" name="Elves of Deep Shadow"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Netherborn Altar"/>
         <card number="1" name="Grisly Salvage"/>
         <card number="1" name="Skull Prophet"/>
         <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Eerie Ultimatum"/>
         <card number="1" name="Living Death"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Path to Exile"/>
-        <card number="1" name="Mythos of Nethroi"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Dawntreader Elk"/>
-        <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Faeburrow Elder"/>
         <card number="1" name="Ravenous Chupacabra"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Fauna Shaman"/>
-        <card number="1" name="Windswept Heath"/>
-        <card number="1" name="Marsh Flats"/>
-        <card number="1" name="Verdant Catacombs"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Fabled Passage"/>
         <card number="1" name="Llanowar Wastes"/>
         <card number="1" name="Twilight Mire"/>
-        <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Undergrowth Stadium"/>
         <card number="1" name="Sandsteppe Citadel"/>
         <card number="1" name="Deathcap Glade"/>
         <card number="1" name="Fetid Heath"/>
         <card number="1" name="Caves of Koilos"/>
-        <card number="1" name="Godless Shrine"/>
         <card number="1" name="Vault of Champions"/>
         <card number="1" name="Canopy Vista"/>
-        <card number="1" name="Temple Garden"/>
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Sungrass Prairie"/>
         <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Brushland"/>
-        <card number="1" name="Command Beacon"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="5" name="Forest"/>
-        <card number="3" name="Swamp"/>
-        <card number="2" name="Plains"/>
-        <card number="1" name="Temur Sabertooth"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Swamp"/>
+        <card number="3" name="Plains"/>
         <card number="1" name="Stitcher's Supplier"/>
         <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Fyndhorn Elves"/>
-        <card number="1" name="Llanowar Elves"/>
-        <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Toski, Bearer of Secrets"/>
-        <card number="1" name="Rhonas the Indomitable"/>
-        <card number="1" name="Circle of the Land Druid"/>
-        <card number="1" name="Cemetery Tampering"/>
-        <card number="1" name="Fell Stinger"/>
-        <card number="1" name="Gemrazer"/>
-        <card number="1" name="Sanguine Spy"/>
-        <card number="1" name="Anguished Unmaking"/>
-        <card number="1" name="Guardian Project"/>
-        <card number="1" name="Smothering Tithe"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Beast Whisperer"/>
         <card number="1" name="Blood Artist"/>
-        <card number="1" name="Cruel Celebrant"/>
-        <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
-        <card number="1" name="Carrion Feeder"/>
-        <card number="1" name="Corpse Knight"/>
         <card number="1" name="Pitiless Plunderer"/>
-        <card number="1" name="Guardian Scalelord"/>
-        <card number="1" name="Key to the City"/>
-        <card number="1" name="Greater Good"/>
         <card number="1" name="Dogged Detective"/>
-        <card number="1" name="Viscera Seer"/>
-        <card number="1" name="Nyx Weaver"/>
+        <card number="1" name="Odric, Lunarch Marshal"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Bedrock Tortoise"/>
+        <card number="1" name="Saryth, the Viper's Fang"/>
+        <card number="1" name="Ainok Wayfarer"/>
+        <card number="1" name="Reunion of the House"/>
+        <card number="1" name="Sweet-Gum Recluse"/>
+        <card number="1" name="Fertilid"/>
+        <card number="1" name="Dawnglade Regent"/>
+        <card number="1" name="Dragonlord Dromoka"/>
+        <card number="1" name="Gluntch, the Bestower"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Young Necromancer"/>
+        <card number="1" name="Deadly Dispute"/>
+        <card number="1" name="Eldritch Evolution"/>
+        <card number="1" name="Nature's Rhythm"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Corrupted Conviction"/>
+        <card number="1" name="Fiend Artisan"/>
+        <card number="1" name="Restless Prairie"/>
+        <card number="1" name="Restless Fortress"/>
+        <card number="1" name="Restless Cottage"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Deceptive Landscape"/>
+        <card number="1" name="Woodland Chasm"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Disciple of Freyalise"/>
+        <card number="1" name="Meren of Clan Nel Toth"/>
+        <card number="1" name="Fanatical Offering"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Plumb the Forbidden"/>
+        <card number="1" name="Felothar the Steadfast"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Betor, Kin to All"/>
+        <card number="1" name="Sigarda, Font of Blessings"/>
+        <card number="1" name="Silverquill Lecturer"/>
+        <card number="1" name="Kalonian Hydra"/>
+        <card number="1" name="Swiftfoot Boots"/>
     </zone>
     <zone name="side">
         <card number="1" name="Kodama of the East Tree"/>
@@ -118,11 +115,11 @@
         <card number="1" name="Phyrexian Delver"/>
         <card number="1" name="Karmic Guide"/>
         <card number="1" name="Chittering Harvester"/>
-        <card number="1" name="Beast Whisperer"/>
+        <card number="2" name="Beast Whisperer"/>
         <card number="1" name="Karametra, God of Harvests"/>
         <card number="1" name="Soul of the Harvest"/>
         <card number="1" name="Fell Stinger"/>
-        <card number="1" name="Nyx Weaver"/>
+        <card number="2" name="Nyx Weaver"/>
         <card number="1" name="Perpetual Timepiece"/>
         <card number="1" name="Key to the City"/>
         <card number="1" name="Baleful Force"/>
@@ -154,12 +151,20 @@
         <card number="1" name="Wasteful Harvest"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Wayfarer's Bauble"/>
-        <card number="1" name="Old Stickfingers"/>
+        <card number="2" name="Old Stickfingers"/>
         <card number="1" name="Sweet-Gum Recluse"/>
         <card number="1" name="Ascend from Avernus"/>
         <card number="1" name="Bane of Progress"/>
         <card number="1" name="Underrealm Lich"/>
         <card number="1" name="Wall of Omens"/>
         <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Conduit of Worlds"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Oakhame Adversary"/>
     </zone>
 </cockatrice_deck>

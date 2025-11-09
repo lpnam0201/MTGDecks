@@ -80,7 +80,6 @@
         <card number="1" name="Exsanguinate"/>
         <card number="1" name="Children of Korlis"/>
         <card number="1" name="Fell Stinger"/>
-        <card number="1" name="Plaguecrafter"/>
         <card number="1" name="Caustic Bronco"/>
         <card number="1" name="Doom Whisperer"/>
         <card number="1" name="War Room"/>
@@ -95,6 +94,7 @@
         <card number="1" name="Gluntch, the Bestower"/>
         <card number="1" name="Black Market Connections"/>
         <card number="1" name="Kutzil, Malamet Exemplar"/>
+        <card number="1" name="Abzan Charm"/>
     </zone>
     <zone name="side">
         <card number="1" name="Cosmic Rebirth"/>

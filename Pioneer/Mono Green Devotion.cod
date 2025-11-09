@@ -15,9 +15,8 @@
         <card number="4" name="Outcaster Trailblazer"/>
         <card number="4" name="Storm the Festival"/>
         <card number="2" name="Ulvenwald Oddity"/>
-        <card number="2" name="Setessan Petitioner"/>
         <card number="1" name="Polukranos Reborn"/>
-        <card number="3" name="Wolfwillow Haven"/>
+        <card number="4" name="Leyline of the Guildpact"/>
     </zone>
     <zone name="side">
         <card number="1" name="Polukranos Reborn"/>

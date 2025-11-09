@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Temur Fires</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Arboreal Grazer"/>
+        <card number="4" name="Fae of Wishes // Granted"/>
+        <card number="4" name="Growth Spiral"/>
+        <card number="4" name="Fires of Invention"/>
+        <card number="4" name="Bonecrusher Giant // Stomp"/>
+        <card number="4" name="Torch the Tower"/>
+        <card number="4" name="Breeding Pool"/>
+        <card number="4" name="Stomping Ground"/>
+        <card number="4" name="Copperline Gorge"/>
+        <card number="4" name="Botanical Sanctum"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Island"/>
+        <card number="2" name="Thornspire Verge"/>
+        <card number="3" name="Steam Vents"/>
+        <card number="2" name="Chandra, Torch of Defiance"/>
+        <card number="2" name="Brazen Borrower // Petty Theft"/>
+        <card number="4" name="Fable of the Mirror-Breaker"/>
+        <card number="1" name="Castle Vantress"/>
+        <card number="3" name="Narset, Parter of Veils"/>
+        <card number="1" name="Jace, the Perfected Mind"/>
+        <card number="1" name="Teferi, Master of Time"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Anger of the Gods"/>
+        <card number="1" name="Chandra, Awakened Inferno"/>
+    </zone>
+</cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname></deckname>
+    <deckname>Red Aggro</deckname>
     <comments></comments>
     <zone name="main">
         <card number="4" name="Burst Lightning"/>
@@ -15,8 +15,8 @@
         <card number="1" name="Ramunap Ruins"/>
         <card number="4" name="Reckless Rage"/>
         <card number="4" name="Rockface Village"/>
-        <card number="4" name="Screaming Nemesis"/>
         <card number="1" name="Sokenzan, Crucible of Defiance"/>
         <card number="4" name="Monastery Swiftspear"/>
+        <card number="4" name="Viashino Pyromancer"/>
     </zone>
 </cockatrice_deck>

@@ -3,138 +3,123 @@
     <deckname>Ghave</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Ghave, Guru of Spores"/>
-        <card number="1" name="Nissa's Pilgrimage"/>
-        <card number="1" name="Llanowar Elves"/>
-        <card number="1" name="Fyndhorn Elves"/>
-        <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Avacyn's Pilgrim"/>
-        <card number="1" name="Rishkar, Peema Renegade"/>
-        <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Sol Ring"/>
+        <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Cultivate"/>
-        <card number="1" name="Search for Tomorrow"/>
-        <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Three Visits"/>
-        <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Farseek"/>
-        <card number="1" name="Cathars' Crusade"/>
-        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Ghave, Guru of Spores"/>
         <card number="1" name="Kami of Whispered Hopes"/>
-        <card number="1" name="Benevolent Hydra"/>
-        <card number="1" name="Lae'zel, Vlaakith's Champion"/>
+        <card number="1" name="Dusk Legion Duelist"/>
+        <card number="1" name="Forgotten Ancient"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Sunscorch Regent"/>
+        <card number="1" name="Thundering Mightmare"/>
+        <card number="1" name="Good-Fortune Unicorn"/>
+        <card number="1" name="Rishkar, Peema Renegade"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Sovereign Okinec Ahau"/>
+        <card number="1" name="Kutzil, Malamet Exemplar"/>
         <card number="1" name="Conclave Mentor"/>
-        <card number="1" name="Winding Constrictor"/>
         <card number="1" name="Corpsejack Menace"/>
-        <card number="1" name="Smothering Tithe"/>
-        <card number="1" name="Craterhoof Behemoth"/>
-        <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Phyrexian Arena"/>
-        <card number="1" name="Zulaport Cutthroat"/>
-        <card number="1" name="Blood Artist"/>
-        <card number="1" name="Cruel Celebrant"/>
-        <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Winding Constrictor"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Katilda, Dawnhart Prime"/>
+        <card number="1" name="Gluntch, the Bestower"/>
+        <card number="1" name="Leinore, Autumn Sovereign"/>
+        <card number="1" name="Felothar, Dawn of the Abzan"/>
+        <card number="1" name="Cursed Wombat"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Felisa, Fang of Silverquill"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Renata, Called to the Hunt"/>
+        <card number="1" name="Faerie Bladecrafter"/>
+        <card number="1" name="Emergent Woodwurm"/>
+        <card number="1" name="Rip, Spawn Hunter"/>
+        <card number="1" name="Kalonian Hydra"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Branching Evolution"/>
+        <card number="1" name="Hollowmurk Siege"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Hunter's Talent"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Assassin's Trophy"/>
-        <card number="1" name="Mythos of Nethroi"/>
         <card number="1" name="Swords to Plowshares"/>
-        <card number="1" name="Path to Exile"/>
-        <card number="1" name="Gyre Sage"/>
-        <card number="1" name="Seedborn Muse"/>
-        <card number="1" name="Anguished Unmaking"/>
-        <card number="1" name="Good-Fortune Unicorn"/>
-        <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Choose Your Weapon"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Trash the Town"/>
+        <card number="1" name="Selesnya Charm"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Path of Ancestry"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Fabled Passage"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="4" name="Plains"/>
-        <card number="3" name="Swamp"/>
+        <card number="1" name="Terramorphic Expanse"/>
         <card number="4" name="Forest"/>
-        <card number="1" name="Sungrass Prairie"/>
-        <card number="1" name="Fetid Heath"/>
+        <card number="4" name="Plains"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Necroblossom Snarl"/>
+        <card number="1" name="Shineshadow Snarl"/>
         <card number="1" name="Canopy Vista"/>
-        <card number="1" name="Deathcap Glade"/>
-        <card number="1" name="Caves of Koilos"/>
-        <card number="1" name="Brushland"/>
-        <card number="1" name="Overgrown Tomb"/>
-        <card number="1" name="Godless Shrine"/>
-        <card number="1" name="Temple Garden"/>
-        <card number="1" name="Overgrown Farmland"/>
-        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Viridescent Bog"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Isolated Chapel"/>
         <card number="1" name="Llanowar Wastes"/>
-        <card number="1" name="Shattered Sanctum"/>
-        <card number="1" name="Vault of Champions"/>
-        <card number="1" name="Undergrowth Stadium"/>
-        <card number="1" name="Gavony Township"/>
-        <card number="1" name="Indatha Triome"/>
-        <card number="1" name="Command Beacon"/>
-        <card number="1" name="Dusk Legion Duelist"/>
-        <card number="1" name="Glare of Subdual"/>
-        <card number="1" name="Growing Rites of Itlimoc"/>
-        <card number="1" name="Insidious Roots"/>
-        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Deceptive Landscape"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Season of Gathering"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Hallowed Burial"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Culling Ritual"/>
-        <card number="1" name="Cleansing Nova"/>
-        <card number="1" name="Elves of Deep Shadow"/>
-        <card number="1" name="Teleportation Circle"/>
-        <card number="1" name="Moonshaker Cavalry"/>
-        <card number="1" name="Ephemerate"/>
-        <card number="1" name="Eerie Interlude"/>
-        <card number="1" name="Ghostway"/>
-        <card number="1" name="Reclamation Sage"/>
-        <card number="1" name="Leinore, Autumn Sovereign"/>
-        <card number="1" name="Gluntch, the Bestower"/>
-        <card number="1" name="Freestrider Lookout"/>
+        <card number="1" name="Envoy of the Ancestors"/>
+        <card number="1" name="Conclave Sledge-Captain"/>
+        <card number="1" name="Benevolent Hydra"/>
+        <card number="1" name="Ornery Tumblewagg"/>
+        <card number="1" name="Barrensteppe Siege"/>
+        <card number="1" name="Shadrix Silverquill"/>
+        <card number="1" name="Virtue of Loyalty // Ardenvale Fealty"/>
+        <card number="1" name="Fight Rigging"/>
+        <card number="1" name="Nils, Discipline Enforcer"/>
+        <card number="1" name="Ranger Class"/>
+        <card number="1" name="Innkeeper's Talent"/>
+        <card number="1" name="Bulwark Ox"/>
+        <card number="1" name="Caradora, Heart of Alacria"/>
     </zone>
     <zone name="side">
-        <card number="2" name="Ashnod's Altar"/>
-        <card number="1" name="Carrion Feeder"/>
-        <card number="1" name="Yahenni, Undying Partisan"/>
-        <card number="1" name="Viscera Seer"/>
-        <card number="1" name="Austere Command"/>
-        <card number="1" name="Bloodspore Thrinax"/>
-        <card number="1" name="Mycoloth"/>
-        <card number="1" name="Fertilid"/>
-        <card number="1" name="Sigil Captain"/>
-        <card number="1" name="Tear Asunder"/>
-        <card number="1" name="Dusk Legion Duelist"/>
-        <card number="1" name="Worn Powerstone"/>
-        <card number="2" name="Heronblade Elite"/>
-        <card number="1" name="Master Chef"/>
-        <card number="1" name="Welcoming Vampire"/>
-        <card number="1" name="Tocasia's Welcome"/>
-        <card number="2" name="Ivy Lane Denizen"/>
+        <card number="1" name="Tarrian's Soulcleaver"/>
+        <card number="1" name="Forgotten Ancient"/>
+        <card number="1" name="Canopy Gargantuan"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Kalonian Hydra"/>
-        <card number="1" name="Managorger Hydra"/>
-        <card number="2" name="Marwyn, the Nurturer"/>
-        <card number="1" name="Swamp (a)"/>
-        <card number="1" name="Swamp"/>
-        <card number="1" name="Kodama of the West Tree"/>
-        <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Cryptic Trilobite"/>
-        <card number="1" name="Crystalline Crawler"/>
-        <card number="1" name="Herd Baloth"/>
-        <card number="1" name="Utopia Mycon"/>
-        <card number="1" name="Beastmaster Ascension"/>
-        <card number="1" name="Inkshield"/>
-        <card number="1" name="Clever Concealment"/>
-        <card number="1" name="Settle the Wreckage"/>
-        <card number="1" name="Excise the Imperfect"/>
-        <card number="1" name="Ozolith, the Shattered Spire"/>
-        <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Wilderness Reclamation"/>
-        <card number="1" name="Sylvan Library"/>
-        <card number="1" name="Scurry Oak"/>
-        <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Jarad, Golgari Lich Lord"/>
+        <card number="1" name="Moldervine Reclamation"/>
+        <card number="1" name="Deathreap Ritual"/>
+        <card number="1" name="Parting Gust"/>
+        <card number="1" name="Durnan of the Yawning Portal"/>
+        <card number="1" name="Guardian Sunmare"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Shadrix Silverquill"/>
+        <card number="1" name="Breena, the Demagogue"/>
+        <card number="1" name="Giggling Skitterspike"/>
+        <card number="1" name="Sigarda, Font of Blessings"/>
+        <card number="1" name="Thickest in the Thicket"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Byrke, Long Ear of the Law"/>
+        <card number="1" name="Noble Heritage"/>
     </zone>
 </cockatrice_deck>
